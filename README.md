@@ -3,10 +3,12 @@ Textual analysis of FOMC Transcripts. My research examines the relationship betw
 
 The relevant data is in the feddata/ folder, organized by year. Each year contains three versions of ever transcript organized in the following way:
 
+```
 FOMC19820202meeting.pdf - PDF of transcript directly from website
 FOMC19820202meeting.txt - PDF converted into text file
 FOMC19820202meetingStop.txt - text file with stop words (the, and, is, I, etc) removed
 FOMC19820202meetingStopstemmed.txt - text file with stop words removed and all remaining words stemmed (i.e. 'increases', 'increasing' and 'increase' correspond to 'increas')
+```
 
 You can understand how I came up with the results of my paper by opening data_manipulations.py. It contains over 1500 lines of python code, and is laid out in a format that is relatively easy to understand. Includes regression + graphs that are in paper.
 
@@ -18,7 +20,7 @@ To run data_manipulations.py (the notebook with the process of how I conducted t
 2) Type in "jupyter notebook" for Mac or "ipython notebook" for Windows
 3) Select data_manipulations.py
 
-Read the final paper for a deeper understanding of the mathematics behind the methods and model used. There are 3 lines of code for the regression, but there is an entire section of the paper devoted to explaining what is going on.
+**Warning** : _Read the final paper for a deeper understanding of the mathematics behind the methods and model used._ There are 3 lines of code for the regression, but there is an entire section of the paper devoted to explaining why those lines of code actually work.
 
 ## Introduction of Final Paper
 
