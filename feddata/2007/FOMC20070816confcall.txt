@@ -1,0 +1,1063 @@
+August 16, 2007
+
+1 of 37
+
+Conference Call of the Federal Open Market Committee on
+August 16, 2007
+A conference call of the Federal Open Market Committee was held on Thursday, August
+16, 2007, at 6:00 p.m. Those present were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Mr. Hoenig
+Mr. Kohn
+Mr. Kroszner
+Mr. Mishkin
+Mr. Moskow
+Mr. Rosengren
+Mr. Warsh
+Messrs. Fisher, Plosser, and Stern, Alternate Members of the Federal Open Market
+Committee
+Messrs. Lacker and Lockhart, and Ms. Yellen, Presidents of the Federal Reserve Banks
+of Richmond, Atlanta, and San Francisco, respectively
+Mr. Madigan, Secretary and Economist
+Mr. Alvarez, General Counsel
+Ms. Johnson, Economist
+Mr. Stockton, Economist
+Messrs. Kamin and Sellon, Associate Economists
+Mr. Dudley, Manager, System Open Market Account
+Mr. Parkinson, Deputy Director, Division of Research and Statistics, Board of Governors
+Mr. English, Senior Associate Director, Division of Monetary Affairs, Board of
+Governors
+Ms. Liang and Mr. Wascher, Associate Directors, Division of Research and Statistics,
+Board of Governors
+Mr. Meyer, Visiting Reserve Bank Officer, Division of Monetary Affairs, Board of
+Governors
+Mr. Luecke, Senior Financial Analyst, Division of Monetary Affairs, Board of Governors
+Mr. Lee, Audio Visual Technician, Management Division, Board of Governors
+
+August 16, 2007
+
+2 of 37
+
+Messrs. Moore and Sapenaro, First Vice Presidents, Federal Reserve Banks of Cleveland
+and St. Louis, respectively
+Messrs. Judd and Rosenblum, Executive Vice Presidents, Federal Reserve Banks of San
+Francisco and Dallas, respectively
+Ms. Mester, Messrs. Altig, Rolnick, Sniderman, and Weinberg, Senior Vice Presidents,
+Federal Reserve Banks of Philadelphia, Atlanta, Minneapolis, Cleveland, and Richmond,
+respectively
+Messrs. Coughlin, Krane, and Tootell, Vice Presidents, Federal Reserve Banks of St.
+Louis, Chicago, and Boston, respectively
+
+August 16, 2007
+
+3 of 37
+
+Transcript of the Federal Open Market Committee Conference Call of
+August 16, 2007
+
+CHAIRMAN BERNANKE. Let’s begin. Let me add my thanks for your coming together
+on such short notice. We very much appreciate it. I know people are on vacation and so on. Since
+we last met in these circumstances, financial markets have come under even more stress. As you
+know, some effects of this are desirable. We’re seeing reductions in risk. We’re seeing
+deleveraging, and we’re seeing revaluation of assets. But I think we’re also seeing a certain amount
+of panic; a certain amount of markets seizing up, with good credits not being able to be financed;
+and a good deal of concern that there is a potential for some downward spiral in the markets that
+could threaten or harm the economy. So we would like in this meeting to discuss possible responses
+to that situation. To give us some background, I’d like to call on Bill Dudley for an update on the
+markets, and then we’ll take questions and comments for Bill. Bill, are you there?
+MR. DUDLEY. Thank you. As you noted, market turbulence has continued to
+spread and intensify. The strains that have emerged in the prime nonconforming home
+mortgage market and in the asset-backed commercial paper market have proved to be
+self-reinforcing. As investors have backed away from asset-backed commercial paper,
+this has led to a forced sale of mortgage collateral, and that has put downward pressure
+on the prices of private-label whole mortgages and of mortgage-backed securities. The
+downward pressure on prices of mortgage loans and mortgage-backed securities, in turn,
+has resulted in increased haircuts by prime brokers and lenders. This has provoked a
+rapid, forced deleveraging among many mortgage investors. This process has unfolded
+rapidly and has overwhelmed the ability of depository institutions to take up the slack,
+even though at current prices many of these assets appear to be at attractive valuations.
+The absence of strong offsetting demand by depository institutions not faced with these
+same constraints appears to have been influenced by factors that threaten to put pressure
+on these institutions’ balance sheets. These include leveraged loan commitments
+associated with private equity deals and the assets from busted commercial paper
+programs that might end up on their balance sheets.
+Over the past few days, we have seen a significant increase in market dysfunction.
+First, although the aggressive provision of reserves by the Desk last Friday successfully
+pushed the federal funds rate back down after it had climbed above its 5¼ percent target,
+term rates remain elevated. For example, the one-month term federal funds rate is
+currently quoted at 5.40 percent, even though fed funds rate futures imply an average
+
+August 16, 2007
+
+4 of 37
+
+rate over the next month of less than 5 percent. This is consistent with a significant rise
+in risk premiums. Second, over the past two days, we have seen a sharp decline in
+Treasury bill rates. Although a diminished supply may be a partial explanation, flightto-quality concerns appear to account for most of the sharp move down in yields. Some
+investors have reported that dealers are very reluctant to sell Treasury bills. Third, other
+measures show that risk aversion has increased. For example, interest rate swap spreads
+have widened significantly, and the spread between on-the-run and off-the-run
+Treasuries has increased. Fourth, equity prices around the world have moved lower.
+The S&P 500 index is now down roughly 10 percent from its peak. Fifth, the so-called
+carry trade in currencies is unwinding with a vengeance. The yen has appreciated
+sharply against the dollar, even as the dollar has strengthened against many other
+currencies, such as the euro. The yen-dollar rate has fallen below 114. Sixth, market
+volatility has spiked. The VIX measure of implied volatility for the stock market has
+climbed above 30, well above the peak it reached in late February and early March.
+Implied volatility in fixed income in currency markets has also moved up sharply.
+The market turbulence and the rise in risk aversion have created several areas of
+vulnerability. First, there is the risk that money market mutual funds could suffer losses
+on certain asset-backed commercial paper programs that have weak backstops. This
+could conceivably cause some funds to “break the buck.” In the worst case, this could
+even result in a run from these funds by investors. Second, worries about the exposure
+of the financial guarantors to the mortgage market could cause problems to spread from
+this area to areas that have up to now been more sheltered from stress, such as the
+municipal securities market. The intense market turbulence has caused investors to
+become more worried about the downside risk to the economy. As a result, investors
+now anticipate significant monetary policy easing in the weeks and months ahead, much
+more than even a week ago. For example, September federal funds futures currently
+imply a 4.92 percent federal funds rate for the month, 33 basis points below the current
+5¼ percent target, and the Eurodollar futures strip through mid-2008 is consistent with
+roughly 100 basis points of easing over this period. Thank you. I’m happy to take any
+questions.
+CHAIRMAN BERNANKE. Are there questions for Bill? President Lacker.
+MR. LACKER. Bill, do we still sterilize discount window loans?
+MR. DUDLEY. Yes, discount window loans will be an increase of reserves into the
+banking system. We would have to be making offsetting adjustments either to our portfolio or to
+our repurchase interventions. Absolutely.
+CHAIRMAN BERNANKE. President Hoenig, I believe.
+
+August 16, 2007
+
+5 of 37
+
+MR. HOENIG. Yes. I just have a question for Bill. Can you elaborate on your comment
+about the effects and the perceptions of weak backstops on some of the issuers? I didn’t quite catch
+it, and I’d like to know a little more, if you don’t mind.
+MR. DUDLEY. Oh, sure. The asset-backed commercial paper programs have a wide
+variety of backstops to protect holders of commercial paper. Some have bank lines. Some have
+credit co-return swaps that basically are equivalent to bank lines. So if the programs are terminated
+and the collateral has to be liquidated, the banks are on the hook for the difference between the
+collateral and the par value. A third kind of backstop, though, has turned out to be quite weak, and
+that’s what is called the credit enhancement backstop. That’s when you might have a commercial
+paper program that’s basically funding AAA-rated assets, and the backstop is just a little
+overcollateralization of those AAA assets. The problem is that, in some cases, the degree of
+overcollateralization is too small relative to where those AAA assets currently trade. For example,
+in one asset-backed commercial paper program, the credit enhancement was 2 percent of the AAA
+assets. I talked with the person who runs that entity, who said that a lot of their AAA assets, if they
+had to be liquidated today, would sell in the range of 88 to 92 cents on the dollar. So if they were
+liquidated, the commercial paper holders would actually have losses.
+MR. HOENIG. So when you were talking about the third backstop as weakened, the lines
+of credit are still there, and the banks aren’t able to back away from those at this point or are not
+backing away?
+MR. DUDLEY. Well, they look to be pretty solid. We don’t seem to have the problem that
+cropped up in Canada where, my understanding is, commercial paper programs that were put in
+place or backstops that were put in place before January 1 of this year had a market disruption
+clause: The backstop was operative only if the circumstance was deemed a market disruption,
+
+August 16, 2007
+
+6 of 37
+
+which gave the provider of the backstop the argument, well, this wasn’t a market disruption—it was
+an event specific to this particular issuer. Now, the Canadians, through some moral suasion,
+managed to clear that up, but we don’t have that particular issue.
+MR. HOENIG. Bill, are you hearing any discussion of kicking in the “material adverse”
+clauses? Are those are being talked about or thought about, do you know?
+MR. DUDLEY. I haven’t heard any discussion about that.
+MR. HOENIG. Okay. Thank you.
+CHAIRMAN BERNANKE. President Fisher.
+MR. FISHER. Bill, is there any evidence of a credit crunch in households? Are we seeing
+or are you hearing about any lagging of receivables on credit card payables or any other evidence
+that households with good credit are having trouble?
+MR. DUDLEY. I think there has been some evidence of a modest uptick in credit cards and
+auto loans, but I don’t think you can characterize it as severe. I also would say it is in the early
+days. The really intense part of this market disruption has happened pretty recently. I would be
+surprised if you found anything showing up in real time. From an economic perspective, if I can put
+on my old economist hat for just a moment, I would say that the market disruption in terms of its
+macro consequences presumably will be felt mostly through the provision of mortgage credit in the
+nonconforming mortgage loan area—large mortgage loans, subprime mortgage loans, or alt-A
+mortgage loans. The sum of all those was a fairly significant portion of the mortgage market last
+year. Obviously, the depository institutions can take up some of the slack, but I think it’s probably
+pretty reasonable to think that mortgage credit availability and mortgage credit underwriting
+standards are going to be quite different this year than they were in 2006.
+MR. FISHER. Thank you. Thank you, Mr. Chairman.
+
+August 16, 2007
+
+7 of 37
+
+CHAIRMAN BERNANKE. Are there other questions? If there are no other questions,
+then we can ask what our options to address the situation are. Broadly speaking, we can do
+something in monetary policy, something in our lender-of-last-resort function, or some
+combination. In monetary policy, the economy appears to have been strong in the second quarter.
+It seems to be running at a moderate pace in the third quarter. So the direct evidence of a slowdown
+is not yet here. However, I do think that one can argue that the balance of risks has shifted toward
+softness. We see significant wealth effects and confidence effects, and as Bill was mentioning, the
+mortgage market is under significant stress. I do think there will be some spillover into other kinds
+of consumer credit as we go forward. So I wouldn’t say that a rate cut is completely off the table,
+but my own feeling is that we should try to resist a rate cut until it is really very clear from
+economic data and other information that it is needed. I’d really prefer to avoid giving any
+impression of a bailout or a put, if we can. Therefore, what I’m going to suggest today is to offer a
+statement updating our views of the economy that will give some signal about where we think
+things are going but to stop short today of changing rates. I’ll come back later to a proposed
+statement and hear views on whether we should issue a statement or whether we, in fact, should
+consider a cut.
+The other option, the other general area, is lender-of-last-resort activity. The benefit of this
+is that it’s directly related to the functioning of markets. It’s a traditional central bank approach to
+dealing with disorderly markets. Last week, we agreed to inject additional liquidity to try to
+improve the functioning of short-term money markets, and I think we were largely successful in
+doing that. But at this point the problems are much greater than they were, and the question arises
+whether we could do other things to increase confidence and liquidity. The tool that we have that
+may be beneficial—and I emphasize “may”—is the discount window. The proposal would be to
+
+August 16, 2007
+
+8 of 37
+
+use the discount window more aggressively. I’d like to ask Governor Kohn to talk a bit about what
+we might do and to give a statement that could be issued along with the action. Don.
+MR. KOHN. Thank you, Mr. Chairman. We have given considerable thought here to what
+we might do with the lender-of-last-resort facility to try to help break up some of the logjams in the
+markets, where people simply aren’t making markets, particularly in secondary markets for
+nonconforming mortgages. We felt that one issue was a funding uncertainty in the banks. As Bill
+Dudley pointed out, we have seen a considerable shortening of the tenor of funding, rising spreads
+for one-month to three-month or anything past overnight funds for the banks. Our sense was that
+uncertainty about the cost and the availability of credit more than overnight could be contributing to
+the unwillingness of banks to step in and finance mortgage assets or to facilitate marketmaking in
+those mortgage-related assets, which is contributing to the uncertainty. Obviously, the primary
+problem is that no one is quite sure what the value of those assets is, but I think the banks’ drawing
+back and being potentially concerned about their sources of liquidity must be contributing to that.
+So we have a program that has several pieces. While keeping the federal funds rate
+unchanged, we would lower the primary credit rate to a 50 basis point spread, to 5¾ percent,
+reducing the penalty. We would extend the terms of discount credit. Discount borrowing is
+essentially a demand note, but we would tell the banks that the note could be renewed for at least
+thirty days and maybe longer, depending on the situation. We would mention mortgage collateral
+specifically in the release, and we would maintain our current collateral margins at the Reserve
+Banks, which are already pretty conservative. We are hoping that banks will see that liquidity
+would not be a constraint for financing mortgages. We are not relieving them in any way, shape, or
+form of their credit risk or their capital risk. They still have to make the same judgments about
+counterparties and underlying paper. This is just liquidity. Depositories, however, wouldn’t have to
+
+August 16, 2007
+
+9 of 37
+
+worry about getting liquidity down the road, and they could match the maturities they’re financing
+in the market with the maturities of the liquidity they’re picking up from us. We hope that a
+temporary program could reduce the stigma of using the discount window and encourage banks to
+turn to us if they do finance things in the market. Vice Chairman Geithner has had inquiries from
+some large banks that suggest that availability of the discount window for liquidity could encourage
+more-active financing of mortgage-related assets. We can hope that comes to fruition. So there is
+some reason to hope that this might be helpful.
+After this meeting is over, the Board will likely vote on two requests that we have in house
+to reduce the primary credit rate to 5¾ percent. We would announce this at 8:00 tomorrow
+morning, along with whatever statement the Committee approves, and we would expect and hope
+that if this goes forward as we anticipate, the other ten Reserve Banks would go to their boards after
+the announcement to come on board for the 5¾ percent primary rate so that we reduce any risk of
+leaks ahead of time. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Do you want to read the statement now?
+MR. KOHN. Okay. Well, you have the statement, I think, and I’ll be happy to read it.
+“To promote the restoration of orderly conditions in financial markets, the Federal
+Reserve Board today approved temporary changes to its primary credit discount window
+facility. The Board approved a reduction in the spread between the primary credit rate
+and the FOMC’s target funds rate to bring the primary credit rate to 5¾ percent. The
+Board is also announcing a change to the Reserve Banks’ usual practices to allow the
+provision of term financing for as long as thirty days, renewable by the borrower. These
+changes will remain in place until the Federal Reserve determines that market liquidity
+has improved materially. These changes are designed to provide depositories with
+
+August 16, 2007
+
+10 of 37
+
+greater assurance about the cost and availability of funding. The Federal Reserve will
+continue to accept a broad range of collateral for discount window loans, including
+home mortgages and related assets. Existing collateral margins will be maintained.”
+Just to repeat, our hope is that this breaks the logjam—that it sends a signal that we’re
+encouraging them to make markets without relieving them of the credit risk and that the signal will
+help the banks come to the collective judgment really that’s in everybody’s interest to start
+financing these securities.
+CHAIRMAN BERNANKE. I’d like to take questions and comments at this point. If
+you’re not speaking, it would help if you turned off your microphone so that we don’t get the
+feedback. President Moskow.
+MR. MOSKOW. Thank you, Mr. Chairman. Don, I was just wondering if you could
+review with us the pros and cons of doing something greater than a 50 basis point cut here. I’m sure
+you considered that before you made the recommendation.
+MR. KOHN. Well, President Moskow, we thought about 75. Reducing it to the federal
+funds rate would just invite the whole market to come to the Federal Reserve and would complicate
+the conduct of open market operations quite considerably. We wanted to maintain the penalty here.
+It’s a legitimate question. We debated 50 and 75. I think this is low enough to encourage just the
+act of doing it but high enough to maintain a bit of a penalty to discourage huge use of it for other
+funding purposes. So it was a balancing of what was low enough to get the thing going but not so
+low as to cause other kinds of issues to arise.
+MR. MOSKOW. Bill Dudley, did you have anything to add about the 50 basis points in
+terms of open market operations?
+
+August 16, 2007
+
+11 of 37
+
+MR. DUDLEY. Well, obviously if the margin is a little higher, presumably there will be
+less volatility in terms of discount window borrowings, and that’s probably helpful from my
+perspective. Another thing I would say is that, if it’s 50 basis points, the thing will be more
+naturally self-extinguishing. In other words, as markets improve, the 50 basis points will turn into a
+penalty over time, and so the thing will naturally go away on its own, I think that’s a useful feature.
+CHAIRMAN BERNANKE. Okay. Governor Mishkin.
+MR. MISHKIN. I was going to ask about the same issue that President Moskow asked
+about, which is the 50 basis point issue. I do understand the reason for not going all the way to the
+federal funds rate target, but an issue is that the purpose of this is to send a signal to the marketplace,
+and there is a concern that too many people might be coming to the discount window. But my
+understanding is that at the discount window we do have haircuts that might be put into place. First,
+we are going to put in haircuts in terms of the kind of collateral that will be brought and, second, it
+can be administered if people are bringing us “dreck”—a good word—stuff that’s not terrific. So I
+do wonder whether 50—in a way, it’s halfway—may not be enough of a signal, and I think that we
+could manage this with numbers below that. Do the people administering the Desk have a concern
+about being able to operate this successfully if we were only 25 basis points above the federal funds
+rate target?
+MR. DUDLEY. Well, we don’t know for certain because we haven’t had this regime. The
+reality is that we have a fair amount of uncertainty about the answer to that question. I think it
+probably would raise the risk by some amount. It’s hard to know exactly how to scale that.
+MR. MISHKIN. But would it be manageable?
+MR. DUDLEY. Again, I think that’s a really hard question to answer since we haven’t run
+the experiment.
+
+August 16, 2007
+
+12 of 37
+
+MR. KOHN. Mr. Chairman, may I comment on Rick’s question?
+CHAIRMAN BERNANKE. Please.
+MR. KOHN. Getting to those two points, Governor Mishkin—haircuts and administration
+of the window—I think the haircuts we’ll be giving might be to some extent and in some cases
+more favorable than the market, given that the market is disrupted and the haircuts are very, very
+large. That’s part of the signal that we’re trying to give, that we’re not going to widen our
+traditional haircuts, which are very, very conservative. We’re not in a panic mode, and I think that
+offsets to some extent the extra 25 basis points. On the administration angle, our primary credit
+facility is supposed to be a “no questions asked” facility, and I would hope that we don’t get back
+into the administration angle here to discourage people through the look on the discount officer’s
+face. The 50 basis points helps us to maintain the “no questions asked” thing. Now, we do have the
+ability and we will exercise the ability to administer the window for the type of collateral you
+mentioned—the stuff that’s really, really awful. But holding down the administration would be
+helpful.
+CHAIRMAN BERNANKE. President Lockhart.
+MR. LOCKHART. I understand that there have been conversations with other G-7, G-8
+central banks, and my question really relates to the announcement. If some of the downside in the
+market relates to the effect on foreign markets, why would we not announce as soon as we have
+decided this evening as opposed to waiting tomorrow morning and missing the opportunity to signal
+to foreign markets what we’re doing?
+CHAIRMAN BERNANKE. Well, our discount window obviously doesn’t apply to foreign
+banks. Usually we make announcements like this before the market opens in the morning, probably
+the optimal time to do that.
+
+August 16, 2007
+
+13 of 37
+
+MR. KOHN. I think it would be preferable to announce it as our market is opening so that it
+can be traded and its effect will be in our market. I don’t know how it would work if it were
+announced tonight and the first trading were in Asia and the second trading were in Europe and then
+finally it got to the United States. It would be better if a U.S.-oriented program was announced
+when U.S. markets were about to open. My guess is that the other markets will follow, but I’d be
+hesitant to announce it tonight.
+CHAIRMAN BERNANKE. President Lacker.
+MR. LACKER. I have a question for anyone from the New York Bank or Governor Kohn.
+What do people expect banks to do in response to this? In particular, do we have an expectation or
+have we gotten information in New York or in Washington that any banks will make a particular
+announcement about the types of interventions they intend to undertake in these markets? If so, are
+those announcements going to say anything about us?
+CHAIRMAN BERNANKE. Vice Chairman Geithner, can you respond?
+VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. Just to start a little further
+back, since the operations and the statement by the Board last week, we have—as you have, I’m
+sure—received a lot of questions from a range of market participants about what the Desk can take
+and what it’s not able to take, what is the law, what is discretion, and a whole range of questions
+around the discount window, too. Those questions reflected a range of interests from a bunch of
+institutions in thinking whether there are ways in which, if somehow the stigma were reduced for
+coming to the window, they might be able to take advantage of that source of liquidity and act so
+that the help might relax some of the constraints in other markets. They have informed us that they
+are contemplating making an announcement tomorrow—in fact, I think they were prepared to do it
+earlier. They are thinking about coming in and announcing that they would consider buying
+
+August 16, 2007
+
+14 of 37
+
+substantial amounts of specific types of highly rated asset-backed paper. Although they had lots of
+clarification about what is permitted now under current policies at the discount window, they
+obviously don’t have any idea that we’re contemplating a change in policy or what might be
+possible and what we might say or not say going forward. They obviously can’t and understand that
+they can’t say anything about us. They might say that they’re prepared to take advantage or make
+appropriate use of their access to the discount window in this context. I think that they’re searching
+for something that, again, would help reduce the risk by that act—which, of course, they can do
+now or could have done over the past ten days or so—and that will reduce the stigma associated
+with it. I have been interested in hearing from them whether doing so would, in effect, change their
+behavior in a way that might be helpful to confidence in markets now. That’s the extent of what I
+think is relevant from those conversations.
+MR. LACKER. If I could just follow up on that, Mr. Chairman.
+CHAIRMAN BERNANKE. Yes, go ahead.
+MR. LACKER. Vice Chairman Geithner, did you say that they are unaware of what we’re
+considering or what we might be doing with the discount rate?
+VICE CHAIRMAN GEITHNER. Yes.
+MR. LACKER. Vice Chairman Geithner, I spoke with Ken Lewis, President and CEO of
+Bank of America, this afternoon, and he said that he appreciated what Tim Geithner was arranging
+by way of changes in the discount facility. So my information is different from that.
+CHAIRMAN BERNANKE. Okay. Thank you. Go ahead, Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER. Well, I cannot speak for Ken Lewis, but I think they
+have sought to see whether they could understand a little more clearly the scope of their rights and
+our current policy with respect to the window. The only thing I’ve done is to try to help them
+
+August 16, 2007
+
+15 of 37
+
+understand—and I’m sure that’s been true across the System—what the scope of that is because
+these people generally don’t use the window and they don’t really understand in some sense what
+it’s about.
+CHAIRMAN BERNANKE. Okay. President Rosengren.
+MR. ROSENGREN. I have a question for Bill Dudley. It’s my understanding that many of
+the foreign names are now trading in the fed funds market at anywhere between 25 and 50 basis
+points above some of the domestic names. So one rationale for having a reduction of only 50 points
+rather than 75 points might be that it would be the only way that it would remain a penalty rate, at
+least for some of those foreign names. Is that consistent with your information in terms of the
+premiums in the fed funds market that some of the foreign banks are paying? I know that the
+collateral that has been posted at some of the Reserve Banks has come from foreign banks operating
+in the United States. Is one of the goals to try to provide, in effect, liquidity to some of those that
+are having difficulty getting dollar commitments?
+MR. DUDLEY. There has been upward pressure on European rates and on U.S. dollar rates
+for European banks, and there has been a bit of asymmetry in that they’ve wanted their money early
+and the U.S. banks are natural net long sellers to the European banks, which are net short dollars.
+Every morning the European banks need dollars. What essentially has happened is that the
+European banks have become a bit more itchy and they want their money sooner. At the same time,
+the U.S. banks are more worried about what will happen in the paper market, and they want to keep
+their money longer. As a consequence, moving the dollars from the U.S. banks to the European
+banks became a little more difficult. So there has been a bit of upward pressure. The pressure has
+diminished a bit over the past few days. I think the aggressive reserve provisions by us and the
+ECB have settled down the overnight market a bit. There’s still a spread, but I don’t think it is
+
+August 16, 2007
+
+16 of 37
+
+appreciably bigger than the spread that we’ve seen for some time. This isn’t all completely new.
+My understanding is that this isn’t really being designed to help the European banks. I think it is
+designed with a much broader mission in mind.
+CHAIRMAN BERNANKE. President Hoenig.
+MR. HOENIG. Yes, Mr. Chairman. First of all, I agree with and support this proposal
+very, very strongly. If I were asked about a 50 basis point reduction versus a 75 basis point
+reduction, I would have been very agreeable to 75 basis points. But in saying that, I would also say
+that I’m satisfied with 50 basis points. To explain my position, I think that one issue will be very
+important to the banks—that’s why my earlier questions about lines of credit and about the
+willingness to fulfill them—and I think our supporting them by reducing that cost as much as
+possible is a further signal and encouragement for them to be prepared to take these credits on and
+to move this stuff forward. So I think it could be a stronger statement in that regard, but even the 50
+basis point reduction is taking it in the right direction and, in encouraging the individuals, will serve
+a very useful purpose as we go forward. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. I have two questions. First, in regard to
+Governor Kohn’s and Vice Chairman Geithner’s comments about making this liquidity available to
+these banks at a lower price, it’s still a bit of a crap shoot as to what they will end up using these
+funds for. We have no particular control over that, and whether they will use those funds to help
+stabilize those securities about which we are most concerned will be up to them. So it seems to me
+it’s a bit of wishing and hoping. It may work. It may work through the signaling device, if nothing
+else, to signal our commitment. That brings me to the second question I have, which is how the
+markets will respond to this. Will they respond in a way that basically says that we will end up
+
+August 16, 2007
+
+17 of 37
+
+having to lower the fed funds rate at our next meeting or at some point? To what degree are we now
+or might we be locked into a fed funds rate decision? I’d like somebody’s observations on how the
+market might react to that. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. I haven’t read the proposed FOMC statement. I was leaving
+that for after this discussion. Perhaps I could read it now. You should have a copy. Here’s the
+proposed statement.
+MR. PLOSSER. I have no way to receive a secure copy.
+CHAIRMAN BERNANKE. All right. That’s true. I’m sorry. So I’ll read it. I hope you
+can get it from there.
+“Financial market conditions have deteriorated, and tighter credit conditions and
+increased uncertainty have the potential to restrain economic growth. In these
+circumstances, although recent data suggest that the economy has continued to expand at
+a moderate pace, the Federal Open Market Committee judges that the downside risks to
+growth have increased appreciably. The Committee is monitoring the situation and is
+prepared to act as needed to mitigate the adverse effects on the economy arising from
+the disruptions in financial markets.”
+It still gives us our base case—“Recent data suggest that the economy has continued to
+expand at a moderate pace”—and we say that we’re monitoring the situation and are prepared to act
+as needed to mitigate the effects. Basically what we are doing here is acknowledging increased
+risks. It’s a little ambiguous as to what the balance of risks is. Clearly, it raises the probability of
+action—no question. I certainly don’t think, particularly if financial markets are somewhat calmer,
+that it commits us to action, but it does increase the probability. It is possible that, given what the
+markets are discounting for future actions, they’ll be disappointed with this statement, and we might
+
+August 16, 2007
+
+18 of 37
+
+even get a de facto tightening. But I think we just need to state an accurate expression of our views
+at this time.
+MR. PLOSSER. Thank you.
+CHAIRMAN BERNANKE. President Yellen.
+MS. YELLEN. Thank you, Mr. Chairman. I want to say that I strongly support the
+proposal that you’ve made, both the changes to the primary credit program, and also I would
+strongly endorse the statement that you just recommended that the Federal Open Market Committee
+put out. I’ve been doing my best to follow developments in financial markets in recent days, and it
+seems very clear that we have a situation of almost complete illiquidity in the asset-backed
+commercial paper market and in asset-backed markets more broadly. Although I agree with
+President Plosser that the proposed changes to the operation of the discount window and the cut in
+the discount rate are not certain to succeed in regenerating the functioning of these markets, I think
+this is a very well reasoned, thoughtful, creative program that has as good a chance to succeed as
+anything that certainly I could dream up. So I strongly support it. I could go along with a larger cut
+in the discount rate, but I understand the reasons that you’ve given for making it a 50 basis point cut.
+So I strongly support that.
+I also think it is highly appropriate for the FOMC to issue this statement that you have
+suggested. First of all, it is just straightforward that the outlook has deteriorated. We’ve developed
+a credit crunch. If liquidity isn’t quickly restored in these markets, we are looking at a credit
+crunch—signs of it are everywhere. Just to see that, Countrywide itself is 20 percent of the market,
+and it announced that it is tightening credit standards. Every day we hear about companies that are
+trying to finance prime quality jumbo mortgages and cannot get the financing to do that and are
+tightening standards. Although we may not have yet seen data suggesting that these changes in
+
+August 16, 2007
+
+19 of 37
+
+financial conditions are having an effect on economic growth, I think any forward-looking
+assessment would suggest that tighter credit conditions have to have that effect. So I certainly
+support the recognition of that, and I can easily imagine that we will be cutting the federal funds rate
+in the not-too-distant future.
+CHAIRMAN BERNANKE. President Fisher.
+MR. FISHER. Mr. Chairman, I have a question and then I want to address the proposal.
+The question I have is, In the penultimate sentence of the statement on the temporary changes to
+primary credit that Governor Kohn was discussing, what exactly do we mean by “related assets”?
+Do they include CDOs?
+MR. KOHN. Appropriately valued, yes, but mostly mortgage-backed assets, other things
+related to mortgages, sure—we were trying to get not just at mortgages but at the securitized
+versions of those mortgages.
+CHAIRMAN BERNANKE. We take MBS in agencies even in open market operations.
+MR. FISHER. It is just a very open term, and that’s the only question I have, if you want to
+state it as that. I fully support this initiative. It seems to me that there are the Countrywides, but the
+real issue is that banks are not too sick to lend. They’re too scared to lend, whether it’s the stigma
+that Vice Chairman Geithner mentioned or whatever the pressures might be. What we’re doing is
+giving them an incentive to lend. I like it because it’s a two-party decision—private banks willing
+to accept risk and us willing to facilitate the acceptance of that risk. If people show up at the
+window, it sends a signal that they view this opportunity as profitable. I like that aspect of it. In
+summary, to me this is a nice, surgical procedure, and the banks get to choose the patients. I prefer
+that rather than using the very blunt instrument, Mr. Chairman, as you referred to it—not the blunt
+instrument, but I would phrase it that way—a cut in the fed funds rate, which is for broader
+
+August 16, 2007
+
+20 of 37
+
+macroeconomic purposes. I like the 50 basis point proposal. I like the proposal as it is stated, and I
+fully support it. As to whatever background work Vice Chairman Geithner has done, I applaud that
+because I want to make sure this works.
+On the statement, I have just two suggestions for your consideration. I’m a bit worried
+about using the word “appreciably” because we’re judging that the downside risks to growth have
+increased. Putting in the word “appreciably” may go a little too far because we are shifting and
+we’re acknowledging that there are downside risks to growth. I think that “increased appreciably”
+runs the risk of frightening people a little, and I’d ask you to consider that. The second suggestion is
+minor, but I think not unimportant. When you say that the Committee is monitoring the situation
+and is prepared to act as needed, perhaps you might want to say “if” needed. Those are my
+suggestions, for what they’re worth. I think this is a good decision, a good move, and it leaves the
+fed funds rate decision, as President Yellen said, for our normal meeting. It doesn’t look as though
+we are operating macroeconomic policy under stress in response to markets, and I applaud it.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Stern.
+MR. STERN. Thank you, Mr. Chairman. I think the steps that you’re proposing are
+constructive, and I support them. I think a 0.5 percentage point reduction in the rate on the credit
+facility is large enough to send the signal that we want to send, and so I’m particularly comfortable
+with that magnitude. That said, I do have a couple of concerns that I want to voice. One is that I
+share Bill Dudley’s concerns and others that have been expressed about the asset-backed
+commercial paper market. I don’t know what probability to assign to it, but I do think there’s some
+considerable further vulnerability there that could affect money market funds and other things. My
+
+August 16, 2007
+
+21 of 37
+
+conversations with some bankers and other people in the markets have really focused on that sector
+in particular.
+As far as the statements are concerned, I think they’re well crafted. But like you, I think
+there could be a little disappointment in the marketplace with them or they could be viewed as
+perhaps a little too clever, if you take my meaning. I don’t have alternative language to suggest at
+this point, but thinking a little further ahead, I think we don’t want to wait until there’s definitive
+evidence of economic deterioration. So I would suggest that we consider when we might get
+together next to talk about how we think this will affect the economy and the outlook over the next
+several quarters because it seems to me that it will ultimately have a significant influence over
+where we go. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Lacker.
+MR. LACKER. About this proposal, this is a highly unusual action for the Committee and
+the Board to take, and I think we should consider it very carefully. We should continue to try to be
+as clinically precise in our diagnosis and our articulation of our understanding of what’s going on. I
+continue to see this as driven fundamentally by the revision in beliefs about the probability
+distributions governing the returns on assets backing certain other assets—asset-backed commercial
+paper in the non-agency space, for example. Buyers have obviously revised down their
+assessments. Sellers may or may not have revised down their assessments as well. If they haven’t,
+then it’s a difference of opinion that’s leading markets to lock up at zero quantities. But we’ve
+heard reports of issuers who are subject to contractual provisions that are strong disincentives for
+selling at prices that will clear markets so that buyers are willing to buy—things like clauses
+stipulating that too high a spread will lead to liquidation or require liquidation of a conduit facility
+or that drawing on a backup line of credit would require liquidation of a conduit facility. Those
+
+August 16, 2007
+
+22 of 37
+
+provisions are contractual mechanisms that they agreed to earlier to solve some time-consistency
+problem. So what they’re up against would be some ex post regret, but something that stymies the
+market. For whatever reason, they’re unwilling to sell at prices that will clear the market, and they
+seem to be willing to bear the consequences by taking it on their balance sheets for a time or by
+drawing down lines of credit. This looks like a price-discovery process in the sense that information
+is emerging and being digested and market participants are groping toward a mutually consistent
+view. It may take some time to resolve. It may involve substantial re-intermediation of some sort
+or another. It’s very attractive to interpret what’s going on in terms of coordination problems or
+multiple equilibriums.
+I’ll take the liberty of mentioning some models here because I don’t think we can avoid
+using, either implicitly or explicitly, some theory in interpreting the data we’re seeing and
+understanding how our actions might affect what’s going on. The models we have in which
+financial markets are subject to these multiple-equilibrium problems are fragile, tenuous, and often
+implausible, and they’re indistinguishable from an understanding based on information
+accumulating and expectations being revised. For evidence in support of models like that, I’d point
+out that credit-default swap spreads are fairly dispersed and they seem to distinguish very
+particularly among individual institutions. So it doesn’t look like a broad-brush retreat or a lot of
+confusion about who is in good shape or who is in bad shape; it looks more like people coming to
+the conclusion that several people are in bad shape.
+In this setting, what would limit individual actions to overcome a coordination problem of
+this sort? Well, in the asset-backed commercial paper market, there are plenty of actors, plenty of
+capital on the sidelines, and plenty of opportunities to buy paper if they think it’s at a price that
+makes it an advantageous opportunity. There are plenty of opportunities and incentives to
+
+August 16, 2007
+
+23 of 37
+
+coordinate. I’m sure that Vice Chairman Geithner is aware of conversations among large players in
+New York and probably small players as well. They have plenty of opportunities to coordinate an
+intervention if they view it as in their self-interest. Discount window stigma, is that a coordination
+problem? I’m highly skeptical. In the past we heard reports from the Manager of the System Open
+Market Account that banks in New York were borrowing money to lend to banks in the Fifth
+District when the fed funds rate spiked above the discount rate. That suggests that the price for
+overcoming stigma might be relatively low. Besides, it’s hard to believe that banks are that illiquid
+or that constrained by the lack of access to funding if they really want to buy something in the assetbacked commercial paper market. It’s hard for me to believe that they couldn’t do it without our
+help. Their analysis of their liquidity needs is ongoing. It’s daily. It’s extensive. Our information
+is that they view themselves as well positioned in terms of liquidity. If they really wanted more
+money in their reserve accounts and that’s what it took, why wouldn’t they bid the funds rate up,
+and why wouldn’t we be able to satisfy that at the window?
+That brings me to my main point. It’s worth pointing out that this is going to be sterilized,
+just like a sterilized foreign exchange operation. The classic lender-of-last-resort doctrine—
+Bagehot, you know, and what you read about that—those operations were all unsterilized. That was
+how the Bank of England increased the amount of bank reserves in the system. I don’t think we’re
+in that situation right now. Their insight was that it was a way to prevent an increase in demand for
+liquid assets from driving up interest rates. What we’re seeing now is that the Desk is able quite
+well to keep the funds rate at 5¼ or even less. Confidence—are there multiple equilibriums in
+confidence? Well, confidence is just another word for expectations about where interest rates are
+going. So I don’t see that as a liquidity problem either. To some extent this looks to me like sort of
+a sham. I mean, it’s a way of increasing reserves. Anyone who follows central banking is going to
+
+August 16, 2007
+
+24 of 37
+
+see right through it and see what we’re doing. In the context of the likelihood that some large banks
+will, on the heels of this statement, announce—or even without announcement but the word would
+get out—begin intervening in the asset-backed commercial paper market, even if they don’t
+reference our provision of liquidity, my guess is that word of consultations between the Federal
+Reserve Bank of New York and these large institutions will get out and their operations will
+inevitably be linked in subsequent commentary to our actions here today. This action is not
+monetary policy. It is credit policy, and it’s risky just as foreign exchange intervention that’s
+sterilized is risky. If it works, it will make money for these banks. We’ve been plastered for the
+past several months about this subprime mess and not doing anything for little people, and here
+what do we do? We could easily be portrayed as helping large banks make a bunch of money on
+this. If it doesn’t work, I’m a little concerned that we’re going to be forced to follow through with a
+fed funds rate cut, whether or not the macroeconomic situation warrants it. I think this will look like
+a bailout. To me there isn’t that much question about it. To me, this isn’t about liquidity. If it were
+about liquidity, they could get it in the funds market. It must be about collateral margins and the
+terms of credit.
+I’ll just point out about the statement that I take it that the Board of Governors is considering
+adopting temporary changes to the primary credit program. Collateral margins are set by the
+Reserve Banks, and I’m not so confident that our collateral margins are terribly conservative right
+now. For example, on home equity lines of credit and second liens, the margin is 15 percent,
+115 percent. In the marketplace now, banks are discounting that stuff at more like 35 and
+40 percent. I’m not sure I’m comfortable with existing collateral margins if we’re going to get a lot
+of borrowing at the discount window on paper like this. Moreover, I think that Reserve Banks are
+going to be interested in taking a look at those margins. So I don’t see how the Board of Governors,
+
+August 16, 2007
+
+25 of 37
+
+as a matter of clean and careful corporate governance here within the System, can make a statement
+about what’s going to happen to the collateral margins. Finally, I’d note about this proposed FOMC
+statement that it makes no mention of inflation. It’s not going to be missed? Did I miss something?
+Is it in there? I don’t see it.
+CHAIRMAN BERNANKE. No.
+MR. LACKER. It doesn’t say anything about inflation. It drops that dramatically, and I
+think it would be a much better statement if it made some reference to inflation. If it made some
+reference about where inflation is now, some observation just so that people know we’re still paying
+attention to inflation and we haven’t lost track of it, as this suggests we’re about to, I’d be
+supportive of issuing this statement. I think that it conveys the right tone of watchful waiting.
+I do think that downside risks to growth have appreciated considerably. I do think we’re
+going to have to think about a rate cut. Frankly, I’ll say that, if given the choice between a rate cut
+and this discount window program change, I’d rather have a rate cut right now. I think that it would
+be preferable to our going down the path of credit policy. I recognize that this turbulence in
+financial markets makes everybody apprehensive and that this is a time when everybody in the
+System gets phone calls. You know, everyone in a position of responsibility gets phone calls and
+gets suggestions about doing something to help out, and I realize that the urge to act—to do
+something or at least to be seen doing something—can be irresistible. But I think that we need to
+avoid the urge to play Mr. Fix-It. We need to think carefully about our actions and how they will be
+perceived and what types of risk they run. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. I’d just comment on a couple of things you said
+about sterilization. What we’re doing is effectively allowing the set of redeemable, tradable assets
+to expand. Only if the markets are working in a way that there’s free arbitrage among assets is that
+
+August 16, 2007
+
+26 of 37
+
+irrelevant. But I do agree with you actually that it’s not at all certain that this will have an effect. It
+depends to some extent on how binding liquidity constraints are. I would argue that we do have
+theories of liquidity constraints and that central banks have for centuries tried to address those. This
+may not be effective. One reason, frankly, that I want to do this now is that I feel that we want to
+make a clear distinction between actions taken to try to restore orderly markets and actions taken to
+try to stabilize the economy. In doing this, we are exhausting in some sense the tools that we have
+to address disorderly markets. Obviously the next step will have to be based on our economic
+assessment. But I appreciate your comments. President Rosengren.
+MR. ROSENGREN. This is a liquidity problem for mortgage-backed securities. Some
+banks do have counterparty limits in the fed funds market. I think a 50 basis point move is
+appropriate and necessary. My only concern is with the stigma issue surrounding the discount
+window. This will have an effect only if it’s actually used. So my question is for Don Kohn.
+Should the discount officers be encouraged to encourage banks to use the discount window in
+conjunction with this statement?
+MR. KOHN. President Rosengren, I didn’t contemplate that they would actively encourage
+the use of the discount window, although certainly if they get questions, I think it’s really important
+to maintain the “no questions asked” position, and if they get any questions from the banks in their
+Districts about whether we’re okay with their using this, we should certainly say “yes.” So I, or we,
+didn’t contemplate in thinking about this that there would be an active sales job to “go borrow.”
+The statement in some sense says that. It’s trying to encourage them, and I think if we respond to
+that in a positive way, it will work. I agree with President Lacker. There’s no guarantee whatsoever
+that this thing will do what we’re trying to do. I just think it’s worth giving it a try under the
+circumstances.
+
+August 16, 2007
+
+27 of 37
+
+CHAIRMAN BERNANKE. Governor Kroszner.
+MR. KROSZNER. No. All of the remarks I was going to make have been made.
+CHAIRMAN BERNANKE. Okay. Governor Warsh.
+MR. WARSH. Thank you, Mr. Chairman. Very briefly, although there is hope in some
+markets that what’s going on is a slow but certain practice on price discovery, I think it is accurate
+that market functioning has been erratic at best in certain markets. What we have seen, in effect,
+has been a real-time global margin call on all leveraged positions, leading to disengagement by
+some market participants perhaps induced by fear. Although there are no guarantees, as Governor
+Kohn said, I think that this is a natural experiment by which we’re trying to test whether, in fact, a
+negative liquidity shock has hit the economy, and we will see who the takers are to these various
+moves. Again, I think this move positions us best to buy a little time to see as best we can what the
+effects on the real economy are. I strongly support both of these initiatives.
+CHAIRMAN BERNANKE. President Fisher.
+MR. FISHER. Mr. Chairman, may I come back to a point that Jeff Lacker raised? It goes
+back to my point about “related assets.” Governor Kohn, if we have a “no questions asked” facility
+and we are approached at our discount window, don’t we need a better definition of “related
+assets”? I’m a little worried about what might be pledged, and we know there’s some flotsam and
+jetsam out there that we don’t want to accept.
+MR. KOHN. I think there’s a standard list of assets with haircuts. If you get flotsam and
+jetsam—which is a better way to put it than Rick did, at least in the transcripts—[laughter] the
+discount officers have the authority to make judgments about it. So I agree that it is a risk, President
+Fisher, but I think that we are not locking ourselves in any way into giving far too much collateral
+
+August 16, 2007
+
+28 of 37
+
+value to very risky assets. We have the discretion, even within the current guidelines we use, to
+exercise judgment.
+CHAIRMAN BERNANKE. I just want to say that “no questions asked” applies to the
+banks not to the assets. Go ahead, President Fisher.
+MR. FISHER. I just want to restate my support for this. There is a risk that it will not work,
+but it is a step better taken, in my opinion, than cutting the fed funds rate and using that blunter
+instrument. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Governor Kohn.
+MR. KOHN. Thank you, Mr. Chairman. Obviously just for the record, I support both of
+these actions. I do think that there is concern out there about access to credit over time by the banks
+and it’s holding them back. So I hope that this is useful in giving them some assurance. As I said,
+there’s certainly no guarantee. I want to underline a point that President Stern made. If we wait for
+definitive evidence that tighter credit conditions are affecting the economy, it will be too late. So
+we need to make judgments, as we always do, in terms of forward-looking monetary policy about
+what conditions today, tomorrow, next week, or the week after, if maintained, would do to affect the
+economy, and that’s how we have to make our decision. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Hoenig.
+MR. HOENIG. Just quickly, Mr. Chairman—first, I want to come back to President
+Fisher’s point. I agree with him in terms of the concern for collateral, but the discount officers
+throughout the System have very carefully put out there what collateral is acceptable, and “no
+questions asked” does not mean any collateral offered. I think we have to keep that in mind.
+Second, I know we keep coming back to the stigma. The closer the discount rate is to the fed funds
+rate the less the stigma. In terms of our announcement to the banks, saying that it would be less of a
+
+August 16, 2007
+
+29 of 37
+
+stigma because it is closer to the fed funds rate, the stronger our encouragement of them to use this
+facility would be. Finally, one thing I do agree with is that I would not want a fed funds rate cut
+because that should be driven by our outlook for the economy. I agree with President Stern that
+that’s something that we should come back to and think about in terms of what lies in the future and
+then make a decision about the fed funds rate. Right now we’re focused on liquidity, and I think
+this is the preferable route to take. Thank you.
+CHAIRMAN BERNANKE. Governor Kroszner.
+MR. KROSZNER. Yes, I certainly want to endorse the proposals and the approach going
+forward, and I also agree with Governor Kohn and with President Stern. Perhaps one amendment to
+the statement could be adding “going forward” to the end of the first sentence. So the beginning
+would read, “Financial market conditions have deteriorated, and tighter credit conditions and
+increased uncertainty have the potential to restrain economic growth going forward. In these
+circumstances, although recent data suggest that the economy has continued to expand at a
+moderate pace,” the risks have increased. I think it nicely captures that, and it really focuses on the
+forward-looking nature of what we’re trying to do. It emphasizes what we’ve always talked about
+in our statements, and I think it fits very nicely with the structure of the statement itself.
+I agree that we are in an uncertain area where we don’t know whether or not this will be
+effective, but also we have uncertainty about the evolution of the housing market and about the
+evaluation of securities that are related to the housing market. Certainly it is helpful to provide
+some liquidity backstop to make it worthwhile for people to do the due diligence to make the
+investment, to try to find out what the securities are worth, because they think it’s more likely that
+someone is going to be there to trade with. I’m not sure that this will be the definitive way to
+
+August 16, 2007
+
+30 of 37
+
+achieve that goal, but I think it’s a worthwhile step to take. So I very much endorse this series of
+steps going forward.
+CHAIRMAN BERNANKE. Governor Mishkin.
+MR. MISHKIN. I strongly support both of these statements. There’s a very strong reason
+for thinking that the discount window has a special role here and that credit policy makes sense.
+The issue is that there’s an information problem in the markets, but the banks’ knowing that there’s
+a backstop and that we’re doing something in terms of the discount window could actually unfreeze
+the system so that we could have players come into these mortgage markets to replace the players
+that are now not in the mortgage markets. That’s an extremely important part of the way you deal
+with a seizing-up of financial markets. This kind of situation has occurred before but in different
+markets, and credit policy does have an important effect in that context.
+In fact, I would actually argue that we should move the discount rate down 75 basis points
+rather than 50, and my argument is as follows. Clearly there is a tradeoff. I understand the issues
+that people have raised today—that having the number be 50 basis points above is advantageous
+because the markets can self-regulate, and I think that is a plus. However, the tradeoff in the other
+direction is that we want this credit policy to have an impact, and having this signal is extremely
+important here. Having a more dramatic signal, I think, could make it more likely to work. Clearly
+even then it is not guaranteed to work, but the stronger the signal that we can provide without
+actually disrupting the operation of the discount window, the better off we are. There are some
+technical issues about operating the discount window because the discount rate will be set at a rate
+that’s too low; but the risks are much greater that we don’t send a strong enough signal. We really
+want this credit policy to work. One reason that we want it to work is that it then can differentiate
+credit policy from monetary policy so that we don’t end up with a situation of a Federal Reserve
+
+August 16, 2007
+
+31 of 37
+
+put, which looks as though we are actually trying to use monetary policy to bail out the markets.
+We want to use credit policy to focus where it’s needed, and then monetary policy can focus on the
+outlook of the economy.
+I strongly support these proposals. There are strong reasons to go to a 75 basis point
+decrease in the discount rate because the balance of risks here is that it’s better to have the signal
+stronger. If we end up with a little too low discount rate, I’m confident that people at the Reserve
+Banks, particularly the New York Bank, can handle this to sufficiently contain any risk. So I would
+just modify this by putting 5½ percent on the primary credit number rather than 5¾.
+CHAIRMAN BERNANKE. Because of the number of people who suggested the 75 basis
+points, let me please ask Bill Dudley and Brian Madigan to comment on whether they think there
+would be severe operational implications at 5½. Bill.
+MR. DUDLEY. Well, the reality is that we don’t know with any certainty. All we can say
+is that, as the discount rate gets closer to the funds rate, there will presumably be more use and more
+variability in the use of the discount window. The use of the discount window is not really the
+problem. The problem is the variability in the use and the difficulty of forecasting that use. If we
+could forecast exactly what the discount window borrowings were going to be every day, then we
+could offset that by our open market operations. Forecasting what the discount window borrowings
+will be in a day is a very difficult thing to do. Of course, when the use occurs at the end of the day,
+it’s too late for us to offset it. So I think we could say that the risk goes up as you narrow that
+margin. But Governor Mishkin’s point is a fair one: At the same time, there is a tradeoff; and if
+you go further, you’re going to have a more powerful effect, and you have to make a value
+judgment about where the tradeoff is. It’s a difficult judgment to make because we haven’t done
+this before.
+
+August 16, 2007
+
+32 of 37
+
+CHAIRMAN BERNANKE. Brian.
+MR. MADIGAN. The only point I’d add, Mr. Chairman, has already been made. But just
+to reiterate, the lower the spread over the target federal funds rate, the more difficult it becomes to
+maintain a “no questions asked” facility because it obviously becomes more attractive at the margin,
+particularly for smaller banks whose cost of funds may be a bit above the target federal funds rate at
+the margin.
+CHAIRMAN BERNANKE. Rick Mishkin.
+MR. MISHKIN. May I just ask a question of Brian on this? We know clearly that under
+normal conditions, particularly with the 100 basis point penalty, we want this to be a standing
+facility with no questions asked. Given the situation that’s so unusual in this context and the fact
+that what we’re doing now is clearly temporary, there is an issue here that we might have some
+cases in which we cannot have purely no questions asked, but close to it. Would that be a problem?
+MR. MADIGAN. Governor Mishkin, it’s not clear that, once we’re back to normal, there
+should be any persistent problem. I think the issue, as Bill Dudley said, is that it is very difficult to
+judge. We’ve had no experience with any spread other than 100 basis points.
+MR. DUDLEY. If I could just add one more point—another issue of a narrower spread is
+that, as Brian pointed out, you probably increase the number of people, and so there are also some
+operational issues relating to the staff that the Federal Reserve Banks are managing. If we thought
+that cutting it in half would lead to a dramatic increase in the number of banks, which is certainly
+possible, given the fact that we have 8,000 banks and many more depository institutions than that,
+there is an issue in terms of the operational burden and our capacity to do that, given that this is
+basically very rarely used in the current environment.
+
+August 16, 2007
+
+33 of 37
+
+CHAIRMAN BERNANKE. My proposal would be that we stay with 50 basis points, see
+what happens, and leave open the option of revisiting the question as we see developments. Would
+that be okay?
+SEVERAL. Fine.
+CHAIRMAN BERNANKE. President Moskow.
+MR. MOSKOW. Mr. Chairman, may I make just a couple of comments about that? First, I
+strongly support the statement that you’ve drafted for the Federal Open Market Committee, and I
+agree with it as it has been presented to us. I think that there is a risk that it will disappoint the
+markets, but at this point it’s too early to have a cut in the fed funds rate. Second, I support the
+primary credit proposal as well. I would agree with Governor Mishkin, though: I would prefer the
+75 basis point cut rather than the 50 basis point cut now. I know it’s uncertain as to whether it will
+have any effect, but I do think it maximizes the chance that it would have an effect if we went the
+full 75. I view this as a one-time opportunity. If we did 50 now, it would be very difficult to come
+back, say, in three days or five days and do another 25 basis points on the discount rate. That would
+seem very weak to me. I don’t think you’re going to want to go down another 50 basis points
+because then you will have it exactly the same as the fed funds target. So it seems to me to be a
+one-time chance. We do either the 50 or the 75. I don’t think we could come back and do it again,
+and for that reason I think you maximize the chance of being successful by doing the 75 now.
+CHAIRMAN BERNANKE. Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. Of course, I support these
+proposals as drafted, and I think everything everybody has said about the risks and the uncertainty is
+right. The balance is very delicate, but the combination of them is a very forceful statement. I don’t
+believe that adding another 25 to the drop in the spread on the discount rate would make it
+
+August 16, 2007
+
+34 of 37
+
+substantially more powerful. If this does not have a desired effect, it will not be because we didn’t
+do another 25. It will be because we’re at the point where we’re going to have to think about the fed
+funds rate. So I don’t think it is right, if we need to go beyond this in some sense, to think that we
+will do it by just deciding we will revisit that spread. We will have to think about more-dramatic
+actions in that context.
+CHAIRMAN BERNANKE. Anyone else? Okay. On the 75, I hear everybody. I know
+there’s a difference of opinion. We are doing a very unconventional thing, as President Lacker
+pointed out. I would not like to see it distorted by operational problems, so I would prefer to stay
+with the 50 basis points for now. I do think that we could consider changes later.
+With respect to the statement, I just want to make one point. The thrust of “the existing
+collateral margins will be maintained” is that there will not be any cut in the margins, that we will
+maintain the margins at least at existing levels. Of course, if individual Reserve Bank Presidents
+wish to tighten margins, that’s certainly within their power to do so. I hear President Lacker’s
+principal objection. I otherwise believe I hear a consensus to undertake the changes to the primary
+credit program. If no one objects, we will then ask you. We have two requests already in hand, one
+from San Francisco and one from New York. The Board will vote after this meeting. We will ask
+the rest of you to submit your requests after the announcement tomorrow morning, and we will get
+to them and respond to them quickly. So I thank you very much for that.
+Let me read the statement one more time. I have a couple of thoughts. First, is there a sense
+that adding the “going forward” is helpful? I believe there was some sense that it was helpful. On
+President Fisher’s comment about “having increased appreciably,” I think we need an adverb there
+because we just said in the last FOMC statement that they have increased. So we need to ratchet it
+up some. We could say “significantly” or some other word, but unless there are other comments, I
+
+August 16, 2007
+
+35 of 37
+
+would recommend staying with “appreciably.” Also I believe that “prepared to act as needed”
+encompasses the idea of either not moving or moving once or moving twice. I believe that “as” is a
+more encompassing preposition, and I would recommend that we leave it as is. If there are no other
+comments, I think it would be best for us to take a vote of FOMC members on the monetary policy
+statement for the record. President Fisher.
+MR. FISHER. Thank you, Mr. Chairman. Again, I apologize, but if we take “going
+forward,” which I think is a good suggestion, I do want you to consider the word “appreciably” as
+maybe a little too strong. We’re saying about going forward. We could say “increased further.”
+“Appreciably” is a very strong word, and the way I interpret it from a market perspective—and this
+is maybe what you want to convey—is that it’s a done deal that we are going to cut rates. That’s the
+way I interpret it. I think the word “further” is a little softer. I worry about “appreciably.” We are
+acknowledging that we’re looking forward. I think it is a very good suggestion of Governor
+Kroszner’s. I just wanted to make that point, Mr. Chairman. Thank you.
+MR. KOHN. “Further” is pretty soft.
+CHAIRMAN BERNANKE. “Significantly”?
+MR. KOHN. “Significantly further”? I’m sorry, Mr. Chairman.
+CHAIRMAN BERNANKE. Go ahead.
+MR. KOHN. Okay. People have been concerned that this will disappoint the markets, so
+softening it appreciably [laughter] to me might be a problem. If we said “further,” I think we would
+need an adverb in front of it.
+CHAIRMAN BERNANKE. President Lockhart.
+
+August 16, 2007
+
+36 of 37
+
+MR. LOCKHART. I agree with President Fisher regarding “appreciably,” and I’m
+wondering if we could not say that the Committee judges that the downside risks to growth have
+increased somewhat.
+CHAIRMAN BERNANKE. No, sorry. That’s not strong enough.
+MR. KOHN. You could say “significantly further.” Substantially?
+CHAIRMAN BERNANKE. Materially?
+MR. HOENIG. You might as well stay with “appreciably.”
+CHAIRMAN BERNANKE. I think the best alternative is “significantly,” if that’s
+preferred. No? “Appreciably” simply means that it’s detectable, large enough to detect.
+MR. WARSH. Detectable and material, significantly.
+MR. LACKER. Noticeably?
+MR. HOENIG. Mr. Chairman, my first choice would be “further,” but I’d take
+“appreciably” over “significantly.”
+CHAIRMAN BERNANKE. Okay. I think we’ve reached the limit of our ability to craft it.
+Do you have a two-hander here, Vice Chairman Geithner?
+VICE CHAIRMAN GEITHNER. Mr. Chairman, I have just a clarifying question. In the
+past when the FOMC has issued a statement without an action, between meetings or at a meeting,
+have we ever voted on it before?
+MR. KOHN. I doubt it, but this is changing the balance of risks, and so we thought that was
+consistent with an FOMC vote. We’ve never issued a statement from the Committee between the
+meetings that wasn’t associated, I think, with a change in policy. We’ve had speeches by the
+Chairman but never a statement like this. But I think that having the Committee issue a statement is
+a powerful, significant action, and it does shift the balance of risks.
+
+August 16, 2007
+
+37 of 37
+
+CHAIRMAN BERNANKE. I would suggest that we vote but that the vote be recorded in
+the minutes and not reported in the statement that we issue tomorrow morning, if that’s okay. Matt,
+do you have the list of FOMC voters?
+MR. LUECKE. I do.
+CHAIRMAN BERNANKE. Why don’t you go ahead and read the list?
+MR. MADIGAN. Is that “appreciably” or “significantly”?
+CHAIRMAN BERNANKE. Appreciably.
+MR. LUECKE.
+Chairman Bernanke
+Vice Chairman Geithner
+President Hoenig
+Governor Kohn
+Governor Kroszner
+Governor Mishkin
+President Moskow
+President Fisher, voting as alternate for President Poole
+President Rosengren
+Governor Warsh
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+CHAIRMAN BERNANKE. Okay. Thank you. If there’s no other comment, the meeting
+is adjourned. Of course, we stand ready to reconvene.
+MR. MOSKOW. Mr. Chairman, may I just ask you whether the FOMC statements will be
+issued at the same time? Will both statements be issued simultaneously at 8:00 tomorrow morning,
+Eastern time?
+CHAIRMAN BERNANKE. At the same time, yes. Let me ask the Board members to
+remain on line because we have to vote on the discount rate request, but the meeting is adjourned.
+Thank you.
+END OF MEETING
+
+

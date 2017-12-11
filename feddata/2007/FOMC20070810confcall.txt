@@ -1,0 +1,356 @@
+August 10, 2007
+
+1 of 12
+
+Conference Call of the Federal Open Market Committee on
+August 10, 2007
+A conference call of the Federal Open Market Committee was held on Friday, August 10,
+2007, at 8:45 a.m. Those present were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Mr. Hoenig
+Mr. Kohn
+Mr. Kroszner
+Mr. Mishkin
+Mr. Moskow
+Mr. Poole
+Mr. Rosengren
+Mr. Warsh
+Mr. Fisher, Ms. Pianalto, and Mr. Plosser, Alternate Members of the Federal Open
+Market Committee
+Messrs. Lacker and Lockhart, and Ms. Yellen, Presidents of the Federal Reserve Banks
+of Richmond, Atlanta, and San Francisco, respectively
+Mr. Madigan, Secretary and Economist
+Ms. Danker, Deputy Secretary
+Ms. Smith, Assistant Secretary
+Mr. Skidmore, Assistant Secretary
+Mr. Alvarez, General Counsel
+Ms. Johnson, Economist
+Messrs. Connors, Evans, Fuhrer, Rasche, Sellon, Slifman, and Wilcox, Associate
+Economists
+Mr. Dudley, Manager, System Open Market Account
+Mr. Parkinson, Deputy Director, Division of Research and Statistics, Board of Governors
+Messrs. Clouse and English, Senior Associate Directors, Divisions of Monetary Affairs,
+Board of Governors
+Mr. Luecke, Senior Financial Analyst, Division of Monetary Affairs, Board of Governors
+Ms. Mester, Messrs. Sniderman and Weinberg, Senior Vice Presidents, Federal Reserve
+Banks of Philadelphia, Cleveland, and Richmond, respectively
+Mr. Koenig, Vice President, Federal Reserve Bank of Dallas
+
+August 10, 2007
+
+2 of 12
+
+Transcript of the Federal Open Market Committee Conference Call of
+August 10, 2007
+
+CHAIRMAN BERNANKE. Good morning, everybody. As you know, financial markets
+have been fragile. They appeared to continue to be quite fragile overnight. There are difficulties
+with commercial paper funding and other short-term funding and a lot of concerns about
+counterparty risk. This morning the Desk, responding to a situation with the federal funds rate
+trading well above the target, did a large early operation and announced that to the markets. They
+are prepared to come back throughout the day to continue providing reserves as needed to keep the
+federal funds rate at our target. We are also proposing at 9:15 to release a statement essentially
+saying that. I will now read you the statement:
+“The Federal Reserve is providing liquidity to facilitate the orderly functioning of
+financial markets.
+The Federal Reserve will provide reserves as necessary through open market
+operations to promote trading in the federal funds market at rates close to the Federal
+Open Market Committee’s target rate of 5¼ percent. In current circumstances,
+depository institutions may experience unusual funding needs because of dislocations in
+money and credit markets. As always, the discount window is available as a source of
+funding.”
+So we’re just saying that we are here, we are going to try to maintain the fed funds rate at
+5¼ percent, we will provide adequate reserves, and we’re going to try to work against any
+remaining stigma associated with borrowing at the discount window.
+What I’d like to do is have Bill Dudley and Brian Madigan brief you about the state of the
+markets and give you a chance to ask questions. No action is being contemplated at this meeting.
+
+August 10, 2007
+
+3 of 12
+
+This is informational, but we wanted to keep you apprised of the situation and of our proposal to
+issue this statement. Bill, are you available?
+MR. DUDLEY. I am. Foreign central banks around the world added reserves
+aggressively overnight. The Bank of Japan, for example, added ¥1 trillion, about
+$8.4 billion. Their Euroyen rates were trading a little above the target before their
+addition and below the target afterward. So the action was effective. The ECB today
+did a variable-rate tender, a little different from what they did yesterday. Yesterday they
+took all comers at 4 percent. In today’s variable-rate tender, they did not accept all the
+bids. They accepted €61 billion in bids. That’s down from the €94.8 billion they
+accepted yesterday. The average rate was 4.08 percent compared with their 4 percent
+target.
+Coming into New York time this morning, the federal funds rate was under upward
+pressure—6 percent or so for foreign names and 5.75 percent for domestics. We did a
+$19 billion three-day RP (repurchase) this morning, a single tranche RP with a
+5.15 percent effective rate. There were $31 billion in propositions, and we accepted
+$19 billion. After that action, the funds rate has come off a bit. Foreign names are now
+5.5 to 5.63. Domestics are 5.25 to 5.5. We expect the funds rate to come off through
+the day. But if it doesn’t, we’re prepared to engage in additional transactions later in the
+day. Yesterday we were a bit surprised that, despite a $24 billion add through a term RP
+and an overnight, the effective funds rate was 5.41 percent—so, firmer than the target—
+although it did go out on the softer side at the end of the day at 4.75 to 5 percent.
+In terms of the markets, there are two broad sets of issues. One, there are concerns
+about funding issues for two large U.S. financial entities. Washington Mutual and
+Countrywide have both made statements in their 10(q) filings that unnerved the market a
+little, Washington Mutual saying that they’re having some trouble in terms of liquidity
+and Countrywide saying that there are unprecedented disruptions in the credit market.
+Both of those companies have been singled out a bit this morning. In addition, there’s a
+tremendous amount of focus on the commercial paper market. The European
+commercial paper market is not doing well at all, and that’s really one reason that you’re
+seeing the European banks scramble for funding.
+I talked to a dealer this morning in the U.S. commercial paper market. I guess the
+way I would characterize the situation is that the U.S. commercial paper market is
+continuing to function but at a very tough level of functionality. People are shortening
+up. They are starting to take names off their lists of programs they’ll invest with. The
+asset-backed commercial paper (ABCP) market is the area of greatest stress. The
+traditional programs, such as funding credit-card receivables, are still doing okay, but
+the extendable ABCP programs are under pressure. Also, apparently some investment
+bank programs are seeing some stress for their own names. There’s a lot of shortening
+of maturity. A lot of people are doing things that are either just overnight or out to a
+week. So you’re seeing that the funding in the U.S. commercial paper market is
+shortening, and therefore every day more and more commercial paper that has to be
+
+August 10, 2007
+
+4 of 12
+
+rolled over is coming due. But I would say that, at this point, the U.S. commercial paper
+market is still functioning, and that’s where we are right now.
+CHAIRMAN BERNANKE. Brian, would you like to add anything?
+MR. MADIGAN. No, that was complete, Mr. Chairman.
+CHAIRMAN BERNANKE. Are there any questions for Brian or Bill? President Lacker.
+MR. LACKER. Bill, I have a couple of things. There are asset-backed commercial paper
+programs that are backed by mortgage-backed securities. How much of those are showing up in our
+mortgage-backed tranches in recent RPs, in recent interventions like yesterday’s? I guess you don’t
+find out until later in the day how much of that shows up in today’s intervention. Another question I
+have would be how late in the day you feel that you can do another RP operation.
+MR. DUDLEY. What was the second question, Jeff?
+MR. LACKER. The other one is, How late in the day do you think you can do an RP
+operation? Then a third question I have has to do with the RP market in general. I’ve heard about
+asset-backed paper going into RP programs instead of outrights, and I’m wondering whether that’s
+affecting trading in the RP market and whether there are RP spreads for different collateral. What
+are you hearing about that?
+MR. DUDLEY. As far as what we get in terms of propositions today, we’re assuming that
+it will be mostly mortgage-related RPs since we did a single tranche and did not distinguish among
+different types of collateral. But I don’t have the answer to that question in terms of what the
+composition of today’s $19 billion RP was; we are presuming that it will be mostly mortgage
+related. As far as how late in the day, we can go fairly late. Obviously the effectiveness diminishes
+considerably if we go later in the day, and I think it is more symbolic. Our feeling is that the $19
+billion we added today should be more than enough, and so we would expect the fed funds rate to
+come off. The reason the Desk statement said that we would come back if necessary was that we
+
+August 10, 2007
+
+5 of 12
+
+wanted to reassure people that this wasn’t their only chance to get reserves if things were to
+deteriorate as we go through the day. So I think we’ll take a look at where things are at
+midmorning. If the fed funds rate is still trading firm to the 5¼ target, I think we would come in
+fairly early—midmorning.
+CHAIRMAN BERNANKE. Other questions. President Hoenig.
+MR. HOENIG. Yes. I don’t know if Tim, Bill, or maybe Brian can answer this, but I’m
+interested in whether we’re seeing or having conversations with any of the banks in terms of lines of
+credit being pulled or any kinds of pressures they might be sensing that would have implications for
+the discount window as side effects.
+MR. DUDLEY. This is Bill Dudley. I’m not aware of any news on that front. I think
+Washington Mutual will be the one on which you would be most focused, given what they said
+overnight in terms of their filing. Obviously, they are focused on mortgage-related products, so I
+think they would probably be having the most difficulty today. I’m not aware of any other places
+with problems.
+VICE CHAIRMAN GEITHNER. Tom, this is Tim. We have no indication that the major,
+more diversified institutions are facing any funding pressure. In fact, some of them report what we
+classically see in a context like this, which is that money is flowing to them. That, of course, could
+change quickly. But apart from those that are more narrowly in the mortgage market that can’t
+basically sell any non-agency products, I don’t think we’re seeing any sense of funding pressure.
+CHAIRMAN BERNANKE. Governor Mishkin.
+MR. MISHKIN. Yes, I’d just like to understand a bit more about what’s going on in terms
+of Europe. My understanding is that yesterday, when the European Central Bank injected all that
+
+August 10, 2007
+
+6 of 12
+
+liquidity, a lot of it was done through borrowing from their standing facility. Do we have an idea of
+what exactly the banks are using those funds for?
+MR. DUDLEY. Our understanding, Governor Mishkin, is that they’re using them
+essentially to fund some of the commercial paper in Europe that’s running off. Also, I think some
+of the funds are just extra liquidity, precautionary balances for reserves. We received a comment
+overnight that suggested that there was a potentially fairly significant misallocation of reserves
+within Europe as people were hoarding their liquidity. So some of the funds are probably being
+used to replace commercial paper, but some of them are probably just being held as precautionary
+balances.
+MR. MISHKIN. So is it spending directly? Are the banks buying commercial paper, or are
+they lending directly to the people who can’t roll over their commercial paper?
+MR. DUDLEY. I don’t know the answer to that.
+CHAIRMAN BERNANKE. President Poole.
+MR. POOLE. Is there a downside to providing funds more generously than we are now,
+deliberately pushing the fed funds rate decidedly below 5¼ just to try to smooth everything over
+here?
+MR. DUDLEY. Well, if we are successful, we should expect that the fed funds rate could
+soften significantly, but there’s no way that we can stabilize it at 5¼, if that’s your question. One
+consequence of being aggressive and adding reserves is that, if we’re successful, late in the day the
+funds rate could be trading at 1 or 2 percent. That’s a possibility.
+MR. POOLE. Let me restate the question. If it appears this morning after trading for an
+hour or two that we’re still not decisively below 5¼, it would seem to me that we ought to consider
+
+August 10, 2007
+
+7 of 12
+
+putting in more because we have weekend strains and so forth—so make a fairly decisive move at
+this point rather than a move that the market might consider as just doing barely enough.
+MR. DUDLEY. Well, that’s what we’re prepared to do—to do more.
+CHAIRMAN BERNANKE. I think it’s our intention to be aggressive and to go below
+5¼ percent if at all needed. However, we have not changed the target, and we don’t want to convey
+the sense that we’ve changed the target, but we will be aggressive. President Fisher.
+MR. FISHER. Mr. Chairman, do we know if our European colleagues have insisted on any
+discipline in return for their actions? That’s also my question with regard to our own procedures
+here. I like the particular reference to the discount window. What concerns me is that we’re issuing
+a statement. I like the statement, but what are we getting in return? In other words, how does this
+action help us rein in what has been reckless and irresponsible behavior by creditors? We’re putting
+our finger in the dike here, but what are we getting in return? I’d also like to know what our
+thoughts are about that as we proceed down this path: (a) Have we heard from your counterparts,
+Mr. Chairman, as to the kind of discussions they’re having with their creditors, and (b) do we expect
+that, say, New York, San Francisco, and Richmond are going to sit down with some of these
+bankers, if necessary, to provide a little moral suasion, or is that just not in the picture right now?
+CHAIRMAN BERNANKE. President Geithner, did you want to intervene?
+VICE CHAIRMAN GEITHNER. Richard, we’ve been talking to these people several
+times a day, and we’ll do so again today. But I guess I don’t feel that at this point we can do
+anything appropriate that is more powerful than this statement, and I’m not sure that it makes any
+sense for us to try to persuade these people to lend to a bunch of institutions that they’re not
+comfortable lending to now. I don’t really feel as though there’s an effective way for us to
+condition this. You know, we have no indication that people are going to come to the window on
+
+August 10, 2007
+
+8 of 12
+
+any significant scale. If we think that there’s a liquidity problem that could be effectively relaxed
+by encouraging people to come to the window and that would make them more likely to help meet
+that constraint, then we can get to that point. But at this stage I don’t think it’s helpful or necessary
+for us to try to induce these people to on-lend what they may come to us later in the day for at the
+window. We may get to that point, but I don’t think that makes sense now.
+MR. FISHER. You are well aware, based on our conversation at the FOMC meeting, what
+the risks that I’m worried about here are. At the same time, I think we’re doing the correct thing. I
+just want to keep bearing in mind the risk that we don’t send any signal that we’re just going to be,
+and obviously we wouldn’t be, indiscriminate. But there has to be something in return for our
+providing liquidity in the markets if we continue to do so. I wanted to make that point.
+VICE CHAIRMAN GEITHNER. I don’t agree with that. I don’t think that’s the way to
+think about it. This is a general signal that we’re prepared to relax or to provide liquidity to help
+make sure markets come back in some more orderly functioning. You can’t condition that
+statement without undermining its basic power in some sense.
+MR. FISHER. No, don’t amend the statement. I just want to have that mindset. That’s my
+point, and I won’t say anything more.
+CHAIRMAN BERNANKE. President Fisher, our goal is to provide liquidity not to support
+asset prices per se in any way. My understanding of the market’s problem is that price discovery
+has been inhibited by the illiquidity of the subprime-related assets that are not trading, and nobody
+knows what they’re worth, and so there’s a general freeze-up. The market is not operating in a
+normal way. The idea of providing liquidity is essentially to give the market some ability to do the
+appropriate repricing it needs to do and to begin to operate more normally. So it’s a question of
+market functioning, not a question of bailing anybody out. That’s really where we are right now.
+
+August 10, 2007
+
+9 of 12
+
+MR. FISHER. I’ve got it, Mr. Chairman. Thank you.
+CHAIRMAN BERNANKE. President Lacker.
+MR. LACKER. Just in response to you, Richard, I agree with Tim that the last thing we
+want to do is to be sending a message behind the scenes as we did in ’87, encouraging anybody to
+lend to anybody they wouldn’t otherwise be interested in lending to under their current operating
+risk-management standards. What I like about the statement that the Chairman read to us is the
+focus on keeping the federal funds rate near its target. I think that’s what we should remain focused
+on. Credit spreads are beyond our ability to peg or influence, and I don’t think we should go down
+the road of trying to do so. I agree with President Geithner that the statement takes its power from
+that. It’s important for us in our deliberations to remain clinical about this and very specific in our
+diagnosis of symptoms and what’s going on. I think markets are working fine. The quantities just
+happen to be zero right now in some of them, [laughter] and things are going to hell in a handbasket.
+MR. FISHER. Thank you, President Lacker.
+CHAIRMAN BERNANKE. President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. I have a question. Bill suggested that, at some
+point—perhaps during the day, maybe tomorrow, or sometime—as we continue to introduce
+liquidity, the funds rate actually may fall quite precipitously to 1 or 2 percent for a short period. I’m
+fully supportive of the statement, and like President Lacker, I like the fact that the stress in the
+statement is that our goal is to keep the fed funds rate near its target and that we haven’t changed the
+target. But I do have a question about the unwinding of this. That is, what are the criteria for when
+we stop introducing liquidity? How do we decide when to do that, and is there any thought as to
+how we unwind the liquidity that we may have injected during the process? What is the idea about
+the process of how that unwinding might occur? Thank you.
+
+August 10, 2007
+
+10 of 12
+
+CHAIRMAN BERNANKE. Bill, can you take that?
+MR. DUDLEY. I think two things will happen. One, if things settle down and liquidity in
+the market improves, then we would stop adding more reserves than we think the market really
+needs. The excess liquidity we add today, though, will probably make it hard to push the funds rate
+up. Let’s say that the funds rate falls out of bed today. We could see a sloppy funds rate for a
+couple of days because the two-week reserve maintenance period goes through Wednesday. Now,
+once you restart the reserve maintenance period next Thursday, the banks will have a whole new
+reserve regime, and I think at that time the sloppiness would be pretty much over. So we could
+definitely see a situation in which, if we’re effective, the funds rate could be on the soft side, and
+that could last through Wednesday of next week. But after that, it will be a new reserve
+maintenance period, and I don’t think we’ll have any difficulty there.
+CHAIRMAN BERNANKE. President Lockhart has a question. Dennis, why don’t you
+come sit up here so everyone can see you?
+MR. LOCKHART. I don’t think seeing matters that much. I have a question for President
+Geithner. Are any European or Japanese institutions to our knowledge in serious trouble?
+VICE CHAIRMAN GEITHNER. We don’t have any direct information.
+MR. LOCKHART. Are there analogs to Washington Mutual or Countrywide, for example?
+VICE CHAIRMAN GEITHNER. Well, you’ve already seen one significant intervention by
+the German authorities last week to guarantee the liabilities of a relatively small institution with
+some mortgage exposure, and the liquidity pressures that the ECB responded to yesterday indicate
+that there are broader concerns about exposure to losses into those institutions because of their
+subprime exposure. You’re just seeing that in commercial paper now, rather than elsewhere. So we
+have no indications from our supervisory counterparts that any major institution in Europe is facing
+
+August 10, 2007
+
+11 of 12
+
+a significant solvency problem now, but that doesn’t mean there isn’t one. We just haven’t heard
+that from them yet. I think there is a general sense that a lot of this subprime stuff ended up, as it
+has in the past, in institutions in Europe. So I assume that we have the risk that, as the tide recedes
+further, you will see more distress there. But, again, we have no indication from any of our
+counterparts yet that any major institutions face a significant funding or solvency issue.
+CHAIRMAN BERNANKE. Are there any other questions? Okay. Thank you for your
+questions and comments. This is what we’re going to do now. There are additional things that we
+might consider in the future if problems continue or worsen—for example, a swap line to provide
+more dollar liquidity to Europe; a reduction in the discount rate; and then if we decide that the
+macroeconomic conditions warrant it, a change in the federal funds rate. Those things would
+require FOMC approval. So obviously, should we get to the point at which we want to take
+additional steps, we will be in touch with you, and if you have any further comments or questions,
+please let us know. Is there anything else? President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. I just would ask that you read the statement
+one more time for us before we close.
+CHAIRMAN BERNANKE. Certainly.
+“The Federal Reserve is providing liquidity to facilitate the orderly functioning of
+financial markets.
+The Federal Reserve will provide reserves as necessary through open market
+operations to promote trading in the federal funds market at rates close to the Federal
+Open Market Committee’s target rate of 5¼ percent. In current circumstances,
+depository institutions may experience unusual funding needs because of dislocations in
+
+August 10, 2007
+
+12 of 12
+
+money and credit markets. As always, the discount window is available as a source of
+funding.”
+So there is just one procedural point. Again, this is not something that we’re
+contemplating, but one possible thing we could do would be to lower the discount rate, reduce the
+100 basis point spread between the discount rate and the federal funds rate. It’s not obvious that it is
+the right thing to do. There are probably some technical and logistical issues concerned with it. It’s
+not obvious that it would be helpful. But I just want to put it on a list of things that we might
+consider and to remind you that the procedure for doing it would involve requests from your boards
+and then approval by the Board of Governors. So should we come to that point and we begin to
+discuss that particular option, we would need the Presidents to get the assent of their boards so that
+we could go ahead and take that action. Are there any other comments or questions? All right.
+Well, we will keep you well apprised, and I’m sure you will be following the markets on your own.
+So thank you very much and good morning.
+END OF MEETING
+
+

@@ -1,0 +1,519 @@
+September 29, 2008
+
+1 of 16
+
+Conference Call of the Federal Open Market Committee on
+September 29, 2008
+A conference call of the Federal Open Market Committee was held on Monday,
+September 29, 2008, at 9:00 a.m. Those present were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Ms. Duke
+Mr. Fisher
+Mr. Kohn
+Mr. Kroszner
+Ms. Pianalto
+Mr. Plosser
+Mr. Stern
+Mr. Warsh
+Messrs. Evans, Lacker, and Lockhart, and Ms. Yellen, Alternate Members of the Federal
+Open Market Committee
+Messrs. Bullard and Rosengren, Presidents of the Federal Reserve Banks of St. Louis and
+Boston, respectively
+Mr. Madigan, Secretary and Economist
+Ms. Danker, Deputy Secretary
+Mr. Skidmore, Assistant Secretary
+Ms. Smith, Assistant Secretary
+Mr. Alvarez, General Counsel
+Mr. Sheets, Economist
+Mr. Stockton, Economist
+Messrs. Connors, English, and Kamin, Ms. Mester, Messrs. Rosenblum, Sniderman, and
+Wilcox, Associate Economists
+Mr. Dudley, Manager, System Open Market Account
+Mr. Clouse, Deputy Director, Division of Monetary Affairs, Board of Governors
+Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors
+Ms. Edwards, Senior Associate Director, Division of Monetary Affairs, Board of
+Governors
+Mr. Leahy, Associate Director, Division of International Finance, Board of Governors
+
+September 29, 2008
+
+2 of 16
+
+Mr. Carpenter, Deputy Associate Director, Division of Monetary Affairs, Board of
+Governors
+Mr. Luecke, Section Chief, Division of Monetary Affairs, Board of Governors
+Mr. Barron, First Vice President, Federal Reserve Bank of Atlanta
+Messrs. Fuhrer and Judd, Executive Vice Presidents, Federal Reserve Banks of Boston
+and San Francisco, respectively
+Ms. George, Messrs. Sellon, Sullivan, and Weinberg, Senior Vice Presidents, Federal
+Reserve Banks of Kansas City, Kansas City, Chicago, and Richmond, respectively
+
+September 29, 2008
+
+3 of 16
+
+Transcript of the Federal Open Market Committee Conference Call on
+September 29, 2008
+CHAIRMAN BERNANKE. Thank you. Good morning, everybody. Thank you as always
+for your flexibility and meeting on short notice—particularly to Janet. How are you feeling today,
+Janet?
+MS. YELLEN. Fine, thank you.
+CHAIRMAN BERNANKE. I have three topics to raise with you today. First, financial
+market conditions, as you know, remain quite strained, and in response to that we are proposing
+some additional liquidity measures. Mostly this is informational. However, we are proposing to
+increase the swap lines fairly significantly, and although you have authorized the Foreign Currency
+Subcommittee to take those actions, we thought that, given the size of the change, it would be
+worthwhile to bring this back to you for your attention and your vote just to get the Committee’s
+agreement on this issue. The second issue is Wachovia. As you may have heard, Wachovia was
+purchased, or there’s a plan to purchase, by Citigroup this morning. To facilitate that purchase, the
+Board invoked the systemic risk exception, which has not been done before. So we want to give
+you a chance to catch up on what’s going on there. Then third, we want to talk a bit about interest
+on reserves, which will be provided in the Paulson financial rescue bill, which is supposed to be up
+for a vote on Wednesday. I just want to brief you on what we’re planning in that regard. So let me
+start by turning to Bill Dudley in New York. Bill, if you could give us a brief overview of the
+financial conditions that motivate these actions, review the actions we’re proposing, and take Q&A,
+that would be very helpful.
+MR. DUDLEY. Okay. Thank you, Mr. Chairman. Let me start with the foreign
+exchange swap lines, and then I’ll talk a bit about the TAF increases and about the
+balance sheet. I think Brian later is going to talk about interest on reserves in more
+detail.
+
+September 29, 2008
+
+All of the foreign central banks that have obtained dollar swap lines in response to
+dollar funding pressures in their home markets have decided, with some encouragement
+on our part, to seek an increase in the size of these swap line authorizations. We just
+have to hear from the Bank of Japan—I think that’s the only one that’s outstanding—but
+we expect to hear that shortly. The actual draws on these lines may turn out to be
+considerably less, and the amounts that are actually drawn are likely to depend on
+market conditions. The large increase in authorization should be considered as
+insurance in case market conditions continue to deteriorate and as reassurance to market
+participants that the world’s major central banks are determined to respond in force to
+mitigate dollar funding pressures. By foreign central banks, the current lines are being
+doubled for the larger participants and tripled for the smaller participants. The increases
+are as follows, very quickly: the Bank of Canada, $30 billion from $10 billion; the Bank
+of England, $80 billion from $40 billion; the Bank of Japan, $120 billion from
+$60 billion; the National Bank of Denmark, $15 billion from $5 billion; the ECB,
+$240 billion from $120 billion; the Bank of Norway, $15 billion from $5 billion; the
+Reserve Bank of Australia, $30 billion from $10 billion; the Swedish Riksbank,
+$30 billion from $10 billion; and the Swiss National Bank, $60 billion from $30 billion.
+Adding up all of this would result in an increase in our swap line authorization to
+$620 billion from $290 billion previously. I think that these decisions have been made
+in response to the increasing turmoil evident in interbank markets, especially for dollar
+funding; and by increasing the size of the authorization significantly, the intention is to
+reassure market participants that sufficient dollar funding will be available well into
+2009.
+The staff believes that these large increases are appropriate to reassure market
+participants that the world’s central banks are prepared to take extraordinary steps as
+needed to address ongoing strains in financial markets. These strains are evident in a
+number of ways. First, we’ve seen a sharp rise in overnight dollar funding rates and in
+term LIBOR–OIS spreads. For example, on Friday, the three-month LIBOR–OIS
+spread was over 200 basis points, and in fact, LIBOR may actually understate the degree
+of funding pressure. The NYFR index, which is the U.S.-based alternative to LIBOR,
+has actually been much higher than LIBOR over the past week or two. So LIBOR
+actually may be understated. Second, there have been many anecdotal reports of a
+withdrawal of counterparties’ willingness to engage in term funding activity. So the
+tenor of almost all activity in the market now is overnight. Third, there are growing
+liquidity strains at major financial institutions. Obviously, Wachovia is part of that
+story. Fourth, we’ve seen a significant rise in the demand for our TSLF and TAF credit.
+For example, the stop-out rate for the most recent TAF auction, which was a 28-day
+maturity auction, was 3.75 percent, significantly above the one-month LIBOR rate at the
+time. Fifth, we’ve seen a sharp rise in PCF and PDCF borrowings. For example, on the
+week ending last Wednesday, PCF credit was $39.4 billion, an increase of about
+$18 billion from the previous week, and PDCF borrowing was $88 billion in the latest
+week, up $68 billion from the previous week. Last, European banking strains have been
+increasingly evident in recent days, especially this weekend following the announcement
+of the Fortis rescue and the nationalization of B&B in the United Kingdom. The
+European banking news has led to a sharp drop in the European equity markets—this
+
+4 of 16
+
+September 29, 2008
+
+5 of 16
+
+morning they’re down 2 to 3 percent—and the euro and sterling exchange rates have
+dropped quite sharply against the dollar, down about 2 percent.
+Now, along with this increase in authorized swap lines, Chairman Bernanke has
+approved the staff recommendation for a large increase in our term auction facility
+(TAF) program. We are proposing two changes in the TAF program. First, we’re
+proposing to increase the 84-day TAF auction sizes to $75 billion per auction, from $25
+billion. That will start with the next 84-day auction that was scheduled for October 6.
+The second change is that the Chairman has approved two forward TAF auctions
+totaling $150 billion. These auctions would take place in November, and they would
+auction short-dated TAF funds for one-week or two-week terms over year-end.
+Together, these two changes to the TAF program would increase the supply of TAF
+credit to $450 billion, from $150 billion currently. The notion is that a larger
+commitment to TAF funding should help ameliorate market concerns about the
+availability of term funding and about the availability of such funding over year-end.
+The effective dates for the swap lines and all the programs will be extended, I think, to
+April 30, 2009. This would enable the foreign central banks to extend 84-day TAF
+credit through year-end under their swap agreements.
+Obviously, these commitments are likely to put considerable further strain on the
+Federal Reserve’s balance sheet. In recent days we have been offsetting the large
+reserve additions with the Treasury SFP (supplementary financing program) cashmanagement bill issuance. After this week’s scheduled bill issuance, the total amount of
+outstanding SFP obligations will reach $400 billion. However, we cannot rely on this
+program indefinitely because the Treasury’s room under the debt limit ceiling is about
+$900 billion as of early last week and is shrinking rapidly because of the SFP and other
+ongoing funding commitments.
+PARTICIPANT. It’s impossible to hear.
+MR. FISHER. Someone has had a BlackBerry on during the last two or three sentences.
+MS. DANKER. New York, in particular, could you make sure you have no cell phones or
+BlackBerrys near the microphones.
+MR. DUDLEY. I’ll make sure everything is off. Probably I’m the culprit. Poetic
+justice. Let me just repeat the last stuff on the SFP. After this week’s scheduled bill
+issuance, the total amount of SFP obligations will be $400 billion. We can’t keep
+relying on that program indefinitely, though, because the Treasury’s room under the
+debt limit ceiling, which was $900 billion as of early last week, is shrinking rapidly
+because of that program and other ongoing funding commitments. So that’s where the
+interest on reserves legislation comes in. Assuming that the Congress enacts that
+legislation this week, we will be able to pay interest on reserves. I’ll leave that to Brian
+to talk about in more detail. Thank you. I’m happy to take any questions.
+
+September 29, 2008
+
+6 of 16
+
+CHAIRMAN BERNANKE. Okay. So just to clarify, we’ll be asking you for the following
+two actions after the question-and-answer period. One is, again, that although the Foreign Currency
+Subcommittee was authorized to increase swaps, because we are essentially doubling the
+outstanding swap lines, we would like to go back to the Committee for a vote, or to hear your views,
+to get approval for those swap lines, which pending approval, we plan to announce shortly, right?
+MR. DUDLEY. At 10 a.m.
+CHAIRMAN BERNANKE. Yes, very shortly. The other thing, which also requires a vote,
+is that, in order to do three-month swaps over year-end, some of the three-month swaps would go
+beyond January 30. So we’re asking for the extension not for all programs but only for the swap
+lines to April 30. Is that right?
+MR. DUDLEY. Yes.
+CHAIRMAN BERNANKE. So that’s the second request—to extend the swap line
+authorizations to April 30 of next year. With those two points in mind, are there any questions for
+Bill? President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. I was confused about April 30. I thought I
+heard Bill Dudley say that he’s requesting the TAF be extended to April 30. Is it just the swap lines,
+or is it both? Can I get some clarification?
+MR. DUDLEY. Just the swap lines. The TAF program doesn’t need an authorization
+because it is just within the discount window program.
+CHAIRMAN BERNANKE. The issue of unusual and exigent is not coming up here
+because we’re not dealing with any section 13(3) lending today. President Evans.
+MR. EVANS. Thank you, Mr. Chairman. I’d just like to review by asking a question. The
+swap lines are very large now. Could we review what could go wrong for our balance sheet in a
+
+September 29, 2008
+
+7 of 16
+
+not-so-pleasant scenario? Are these actions consistent—and I think they are—with the substantial
+deleveraging of the financial system that we’re trying to make take place in an orderly fashion but
+we can’t resist the natural forces that have to take place? Thank you.
+MR. DUDLEY. I think that’s correct. Our strategy all along has been not to prevent the
+deleveraging or the unwinding that developed earlier but to stretch it out a little so fewer things
+break. The swap lines are just one more tool to help that process unfold without severe systemic
+consequences occurring. Obviously, things are breaking, even with all the tools that we’ve rolled
+out. So I think that just suggests that more force needs to be applied. Clearly, confidence in the
+markets is extraordinarily poor and fragile, and that’s another reason that an escalation in the
+authorizations is important—to reassure people that the central banks are prepared to be there, if
+necessary.
+CHAIRMAN BERNANKE. Of course, for the balance sheet—and we’ll discuss that also
+with interest on reserves—it has the benefit of having zero credit risk because the other central
+banks are our counterparties. President Evans, did you have another comment?
+MR. EVANS. Well, I suppose you answered my question there. It just seems that, in
+looking at the TAF auctions, there are a number of foreign institutions that, because I don’t follow
+it, I’m not familiar with, and these are the types of institutions that are borrowing under these
+agreements. But I suppose that the foreign central banks are careful with their counterparties.
+CHAIRMAN BERNANKE. Other questions for Bill? If there are no questions, since Bill
+has to go and get ready for the announcement—sorry, President Plosser.
+MR. PLOSSER. It’s not pertinent to this particular decision, but I was going to ask Bill
+whether there are any other sorts of measures or tools that the Desk in New York is considering—
+that are being explored or thought about going forward?
+
+September 29, 2008
+
+8 of 16
+
+MR. DUDLEY. We’re looking at a lot of different things to potentially make the
+management of reserves more effective and to provide more support for the market. But we don’t
+have anything that is close to being put forward at this time. We’re always looking at
+contingencies, what other tools are available, and what other options might be available, but there’s
+nothing that I would say is imminent.
+VICE CHAIRMAN GEITHNER. Mr. Chairman, could I just add one thing? Maybe Eric
+could speak to this. I think the only other thing at the moment that deserves some quick reflection is
+whether the Federal Reserve should be modifying the facilities it put in place for money market
+funds last week. A team of people across the System is looking at a range of options there and is
+likely to give a recommendation to the Chairman sometime later today. My own sense is that it is
+the only area in which there is an immediate, compelling need and there’s active exploration of
+some escalation options.
+CHAIRMAN BERNANKE. With the anticipated passage of the fiscal plan, a lot of our
+intellectual talents are going to be harnessed trying to support the Treasury in thinking about their
+auctions and other strategies that they’re going to use. The Board, New York, and others have been
+working very closely with the Treasury staff. Other questions? President Lacker, do you have a
+question?
+MR. LACKER. Yes. What do we know about the time line for the implementation of the
+Treasury’s program of insuring money market mutual funds and how that would work?
+CHAIRMAN BERNANKE. They have already put in place a program that insures deposits
+that were there before a fixed date. In other words, new deposits are not protected. They made that
+change because they were generating runs from banks into money market mutual funds and the
+banks were complaining.
+
+September 29, 2008
+
+9 of 16
+
+MR. LACKER. Now, Vice Chairman Geithner, does the recommendation likely to come
+forward involve expanding or contracting the coverage?
+VICE CHAIRMAN GEITHNER. It is obviously not my decision, but they are looking at
+options that go in the direction of expanding the liquidity support provided both to the agent banks
+and perhaps directly to the funds themselves.
+MR. LACKER. But any change in the space of qualified commercial paper?
+VICE CHAIRMAN GEITHNER. Eric may be a little closer to this than I am at the
+moment. Again, they’re looking at it broadly, conceptually. The options fall into expanding the
+scope of the types of funds covered by the—what’s it called, Eric?—the AMLF.
+MR. ROSENGREN. That’s right.
+VICE CHAIRMAN GEITHNER. Second would be some expanded section 23A approvals
+to facilitate what the clearing banks need to do to provide liquidity. Another option would be to
+expand the scope of instruments that might be supported through that program. Another option
+might be to lend directly to money funds against a broader class of assets, and of course, it’s
+possible that the Treasury may rejigger, change, expand, or add to their guaranty.
+CHAIRMAN BERNANKE. Other questions, comments? Let me ask: Scott, are you
+prepared to state the resolutions we would like? Brian? Anyone? I’d like to note for the record that
+all three of the staff briefers today—Bill, Brian, and Scott—worked all night last night. So we have
+dedicated employees here in the System. Brian.
+MR. MADIGAN. Thanks, Mr. Chairman. I’ll read a resolution regarding the swap lines:
+“The Federal Open Market Committee authorizes the Federal Reserve Bank of New York to take
+the following actions to amend the existing temporary swap arrangements with foreign central
+banks as follows: with the Bank of Canada, to increase the aggregate amount to $30 billion; with
+
+September 29, 2008
+
+10 of 16
+
+the Bank of England to increase the aggregate amount to $80 billion; with the Bank of Japan to
+increase the aggregate amount to $120 billion; with the Danish National Bank to increase the
+aggregate amount to $15 billion; with the European Central Bank to increase the aggregate amount
+to $240 billion; with the Norges Bank to increase the aggregate amount to $15 billion; with the
+Reserve Bank of Australia to increase the aggregate amount to $30 billion; with the Swedish
+Riksbank to increase the aggregate amount to $30 billion; with the Swiss National Bank to increase
+the aggregate amount to $60 billion. In each case the System Open Market Account Manager
+would be authorized to determine appropriate liquidity buffers. The FOMC also extends the current
+delegation of authority to the Foreign Currency Subcommittee until April 30, 2009.”
+MS. DANKER. And it extends the expiration dates.
+CHAIRMAN BERNANKE. He has that. Okay. So there’s a motion. Any further
+questions or comments? If there’s no objection, may I take a vote now? Debbie.
+MS. DANKER.
+Chairman Bernanke
+Vice Chairman Geithner
+Governor Duke
+President Fisher
+Governor Kohn
+Governor Kroszner
+President Pianalto
+President Plosser
+President Stern
+Governor Warsh
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+CHAIRMAN BERNANKE. Thank you very much. I’m going to excuse Bill if he wants to
+go. There he goes. [Laughter] All right. Let me turn now to the second item, which is a briefing
+by Scott Alvarez, who as I said worked all night on the Wachovia situation. If President Lacker
+would like to add anything, he is certainly welcome to do so. Scott.
+
+September 29, 2008
+
+11 of 16
+
+MR. ALVAREZ. Thank you, Mr. Chairman. On Friday, Wachovia experienced
+significant liquidity pressures, and its management concluded that it would have
+difficulty funding itself this week. So the board of directors of Wachovia authorized the
+management to begin entertaining merger offers. Wells Fargo and Citi quickly emerged
+as the leading candidates among a group of candidates, but by Sunday it became clear
+that those two, which were the only remaining candidates by Sunday, could accomplish
+the merger only with government assistance. For a variety of reasons, the Board
+believed that it was appropriate to implement the systemic risk exception to give the
+FDIC the widest flexibility to resolve Wachovia in order to maintain confidence in the
+banking system. Among the reasons was the concern about liquidity pressures that
+would be felt by similarly situated banking institutions if there was a disorderly or very
+focused failure of Wachovia. Also, there was concern that, because Wachovia looked so
+strong on a capital basis and it would be somewhat surprising to some in the market
+when it closed, it would send a bad signal about similarly situated institutions. There
+was also concern about the large amount of foreign deposits that would be left behind in
+a least-cost resolution; the potential for money market mutual funds, which are already
+in a fragile state, to have further disruption from a least-cost resolution; and that the
+current financial turmoil and weakened economy would be further weakened if the leastcost solution was pursued and that might undermine business and household confidence.
+The FDIC and the Treasury both agreed with that analysis, and the Secretary
+consulted with the President, and the systemic risk exception was invoked on Sunday
+late afternoon. After a bidding process that was run by the FDIC between Citi and
+Wells Fargo, Citi emerged as the better bid for Wachovia. You may have seen this
+morning a report about that bid. Citi offered slightly more than $2 billion to the existing
+shareholders. Plus it would buy out all of the banks from underneath Wachovia and
+leave A.G. Edwards and Evergreen, the two investment banking firms of Wachovia,
+with the existing shareholders. Citi identified a portfolio of largely real estate–related
+assets that was about $312 billion in size that it felt it could not handle without some
+loss-sharing with the FDIC. It proposed to the FDIC that Citi would take a $54 billion
+first loss position, and then it asked the FDIC to share losses—actually to take losses on
+the portfolio—above the $54 billion mark. The FDIC’s analysis of that was that the
+$54 billion cushion was sufficient to allow the FDIC on its average basis to emerge with
+little or no loss, and so the FDIC accepted that bid.
+The Board was asked to give some capital relief to Citi in connection with this and
+did agree to give relief at the holding company level from the tier 1 regulatory ratio and
+the leverage ratio for approximately $270 billion worth of assets that would come over
+from Wachovia to Citi. That capital relief will be amortized over time and is similar in
+many ways to the relief that was granted in the Bear Stearns transaction. An application
+will be filed shortly for the merger. The two parties are still working out the details of
+the merger agreement, but they expect to have it done in the next day or so. That’s all.
+CHAIRMAN BERNANKE. Are there questions for Scott? President Lacker, would you
+like to add anything?
+
+September 29, 2008
+
+12 of 16
+
+MR. LACKER. Yes. Wachovia was losing about $1 billion in deposits a day on average
+over the past couple of weeks. They have liquidity to last under a calm scenario this week only until
+maybe Thursday or Friday. They probably would have needed discount window borrowing in the
+middle of the week; but given the news, they were affected by the WaMu closure because of what
+that did to senior debt holders, and they began experiencing companies pulling away from them in
+the middle of the day on Friday. So they were sort of caught up in the wake after WaMu. They
+didn’t think they could survive without a lot of support today. So they were very committed to
+doing something over the weekend. They have $64 billion plus in collateral, lendable value pledged
+at the discount window. They have $12.5 billion outstanding at the TAF, some of that 28-day, some
+of that in the two 84-day auctions, and we will leave them on primary credit, and they’ll retain that
+TAF credit. We intend issuing an announcement later this morning that says something like, “In
+support of this transition, the Federal Reserve Bank of Richmond stands ready to provide liquidity
+as needed.”
+So they have $52 billion in lendable value net of the TAF money. They have $150 billion in
+uninsured deposits, and as for other numbers, the market cap at the end of the day Friday was a little
+over $21 billion. Evergreen Investments, Wachovia Securities, and A.G. Edwards have a value of
+about $12 billion. This leaves shareholders of the holding company with about $14 billion in value.
+Wachovia was trading at about $1 this morning after trading at about $10 per share last Friday. I’m
+not sure people understand the Edwards and Evergreen part, but we’re monitoring the situation very
+closely and have people on their desk right now.
+CHAIRMAN BERNANKE. Thank you very much. We’ll take questions for either Scott or
+Jeff. President Plosser, I think you were first.
+
+September 29, 2008
+
+13 of 16
+
+MR. PLOSSER. Thank you, Mr. Chairman. I have a question about the $300 billion of
+mortgage assets referred to that were segregated out, and the FDIC said that Citi will take the first
+$54 billion. Does anybody know whether that is current market value? What is the $300 billion?
+Is it market price, or was it face value? How was that valued—do we know?
+MR. ALVAREZ. The $312 billion was the value on the books of Wachovia, and so Citi is
+providing the cushion in several ways. One is marking them down $30 billion to begin with, to be
+more in line with what Citi’s own marks are and to add to reserves to supplement the potential
+losses there. Then the rest is a loss-sharing.
+MR. PLOSSER. Does the first $30 billion markdown come out of the $54 billion?
+MR. ALVAREZ. Yes.
+MR. PLOSSER. So they have already taken roughly $30 billion of the $54 billion losses
+they’ve promised they’d take?
+MR. ALVAREZ. That’s correct.
+MR. PLOSSER. Thank you.
+CHAIRMAN BERNANKE. President Fisher.
+MR. FISHER. Mr. Chairman, this may be a conversation for another day, but it seems to
+me that we’re ending up with more and more concentration—Bank of America, Citicorp, Morgan—
+and I’m curious as to what we plan longer term so as not to displace the ability of other institutions
+to play their role in the financial markets and grow their businesses—the super-regionals that are
+healthy and so on. But I guess just philosophically what concerns me longer term is that, in
+response to these actions, there are no other people to take these steps, but we’re creating larger and
+larger concentrations and bigger and bigger situations where we have too big to fail. I’d just like at
+some point to have a conversation on that matter. I’m not objecting to the move taken, obviously,
+
+September 29, 2008
+
+14 of 16
+
+but it is going to present a bigger problem as we go down the path because we’re getting increasing
+concentration in fewer and fewer institutions. Just a comment. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Well, let me just add that I share your concern. There is an
+increasing concentration. On the other hand, you could also view it as part of a process of
+consolidation as well, as we have reduced the number of independent investment banks, for
+example. But I agree with that. We have been very constrained throughout this entire crisis, as you
+know, by the existing facilities for dealing with failing institutions and mergers being one of the
+only tools we have. Going forward, I think there is some hope in the near term under the new
+TARP, which would allow resolutions using capital injections basically without necessarily doing a
+merger. Then subsequently, I think it’s very important, as we look toward restructuring our
+financial regulatory system, to develop good resolution mechanisms and to think about the issues of
+concentration and too big to fail. So I take your point, basically.
+MR. FISHER. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Any other questions for Scott or for Jeff? All right. If not, let
+me turn to our last item on the agenda, which is interest on reserves. The TARP legislation provides
+for that, and Brian will talk a bit about how we might use that.
+MR. MADIGAN. Thanks, Mr. Chairman. As the Chairman indicated, the TARP
+legislation includes a provision that accelerates the effective date of the authority to pay
+interest on reserves from October 1, 2011, to October 1, 2008. The Federal Reserve
+staff believes that we’re ready to start paying interest on reserve balances beginning with
+the reserve maintenance period that starts on October 9. Assuming that the legislation is
+passed by the Congress and signed by the President later this week, we plan to
+recommend shortly thereafter to the Board that the Board direct the Reserve Banks to
+begin paying interest on reserves on October 9. Specifically, we plan to suggest that
+required reserve balances be remunerated at a rate of the target federal funds rate less
+10 basis points, and more significantly in current circumstances, that excess reserve
+balances be remunerated initially at a rate of the target federal funds rate less 50 basis
+points. We anticipate that the spread between the excess reserves rate and the target
+federal funds rate may well need to be adjusted over time, but we’re suggesting a
+50 basis point spread initially. We’re proposing no other significant changes to the
+
+September 29, 2008
+
+15 of 16
+
+reserve maintenance framework at this time, although we’ll be recommending a few
+relatively technical changes that are motivated by the ability to pay interest on reserves.
+In more normal circumstances, we’d think of the system that we’re recommending at
+this time as being a type of a corridor system but with required reserves. The primary
+credit rate should set the ceiling for the federal funds rate; the excess reserves rate
+should set the floor.
+In the current circumstances, though, it may turn out that the system will operate
+more like what we have been calling a floor system in which the gap between the target
+federal funds rate and the excess reserves rate is narrow. This is because, as was
+discussed earlier, our tools to absorb reserves provided by, again, various lending
+operations could be constrained given the limited remaining capacity to sell securities
+and possibly reluctance on the part of Treasury to expand further the supplementary
+financing program. In any case, the interest rate on excess reserves should put a floor—
+possibly a soft floor, but a floor—under the funds rate and thereby allow the Federal
+Reserve to conduct monetary policy appropriately while providing liquidity consistent
+with financial stability. I would note that the overall reserve maintenance framework
+will remain very complex, possibly overly complex. The staff plans to continue the
+study that we presented to the Reserve Bank presidents and the Board members earlier
+this year, and at some point, we expect to bring significant further changes to the
+policymakers for consideration. But for now, we think that the changes that we’re
+proposing will make effective use of the authority that we expect we’ll have beginning
+on October 1. Thanks, Mr. Chairman.
+CHAIRMAN BERNANKE. Thanks, Brian. Are there questions for Brian? President
+Lacker.
+MR. LACKER. Yes, Brian. So at 50 basis points under the target rate for excess, it sounds
+as though your philosophy here is just to limit the tails of the intraday funds rate distribution rather
+than to attract a lot of funds and replace the Treasury program. Is that accurate? I mean, how do
+you intend to approach that question?
+MR. MADIGAN. President Lacker, I think we’re going to need to proceed somewhat
+adaptively. We’ll be going from one type of system, in which there has been no remuneration on
+excess reserves, to one with a rate that’s fairly close to—50 basis points under—the federal funds
+rate. My guess is that it could attract a substantial increase in banks’ interest in holding excess
+reserves, especially under current circumstances, when there’s a lot of concern about counterparty
+
+September 29, 2008
+
+16 of 16
+
+credit risk. It may well be the case, as I mentioned, that we’ll be proposing a further narrowing of
+the excess reserves rate as we get experience, and we may, indeed, have to do that if our ability to
+drain reserves is otherwise constrained. We may need to use the excess reserves rate as the way to
+effectively set the federal funds rate. But I think we’ll need to see how it goes and get some
+experience.
+CHAIRMAN BERNANKE. Other questions for Brian? Jeff, did you have another
+question? No. Okay. Any other comments or issues? If not, thank you very much, again, for the
+short notice, and we’ll obviously keep you well briefed, and we hope you’ll do the same for us.
+Good morning.
+END OF MEETING
+
+

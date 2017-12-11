@@ -1,0 +1,3123 @@
+ September 20, 2005
+ 
+ 1 117
+ 
+ Meeting Federal Open Market Committee
+ September 20, 2005
+ meeting Federal Open Market Committee held offices Board
+ Governors Federal Reserve System Washington, D.C., 9:00 a.m. Tuesday,
+ September 20, 2005. present following:
+ Mr. Greenspan, Chairman 
+ 
+ Mr. Geithner, Vice Chairman 
+ 
+ Ms. Bies 
+ 
+ Mr. Ferguson 
+ 
+ Mr. Fisher 
+ 
+ Mr. Kohn 
+ 
+ Mr. Moskow
+ 
+ Mr. Olson
+ 
+ Mr. Santomero 
+ 
+ Mr. Stern 
+ 
+ Messrs. Guynn Lacker, Mses. Pianalto Yellen, Alternate Members Federal
+ Open Market Committee
+ Mr. Hoenig, Ms. Minehan, Mr. Poole, Presidents Federal Reserve Banks
+ Kansas City, Boston, St. Louis, respectively
+ Mr. Reinhart, Secretary Economist 
+ 
+ Ms. Danker, Deputy Secretary 
+ 
+ Ms. Smith, Assistant Secretary
+ 
+ Mr. Alvarez, General Counsel 
+ 
+ Mr. Baxter, Assistant General Counsel 
+ 
+ Ms. Johnson, Economist 
+ 
+ Mr. Stockton, Economist 
+ 
+ Messrs. Connors, Evans, Freeman, Madigan, Ms. Mester, Messrs. Oliner,
+ Rosenblum, Wilcox, Associate Economists
+ Mr. Kos, Manager, System Open Market Account
+ Messrs. Slifman Struckmeyer, Associate Directors, Division Research
+ Statistics, Board Governors
+ Messrs. Clouse Whitesell, Deputy Associate Directors, Division Monetary Affairs,
+ Board Governors
+ Mr. English, Assistant Director, Division Monetary Affairs, Board Governors
+ 
+ September 20, 2005
+ 
+ 2 117
+ 
+ Mr. Simpson, Senior Adviser, Division Research Statistics, Board Governors
+ Mr. Skidmore, Special Assistant Board, Office Board Members, Board
+ Governors
+ Mr. Small, Project Manager, Division Monetary Affairs, Board Governors
+ Mr. Durham, Senior Economist, Division Monetary Affairs, Board Governors
+ Mr. Luecke, Senior Financial Analyst, Division Monetary Affairs, Board Governors
+ Ms. Low, Open Market Secretariat Specialist, Division Monetary Affairs, Board
+ Governors
+ Mr. Rives, First Vice President, Federal Reserve Bank St. Louis
+ Mr. Eisenbeis, Executive Vice President, Federal Reserve Bank Atlanta
+ Messrs. Elsasser, Fuhrer, Hakkio, Rasche, Sniderman, Weinberg, Williams, Senior
+ Vice Presidents, Federal Reserve Banks New York, Boston, Kansas City, St. Louis,
+ Cleveland, Richmond, San Francisco, respectively
+ Mr. Potter, Assistant Vice President, Federal Reserve Bank New York
+ Mr. Weber, Senior Research Officer, Federal Reserve Bank Minneapolis
+ 
+ September 20, 2005
+ 
+ 3 117
+ 
+ Transcript Federal Open Market Committee Meeting
+ September 20, 2005
+ 
+ CHAIRMAN GREENSPAN. Good morning, everyone. We’ll start Mr. Kos.
+ MR. KOS.1 Good morning, Mr. Chairman. Thank you. I’ll referring
+ charts front you.
+ intermeeting period, market participants principally occupied
+ economic impact Hurricane Katrina alternating judgment
+ whether growth inflation effects would dominate.
+ top panel page 1 graphs 3-month deposit rate black
+ rate 3 months 9 months forward red. two weeks last meeting,
+ 9-month forward rate edged bit, market participants began speculate
+ tightening cycle pushing fed funds rate territory within
+ hailing distance so-called neutral rate. Forward rates fell sharply
+ days August 29. Suggested reasons fall include possibility
+ Committee might pause meeting negative growth impact
+ hurricane would dampen output abbreviate cumulative amount tightening,
+ even Committee move today. However, forward rates began rise
+ market participants shrugged initial worries lower growth began
+ worry somewhat potential inflationary effects. concerns
+ reinforced higher prices-paid data manufacturing surveys also
+ Friday’s inflation expectations component Michigan consumer survey.
+ Longer-term yields (in middle panel) told similar story, 10-year
+ Treasury yield heading toward 4.0 percent aftermath hurricane rising
+ 4¼ percent subsequently. yield curve, flattened expectations
+ impact growth would dominate, steepened concerns growth
+ balanced equal concerns inflationary effects. Adding uncertainty
+ Treasury market wide range estimates rebuilding Gulf region
+ hence additional federal borrowing fiscal 2006.
+ bottom panel graphs breakeven inflation curve three dates: day
+ last FOMC meeting, Friday Katrina hit, past Friday.
+ horizontal axis represents maturity outstanding inflation-indexed Treasury
+ security. Note short end curve began rise Katrina inasmuch
+ oil gasoline prices already begun ascent. breakeven curve rose
+ 
+ 1
+ 
+ materials used Mr. Kos appended transcript (appendix 1).
+ 
+ September 20, 2005
+ 
+ 4 117
+ 
+ next three weeks across curve, though rise especially
+ pronounced short end.
+ nominal rates, balance, little changed period breakeven
+ curve higher, effect lower steepen real yield curve, shown
+ top panel page 2. Given arithmetic relationships nominal
+ breakeven yields, graph merely takes information last two charts
+ shows another way. Nevertheless, reduction real yields pronounced
+ may suggest—at least next years—that investors eagerness
+ protection rising inflation. asset markets, spreads volatilities
+ mixed balance exhibit uniform anxiety changed outlook.
+ middle panel graphs performance July 1 selected equity indexes.
+ general, equities risen globally period, apparently unfazed higher
+ energy prices. middle right panel graphs performance S&P 500
+ major components since hurricane. surprisingly energy stocks
+ performed best. Meanwhile, consumer-related equities performed worst.
+ retailers, especially catering lower-income households,
+ particularly hard hit, higher gasoline prices took toll consumers even
+ Katrina.
+ Municipal bonds issued governments Gulf region held fairly well
+ despite physical destruction. illustration, bottom panel graphs
+ spread 10-year Treasury New Orleans bond 2029. spread
+ narrowed versus Treasuries outperformed broader index. Apparently,
+ prospect multibillion-dollar infusion federal funds quickly eased anxieties
+ investors might had.
+ Turning page 3, uniform response spread options
+ markets hurricane. top left panel shows implied volatility 1-month
+ option front-month gasoline contract year date. refinery
+ outages, it’s surprise volatilities gasoline jumped sharply, though
+ extent spike noteworthy. However, noted earlier, picture
+ assets mixed. top right panel graphs implied 1-month volatility 1-
+ 10-year swaptions. Volatilities longer-dated swaptions barely budged, though
+ shorter-dated swaptions—which sensitive changing expectations
+ monetary policy—volatility rose sharply.
+ equity markets rising modestly, VIX [S&P 100 volatility index] traded
+ toward lower end range actually declined hurricane, shown
+ middle left panel. Meanwhile, volatilities currencies, shown middle
+ right panel, stayed low high single digits.
+ 
+ September 20, 2005
+ 
+ 5 117
+ 
+ Finally, credit spreads showed clear pattern. investment-grade spread
+ bottom left high-yield spread yellow bottom right rose
+ slightly. contrast, EMBI+ [Emerging Markets Bond Index Plus] continued
+ narrow all-time low spread despite higher energy prices, political scandal
+ Brazil, uncertain elections 2006 several large issuer countries, including
+ Mexico Brazil.
+ Turning page 4, wanted return topic President Minehan asked
+ last meeting, namely, dynamics related settlement Treasury
+ futures contract.
+ provide background context, top panel depicts light blue
+ bars peak open interest 10-year Treasury futures contract. dark blue
+ bars represent issue size cheapest-to-deliver Treasury security, also called
+ CTD. Starting 2002, volumes open interest futures contracts
+ began rise sharply. issue size remaining $20 billion range, ratio
+ open interest size CTD increased sharply.
+ growth peak open interest raise eyebrows initially since
+ futures contracts used speculative, hedging, arbitrage purposes.
+ contracts closed rolled next contract maturity,
+ volume securities actually delivered de minimis.
+ example, middle left panel graphs March 2002 contract open
+ interest blue. 15 days trading left, open interest $40 billion
+ equivalent 10-year futures contract. next days slow
+ decay open interest, traders closed positions rolled next
+ contract. tiny amount actually settled. short positions
+ trouble borrowing August 2010 security, CTD contract.
+ normal state affairs.
+ However, markets grown, large market participants begun
+ view taking delivery securities viable option compared alternative
+ slowly building position cash market. traders—perhaps
+ opportunistically—have noted disparity peak open interest
+ relatively small issue size may concluded increased
+ possibility shorts might deliver securities CTD.
+ center middle panel graphs situation June. Open interest decayed
+ slowly long positions futures market find profitable
+ roll positions. Instead took delivery. shorts realized would
+ forced deliver, scramble find February 2012 security.
+ event, shorts able find enough CTD—about $14 billion—to fully
+ 
+ September 20, 2005
+ 
+ 6 117
+ 
+ satisfy delivery obligations, experience fostered conspiracy theories
+ press articles followed possible squeeze.
+ September contract, two days trading left, proving equally
+ challenging. shown middle right panel, open interest 15 days
+ trading left elevated $70 billion so; decay slow, suggesting
+ longs would trigger multi-issue delivery. past days, open
+ interest decreased, possibility multi-issue delivery remains.
+ CTD settlement cycle August 2012 security. one would 
+ 
+ expect, issue hard find trading special repo market. 
+ 
+ bottom left panel shows blue overnight repo rate security, 
+ 
+ decreased 3 percent zero became apparent would 
+ 
+ sizable delivery contract. security “boxed,” stopped 
+ 
+ trading repo market, fails issue jumped $90 billion 
+ 
+ yesterday $110 billion. previous experience, fails 
+ 
+ clear quickly contract settles. 
+ 
+ So, flurry activity affected cash market shape yield
+ curve? indications answer no. bottom right panel graphs notes
+ 5- 10-year sector late last week. red dot August 2012
+ security. trading slightly rich curve disproportionately so,
+ doesn’t seem affecting neighboring securities.
+ Chicago Board Trade instituted position limits individual
+ participants last 10 days trading, beginning December contract.
+ Whether alleviate problem shift pressure elsewhere remains
+ seen.
+ Mr. Chairman, foreign operations period. 
+ 
+ regard, want note coming Thursday mark five years since last 
+ 
+ intervention. need vote approve domestic operations. 
+ 
+ CHAIRMAN GREENSPAN. obviously perceived advantage taking
+ delivery securities rather going market purchasing them. sort
+ non-conspiratorial view lot people think something going and, therefore,
+ might well sit accept delivery even though intention bought
+ futures. know going on? certainly know participants are—or
+ least Exchange knows. learned?
+ 
+ September 20, 2005
+ 
+ 7 117
+ 
+ MR. KOS. Well, I’ll let Bob Elsasser fill texture here. Certainly, larger
+ investors active futures market using contracts ways
+ had, say, 10 15 years ago. prospect a—
+ CHAIRMAN GREENSPAN. Fannie Freddie disproportionately
+ chance? Obviously, use securities.
+ MR. KOS. Yes, I’m specifically referring them. So, larger entities
+ become active futures, prospect buying multibillion dollar
+ position futures market daunting. It’s something they’re easily capable
+ doing, whereas probably 15 20 years ago taking large position financing
+ might task. think that’s part story.
+ Second, going cash market building multibillion dollar position might take
+ long time. might move price you, whereas futures market there’s
+ lot liquidity ways could done easily. Now, that’s something
+ trading dynamics. point out, people think something happening—if one trader
+ thinks somebody else going taking delivery—then might get bandwagon.
+ might add positions hope getting cheaper securities.
+ CHAIRMAN GREENSPAN. Instead scheduled close-out.
+ MR. KOS. Yes. Now, dynamics summer don’t want
+ get position limits Board Trade instituted, affected
+ situation one point. whole, yes, intended close position,
+ might inclined take delivery observe large open interest.
+ 
+ September 20, 2005
+ 
+ 8 117
+ 
+ MR. REINHART. Another point would make, Mr. Chairman, contract
+ allows make delivery securities maturing 6½ 10 years. Chicago
+ Board Trade set adjustment factors appropriate yields 6
+ percent. yield curve flat 6 percent, securities maturing
+ 6½ 10 years would perfect substitutes. small movement cash market would
+ immediately mean could bring another security make delivery. yields
+ sector well different 6 percent now, cheapest-to-deliver security distinct.
+ get movement cash market without spilling next security
+ security that. sense, natural arbitrage basket deliverable
+ securities supposed provide working well, adjustment factors
+ settlement price multiplied kilter prevailing level yields.
+ CHAIRMAN GREENSPAN. Yes. I’m rather fascinated open interest
+ higher, get close end contract, total stock issue. That’s
+ counterpart used old corn squeeze. guys it—
+ MR. REINHART. Right. used trade May Maine potato futures
+ potatoes Maine May. [Laughter]
+ CHAIRMAN GREENSPAN. time. [Laughter]
+ MS. MINEHAN. Treasury looking at? something else
+ Treasury task force studying?
+ MR. KOS. Well, Treasury issue large-position report request last week
+ particular security. So, large positions report particular date—
+ it’s sometime week.
+ 
+ September 20, 2005
+ 
+ 9 117
+ 
+ MS. MINEHAN. looking situation?
+ MR. KOS. know they’re concerned situation, certainly
+ signaling effect perceived market Treasury issued request large-position
+ reports. saw decay accelerating right request, perhaps longs
+ took signal reduce positions.
+ CHAIRMAN GREENSPAN. questions? not, would someone like move
+ ratification transactions Desk?
+ VICE CHAIRMAN GEITHNER. moved.
+ CHAIRMAN GREENSPAN. Without objection, approved. move
+ economic situation. Karen Johnson David Stockton.
+ MS. JOHNSON. Thank you, Mr. Chairman. Spot prices crude oil 
+ 
+ especially volatile intermeeting period, uncertainty 
+ 
+ consequences possible hurricane damage, along risks, drove prices 
+ 
+ Katrina hit Gulf shore evolving expectations near- 
+ 
+ medium-term implications storm damage induced fluctuations weeks 
+ 
+ following Katrina. last days, concerns Tropical Storm Rita 
+ 
+ added mix. practice, relied futures 
+ 
+ markets sort uncertainties crude oil supply demand 
+ 
+ forecast period, projection WTI [West Texas intermediate] prices 
+ 
+ end 2007 drawn futures curve September 12. 
+ 
+ complexities Katrina=s effect energy prices such, however, 
+ 
+ specifying WTI price still left unanswered number questions related 
+ 
+ prices quantities, global outlook U.S. economy. 
+ 
+ normal U.S. refining capacity accounting roughly 80 percent U.S. 
+ 
+ demand, four refineries region still closed, projected partial 
+ 
+ substitution refined products crude U.S. oil imports near term. 
+ 
+ addition, global refinery operations already capacity, least terms 
+ 
+ refineries capable producing products meet U.S. specifications, 
+ 
+ scope U.S. demand draw upon global supply without impact 
+ 
+ price. consequence, prices refined products abroad, particularly gasoline, 
+ 
+ risen. assumed refineries operational 
+ 
+ beginning 2006. 
+ 
+ 
+ September 20, 2005
+ 
+ 10 117
+ 
+ U.S. crude oil production Gulf remains 50 percent level
+ Hurricane Katrina, reduction offset release
+ Strategic Petroleum Reserve. expect repairs damaged facilities
+ occur time incorporated forecast gradual recovery
+ completed early next year. Consequently, bumped projection
+ crude oil imports first quarter account transitory shortfall. net
+ effect developments raised projected price spot WTI
+ oil $1.40 per barrel fourth quarter year $1.80 per barrel next
+ year. However, near term raised projection U.S. oil import
+ price more, $2.60 per barrel fourth quarter $2 per barrel
+ following quarter, reflect change mix toward imports refined product
+ rise product prices well crude prices. net result forecast
+ oil import bill notably higher near term, less end
+ next year.
+ elements external forecast affected Hurricane Katrina
+ include shipments non-oil goods United States
+ region=s port facilities. immediate percentage impact exports judged
+ bit larger non-oil imports, imports greater flexibility
+ diverted ports. port facilities reopening quickly, effects,
+ particularly net basis, small. addition, current account balance
+ positively changed receipts U.S. insurance firms payments owing
+ reinsurance abroad and, lesser extent, aid contributions countries
+ U.S. economy. items appear transfer receipts nontrade
+ portion current account. balance, range impacts Katrina
+ expected transitory limited magnitude.
+ outlook foreign growth inflation is, course, also influenced
+ change forecast global energy prices changes projected
+ U.S. economy. near term, two factors work direction
+ lessen foreign growth. longer horizon, U.S. growth projected rebound
+ next year, partly offsetting. Upward pressure inflation energy prices
+ growing concern central banks officials abroad. event Hurricane
+ Katrina reinforced trend toward elevated oil prices unfolding
+ past years. foreign countries, particularly emerging-market
+ economies, officials controlled domestic energy prices blunt effects
+ higher global prices. elevated oil prices continued, foreign officials
+ started remove lessen subsidies, consequent effects inflation
+ pressures. David continue presentation.
+ MR. STOCKTON. adjusting forecast U.S. economy incorporate
+ consequences Hurricane Katrina, forced rely economic
+ judgment assumption models. Perhaps well, given
+ heard last month Jackson Hole. various turns, staff criticized
+ 
+ September 20, 2005
+ 
+ 11 117
+ 
+ building models bear resemblance economic reality praised—or least
+ think praised—for good sense essentially ignore
+ models wise use add factors.
+ mixed message reminded story told Nobel laureate Ken Arrow.
+ World War II, Arrow assigned team statisticians produce longrange weather forecasts. time, Arrow team determined
+ forecasts much better pulling predictions hat. wrote
+ superiors, asking relieved duty. received following reply,
+ quote “The Commanding General well aware forecasts good.
+ However, needs planning purposes.” [Laughter]
+ I’ll admit face usual challenges period ahead.
+ next months, suspect encounter considerable difficulty
+ extracting macroeconomic signal economic data could profoundly
+ affected consequences disaster. set task,
+ important lose sight fact larger influences monetary
+ fiscal policy, financial conditions, global energy developments, rather
+ hurricane, likely dominate macroeconomic outcome year hence.
+ regard, might seem like ancient history world away,
+ macro data received since August Greenbook provide window
+ forces shaping economic developments prior Katrina. brief,
+ saw balance incoming information broadly consistent view
+ economy growing brisk pace early second half.
+ particular, household sector seemed especially buoyant. Sales motor
+ vehicles receiving considerable boost employee discount programs.
+ last week’s retail sales report August suggested consumer spending
+ excluding motor vehicles well maintained. Meanwhile, housing activity
+ remained strong, starts sales holding near historic highs.
+ mention morning’s release showed housing starts August remaining
+ 2 million units annual rate—close expectations. Even external sector
+ appeared poised make contribution current-quarter growth, rather
+ drag earlier anticipated.
+ disappointments well, mostly focused business
+ sector. Growth factory output slowed noticeably, manufacturing IP
+ [industrial production] averaged increases 0.2 percent recent months—
+ half pace seen late last year. interpreted deceleration reflecting
+ efforts firms bring inventories better alignment sales, expect
+ pickup activity process plays out. yet, hard data
+ suggest marked improvement close hand.
+ 
+ September 20, 2005
+ 
+ 12 117
+ 
+ incoming information new orders shipments nondefense capital
+ goods also soft side expectations. Spending computers
+ looks track 16 percent increase current quarter, relatively
+ modest gain component well previous projection. outlays
+ capital goods outside tech area flat since turn
+ year. may recall, equipment investment surprisingly strong second
+ half last year, may experiencing payback earlier
+ strength. also possible, however, higher oil prices could damping
+ business confidence, raising uncertainty outlook making firms
+ reluctant invest. And, course, can’t rule possibility recent
+ weakness equipment spending reflects dearth profitable investment
+ opportunities, would raise questions underlying thrust aggregate
+ demand going forward. now, think early reach conclusion,
+ recent softness certainly raises risk.
+ Putting pluses minuses together, thought economy track
+ growth vicinity 4 percent second half year.
+ encouraged interpretation ongoing improvement labor markets.
+ Gains private payrolls averaged 175,000 recent months,
+ readings initial claims remaining low 300,000s, continuation
+ increases seemed likely.
+ Looking little road, usual crosscurrents
+ key factors influencing contours forecast. Oil prices continued rise,
+ siphoning even purchasing power households. But, surprised
+ yet strength housing prices, OFHEO [Office Federal
+ Housing Enterprise Oversight] repeat-transactions index 13 percent
+ year ending second quarter. associated upward revision housing wealth
+ offset slightly weaker stock market boost overall household net worth
+ projection period. all, seems likely that, absent hurricane,
+ would presenting forecast similar
+ August Greenbook.
+ is, course, understatement say Katrina creates complications
+ forecast—some confronted past unique
+ episode. sizable destruction capital stock;
+ assumed loss $75 billion, point estimate must
+ considered guess subject substantial revision. unprecedented
+ displacement people activity Gulf Coast region. Important links
+ nation’s transportation network disrupted. perhaps greatest
+ concern macroeconomic perspective, economy subjected
+ energy price shock time households businesses already
+ cope effects nearly two years steadily climbing prices.
+ 
+ September 20, 2005
+ 
+ 13 117
+ 
+ noted Greenbook, assessment that, wrinkles,
+ influence Katrina economic activity trace pattern similar
+ seen previous disasters. Output depressed near term
+ disruptions production region elsewhere. disruptions ease,
+ activity begins recover. rebuilding efforts really get way,
+ output receives considerable boost. reality, aspects three phases
+ operate simultaneously—but different intensities time passes.
+ regard, one can’t fail impressed rapidly aspects
+ recovery process already occurring—in many cases, faster initially
+ expected. evacuees finding employment elsewhere; many firms either
+ temporarily permanently relocating offices employees; workarounds
+ found transportation bottlenecks developed.
+ Still, denying disruptions remain substantial. 15 percent
+ total U.S. oil production 7 percent U.S. natural gas output remain shut
+ facilities located Gulf. Karen noted, four refineries still line full
+ recovery may occur several months. Activity chemical,
+ shipbuilding, food processing industries—to name few—remains seriously
+ impaired. broadly, business disrupted throughout region.
+ many businesses effective developing workarounds,
+ adjustments often less efficient expensive before.
+ forecast, assumed disruptions pull level
+ activity third fourth quarters, lopping ½ percentage point
+ annualized growth real GDP second half year. Accompanying hit
+ growth, payroll employment expected drop 250,000 September—a shortfall
+ 400,000 relative trend. Employment expected stage gradual
+ recovery subsequent months.
+ Although rebuilding activities already way, activities don’t really
+ show macroeconomic force early next year. regard,
+ draining environmental cleanup New Orleans slow rebuilding phase
+ compared past hurricane recoveries.
+ dynamics recovery process influenced importantly
+ response federal government. assumed $85 billion fiscal package,
+ $70 billion spent next two years. spending
+ projected provide powerful counterbalance depressing effects Katrina
+ chief reason activity projected approach pre-hurricane baseline
+ middle next year.
+ assumed federal spending package might seem small compared $200
+ billion figure gained attention recent days. However, think
+ 
+ September 20, 2005
+ 
+ 14 117
+ 
+ package appropriately scaled estimates extent damage
+ occurred dimensions economic disruptions. Even scaling,
+ note federal government footing bill vastly larger
+ share losses typical—nearly dollar dollar forecast relative
+ 25 percent reimbursement rate norm.
+ One obvious risk confront hurricane, viewed
+ macroeconomic perspective, could prove less disruptive activity massive
+ dose fiscal stimulus layered top economy already
+ nearing productive limits. circumstances, potential
+ overshooting output accompanying upward pressure inflation.
+ Katrina amplified downside risks outlook well.
+ Prior storm, already concerned cumulative effects rise
+ energy prices past two years. noted briefing yesterday,
+ least evidence sharp jumps price oil times past
+ associated outsized effects consumption. retail price
+ gasoline risen $3.00 per gallon much country, certainly
+ cause concerned. macro guy, hope involved
+ supervision haven’t hard home equity lending, pretty soon
+ people going need loan fill SUVs. [Laughter] Moreover, price
+ gasoline drain consumer budgets. Households face another
+ hurdle winter bills heating oil natural gas come due.
+ source downside risk seems likely us time.
+ now, simply isn’t much hard evidence suggest nonlinear response
+ gaining traction. noted earlier, consumer spending continued surprise
+ us upside. Although last Friday’s report sentiment showed substantial
+ deterioration, drop closely matched expectations. forecast predicated
+ gradual recovery sentiment end year. occur,
+ would become concerned greater retrenchment consumer
+ spending.
+ course, cumulative effects higher energy prices also pose
+ nonlinear risks inflation outlook. Three channels, entirely independent
+ other, would seem greatest concern: broad-based breakout
+ upside inflation expectations; intensified push part workers restore
+ real wages ground lost higher energy prices; effort businesses
+ aggressively repair damage may occurred profit margins
+ rising energy costs.
+ one inclined worry potential pronounced
+ deterioration inflation expectations, last Friday’s preliminary read
+ Michigan survey September might unsettling. Median year-ahead inflation
+ 
+ September 20, 2005
+ 
+ 15 117
+ 
+ expectations moved 4.6 percent, highest level since 1990,
+ expectations next 5 10 years edged 3.1 percent, narrow
+ range held past several years. However, suspect
+ enormous increase gasoline prices took place first half
+ month contributor development, would counsel waiting
+ readings concluding consequential deterioration
+ inflation expectations. view receives support TIPs [Treasury
+ inflation-protected securities]-based measures inflation compensation,
+ also increased, much less survey reading.
+ also don’t see much evidence verge substantial
+ acceleration labor compensation motivated efforts workers restore real
+ wages. Abstracting surge late last year believe related, part,
+ stock option exercises bonuses, growth hourly labor compensation
+ reasonably stable past years. labor market
+ tightened up, don’t hear much business contacts suggest
+ competitive environment changed way would altered ability
+ inclination grant substantially larger pay increases period ahead.
+ Finally, concern steep rise energy costs placed
+ margins businesses pressure efforts restore margins could
+ result upward price pressure currently anticipated forecast.
+ sure, considerable heterogeneity across industries. However, best
+ judge, aggregate, margins nonfinancial non-energy producing
+ corporations reached high levels past couple years despite pressures
+ energy costs. Hence, businesses either reasonably successful
+ passing higher energy costs implemented offsetting
+ efficiencies. Looking forward, think made adequate allowance
+ pass-through higher energy prices, acknowledge
+ considerable uncertainties magnitude effect.
+ Much like data real activity, incoming information price side
+ provides little evidence emerging nonlinear response higher energy prices.
+ Indeed, recent figures core inflation well-behaved
+ low side expectations. basis last week’s CPI, estimate core
+ PCE prices 0.1 percent August track increase around
+ 1¼ 1½ percent annual rate third quarter. Moreover, prices core
+ intermediate materials actually falling past four months
+ steep run-up experienced last year. anticipating acceleration core
+ consumer prices core intermediate prices months immediately ahead,
+ owing end auto incentive programs pass-through higher
+ energy prices. built effects forecast using usual linear
+ models guides, rather incorporating outsized effect.
+ 
+ September 20, 2005
+ 
+ 16 117
+ 
+ believe yet experienced nonlinear effects either
+ output inflation, upward movement energy prices would certainly
+ intensify risks outcomes. another storm moving toward Gulf,
+ watching Weather Channel closely next days.
+ closing, would like draw attention substantial changes 
+ 
+ content format Greenbook’s green sheets implemented 
+ 
+ round. far determine, significant change 
+ 
+ forecast presentation decades. recognize may imposed 
+ 
+ transition costs used previous format. 
+ 
+ objective make presentation user-friendly make forecast 
+ 
+ changed rounds transparent staffs. 
+ 
+ Obviously, open suggestions improvement and, past 
+ 
+ prologue, able work Greenbook point 
+ 
+ next decades. [Laughter] 
+ 
+ Karen happy take questions.
+ 
+ CHAIRMAN GREENSPAN. Questions? President Lacker.
+ 
+ MR. LACKER. Yes. want ask effects Hurricane Katrina output 
+ 
+ potential output. read list effects. Obviously, destruction
+ capital stock. Workers displaced; break relationships
+ employers, obviously sort search process reconnect
+ labor market. transportation disruptions. seem
+ like factors affect productive capacity, would expected appear
+ changes potential output. I’m curious output changes potential.
+ MR. STOCKTON. part actually incorporated estimate potential
+ output destruction capital stock—the $75 billion drop there.
+ tiny fraction compared overall size capital stock that, fact, rounded tenth
+ capital intensity contribution rounded even tenth overall potential GDP.
+ built part in.
+ 
+ September 20, 2005
+ 
+ 17 117
+ 
+ Now, true going experiencing next months
+ combinations demand supply effects, didn’t build temporary disruptions
+ supply chain estimate potential GDP. could have. You’re right;
+ sense temporary reduction supply. wouldn’t necessarily tell take
+ output gap estimates second half seriously terms notion lot slack
+ opened economy.
+ labor market side, actually think hard whether event
+ would significant enough raise structural unemployment. Again, best guess
+ little may going on, isn’t large enough round even tenth overall
+ structural unemployment. people think displaced became structurally
+ unemployed, would increase couple tenths structural unemployment. But,
+ fact, expect early next year significant factor pushing natural
+ rate unemployment. think we’ve tried contend issues. matter
+ presentation, build things raised—for example, transportation
+ bottlenecks—into estimate potential output.
+ MR. LACKER. Well, reason ask high-frequency movements.
+ used word “structural” there, tends associated slowly moving trends—
+ variables bars kind thing. instance like this, think key
+ factor extent high-frequency rapid change productive capacities may
+ taken place. So, question sort letting output gap saying, “Well,
+ two quarters output gap back was.” Given way output gap
+ appears theoretical models use teach people think policy, would
+ 
+ September 20, 2005
+ 
+ 18 117
+ 
+ invite think policy current period differently empirical estimate
+ potential changing fairly sharply along output current period. That’s reason
+ ask.
+ MR. STOCKTON. Obviously, terms transmission output gap thinking
+ inflation, Phillips curve essence flat slightly higher output gap
+ briefly encapsulated forecast doesn’t really noticeable effect.
+ think communicate consequences supply disruptions potential
+ output. again, decided reflection would incorporate part
+ capital stock destruction necessarily supply disruptions admittedly going
+ occurring next months.
+ CHAIRMAN GREENSPAN. President Moskow.
+ MR. MOSKOW. wanted ask question inflation expectations,
+ key part forecast, described. Greenbook, say assume “surging
+ energy costs factors caused inflation expectations drift since 2003.”
+ alternative scenario inflation expectations deteriorate sharply
+ baseline forecast. Could elaborate bit? factors?
+ what’s time horizon you’re talking expectations play out? Also,
+ work way wage price dynamics economy?
+ MR. STOCKTON. terms price forecast evolved last couple
+ years, single biggest factor higher energy prices. we’ve also contend
+ acceleration—of modest dimension, acceleration—in import prices increase
+ materials prices. So, terms decomposing sources revision core consumer
+ 
+ September 20, 2005
+ 
+ 19 117
+ 
+ price inflation numbers, main contributors. Beyond that, haven’t really seen
+ innovations cost structure side businesses think lifted core
+ prices.
+ view, persistence higher headline core inflation last
+ years cause—and think little bit evidence—some small
+ deterioration inflation expectations, built forecast. way
+ shows up, think hinting, comes prospective acceleration nominal
+ hourly labor compensation. haven’t seen yet significant degree. forecast
+ think indirect effects working higher labor costs going forward.
+ time dimension occur, think process probably
+ way. may evidence TIPS-based measures Dino cited,
+ survey evidence suggests process may beginning. We’re starting see
+ small gradual erosion inflation expectations, persists forecast horizon.
+ Now, looking farther out, energy prices projected start declining headline inflation
+ coming 3-plus percent area like 2 percent going forward, would
+ expect process reverse bit period beyond current forecast horizon.
+ inflation pressures probably diminish little point.
+ MR. MOSKOW. core inflation actually going next year, 2006,
+ comes bit 2007.
+ MR. STOCKTON. Core PCE goes 2¼ percent next year comes back
+ 2 percent, indirect effects lower energy prices begin work through.
+ 
+ September 20, 2005
+ 
+ 20 117
+ 
+ we’d probably see beneficial effects alleviating inflation concerns—this would
+ beyond forecast period—which would help push inflation bit further.
+ MR. MOSKOW. Thank you.
+ CHAIRMAN GREENSPAN. know use various measures inflation
+ expectations critical variable, presupposes market superior capability
+ anticipating change normal forecasting procedures. mechanism, point out,
+ think inflation expectations largely reflect higher prices
+ wage bargaining process. done much work area using various measures
+ inflation expectations directly forecast indicator inflation creating reduced form
+ evaluation? record that, fact looked that?
+ MR. STOCKTON. Surprisingly, least surprisingly me, Michigan survey
+ reasonably decent record many years—better might think.
+ CHAIRMAN GREENSPAN. mean long-term inflation forecast?
+ MR. STOCKTON. Well, year-ahead inflation forecast. longer-term forecast
+ actually around long enough develop lot observations that. evidence
+ mixed less throw determinants inflation equation.
+ fact, it’s matter controversy among researchers staff whether
+ Michigan survey additional explanatory value. recognize
+ referring straightforward inflation—
+ CHAIRMAN GREENSPAN. No. wasn’t referring Michigan survey,
+ various measures inflation expectations, including basically level
+ interest rates such. I’m trying get make presumptions insight
+ 
+ September 20, 2005
+ 
+ 21 117
+ 
+ markets future none us personally has. I’m raising question: really
+ information there? words, take level inflation expectations, however
+ defined, today read degree accuracy actual inflation
+ outlook likely be?
+ MR. STOCKTON. indexed securities markets around long enough
+ develop really significant track record. think evidence indexed securities
+ countries information content expectations, don’t know
+ general track record been.
+ MS. JOHNSON. Yes. around longest United Kingdom
+ early years indexed securities clearly held response tax incentives.
+ certain disconnect; wasn’t notion people viewed expectations
+ differing would trade market would settle reflecting
+ expectations margin.
+ I’m aware people generally view solid predictor, would say
+ probably look more. haven’t done independent work that.
+ MR. REINHART. two aspects TIPS market make hard
+ comparisons using securities. first think significant liquidity
+ effects, United Kingdom, early on. estimates liquidity premium come
+ lot. is, TIPS real bargain first two three years trading,
+ probably closely reflect macro environment.
+ second thing measure inflation compensation, inflation
+ compensation inflation expectations plus inflation risk premium. inflation risk
+ 
+ September 20, 2005
+ 
+ 22 117
+ 
+ premium could vary time. Indeed, models would think part reduction
+ long-term rates reduction inflation risk premium. that’s another reason
+ would hard read predictors future inflation.
+ CHAIRMAN GREENSPAN. Several years ago recall ran correlation
+ gold price levels inflation. actually came forecasting capability.
+ rerun recent years?
+ MS. JOHNSON. us.
+ MR. STOCKTON: me. think request. [Laughter]
+ convinced evidence we’ve maintained particular series
+ forecasting.
+ MR. REINHART. think actually alternated requests—asking one us
+ turn—and haven’t updated long time.
+ CHAIRMAN GREENSPAN. problem kept coming out, reasons can’t
+ understand, information capability. reason raise it, know,
+ big, fat spike here, don’t know make it.
+ MS. JOHNSON. Yes, 17-year high. volunteer run gold price. [Laughter]
+ CHAIRMAN GREENSPAN. Provided don’t tell anybody you’re it!
+ MS. JOHNSON. Right.
+ CHAIRMAN GREENSPAN. Governor Ferguson.
+ MR. FERGUSON. Two points—a comment question. I’m actually somewhat
+ surprised answers got last question, Mr. Chairman, staff members
+ R&S [Research Statistics] Monetary Affairs series memos
+ 
+ September 20, 2005
+ 
+ 23 117
+ 
+ question, talked results last meeting. found, terms root
+ mean squared prediction error, staff forecast seemed best forecast one-year­
+ ahead inflation. last four five years, trying control best staff could
+ liquidity effects risk premium effects Vincent talked about, finding
+ TIPS compensation turned somewhat better predictor even staff model.
+ forecasts turned much worse either two talked about.
+ think don’t know lot, know little bit. Maybe could get material circulated
+ again.
+ question, though, point. Dave, threw bit question
+ stand compensation Greenbook said downward
+ revision P&C [Productivity Cost] measure compensation per hour smaller
+ expected and, “we view surge 2004 fourth-quarter compensation
+ permanent less reflection transitory factors stock options.” thought
+ heard say oral presentation pendulum swung back little.
+ MR. STOCKTON. Indeed, get much downward revision
+ expecting and, essence, built forecast persistence level
+ compensation. growth rate compensation moved year still looks like
+ big spike, growth rate going forward hasn’t much higher. So, would say
+ obviously optimistic last time around. give
+ weight, didn’t necessarily see data alone signaling ongoing acceleration
+ labor compensation. two pieces evidence bring bear ECI
+ [Employment Cost Index], shown acceleration, average hourly earnings,
+ 
+ September 20, 2005
+ 
+ 24 117
+ 
+ also shown additional pickup. suggests us we’re probably
+ right track regard sources surge late last year. Speaking broadly
+ overall labor cost pressures, we’re still interpreting current situation one ongoing
+ sharp acceleration rather reflection higher level last year.
+ MR. FERGUSON. Great. Thank you.
+ CHAIRMAN GREENSPAN. think ECI interesting issue. March,
+ recall, get data actual dollar amounts compensation various types
+ ECI. believe used take March data year-on-year try determine part
+ ECI mix change.
+ view quite extraordinary divergence ECI compensation per hour
+ data, looked March data recently see whether aggregate dollar
+ compensation per hour number pick month March, conceptually
+ consistent ECI, moves aggregate compensation per hour pick
+ P&C measure others?
+ MR. STOCKTON. don’t recall whether ECI data, looked spring,
+ actually resolved tension various measures. David Wilcox indicates
+ not. Okay. looked that, but—
+ CHAIRMAN GREENSPAN. conceivable, example, March
+ compensation data series actually show pattern total, would imply
+ significant internal shift change. would fully comprehensible explanation
+ past close
+ 
+ September 20, 2005
+ 
+ 25 117
+ 
+ MR. STOCKTON. Well, looked it, didn’t fact resolve tension
+ them.
+ CHAIRMAN GREENSPAN. didn’t learn anything there. President Fisher.
+ MR. FISHER. Mr. Chairman, two questions. One Karen regard
+ energy futures markets. seen change dynamics markets
+ trading activity—higher numbers contracts size changes—from saw pre-Katrina?
+ MS. JOHNSON. looked enough last days give
+ answer question. been, obviously, past year more, periods time
+ nature trading energy futures market seemed evolving. Indeed,
+ energy futures came thought asset class hedge funds investment
+ banks would open departments would trade aggressively. profit center,
+ not? don’t know ended.
+ instances people concerned died
+ think number contracts thought noncommercial would ebb flow
+ time went by. fact price came back helped time
+ looked somewhat like Japanese stock market late 1980s: sure bet
+ could buy stuff, would make money. went away
+ price developed two-way fluctuations forth.
+ honest, don’t information give whether post-Katrina
+ seen real change. certainly startling quickly price moved yesterday
+ became clear Rita going cross Gulf. volatility may reflect
+ traders different backgrounds acting quickly. wouldn’t interpret indicating
+ 
+ September 20, 2005
+ 
+ 26 117
+ 
+ somehow movements superficial. think genuine increase extent
+ people believe global supply energy vulnerable random events
+ little buffer capacity it. things, think, real.
+ Whether given piece news trading mostly done hedge funds mostly
+ done people genuine need hedge commercial sense, don’t think
+ know. change tone. People feel supply capability refinery
+ level extraction level meet projected demand we’re going
+ bit knife’s edge. believe developments political side Russia
+ Venezuela could easily tip balance. think real.
+ MR. FISHER. reason I’m curious think
+ struggling trying determine speculative element markets. Clearly,
+ speculate whatever reason event, one mentioned,
+ rewarded. sometimes complexion people enter market
+ changes; smart ones get they’ve rewarded they’re replaced
+ used call mullets swim smaller contracts. I’d curious see change
+ dynamics is, indeed change taking place all. question—excuse me?
+ CHAIRMAN GREENSPAN. know something. know subsequent
+ Katrina noncommercial interests net long commercial interests turned net
+ short.
+ MR. FISHER. Yes.
+ CHAIRMAN GREENSPAN. sense gives speculative suppression
+ they’re already out. question big surges which, know quite well,
+ 
+ September 20, 2005
+ 
+ 27 117
+ 
+ occur somebody short cover go long. Currently they’re already
+ long. may part pressure market, although market behavior
+ yesterday tone “we’ve burned once, we’re going burned twice.” It’s
+ correcting part today, I’ve never seen response quickly something could
+ quite speculative. There’s reasonably good chance Rita won’t turn category 3
+ hurricane, end northern Mexico. It’s really quite surprising way
+ market functions.
+ MR. FISHER. Again, talked couple weeks ago, point
+ volatility—not much direction—and yesterday reinforced concern. I’m trying
+ get sense dynamics.
+ CHAIRMAN GREENSPAN. Today gasoline price last saw spot market,
+ 20 cents yesterday, 10 cents. Today it’s fairly stable.
+ MR. FISHER. question $85 billion fiscal stimulus assumption.
+ based rational expectations of, say, women men sit around table?
+ based soundings politicians Capitol Hill? source $85
+ billion figure?
+ MR. STOCKTON. think little bit both. indicated, scale
+ package thought would sufficient sense, given estimates amount
+ damage occurred, provide wherewithal fund substantial amounts
+ rebuilding provide significant offsets income losses associated
+ disruptions.
+ 
+ September 20, 2005
+ 
+ 28 117
+ 
+ $200 million figure which, mentioned briefing, gotten much
+ attention recently actually came play closed Greenbook. even
+ come before, don’t think necessarily would altered projection significantly.
+ reading figure comes high, it’s likely
+ includes funding long range expensive construction projects around New
+ Orleans—for example, significant strengthening levees category 5 level
+ protection. spending would occur outside window current forecast projection.
+ obviously risks, honest, I’d say risks probably
+ upside figure built forecast downside, given
+ current political climate general attitude seems “we’ll spend whatever takes
+ make happen.” illustrated little bit alternative simulation
+ showed Greenbook disruption effects relatively small get much
+ bigger fiscal stimulus. results associated drop unemployment rate
+ would think natural rate bit higher inflation pressures.
+ MR. FISHER. Thank you, Mr. Chairman.
+ CHAIRMAN GREENSPAN. Vice Chair.
+ VICE CHAIRMAN GEITHNER. Karen, know anything remaining
+ capacity—or perhaps say, capacity—of countries
+ substantial stocks refined products release us another significant supply
+ shock affects refined product capacity?
+ MS. JOHNSON. Well, can’t speculate domestic politics would play
+ countries. IEA [International Energy Agency] authorized sale 60
+ 
+ September 20, 2005
+ 
+ 29 117
+ 
+ million barrels strategic reserves members—30 million us 30 million
+ others. going release strategic petroleum reserve
+ crude; that’s store. bidding took place oil, two three days
+ ago, 11 number bids accepted, 30. there’s question
+ minds staff experts whether means second round third round
+ done eventually work 30 million. thinking maybe don’t need
+ 30 million? 30 million done non-U.S. stocks, much
+ product rather crude oil, much simply sold market. global
+ market gasoline needs supply. It’s question targeting necessarily
+ toward us.
+ So, think we’re seeing oil product.
+ could they’ve done, they’ve done far stabilized price.
+ political resistance Europe. Now, think that’s bit naive sense.
+ don’t release more, presumably price would go even higher, right? market never
+ going fragmented, they’re always going feel effect attempt buy
+ gasoline. there’s interplay domestic use versus selling market there’s
+ pressure, particularly Europe, regarding gasoline taxes. think
+ essence fight waged right now. people arguing long-run
+ interests rational energy policy EU [European Union] Commission anybody
+ bit politics saying, “Whatever do, don’t cut gasoline taxes.”
+ actual governments face electorate bit directly caved already. Others
+ going postpone planned increases. wavering.
+ 
+ September 20, 2005
+ 
+ 30 117
+ 
+ go route trying protect domestic populations temporarily
+ lowering taxes forth, guess won’t putting gasoline
+ distribution would appear bailing Americans expense French
+ farmer. isn’t going happen. try protect stocks try
+ segment market. wouldn’t count big source transitory relief price
+ pressure—more already seen—because think politics getting
+ complicated.
+ CHAIRMAN GREENSPAN. President Santomero.
+ MR. SANTOMERO. David, want talk little bit Board’s modeling
+ incorporates higher oil prices output produced elsewhere imported United States.
+ import prices alone?
+ reason ask we’ve spent lot time talking fact higher energy
+ costs haven’t really impacted us much countries. We’ve given two reasons it.
+ One we’re energy-efficient. second output produce less energyintensive. Presumably, actual consumption hasn’t shifted much production,
+ means energy-intensive output produced externally shipped
+ United States. Now, would presumably mean energy-intensive goods would
+ higher prices global price oil, import prices would go greater extent
+ shift mix. Yet forecast import prices falling.
+ work way through? What’s dynamic?
+ MS. JOHNSON. Well, regrettably it’s David’s problem. It’s mine. [Laughter]
+ MR. SANTOMERO. Maybe we’ll get two answers!
+ 
+ September 20, 2005
+ 
+ 31 117
+ 
+ MS. JOHNSON. Let take two halves. I’ll talk little global energy use,
+ we’ll come import price part.
+ model energy demand, energy consumption, energy production, implied
+ change inventories global basis. using information muster.
+ understood people world lack good information.
+ outcry transparency energy production energy capacity
+ exists. volatility President Fisher speaking derives fact
+ IEA makes announcement change estimate demand last
+ year move market. So, quality information available global
+ market certainly far ideal. countries involved, course, rather
+ troubled political areas transparent anything interest,
+ don’t provide data. adds complexity.
+ oil model use lot judgment—the add factors David
+ talking about—and attempt account total oil production essence country. It’s
+ think individual number mix going right sense, try
+ consistent story. start futures curve WTI, make
+ judgments spreads things like Dubai oils loom large global
+ market, use model infer balance supply demand would be.
+ given relied futures markets—basically want view could
+ better futures market—supply becomes residual. forecasts global
+ demand GDP. different weights apply oil-using
+ weights opposed trade weights GDP weights might use places.
+ 
+ September 20, 2005
+ 
+ 32 117
+ 
+ Now, part question often change weights sensitive
+ shifts production taking place world. can’t speak specifically,
+ general revise weights every year. It’s weights 1970
+ keep cranking away using weights. We’ve gone variable weight approach
+ GDP everything else. So, specifically least attempt take account
+ different countries use energy versus things happen. set energy-using
+ weights apply world GDP, gives us, essence, different aggregate
+ world growth purpose, do.
+ we’ve got price we’ve got demand, back supply; supply becomes
+ residual. example, two years ago prices seemed us rather high,
+ inferring need supply pull back order sustain prices. OPEC played
+ role—Saudi Arabia, particular. Go back read Greenbooks two three years
+ ago, story expecting supply contract certain places order futures
+ curve prices realized, oil suppliers target prices, forth.
+ true lately. Indeed, we’ve tapping capacity increasingly
+ last two years. notion global supply enough explain prices
+ seeing flipped become question going get extra supply.
+ time Russia FSU [Former Soviet Union] big source extra non-OPEC
+ supply. seems changed recently. So, supply story tries take
+ things account matches demand futures curve give crude oil picture.
+ account enough barrels make true. run real
+ 
+ September 20, 2005
+ 
+ 33 117
+ 
+ contradiction there, would go back say something
+ assessment demand.
+ take picture, United States—particularly time
+ most—we ask questions domestic capacity supply residual part. Would
+ imported? would mix imports? try make
+ fit. leaves us oil import price move differently global
+ crude prices mix factor. oil import price feeds domestic
+ economy drives elements pass-through domestic production forth.
+ Now, forecast import prices oil price portion distinct non-oil
+ portion, non-oil import prices projection come down. prices
+ kicked around hugely natural gas non-oil primary commodities.
+ internally, don’t put Greenbook, import prices less natural gas check
+ whether fully incorporating think happening natural gas. don’t
+ comparable setup supply demand balance natural gas oil,
+ natural gas would relevant, obviously, North America almost isolated
+ market. liquefied natural gas margin. imports margin.
+ thinking might something quantity natural gas
+ it’s hidden uncertainty overall non-oil import price, it’s uncomfortable
+ haven’t able better control that.
+ Even so, non-oil, non-energy primary commodities big story import
+ prices; caused import prices move up. fact futures markets
+ telling us prices peaked even coming lies behind forecast
+ 
+ September 20, 2005
+ 
+ 34 117
+ 
+ import prices decelerating yet again—and low levels 2006 2007.
+ outlook really combination think non-energy futures markets telling us
+ commodity prices maintained assumption make dollar. Either
+ things could change, forecast completely conditional them, added
+ wrinkle role natural gas embedded non-oil import prices, probably
+ separated out. Now, least terms work do, try partially
+ maybe explicitly.
+ CHAIRMAN GREENSPAN. questions? not, would like start?
+ President Moskow.
+ MR. MOSKOW. Thank you, Mr. Chairman. Overall, fundamentals Seventh
+ District continue improve, although still underperforming national economy. Prior
+ Katrina, contacts thought businesses expanding rates consistent
+ long-run trends industries. One exception motor vehicle sector.
+ size drop sales August disappointment automakers, surprise.
+ also complained effect gasoline prices demand, particularly shift sales
+ away big SUVs toward fuel-efficient less profitable models.
+ asked contacts impact Hurricane Katrina, reported several
+ different kinds effects. noted increased activity response storm. number
+ firms District received orders items RVs, construction materials, heavy
+ equipment, appliances. Ford said looking increasing fourthquarter production schedules replace vehicles destroyed hurricane. also heard
+ concerns Katrina depressing demand. instance, two national retail
+ 
+ September 20, 2005
+ 
+ 35 117
+ 
+ contacts noted decline activity, attributed higher energy prices,
+ uncertainty, CNN effect. High- low-end stores reported okay,
+ specialty retailers taking hit.
+ Katrina also led cost increases District. Grain elevators paying
+ work transportation disruptions dry crops storage. also heard
+ concerns diversion resources Gulf Coast drive cost construction
+ materials skilled tradesmen throughout country. several contacts noted increases
+ costs fuels, fertilizer, shipping. course, cost increases
+ hearing related Katrina. Indeed, major retailer one temporary help
+ contacts commented wage pressures increased notably national level.
+ Turning national outlook, data hand prior Hurricane Katrina
+ pointed solid expansion activity. know devastating Katrina terms
+ misery caused people Gulf Coast. Nonetheless, although uncertainty great,
+ hurricane’s effects national economy likely short-lived. Even near term,
+ Greenbook baseline projection doesn’t Katrina reducing GDP growth trend;
+ certainly early next year hurricane net positive effect growth, given
+ large federal spending coming line.
+ regard inflation, July August readings core prices good, even
+ Greenbook forecast core PCE inflation next year raised 2¼ percent. Last
+ time many us concerned core inflation running upper end range
+ consistent price stability, outlook deteriorated. discussed
+ 
+ September 20, 2005
+ 
+ 36 117
+ 
+ Greenbook, talking earlier, one major reason increase
+ inflation forecast expected pass-through higher energy distribution costs.
+ Another important risk faster compensation growth. compensation per hour
+ ECI projected increase significantly next year, seems consistent
+ anecdotes noted earlier wage pressures. pressures particular concern
+ stage cycle can’t expect continued outsized gains productivity hold
+ unit labor costs. cost increases may absorbed lower profit margins,
+ risk may show higher prices well.
+ outlook inflation already higher, much liquidity financial
+ system, cost excessive policy accommodation could significant. point,
+ continue increase rates safely neutral zone.
+ CHAIRMAN GREENSPAN. President Guynn.
+ MR. GUYNN. Thank you, Mr. Chairman. Obviously, Atlanta Bank’s attention
+ past three weeks riveted Hurricane Katrina aftermath,
+ operational responsibilities areas affected storm concerns welfare
+ New Orleans staff. addition, trying contribute collective
+ understanding policy implications storm aftermath.
+ Let first take opportunity thank colleagues Washington
+ Reserve Banks extraordinary support given us past three weeks
+ contributions many staff members sent New
+ Orleans staff relief fund help desperate employees. Also, it’s
+ understanding borrowed employees least seven Reserve Banks help
+ 
+ September 20, 2005
+ 
+ 37 117
+ 
+ us processing New Orleans checks Atlanta. sister banks Dallas St.
+ Louis Cash Product Office San Francisco gone extraordinary lengths help
+ us meet cash needs hurricane-affected areas.
+ Fortunately, accounted one 176 New Orleans staff. staff
+ members now, amazingly, spread across 12 states, living friends relatives trying
+ restart lives. It’s clear point we’ll able restart operations
+ New Orleans office. sorted various dimensions impact storm
+ could cite much form detailed statistics anecdotal evidence. descriptive
+ information already shared Board staff others around System, let
+ use time focus views important policy implications
+ happened.
+ end, believe—if past experience guide—that hit
+ output, natural inclination people rebuild residences businesses begin kick
+ quickly one might expect. supported inflow insurance
+ payments substantial federal aid President promised, already
+ talked about. believe begin sooner Mississippi,
+ contend flooding delay progress New Orleans. fact, directors
+ Mississippi indicate early last week deals done aggressive cleanup
+ even major repair work already started. perspective then, believe lost
+ output, case forecast Greenbook, made reasonably quickly.
+ greater concern implications prices damage area’s
+ infrastructure, includes oil gas platforms, rail lines, intermodal transportation, bridges,
+ 
+ September 20, 2005
+ 
+ 38 117
+ 
+ refineries, pipelines, natural gas processing facilities. facilities critical
+ production distribution energy energy-related products nation whole.
+ damage already seen, oil natural gas prices spiked, believe
+ important impacts headline core inflation measures. result
+ ripple effects stemming mainly supply shock prices oil gas, refined
+ products, transportation, building materials.
+ addition, promised federal spending help fuel demand labor area
+ construction materials well goods services already short supply
+ needed rebuilding. someone else already indicated, increased
+ demand clearly add short-term price pressures extend beyond South.
+ significant long-lasting price effects still uncertain.
+ example, don’t know long supply problem, particularly natural gas,
+ last. Despite reported elsewhere, on-the-ground sources state large
+ part pipeline system moves oil gas wells processing facilities yet
+ inspected damage, can’t yet know long normal operations
+ resume. Karen noted, uncertainty may exacerbated Hurricane Rita,
+ projected path would take offshore gas oil fields
+ severely hit Katrina. sense implications natural gas
+ disruption associated price run-up given sufficient attention. natural
+ gas reserves reported normal seasonal range prior Katrina, little
+ capacity make near-term shortfalls, could done oil.
+ 
+ September 20, 2005
+ 
+ 39 117
+ 
+ chairman board directors, heads holding company major
+ electric power company serving Southeast, told yesterday natural gas prices
+ remain high futures markets suggest, consumer huge hit coming months.
+ suggests homeowners shocked bills natural gas winter,
+ particularly cold winter, electric utility rates big jump, state
+ regulatory agencies eventually approve pass-through increase generation costs attributed
+ high natural gas prices. know virtually new electric-generating facilities built
+ last couple decades designed natural gas preferred fuel. higher
+ gasoline prices seem finally hit home consumers, coming jolts natural
+ gas electric bills could well show inflation expectations, view.
+ supply price shocks likely transitory, energy supply
+ problems ease bit pumping capacity refineries comes back line, still
+ last several months reverting levels think likely bit higher
+ pre-Katrina levels. increased energy prices show markedly, markedly
+ broad headline inflation measures. also think see significant feedthrough effects core prices. Large industrial users natural gas, like building materials
+ company Georgia-Pacific, whose president Atlanta board, already feeling huge
+ cost pressures high natural gas prices become determined ever pass
+ costs.
+ Another directors worldwide responsibility Dow Chemical indicates
+ prices petrochemical feeder stock oil gas already 20 40 percent
+ soon felt across wide array plastic products industrial chemicals. Another director
+ 
+ September 20, 2005
+ 
+ 40 117
+ 
+ runs major trucking firm indicates costs going roof, fuel
+ surcharges norm. anecdotal information customers readily
+ accepting increased costs, passed readily rather
+ limited competitive pressures. reasons, nearly sanguine either
+ short-term long-term implications prices Greenbook.
+ Putting together, believe, Greenbook clearly lays out,
+ economy went Katrina considerable momentum. looking past next six months
+ so, think hit near-term aggregate growth offset stimulus
+ associated deployment private public funds rebuild.
+ maturity expansion pre-Katrina underscored report one
+ regular temporary employment agency contacts reported seeing shortages
+ several markets number skilled unskilled jobs. fact, raised wages
+ $2.50 hour several categories. think one might make case today pause
+ policy path, case significant monetary accommodation already place.
+ fiscal policy support come targeted federal spending hurricane relief.
+ concerned pressure prices. short-lived,
+ don’t think higher inflation numbers go unnoticed either businesses
+ individuals. think could begin cause deterioration inflation expectations,
+ remained reasonably well contained recently. time, don’t want us
+ appear overreacting short-term supply shock prices; may make seem
+ think we’ve gotten behind curve. believe best way ensure expectations don’t
+ become unraveled continue present policy path bit longer. think means—
+ 
+ September 20, 2005
+ 
+ 41 117
+ 
+ hard me, coming area, say—that increase fed funds
+ target rate another 25 basis points today careful communication
+ craft go announcement. Thank you, Mr. Chairman.
+ CHAIRMAN GREENSPAN. President Santomero.
+ MR. SANTOMERO. Thank you, Mr. Chairman. Third District economy continues
+ expand moderate pace. Consumer spending general merchandise edged up.
+ Retailers report back-to-school shopping got slow start August, attributed
+ exceptionally warm weather, hindered sale fall merchandise. Auto sales
+ brisk, dealers region reporting continuing high rates sales August, except
+ large SUVs. Employment rising steadily region, albeit somewhat slower pace
+ nation. regional unemployment rate ticked July second-quarter
+ level, remains lower national rate.
+ Housing markets remained strong District, sales continuing high rate.
+ Price appreciation continues steady pace, several contacts noted higher-priced
+ homes appear taking longer sell earlier year. nonresidential market
+ continues improve, construction contracts office leasing active. demand
+ commercial space continues expand slow steady pace Philadelphia. Although
+ vacancy rates remain high, seen positive net absorption office space seven
+ consecutive quarters. Rental rates remain steady.
+ Recent manufacturing activity District softer saw earlier
+ year. index general activity manufacturing survey rebounded August fell
+ September positive 2.2, indicating virtually flat manufacturing activity
+ 
+ September 20, 2005
+ 
+ 42 117
+ 
+ District month. downward trend index since beginning year echoed
+ number regional manufacturing indexes well national purchasing managers’
+ index. also significant drop respondents’ expectations future activity.
+ still firms expecting increase activity next six months
+ expecting decline, percentage respondents expecting decline doubled September.
+ point out, however, survey taken days early Katrina event,
+ likely something large drop. We’ll look forward next
+ couple months.
+ Perhaps notable troubling information latest survey
+ significant increase price indexes. prices paid index showed strongest increase since
+ 1973 highest level since January. index prices received also moved higher.
+ Expectations future prices also considerably higher month.
+ Concerns inflation limited manufacturers. economic
+ impact hurricane slight District—and business contacts expect
+ improvement regional economy—the loss petroleum products production
+ facilities Gulf Mexico prompted sharp rise inflation concerns many
+ firms.
+ Turning national outlook, Greenbook noted, incoming data national
+ economy pre-Katrina indicated expansion continuing solid footing, GDP
+ growth slightly higher potential. Labor markets continued improve, little slack
+ remaining. Consumers continued spend good pace despite elevated oil gasoline
+ 
+ September 20, 2005
+ 
+ 43 117
+ 
+ prices. softening recent orders shipments data,
+ reflected usual month-to-month volatility, business spending remained healthy.
+ Higher energy prices showing headline inflation, far little
+ impact core inflation. Katrina hadn’t happened, view decision continue
+ strategy remove monetary policy accommodation would relatively easy.
+ Katrina happen. hurricane human tragedy, noted, changed
+ near-term outlook economy.
+ commend Greenbook staff careful discussion analysis potential
+ effects growth inflation. acknowledge wider band uncertainty
+ around forecasts been. However, baseline forecast, think Greenbook
+ largely right. Certainly, Katrina substantial impact Gulf Mexico’s
+ regional economy many months come. also potentially wider national scope
+ natural disasters. disruption energy shipping sectors,
+ ramifications rest economy.
+ destruction physical wealth oil infrastructure disruption
+ economic activity temporarily reduce growth national economy add
+ inflation near term. Monthly data next couple months going
+ weaker we’d like see, headline inflation numbers going higher
+ would like. effects likely temporary. cleanup already begun,
+ noted, rebuilding efforts funded public private spending add baseline growth
+ fourth quarter next year.
+ 
+ September 20, 2005
+ 
+ 44 117
+ 
+ energy infrastructure rebuilt energy markets stabilize, much runup inflation reverse well. course, longer-run negative impact
+ realm possibility, think see reversal sharp run-up oil gasoline
+ prices hurricane season. That, along good economic prospects, good
+ progress going forward get oil refinery capacity back line, improvement
+ governmental response troublesome beginning help mitigate longer-run
+ impacts.
+ relevant policy options us consider point whether continue
+ removing policy accommodation take pause. would argue prudent course
+ action today remain previous path, i.e., continue move rates gradually.
+ ample fundamental reasons policy action. “We whisker
+ potential output,” quote recent comment President Yellen. like comment—“a
+ whisker.” [Laughter]
+ continue concerned inflationary pressures. higher energy prices
+ saw even Katrina add concern. significant increase
+ amount fiscal stimulus pipeline, discussed, potential keep
+ pressure inflation elevated time, even energy price increases subside. would
+ also note apparent increase near-term inflation expectations. recently released
+ University Michigan Survey, discussed earlier briefing documents, shows fairly
+ hefty increase short- medium-term expectations inflation—a fact worthy
+ attention.
+ 
+ September 20, 2005
+ 
+ 45 117
+ 
+ Finally, believe continuing reduce policy accommodation would best way
+ underscore markets public belief Katrina change
+ underlying economic fundamentals negative impact growth temporary.
+ Markets generally expect rate increase today, believe move would disruptive.
+ contrast, pausing today little improve temporary effects growth
+ Katrina, largely supply shock. pause today grounds Katrina
+ made short-run economic outlook uncertain, think difficult us
+ resume raising rates short term. Economic data coming next couple months
+ production, employment, consumer spending likely weak hurricane
+ effects. Trying craft statement explain raising rates midst weak data,
+ pausing now, would daunting task. pause today, think consider
+ hold while, perhaps even long beginning next year.
+ mind, poses unacceptable risk find behind curve. Thank you,
+ Mr. Chairman.
+ CHAIRMAN GREENSPAN. President Fisher.
+ MR. FISHER. Mr. Chairman, Texas economy faring better national
+ economy. Pre-Katrina saw strong evidence nine call super
+ sectors economy—including, way, information telecom sectors,
+ suffered serious setbacks bursting dot-com bubble reversal, coming
+ recession 2003.
+ Post-Katrina data likely stronger still. Despite perhaps unique
+ position we’re geographically, 265,000 people area affected Katrina
+ 
+ September 20, 2005
+ 
+ 46 117
+ 
+ evacuated state Texas. expect 40,000 stay, that’s
+ beyond Jack’s employees we’ve tried hard helpful.
+ way economy improve aftermath hurricane increasing
+ convention business, example, displaced Dallas. port Houston
+ increased activity. We’ll see happens storm that’s brewing presently.
+ office business relocation efforts running full bore, throughout state we’re
+ getting commitments already people displaced along Gulf Coast.
+ data show greater business optimism seen nationwide. bankers
+ frisky. [Laughter] one them, CEO largest bank District, put
+ day, “loan demand stronger horseradish.” continues onward. One concern
+ would note economic conditions Mexico worse expected, and—a point
+ make Greenbook—we’re less optimistic Board staff second half
+ year. seems implosion domestic demand Mexico. We’re also
+ concerned developments building materials sector cement, wood,
+ steel—we’re seeing significant evidence hoarding lumber, example—and
+ might affect construction activity state. are, least Northern Texas, second
+ Atlanta terms housing starts, although fortunately subject significant upward price
+ pressures.
+ national anecdotal side, aggressive period us talked
+ many CEOs—many firms headquartered District—and business contacts
+ could. spoke total 15 CEOs round, one COO retailing—everybody
+ knows is—several CFOs, many directors banks boards different
+ 
+ September 20, 2005
+ 
+ 47 117
+ 
+ sizes dimensions conventional companies. I’d like summarize quickly
+ heard.
+ retailers, convenience store operator headquartered District
+ largest retailer, emphasized two points. First, $3.00 per gallon gasoline seems
+ tipping point terms impact consumption. Whether Katrina directly related
+ not, point one gets retailers evidence falling demand
+ and, importantly, bifurcation demand. latter mean higher-end retailers
+ like Nieman Marcus continue well lower- middle-end retailers suffer.
+ Second, change product choice, move branded products
+ unbranded products. favorite example provided call-around
+ substitution Gold Coast cigarettes Marlboros. There’s $2.50 per pack difference,
+ retailers, particularly 7-Eleven, seeing significantly higher sales lower-priced brand.
+ price pressures coming retail areas one would expect—plastics,
+ packaging, transportation—and evidence price pressures beginning build.
+ understand Wal-Mart executives called CEOs suppliers told
+ Wal-Mart accept cost through-puts. company indicated
+ work together suppliers achieve efficiencies. Whether experiment
+ succeed another question.
+ energy, call SWOT team—we replace O,
+ oil—that includes largest integrated company smaller gas producers. I’ve
+ sending around notes co-Presidents learned
+ sources, whatever they’re worth. bottom line really comes natural gas
+ 
+ September 20, 2005
+ 
+ 48 117
+ 
+ gasoline prices. 25 ships sea presently bringing product, meaning gasoline.
+ expectation much direct price movement based Katrina increased volatility,
+ talked earlier, dependent whether winter turns cold one.
+ That’s producers looking terms real side business opposed
+ speculative side business.
+ effects working way chemicals, effects don’t
+ come mind readily. take natural gas molecule divide many ways.
+ chemicals people telling us, example, don’t yet leeway pass
+ prices things like nitrogen hydrogen chemicals ordinarily don’t
+ think important chemical production process. one said: “We
+ going look every way pass prices there.”
+ Regarding shipping rails, largest barge company country gave us
+ statistic: 300 400 barges 15,000 16,000 affected developments
+ Mississippi related Katrina. “no big deal except impact margin.”
+ received similar report CEO one larger five railroad companies. One
+ thing everybody transportation business talks applaud politically
+ waiving Jones Act. estimate cut intercoastal transportation costs ship
+ half, obviously insignificant.
+ far express delivery concerned, key factor terms ground
+ transportation whether U.S. mail move prices; expectation 5.4
+ percent increase January. auto side, President Moskow reported, Ford probably
+ feeling frisky—just use term again—and GM well. It’s interesting look
+ 
+ September 20, 2005
+ 
+ 49 117
+ 
+ used auto auctions Manheim Adessa, two largest wholesale used car auctioneers.
+ big spike prices post-Katrina. math, whether 100,000 cars even
+ lost hurricane damage, assistance auto companies.
+ far technology concerned, TI reports ability pass price increases
+ broad semiconductor business. again, tech folks, whether it’s Dell EDS,
+ report continued pressure lower prices outsource new source employee base.
+ housing, reported hoarding lumber. another interesting
+ development, disappearance contractors subcontractors state—and
+ apparently Florida, Jack—because rushing New Orleans cash money
+ going spent there.
+ summary, comments business contacts Katrina, acknowledging
+ human tragedy tremendous displacement people property, range “no
+ impact” “short-term shiver” “sporadic impact.” cold-hearted may seem,
+ comes issue today. way thought believe
+ less income statement impact balance sheet impact,
+ something worry about. mean perhaps see temporary setback
+ terms growth, shifting complexion growth, and, sure, additional volatility
+ potential price increases. worry most, Mr. Chairman, come
+ refer fiscal incontinence government. is, worry money
+ thrown problem whether undermine confidence depend
+ finance economic growth.
+ 
+ September 20, 2005
+ 
+ 50 117
+ 
+ I’m reminded story George Shultz told time working
+ President Reagan, frustrated spending. George picked phone
+ called think Sam Cohen said, “Tell me, Sam, really difference
+ Republicans Democrats comes spending?” Cohen said, “I want think
+ it, research, give serious answer.” called back next morning
+ said, “Yes, George, is. Democrats enjoy more.” [Laughter] “But otherwise doesn’t
+ appear difference.”
+ want vote 25 basis point increase funds rate. agree President
+ Santomero’s point confidence. worry price pressures building,
+ also think it’s very, important regardless amount additional fiscal stimulus—
+ whether it’s $85 billion more—that viewed tempted way, shape,
+ form, monetize fiscal spending, whether it’s incontinence profligacy.
+ would suggest also, Mr. Chairman—and may seem odd—the possibility looking
+ language statement, think Jack mentioned obliquely, whether
+ want continue term “measured pace.” run course? become
+ synonymous 25 basis point increase not? might use Katrina
+ opportunity decouple link order provide us greater flexibility going forward? But,
+ summary, favor continuing remove policy accommodation. Thank much.
+ CHAIRMAN GREENSPAN. President Yellen.
+ MS. YELLEN. Thank you, Mr. Chairman. goes without saying devastation
+ caused Hurricane Katrina elicited deep sense empathy District. terms
+ 
+ September 20, 2005
+ 
+ 51 117
+ 
+ economic effects, we’re paying special attention energy international trade. far,
+ least, effects Twelfth District economy appear muted.
+ Since end August, retail gasoline prices 30 cents per gallon
+ West Coast, less elsewhere nation. early concern Gulf Port
+ cargo would diverted West Coast, creating bottlenecks significantly increasing
+ shipping costs, concerns largely dissipated.
+ contacts remain fairly optimistic prospects regional economy
+ concerned future path energy prices, especially since Hurricane Katrina.
+ Even hurricane, worried higher gasoline prices impending
+ increases home heating expenses would curb consumer demand. Indeed, PG&E, public
+ utility northern California, announced rising natural gas prices could drive home
+ heating costs area much 40 percent winter. Discount retailers
+ District expect increases put dent holiday spending. addition, higher fuel prices
+ already trickled prices building materials, contacts expect post-hurricane
+ rebuilding efforts boost prices lengthen queues orders.
+ Turning national economy, share Greenbook’s assessment near-term
+ impact Hurricane Katrina economic growth. Pre-Katrina, outlook strong
+ growth second half 2005. seems likely second-half growth
+ substantially reduced due disruptions production Gulf region negative
+ impact run-up energy prices consumer spending. course, time frame
+ there’s little monetary policy affect actual outcomes.
+ 
+ September 20, 2005
+ 
+ 52 117
+ 
+ proposed policy statement associated alternative B acknowledges
+ increased uncertainty economic performance near term, believe
+ uncertainties associated medium-term outlook also risen substantially, risks
+ exist view pose clear persistent threat. upside, rebuilding
+ commitments escalating day. recovery bounceback fueled massive fiscal
+ stimulus could make slowdown winter, propelling economy
+ unsustainable upward trajectory similar optimistic scenario laid Greenbook.
+ downside risks growth also loom. Rebuilding schedules could easily slip.
+ Moreover, pace restarting closed oil natural gas platforms rigs Gulf
+ Mexico leveled off, prognosis restarting remaining closed facilities well
+ refineries natural gas treatment plants remains question. disruptions persist
+ shocks supply occur, economy could develop along lines pessimistic
+ scenario Greenbook. Moreover, may yet seen full brunt spending
+ pre-Katrina energy price increases. It’s sobering note postwar period, U.S.
+ economy rarely escaped severe run-ups oil prices without suffering significant
+ downturn.
+ Turning inflation, quite concerned August meeting elevated rate
+ core PCE inflation, skirting top comfort zone. Since meeting, I’ve
+ become confident core inflation remains well contained. Recent data core price
+ inflation encouraging. Core PCE prices risen 1½ percent rate six
+ months July, right middle preferred range, core CPI inflation also
+ well behaved. I’m also encouraged readings wage growth employment cost
+ 
+ September 20, 2005
+ 
+ 53 117
+ 
+ index household survey, series research staff recently started
+ compiling tracking. remain remarkably subdued. elevated rate growth
+ compensation per hour productivity cost report past year far exceeds
+ readings provided series may outlier strong signal tight
+ labor markets wage pressures.
+ comfort level respect core inflation improved since August,
+ Board’s staff raised Greenbook forecast core PCE price inflation 2006 0.2
+ percentage point 2.3 percent due run-up energy prices since August meeting.
+ must say actually found low-inflation alternative simulation Greenbook
+ compelling. scenario assumes inflation expectations remain well anchored,
+ shows core inflation falling next two years, reaching 1½ percent 2007.
+ point, relative stability longer-term break-even inflation rates derived
+ TIPS market year, even oil prices surged, provides evidence public remains
+ confident Committee’s commitment price stability. course, jump inflation
+ expectations seen month’s preliminary Michigan survey worrisome, must
+ cautious read much report since taken soon Katrina.
+ assess likely pass-through energy core consumer inflation, staff
+ estimated Phillips curve type forecasting models akin employed Board.
+ important finding emerges. Changes real oil prices economically statistically
+ significant effect core inflation, early 1980s. Importantly current
+ situation, find evidence relationship data since early ’80s.
+ critical difference pre- post-1980s experience probably relates public’s
+ 
+ September 20, 2005
+ 
+ 54 117
+ 
+ inflation expectations. 1970s, became unmoored price stability
+ appear well anchored, Greenbook’s low inflation scenario.
+ respect policy, support 25 basis point rate increase rather pause today.
+ pause meeting justified need assess Katrina’s impact would sensible
+ actually expected know lot medium-term outlook November,
+ that’s unlikely case. pause could counterproductively mislead market participants
+ likely future path policy create misimpression Fed unduly
+ pessimistic outlook. consider wiser stick “measured pace” approach
+ now. think it’s well justified Greenbook forecast, uncertain is, consistent
+ market expectations. going forward, obviously need flexible adjust
+ views we’re ultimately heading basis new data forecasts.
+ CHAIRMAN GREENSPAN. President Minehan.
+ MS. MINEHAN. Thank much, Mr. Chairman. past couple meetings
+ I’ve reporting lull economic activity New England, little employment growth
+ muted readings confidence. Perhaps weather impact Pentagon’s
+ base realignment closure (BRAC) proposals fragile labor markets Maine
+ but, whatever was, region appeared pull late July make
+ progress August. weather turned bright sunny, tourists filled beaches, hopes
+ fall tourism rose. Employment surged 13,000 jobs two months—that’s
+ big New England—with broad industry categories showing gains. Consumer confidence
+ rose, business confidence. BRAC Commission decided follow
+ Pentagon’s recommendation close two major bases region.
+ 
+ September 20, 2005
+ 
+ 55 117
+ 
+ exception commercial real estate, remains doldrums Boston,
+ outlook turned positive overall, contacts expecting continued growth
+ remainder 2005 2006. But, course, pre-Katrina. Since devastating
+ disaster, we’ve tried hard understand impact region nation. small
+ business advisory group met scheduled week hurricane hit, board
+ directors. point things, indeed, seemed gloomy. recovery effort got better
+ footing, underlying resilience U.S. economy began show through.
+ capture sense changing scene, made calls late last week large national
+ retailers manufacturers headquartered First District. Overall several
+ common themes. First, contacts believed pace underlying growth solid
+ likely stay way, negative hurricane effects quarter next
+ positive impact thereafter. Indeed, one directors whose company large manufacturer
+ semiconductor chips reported worldwide expansion heels major inventory
+ drawdown first half year. reported semiconductor plants everywhere
+ working 85 90 percent capacity recently, strong demands PCs hand
+ sets driving chip production. major regional bank offices throughout New England
+ eastern Midwest Philadelphia reported given yield curve, banking
+ business bit tough, bank customers seemed great. bank
+ employers reported increasing problems finding skilled labor, even people fill teller
+ positions.
+ Second, Katrina’s devastation terrible, contacts especially concerned
+ effect high oil, gasoline, natural gas prices input costs oil-based
+ 
+ September 20, 2005
+ 
+ 56 117
+ 
+ materials consumer pocketbooks. Consumer prices Boston area rise
+ prior Katrina, region’s headline rate inflation 4 percent core 3 percent.
+ biggest area price growth even fuel utilities, rose almost twice
+ fast nationwide 12 months July ’04 July ’05. Given region’s lack
+ homegrown energy supplies, reliance oil home heating purposes, fact
+ half electrical generators fired natural gas brought outside region,
+ seems clear Boston price growth, driven energy costs, continue outstrip nation
+ least winter months. Moreover, pre-Katrina Federal Energy Regulatory
+ Commission report, think I’ve talked before, sees region’s power supply risk
+ widespread brownouts winter cold weather puts stress generators working
+ capacity. broadly, contacts also reported Katrina’s impact energy costs may give
+ cover price increases prior Katrina they’ve lacked power make stick.
+ third common theme related possible upside potential reconstructionrelated demand 2006. Manufacturers capital goods consumer durables anticipate
+ hurricane-related uptick next year. Companies stores manufacturing major
+ distribution points hurricane area losses, though expect
+ covered insurance. one large retailer reported 7 10 120 stores
+ region appeared total losses, business extremely strong stores outside
+ devastated areas, Baton Rouge. company moving employees
+ affected areas stores areas business booming. supplier capital goods
+ defense industry concerned spending recovery Katrina could squeeze
+ 
+ September 20, 2005
+ 
+ 57 117
+ 
+ defense spending they, balance, thought probability sales
+ government major contractors might delayed canceled.
+ Finally, theme outreach support employees affected area
+ helping disaster recovery. Almost contacts whatever could—
+ supplying generators giving free medicine supplies evacuation locations.
+ fact, one drugstore reported daily basis handing $500,000 worth
+ free drugs. Supplying water purification equipment technology restore communications
+ also noted.
+ companies continued pay personnel made efforts locate
+ all. Several made grants lost everything. expect insurance
+ cover perhaps government reimbursement, general attitude seemed
+ much could worry cover costs later. within
+ Reserve Banks, reported generosity employees areas beyond hurricane
+ amazing, one major company alone raising least $17 million donations Katrina
+ victims reconstruction efforts. it’s government money that’s going
+ area. There’s lot money everywhere.
+ sum, New England economy seems stronger footing earlier
+ summer, though dark clouds rising energy costs almost certain take bite
+ regional pocketbooks, especially winter cold one predicted. likely would
+ case without Katrina, related energy supply shock made short-term
+ outlook bit worse. Aside energy, economic effect Katrina seems likely small,
+ certainly comparison human effect. 2006, energy costs moderate predicted,
+ 
+ September 20, 2005
+ 
+ 58 117
+ 
+ outlook could well positive larger retailers capital goods manufacturers
+ region.
+ Turning Greenbook, usual amount uncertainty clouding
+ near-term outlook. Boston, probably like everybody else around table
+ elsewhere, tried hand estimating impact Katrina. can’t imagine
+ we’re better Board staff is. fact, despite ups downs quarter-to­
+ quarter projections, Q4-over-Q4 GDP growth rates see year next differ
+ Greenbook marginally. forecast unemployment rate
+ Greenbook’s and, given see bit excess labor capacity, we’re little less
+ pessimistic increases core inflation next year.
+ despite near-term uncertainty, medium-term outlook seems less question.
+ seemed impossible couple weeks ago, riveted horrifying
+ scenes national TV, Katrina’s effect economy likely short term—a slower
+ pace somewhat faster pace later reconstruction takes place.
+ real issue happening pre-Katrina plays going forward,
+ somewhat greater sense certainty picture—or, say,
+ level certainty forecast. Prior Katrina everything economy
+ seemed running fours, though without causes concern. Shipments data
+ July suggested softness P&E spending, inventory rebuilding wholesale
+ level less expected, labor markets shown solid progress. Financial markets
+ continued supportive growth, bit complacent risk taste.
+ 
+ September 20, 2005
+ 
+ 59 117
+ 
+ External growth showing signs life. slowly closing output gap higher energy costs
+ raised concerns inflation road possible negative effects spending.
+ Assuming instant effect Katrina energy prices moderates, broad economic
+ picture seems hurricane. is, best guess growth
+ around potential next year so, lower unemployment labor markets continue
+ tighten, rather less pressure prices. Additional fiscal stimulus Katrina
+ recovery efforts could bit wild card here, seems growing tendency
+ throw money problem—money ill afford, given medium-term deficit expectations.
+ Don’t get wrong. think federal government help rebuilding process,
+ done context overall fiscal discipline, point seems bit lacking.
+ surely risks forecast. downside, higher energy prices
+ prevailed Katrina might bigger impact consumer spending overall growth,
+ particularly supply shock hurricane doesn’t ease expected. Pre-Katrina
+ shipments orders data may foretell flattening rather rebound capital spending.
+ hand, greater fiscal ease certainly additional stimulant, hurricane
+ could provide additional cover widespread pricing power.
+ Productivity growth slowed, hear reports labor hard find.
+ Combine reports slowly falling unemployment rate, surge wage
+ salary growth measured ECI, haven’t seen yet, may far mark.
+ matter risk management, seems appearing complacent
+ simultaneous energy demand supply shocks diminishing excess capacity might
+ well costly terms expectations central bank credibility dealing
+ 
+ September 20, 2005
+ 
+ 60 117
+ 
+ greater downside effects emerge. effects could addressed timely
+ way pausing, point don’t see need take step.
+ Thus, I’m favor continuing process removing policy accommodation
+ meeting. Incoming economic data could well convince us need stay put time
+ soon, might find necessary continue upward trek longer faster pace
+ expecting. point, continuing remove policy accommodation
+ “measured pace” we’ve seems right.
+ CHAIRMAN GREENSPAN. Okay. Shall break coffee?
+ [Coffee break]
+ CHAIRMAN GREENSPAN. President Lacker.
+ MR. LACKER. Thank you, Mr. Chairman. Fifth District economic activity appears
+ expanded quicker pace mid-August mid-September. part,
+ production sales area substantially affected Hurricane Katrina. Shipments
+ District factories accelerated August’s modest upturn, new orders grew
+ first time since May. Service firms reported faster growth revenues, maintained
+ moderate pace hiring seen early August. Retailers told us overall sales grew
+ modestly. Labor market conditions remained solid, District job growth maintaining
+ moderate pace recent months.
+ Hurricane Katrina relatively real effects area, said, causing
+ scattered short-lived outages gasoline interrupting raw materials shipments small
+ number manufacturing firms. addition, higher gasoline prices, combined fears
+ availability, seemed curtail tourist activity Labor Day weekend. Another hurricane,
+ 
+ September 20, 2005
+ 
+ 61 117
+ 
+ Ophelia, battered Carolina coast last week, preliminary assessments suggest
+ damaging typical, run-of-the-mill hurricane.
+ several contacts tell us higher fuel costs squeeze profit margins,
+ majority tell us passing cost increases customers. Many firms report
+ customers receptive price hikes current environment. half
+ responses yesterday morning, preliminary results September business surveys
+ showing prices paid prices received rising quicker pace August,
+ expected price trends generally ratcheted well.
+ Turning national picture, Greenbook’s forecasts output components
+ appear broadly consistent private forecasters hearing Fifth
+ District contacts. Prior Katrina, economy growing reasonably strong pace
+ signs inflation pressures rising elevated oil prices. real effects
+ hurricane projected Greenbook forecast appear quite plausible, given
+ difficulties assessing temporal extent disruptions economic activity.
+ inflation side, Greenbook forecast paints picture find somewhat
+ distressing. staff’s inflation forecast steadily drifting time—as shown,
+ example, fine new table page 21. [Laughter] revised markedly
+ meeting. Core PCE inflation near 2½ percent throughout 2006 fall 2
+ percent 2007. Inflation expectations move upward well, causes growth
+ compensation unit labor costs step significantly beginning next year.
+ would put inflation appreciably beyond range view consistent price stability.
+ 
+ September 20, 2005
+ 
+ 62 117
+ 
+ real, quantitative effects hurricane uncertain time may
+ prove moderate first feared, qualitative implications short-term real rates seem
+ quite clear me. real interest rate is, course, price current resources relative
+ forgone future resources, number reasons Katrina caused temporary scarcity
+ current resources. portion capital stock affected region destroyed
+ damaged, workers separated employers. inevitably take time
+ resources rebuild capital stock reestablish productive labor market matches.
+ good news effects likely relatively short-lived. Within year
+ so, likely back less would aggregate.
+ means that, anything, Katrina cause real interest rates rise encourage
+ adjustment temporary scarcity current resources. fiscal response disaster
+ points direction regarding real rates. sustainability federal deficits
+ questionable prior Hurricane Katrina, spending amounts proposed hurricane
+ recovery efforts strengthen case tighter policy.
+ think careful reasoning basis gap current
+ output estimates potential output. estimates appear identify decline
+ potential primarily small estimated effect lost capital. approaches see supplyside effects Katrina minimal and, therefore, interpret decline output
+ shock aggregate demand.
+ makes tempting naive policymaker consider counteracting
+ macroeconomic effects easier policy. real resource effects Katrina
+ 
+ September 20, 2005
+ 
+ 63 117
+ 
+ I’m aware amount reductions current capacity produce goods services.
+ Lower real interest rates little counteract reductions.
+ think careful widely cited analogy public press
+ 1970s oil supply shocks subsequently followed recessions. say recognizing
+ several participants around table somewhat closer monetary policy
+ then. 1970s, inflation expectations untethered, people came expect us
+ allow energy price shocks feed overall inflation. often confirmed
+ expectation keeping real interest rates rising. fact, times, kept nominal rates
+ rising fast inflation and, thus, real rates fell. forced raise rates
+ dramatically bring inflation back and, process, exacerbated real effects
+ oil price shocks.
+ So, interpret effects Katrina signaling imminent shortfall aggregate
+ demand draw wrong lesson 1970s, view. right lesson us today
+ importance keeping inflation expectations anchored face shock. last
+ meeting, noted relative stability longer-term inflation expectations measured
+ TIPS inflation compensation numbers, even face sustained oil price increases.
+ behavior fed funds futures prices TIPS curve since Hurricane Katrina suggest
+ credibility seriously incomplete, sense many market participants appear
+ think might willing tolerate elevated inflation time attempt ease
+ real effects hurricane. action statement today provide public
+ greater certainty near-term intentions. Thank you.
+ CHAIRMAN GREENSPAN. President Stern.
+ 
+ September 20, 2005
+ 
+ 64 117
+ 
+ MR. STERN. Thank you, Mr. Chairman. Let start pertinent facts
+ District economy, pre- post-Katrina. Overall, District economy remains healthy.
+ Employment continuing advance modestly; least geographic areas, seems
+ likely employment gains constrained lack available labor. Construction
+ activity, residential nonresidential, strong and/or improving. one large
+ credit card issuers District reported—and think reflective national
+ conditions—that repayments credit card debt charge-offs 10-year low.
+ Higher fuel prices far led production cutbacks plant closings
+ District. possible, firms switching less expensive sources energy, surcharges
+ are, course, common. Higher energy prices do, though, seem particularly adverse
+ local governments farmers, also adversely affected infrastructure
+ destruction disruption Gulf area.
+ effects Katrina national economy, qualitative level think
+ actually considerable experience analyzing kinds shocks, view
+ Greenbook level essentially right. seems me, others commented,
+ short term get disruption growth followed rebound presumably
+ ultimately resumption trend growth. And, far inflation concerned, think get
+ acceleration ultimately followed return trend, assuming policy adheres
+ less path would followed.
+ quantitative level, though, seems difficult say anything precise
+ lot confidence. would venture circumstances—because concentration
+ population, number people affected disaster, affected area’s location
+ 
+ September 20, 2005
+ 
+ 65 117
+ 
+ relative energy transportation infrastructure—the amplitude swings,
+ terms growth inflation, perhaps duration adjustment, would extended.
+ There’s temptation, suppose, exaggerate this. all, relatively small part
+ economy affected. seems that, event, uncertainty increased.
+ overall description roughly appropriate, find thinking monetary policy
+ complicated formerly. Moreover, don’t think situation going get clarified
+ near term, incoming data, course, difficult read, given
+ affected one way another disruption recovery efforts
+ proceed.
+ circumstances, feel comfortable falling back fundamentals—namely,
+ flexibility strength underlying economy, don’t think affected this.
+ come view it’s appropriate continue path removing policy
+ accommodation, would favor ¼ point increase fed funds rate. said that,
+ think getting point we’ve removed lot accommodation. one
+ days need consider also think ought affect language
+ statement.
+ CHAIRMAN GREENSPAN. President Hoenig.
+ MR. HOENIG. Thank you, Mr. Chairman. lot discussion
+ national economy Katrina, don’t think I’ll repeat that. would say
+ agreement scenario Greenbook outlined here; expect temporary
+ slowdown economy year pickup next year beyond. think
+ evidence region consistent outlook.
+ 
+ September 20, 2005
+ 
+ 66 117
+ 
+ Economic growth District remains strong, although businesses expressed
+ concern impact Katrina regional economy. end August,
+ though, employment still growing solidly. Retailers reported growth sales; tourist
+ activity continued show little effect higher gasoline prices time;
+ manufacturing activity grown pretty solidly summer.
+ special survey conducted following Katrina, wide range contacts said
+ disaster would negative effect businesses terms costs
+ availability supplies. small percentage actually expected positive effects it.
+ specifically, contact major railroad coming District Kansas City told
+ able get operations along Gulf Coast back order within
+ days Katrina back moving materials across area almost normal levels.
+ So, fairly strong reaction terms bringing things back line Katrina.
+ impacts Katrina remain uncertain, would say analysts farm
+ sector optimistic week ago, example. impact
+ transportation system, mentioned, appears less initially feared. Terminal
+ facilities reporting limited damage physical infrastructure, unloading
+ barges loading ocean-going vessels appear starting again. result,
+ hurricane’s impact agriculture primarily higher fuel prices. Higher diesel
+ natural gas prices large impact crop production costs, boost cost
+ operating machinery, drying grain, fertilizers, forth. overall think activity
+ District continue strong. Katrina impact region major
+ long-lasting one part.
+ 
+ September 20, 2005
+ 
+ 67 117
+ 
+ Turning inflation outlook, concerns changed since last
+ meeting. Core inflation higher would prefer, although still 2 percent plus
+ range. Core CPI inflation, example, 2.2 percent August year ago,
+ measures underlying CPI inflation are, fact, higher moving slowly up. addition,
+ believe upside risks inflation increased, think need aware
+ sensitive it.
+ view, pause would fact pause, others said—in
+ particular President Santomero—in environment data going come weaker
+ would otherwise expect. pause would hard reverse sometime next year.
+ point, others also noted, fundamentally monetary policy remains
+ accommodative now. removing accommodation policy still
+ accommodative, think need keep mind. Therefore, think continue
+ path move forward point. would agree, though, since
+ removing accommodation while, point next meetings
+ talking changing language close neutral
+ funds rate. think important interesting discussion us. However,
+ time being, think stay course remove accommodation pace
+ recent months. Thank you.
+ CHAIRMAN GREENSPAN. President Poole.
+ MR. POOLE. Thank you, Mr. Chairman. want focus couple anecdotal
+ reports weak side projections going forward. don’t want
+ misunderstood; general tenor reports I’ve heard clearly positive side.
+ 
+ September 20, 2005
+ 
+ 68 117
+ 
+ want say also seem merged first second go-rounds, I’ll
+ take note that. [Laughter] I’m going break pattern either.
+ According contact Wal-Mart, company estimates every $10 per barrel
+ increase crude oil costs 100 basis points same-store growth. fact, Wal-Mart
+ cutting back purchases holiday season. Wal-Mart suppliers also concerned
+ strength holiday sales, Wal-Mart process negotiating price concessions
+ anticipation weak sales. think less fits message colleague
+ right. Wal-Mart anticipating significant effect corporate profits hurricane,
+ damage also voluntary contributions many companies
+ made.
+ contact large software company said concerned
+ weakness large enterprise sector business global basis. don’t understand
+ exactly what’s happening there, believe large enterprises may making genuine
+ effort cut back spending, perhaps cycle companies went through.
+ delayed purchases lot come back. filled
+ needs slowing down.
+ UPS contact said they’re looking unexplained shortfall last two
+ months volume revenue projections coming Asia. don’t know
+ happening. One thing that’s going UPS FedEx they’re midst
+ labor negotiations beginning become nasty, pilots disrupting service.
+ example cited this: pilot lands plane, knows something needs fixed,
+ forgets notify anyone shortly plane scheduled take off. causes
+ 
+ September 20, 2005
+ 
+ 69 117
+ 
+ delay. so-called job actions strong-willed pilots. think
+ true UPS FedEx, could lead disruption peak season.
+ hear people around table—and think we’ll hear
+ yet spoken—we’re adamant fundamental course policy going forward
+ depart controlling inflation. So, looking next year, Katrina effect
+ primarily energy sector, direct disruption pretty small part
+ total economy.
+ supply disturbance energy overlaid fundamentally strong
+ demand picture driving energy prices worldwide, don’t think know
+ exactly big disruption going supply side. it’s gasoline;
+ think heating costs fuel oil natural gas bigger bind consumers.
+ start paying winter heating bills, discussions sales hurt high gasoline prices
+ going displaced substantially discussions cost heating.
+ would like state view favor pause. least think ought get
+ case table. want reemphasize need retain longer-run concern
+ inflation. think completely clear statement. statement would
+ say something along lines uncertainties resolved, would anticipate
+ resuming “measured pace” rate increases.
+ would also like address policy question focusing best deal
+ number possible outcomes. extent tend focus forecast terms
+ point estimate, think Greenbook good job that. substantial
+ uncertainties forecast—probably even greater uncertainties near term
+ 
+ September 20, 2005
+ 
+ 70 117
+ 
+ looking year it’s question fast reconstruction takes place. Huge
+ federal involvement may actually slow things near term, people
+ waiting see money may delay spending rebuild replace. don’t really know.
+ I’d like focus attention following: Suppose, one hand, good news
+ scenario things fall place better might anticipated and,
+ hand, bad news scenario things worse might anticipated. would
+ today’s policy decision position us best dealing various possibilities?
+ Clearly, raised rates today, would fit nicely good news scenario.
+ would continue removing policy accommodation however many moves needed
+ future. bad news scenario paused today, also would fit well.
+ hand, raised funds rate today bad news scenario, might find
+ position would feel compelled pause later. would
+ situation people would question didn’t pause right hurricane
+ uncertainties place. paused now, would made correct call, will.
+ uncertainties resolved, would go back raising rates. So, it’s kind
+ calculation leads come favor pause. think proper wording
+ statement able resume rate increases timely fashion. Thank you.
+ CHAIRMAN GREENSPAN. President Pianalto.
+ MS. PIANALTO. Thank you, Mr. Chairman. contours economic effects
+ Hurricane Katrina laid Greenbook baseline look right me.
+ aftermath hurricane, fragility energy markets, found focusing
+ alternative scenarios Greenbook. conversations I’ve
+ 
+ September 20, 2005
+ 
+ 71 117
+ 
+ business contacts, appear anxiety future prospects present
+ circumstances. business contacts retail stores, warehouses, production
+ facilities Gulf region seem good handle direct impacts storm,
+ part say losses manageable. emphasize
+ indirect effects storm, driven primarily increases costs energy building
+ materials prices, difficult discern many months.
+ particular concern many directors reaction consumers expense
+ filling gas tanks heating homes winter. directors report
+ already witnessing retrenchment consumer spending, don’t know
+ much temporary reaction much preview adjustments
+ come. preliminary release University Michigan’s consumer sentiment survey
+ illustrates concern, think Greenbook’s “sentiment slump” alternative scenario
+ addresses policy issues development would entail.
+ latest spike energy prices triggered Katrina also implications
+ inflation outlook. positive side, reports getting still flavor
+ businesses unable pass higher costs customers. Nevertheless, headline
+ core inflation reports likely look scary next several months. Fortunately, several
+ contacts explained, usual number price increases taking form
+ surcharges expected removed energy raw materials prices
+ recede. extent practice lies behind near-term bad news
+ seeing inflation front, still reason think Greenbook baseline projection
+ prove accurate. time, “deteriorating inflation expectations”
+ 
+ September 20, 2005
+ 
+ 72 117
+ 
+ scenario highlights risk outlook also troubles great deal. I’m pleased
+ we’ve enjoyed public’s confidence regarding commitment containing long-term
+ inflation expectations long successive energy price increases
+ we’ve hit with, I’m anxious test limits confidence.
+ Even odds sentiment slump deteriorating inflation expectations
+ scenarios similar, policy implications not. Greenbook projects GDP difference
+ two scenarios small, difference projected inflation outcomes
+ sizable ignore. Consequently, think prudent course action today
+ us continue remove policy accommodation. Thank you, Mr. Chairman.
+ CHAIRMAN GREENSPAN. Vice Chair.
+ VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. balance evidence
+ since last meeting still supports, view, reasonably positive outlook output
+ inflation. look through, should, transitory effects Katrina
+ reconstruction, factor futures market tells us expected magnitude
+ duration rise energy prices, still see economy growing slightly trend
+ core inflation following path somewhat, substantially, preferred range.
+ fundamentals still seem favorable continued expansion solid productivity
+ growth, strong corporate balance sheets, reasonable growth household income, favorable
+ financial conditions. strength view, real interest rates still quite low,
+ believe need continue tighten monetary policy meeting beyond.
+ national level, Katrina seems consequential politically economically.
+ 
+ September 20, 2005
+ 
+ 73 117
+ 
+ Now, course, degree balance uncertainty changed. face higher
+ degree overall uncertainty. harder assess next quarters
+ underlying pace demand growth. rise energy prices pre-Katrina—some
+ remains even initial effects hurricane expectations washed energy
+ markets, except natural gas—creates risk larger shock confidence behavior
+ seems evident last two years. Damage future hurricanes
+ energy product output may prove harder bridge release international
+ product reserves. capacity discern underlying rate inflation also somewhat
+ diminished, perhaps less effect energy prices difficulty sorting
+ actually happening productivity growth unit labor costs.
+ Apart reducing overall confidence around forecasts, balance risks
+ probably shifted, too—shifted toward somewhat higher probability slower growth relative
+ path potential output toward greater risk larger persistent rise core
+ inflation. former risk materialized, latter might mitigated. risks across
+ spectrum scenarios, rather probable combination.
+ acknowledge change uncertainty suggest would
+ appropriate us stop push expected path nominal fed funds rate
+ better assess know now. net effect changes outlook,
+ balance, probably alter desirable path nominal fed funds rate relative
+ thought mid-August. real rate still rather low, inclination would
+ continue weight upside risk inflation greater prospective risk significant
+ slowdown output relative potential. best tell today, latter risk weaker
+ 
+ September 20, 2005
+ 
+ 74 117
+ 
+ growth still prospective. implies slope expected fed funds rate
+ remain materially positive, even move today. think would better
+ meeting markets raised expected path bit path fall premeeting trajectory.
+ think probably know little less today August far
+ going move, even economy appears following path forecast.
+ move today, know we’re 25 basis points higher were. fact
+ much closer point can’t measure less valuable observation. may
+ even know less today equilibrium lies whether range moved. And,
+ course, still face probability we’ll move past it, past retrospect
+ thought equilibrium.
+ hard questions face look pretty much like last meeting.
+ strong durable expect expansion face less optimism
+ future housing price gains factors could cause household saving rise
+ consumption grow slowly? dramatic rise energy prices past two
+ years cause substantial damage business consumer confidence? world’s
+ private savers continue willing acquire claims United States higher rate
+ implied current account forecast, favorable terms? business
+ margins start erode way portend slower investment employment growth?
+ U.S. political system able make credible effort near term improve
+ medium-term fiscal position sustain relatively open trade policy? And, not, risk
+ reduction expected potential growth future?
+ 
+ September 20, 2005
+ 
+ 75 117
+ 
+ factors could hurt future growth, doesn’t mean monetary
+ policy accommodative would otherwise make sense anticipation
+ negative effects try preempt them. Rather, familiar imbalances concerns
+ make cost erosion credibility greater. Thank you.
+ CHAIRMAN GREENSPAN. Governor Kohn.
+ MR. KOHN. Thank you, Mr. Chairman. Like President Geithner many others
+ you, view one rare situations truly say outlook
+ uncertain usual. [Laughter] deter us proceeding
+ “measured pace” rate increases.
+ pre-Katrina data suggested potentially interesting questions
+ outlook, could implications policy going forward. especially struck
+ weakness capital spending, despite high rising profits strength aspects
+ so-called fundamentals. It’s possible business caution increased again, perhaps
+ concern effects rapid run-up energy prices demand since last spring.
+ time, house prices OFHEO index continued rise rapid pace
+ second quarter, supporting household spending increases resource
+ utilization. expansion continuing become even unbalanced—more reliant
+ declining household saving rates induced rising house prices. Core inflation coming
+ lower expected again. potential future price increases, absent
+ tightening policy, suggested upside surprises one measure labor costs, rising
+ resource utilization, threat increases energy costs could feed underlying
+ inflation.
+ 
+ September 20, 2005
+ 
+ 76 117
+ 
+ agree staff’s assessment likely outcome Katrina
+ economy materially deflected path on. initial disruptions,
+ fiscal stimulus, rising house prices, still favorable financial conditions, along
+ economy’s natural resilience, overcome drag higher energy prices
+ keep activity increasing good clip economy already producing high level
+ resource utilization.
+ circumstances, inflation pressures abate. judging
+ tendency output gap continue shrink year, we’ll probably need least couple
+ rounds rate increases keep economy near potential prevent inflation
+ trending higher. Katrina greatly added uncertainty, extent
+ near-term disruption effects energy markets. difficult uncertainties relate
+ people may react happened, government decide respond,
+ businesses households react governmental actions whatever path
+ energy prices turns be.
+ uncertainties resolved affect economy’s medium-term prospects.
+ point, added uncertainty doesn’t look particularly asymmetrical implications
+ path policy. risks still two-sided. Growth could stronger anticipated,
+ example, owing greater government spending new tax incentives, implications
+ inflation. side, rise energy prices may less persistent effect
+ core inflation staff predicted.
+ feed-through energy prices core inflation declined appreciably time,
+ market participants actually marked longer-term nominal interest rates since
+ 
+ September 20, 2005
+ 
+ 77 117
+ 
+ August may right higher energy prices negative influence
+ demand positive effect long-term inflation. skews probabilities
+ likely outcomes highlighted Michigan survey Friday, pointing extra weight
+ possibility weaker growth increasing energy prices affect consumer psychology
+ spending also pointing potentially higher inflation expectations become
+ unanchored. skews offsetting implications policy.
+ Moreover, uncertainty isn’t going reduced pausing slowing pace
+ tightening. uncertainty isn’t response economy past future monetary
+ policy actions. Raising funds rate, expected, isn’t likely undermine sentiment
+ spending. Indeed, pausing, slowing down, ambiguous expectations
+ policy going forward could confuse public view situation.
+ sum, situation make best guesses likely
+ outcome, however bad guesses may be, act them, continuing “measured pace”
+ tightening now. Thank you.
+ CHAIRMAN GREENSPAN. Governor Ferguson.
+ MR. FERGUSON. Thank you, Mr. Chairman. Beyond tragic sobering
+ consequences Katrina saw, effect Katrina respect monetary policy
+ think create greater uncertainty, near term also intermediate
+ term. Katrina clearly become policy-relevant previous natural disasters
+ we’ve seen, hit energy-producing regions country time high
+ potentially rising energy prices driven global supply demand factors. also came
+ time resource utilization clearly tightening output gap closing
+ 
+ September 20, 2005
+ 
+ 78 117
+ 
+ economy—supported particularly strong housing market accommodative monetary
+ policy—appeared growing potential,
+ Additionally, core measures inflation, deteriorating recently,
+ running bit high taste. Near-term inflation expectations also rising; longerterm expectations, still described contained, somewhat less contained
+ last meeting, Dino’s chart showed.
+ think staff done outstanding job calibrating effects Katrina
+ subsequent rebuilding economy, including careful assessment loss need
+ rebuild capital stock. accept baseline forecast basis discussion today note
+ contours similar private sector forecasters well. However, range
+ uncertainty around baseline forecast large. plunge consumer sentiment reminds us
+ fact, rise inflation expectations recent survey data ongoing
+ jitters spot futures energy markets.
+ Faced uncertainty, might guided history dealing
+ periods shock economic system. previous episodes shock uncertainty,
+ often lowered rates least temporarily refrained raising rates wait
+ range uncertainty narrow. Therefore, deciding raise rates today, burden
+ examining following reaction function past.
+ see least four reasons why, unlike past 20 years so, uncertainty
+ face precursor pause. First, relative impact natural disaster
+ growth inflation ambiguous easily comparable shocks
+ experienced last two decades. Importantly, shocks—9/11, stock market break
+ 
+ September 20, 2005
+ 
+ 79 117
+ 
+ 1987, even Y2K—were clearly, least primarily, demand shocks, working
+ confidence effects unsettled financial conditions, either actual potential. Now, others
+ said implied, facing shock demand supply side
+ economy. obviously important distinction. Katrina likely elongate period
+ high rising energy prices already confronting hurricane struck.
+ longer run, theory tells us persistently high energy cost, exacerbated
+ occasional shocks, reduces labor productivity potential output time, amount
+ energy used per worker declines. effect partially offset installation
+ energy-saving devices. households firms recognize impact high energy prices
+ potential supply, else equal, lower equity prices also damp aggregate demand
+ expectational effects. possible reduction aggregate demand not, however,
+ ipso facto match fully reduction potential supply. President Lacker suggested naive
+ policymaker might put greater weight demand effects, also think reasonable
+ policymaker would certainly recognize need set policy help maintain balance
+ aggregate supply aggregate demand. inherently imply reducing target
+ funds rate.
+ Second, already indicated, Katrina seeing conditions gradually
+ rising inflation pressures. Staff estimates seem reasonable indicate persistent
+ energy price increases contributed contribute ¼ ¾ percentage points annually
+ core inflation 2004 2007. Importantly, staff forecast inflation
+ gradually rising Greenbook Greenbook well. pause today,
+ judgment clearly would risk allowing pass-through headline inflation core
+ 
+ September 20, 2005
+ 
+ 80 117
+ 
+ inflation become embedded inflation expectations, making difficult regain control
+ inflation process losing hard-won credibility.
+ Third, effort rebuild parts United States undoubtedly require massive
+ federal expenditures addition transfers insurers households businesses.
+ staff forecast shows, highly stimulative economy next year. won’t elaborate
+ that, number others already discussed it.
+ think final reason following pause strategy here, others
+ said, won’t clear restart again. clear data
+ next quarters free disruption Katrina, pretty clear
+ inflation pressures continue build. So, therefore, staff forecast strikes
+ reasonable approach. forecast manages allow various effects growth—actual
+ potential—and inflation end stable inflation outlook, part assuming
+ Committee raises rates current accommodative level. assumption seems warranted
+ me. judgment, sufficient reason follow historical response
+ pausing.
+ one counterargument also clearly number drags
+ U.S. economy. drags include drags export sector relatively slow growth
+ business fixed investment. show through, judgment, form lower
+ equilibrium real interest rate, implies point certainly discuss
+ want stop raising funds rate least clear we’ve moved past neutral level.
+ may be, think Tom Hoenig suggested, not-too-distant future. may,
+ I’d say today continue tighten. Thank you.
+ 
+ September 20, 2005
+ 
+ 81 117
+ 
+ CHAIRMAN GREENSPAN. Governor Olson.
+ MR. OLSON. Thank you, Mr. Chairman. Dave Stockton’s introduction today suggested
+ Greenbook analysis combination use judgment models.
+ reviewed input, noted reflects combination.
+ wit, Greenbook said Katrina restrain economic activity remainder
+ year. Information scant fractured. uncharted territory, devastation
+ entire city. Katrina expected depress real GDP ¾ percentage point
+ third quarter, half effect due reduced energy sector output. fourth quarter, small
+ positive real GDP growth expected, consumption remain depressed. end
+ 2007, level GDP expected back would prior hurricane.
+ included Greenbook, judgment seems obvious point,
+ immeasurable hard ignore fact economy recovering corporate
+ wariness toward expansion, suggesting psychological impact Katrina potentially
+ problematic.
+ Turning inflation outlook, consumer energy prices expected increase
+ considerably third fourth quarters fall back subsequent years. current
+ projection pass-through effect contributes 0.2 core PCE prices 2006, little effect
+ 2007. fiscal stimulus expected follow Katrina impact economy primarily
+ years 2006 2007. would say that, time passes, hopefully need appropriate
+ congressional response Katrina balanced need fiscal discipline, suggested
+ several you.
+ 
+ September 20, 2005
+ 
+ 82 117
+ 
+ respect monetary policy path, September Greenbook unchanged
+ August Greenbook; expectation 4 percent fed funds target year-end 4¼
+ percent rate mid-2006. one alternative scenarios Greenbook—characterized
+ deteriorating inflation expectations created largely surging energy costs—core PCE
+ stabilize 2 percent 2007 instead rise 2½ percent year. Taylor rule
+ construct monetary policy response would bring fed funds target point 4¾
+ percent.
+ summary, economy taken body blow result Katrina. solid growth
+ experiencing interrupted, economy expected get back
+ track 2006. speed recovery unknowable point, devastation
+ New Orleans put us uncharted territory, said earlier. important, many
+ pointed out, note pass-through effects higher energy costs require
+ maintain perhaps increase sensitivity inflationary pressures. effects Katrina
+ concerns potential Hurricane Rita, amplified yesterday’s movement
+ WTI spot price, suggest take week’s measure inflationary expectations
+ headline inflation indication core inflation may impacted future months.
+ Ten consecutive ¼ point increases brought target fed funds rate range
+ reach expected level year-end well middle next year
+ without need continue unbroken pace rate increases. pause would
+ accommodate alternative scenario deteriorating inflationary expectations.
+ weeks, perhaps months, fully assess economic implications devastation
+ 
+ September 20, 2005
+ 
+ 83 117
+ 
+ caused Katrina, think may appropriate pause defer removing accommodation
+ meeting.
+ CHAIRMAN GREENSPAN. Governor Bies.
+ MS. BIES. Thank you, Mr. Chairman. many already remarked,
+ preparing meeting lot challenging preparing recent meetings.
+ economy poised strong growth third fourth quarters Hurricane
+ Katrina. forecast staff developed Greenbook think reasonable,
+ given know time. forecast suggests may see short-run
+ softness, growth rate anticipated, rebuilding efforts clearly add
+ stimulus next year. also comforted underlying economy strong.
+ going see slight downtick due impact hurricane, Greenbook
+ forecast real GDP growth mid-3 percent range next year indicates
+ sound economic expansion ahead. uncertainty economic growth increased,
+ still believe much serious clouds inflation horizon.
+ rapid rise energy prices last couple months pushed level prices
+ high enough firms likely find cannot absorb increased costs
+ must raise prices protect profit margins. become longer energy
+ prices remain high.
+ still hearing mixed expectations availability natural gas winter.
+ impact Katrina may severe first feared, limited ability expand
+ natural gas supply, saw last two years, top slower fill due hurricane damage,
+ may create shortages winter, especially economy remains strong expect.
+ 
+ September 20, 2005
+ 
+ 84 117
+ 
+ Greenbook notes, business spending equipment software modest
+ forward momentum. despite solid economic growth, healthy profits, favorable
+ financial conditions. business investment limited? I’m going answer
+ referring recent quarterly survey CFOs conducted Duke University CFO
+ Magazine. would note survey concluded August 28, day
+ Katrina hit.
+ want read lead press release survey. says: “Corporate
+ Optimism Plummets Response Housing Fuel Concerns.” first time fouryear history survey, CFOs pessimistic optimistic U.S. economy.
+ number one concern high fuel costs, ranking health care costs first time.
+ Interestingly, survey also noted jump call terrorism index, one-third
+ firms responding costs improve security business recovery response
+ negatively impacted bottom line. think Katrina firms looking
+ business recovery plans.
+ executives told me, rising costs benefits, energy, financing,
+ closely managing discretionary items, including capital spending. next 12
+ months, CFOs participated survey planning slower growth investment;
+ expect increase capital spending 4.7 percent. survey indicates CFOs
+ also worried housing market. believe market overheated
+ necessary expected decline housing prices negatively affect firms. echoes
+ comments I’ve heard others reversal housing market might negative
+ spillover effects due consumers’ reactions fall value housing wealth.
+ 
+ September 20, 2005
+ 
+ 85 117
+ 
+ find survey results consistent comments I’ve hearing business
+ pessimism we’re seeing due large part growing concerns rising prices several
+ fronts.
+ recent inflation numbers well behaved, Greenbook reflect rise
+ core inflation forecast next year. volatility saw yesterday energy
+ futures market, clearly due Rita concerns, indicates much market
+ focusing unknown path inflation companies facing. impact
+ inflation may unclear—and know damage platforms Gulf effects
+ refinery capacity still assessed—the nervousness costs factor
+ affecting business behavior, something can’t ignore. fiscal stimulus
+ Katrina rebuilding result going add inflation—and that’s top
+ transportation bill lot spending infrastructure us think
+ less priority rebuilding around Gulf Coast.
+ chart page 21—and also love new charts—helps us keep things
+ perspective, terms historical trends inflation we’ve tightening
+ meeting meeting. keep mind look future. know
+ still ample liquidity financial markets, risks higher inflation right
+ much greater risks economic growth.
+ think it’s important today’s meeting give market assurance
+ continue focus diligent dealing inflation, rising costs appear
+ heart companies’ concerns. that’s important, want support increase
+ interest rates meeting.
+ 
+ September 20, 2005
+ 
+ 86 117
+ 
+ CHAIRMAN GREENSPAN. Mr. Reinhart.
+ MR. REINHART.2 Thank you, Mr. Chairman. referring material
+ Carol Low passing around. deference Governor Bernanke,
+ I’m going start reading everybody copy material.
+ Dave explained, lot going underneath newly revised green
+ sheets, effects higher energy prices disruption Hurricane Katrina
+ shift timing composition GDP growth next quarters.
+ unfortunately familiar, supply shock confronts central bankers unpleasant
+ choices, weigh benefit potential policy offset near-term
+ softness spending cost adding impetus inflation. reading,
+ however, investors share pain. seen top left panel
+ first exhibit, market participants apparently interpreted confluence events
+ past six weeks reason mark anticipated path funds rate
+ much 30 basis points. expected tighten today, market
+ betting, net, one action mark conclusion measured
+ removal policy accommodation.
+ reduction expected policy restraint associated inflation
+ compensation moving higher (as shown top right panel) longer-term
+ nominal yields dropping considerably (as shown 10-year yield plotted
+ lower left). fact equity prices posted increase balance
+ corporate risk spreads remained thin would seem suggest investors believe
+ anticipated path monetary policy, together fiscal policy stimulus,
+ sufficient cushion adverse effects Hurricane Katrina aggregate income
+ production, albeit accepting little inflation.
+ staff’s assessment, summarized exhibit 2, differs somewhat. light
+ effects hurricane news intermeeting period, staff
+ trimmed forecast real GDP growth second half year (plotted
+ upper left panel) boosted first half 2006 destruction gives way
+ reconstruction. outlook core PCE inflation, given second column
+ table upper right panel, touch lower year anticipated
+ August light another favorable CPI report noticeably higher 2006
+ higher energy costs passed core prices.
+ bottom four panels offer one perspective policy choice confronting
+ today—an optimal control exercise, using version FRB/US investors
+ assumed foresee policy outcomes correctly. blue solid lines
+ four panels plot paths key macro variables Greenbook outlook, given
+ policy trajectory chosen minimize loss function weights equally
+ 2
+ 
+ materials used Mr. Reinhart appended transcript (appendix 2).
+ 
+ September 20, 2005
+ 
+ 87 117
+ 
+ unemployment inflation gaps also puts small penalty interest rate
+ volatility. red dotted lines report exercise, excluding estimated
+ effects Katrina confidence, energy prices, overall inflation
+ embedded baseline forecast. seen, simulations produce nearly
+ identical paths nominal federal funds rate (the middle left panel). Essentially,
+ Katrina effects temporarily boosting inflation (the bottom right) lower real
+ federal funds rate (the middle right) enough damp swing output gap (the
+ bottom left). Thus, advice coming model proceed path
+ policy envisioned hurricane’s landfall.
+ Exhibit 3 addresses policy choice little colorfully. official title
+ Bluebook “Monetary Policy Alternatives,” certainly delivered
+ time. [Laughter] included two explicit policy alternatives: A,
+ change funds rate; B, increased 25 basis points (as
+ noted column headings table). associated draft statements,
+ assumed would want send strong signal future action.
+ also considered descriptions could signal conviction
+ future path—either would involve prolonged pause, A-, substantial
+ ultimate extent tightening, B+, difference “sure”
+ “unsure” subheadings.
+ Bluebook write-up, assumed would continue “measured
+ pace” language, heading first row. recognizing greater
+ uncertainty economic outlook, also included box describing new risk
+ formula (the middle row) dropping guidance (the bottom row). Three
+ rows four columns produce 12 alternatives statement—a new Bluebook
+ record. [Laughter]
+ paid attention familiar formulation alternatives B
+ reason would surprise viewer C-SPAN past week—stare
+ decisis. explained Judge Roberts’ confirmation hearing
+ summarized middle panel, stare decisis translates “let decision stand”
+ holds proper adhere precedent unsettle things
+ established. Justice Frankfurter noted “embodies important social policy
+ represents element continuity rooted psychological need
+ satisfy reasonable expectations.”
+ sentiment favoring delivering expected repeated often
+ room—not Latin always English either. [Laughter] shown
+ bottom left panel, market expectations settled roughly 90 percent weight
+ ¼ point firming today. right panel relates, primary dealers predominantly
+ believe today’s statement retain key features prior ones, including
+ describing Committee’s intention continue removing monetary policy
+ accommodation measured pace.
+ 
+ September 20, 2005
+ 
+ 88 117
+ 
+ arguments alternatives B presented exhibit 4, begins
+ two Rorschach tests policymakers—the behavior real federal
+ funds rate relative range estimates equilibrium (at left)
+ nominal federal funds rate relative range predictions policy rules (at
+ right).
+ might favor holding nominal funds rate 3½ percent today
+ viewed real federal funds rate (the solid line left) close enough
+ neutral value afford time assess effects cumulative policy
+ firming near-term dislocations associated Hurricane Katrina. fact
+ current nominal funds rate right within range recommendations
+ standard rules might provide confidence decision pause
+ today. particular, information accumulates next weeks might
+ seen particularly revealing serious downside risk disruptions
+ Gulf region sap household business confidence. regard,
+ preliminary reading consumer confidence Michigan survey plotted
+ middle left panel might taken warning flare. Although drop far
+ staff expectations, deeper pronounced slide would troubling. One
+ example adverse possibilities “sentiment slump” scenario
+ Greenbook, shows unemployment rate (graphed dotted line
+ lower left panel) moving ½ percentage point baseline (absent
+ monetary policy response).
+ favoring alternative B probably see less chance outlook clarify
+ materially next six weeks, part economic data likely
+ contaminated hurricane effects months come. two upper
+ panels, real rate may risen considerably, models suggest still
+ likely equilibrium level. constant 3½ percent nominal funds rate may
+ consistent policy rules long, green
+ envelope rate recommendations moves upward next year.
+ case alternative B might strengthened another element
+ Michigan survey released Friday. plotted middle right panel, oneyear-ahead inflation expectations (the solid line) spiked higher even much
+ less volatile longer-term expectations moved north 3 percent. particular,
+ might served unpleasant reminder “deteriorating inflation
+ expectations” scenario Greenbook, which, bottom right, core
+ inflation remains 2½ percent end next year.
+ Whatever choice policy rate, market participants believe, already
+ mentioned, rest statement follow path laid 11 prior
+ ones. exhibit 5, provide draft statements want deviate
+ route, presumably view uncertain economic outlook rendering
+ 
+ September 20, 2005
+ 
+ 89 117
+ 
+ forward-looking portions current statement longer appropriate. upper
+ panel accompanies policy choice alternative B risk assessment explicitly
+ conditioned maintaining current stance policy next several quarters.
+ macro fundamentals play Greenbook, output growth
+ likely exceed potential fall short inflation likely
+ increase decrease unchanged funds rate. Given output gap
+ already quite thin, neither outcome would seem acceptable Committee,
+ thereby sending signal funds rate likely rise 3¾ percent
+ fall bellow it.
+ formula follows convention since May 2003 describing uncertainty
+ Committee’s goals. formula lacks nuance possible
+ writing statement afresh time. experience suggests freshness
+ date statement passes quickly given Committee’s reluctance
+ change wording market participants seem obsess over. simple, albeit
+ coarse, formula also might solve governance issue 19 people agree
+ key attributes statement limited time.
+ bottom panel silent possible path funds rate dropping
+ risk assessment description policy accommodative.
+ version satisfies test simplicity, something may lost economy.
+ probably considerations another day. bring now, however,
+ remind real federal funds rate moves higher region
+ reasonable people disagree whether policy remains accommodative,
+ time deal statement’s structure comes closer.
+ last exhibit provides latest draft Table 1 Bluebook.
+ version table incorporates changes saw Bluebook.
+ first stylistic that, re-reading, last sentence paragraph
+ addressing effects Hurricane Katrina energy prices seemed repetitive.
+ think fixed. two changes substantial, least
+ perspective geological time statement evolves. one,
+ characterization policy accommodation “remaining” last sentence,
+ proposed Bluebook, August statement struck.
+ another, longer-term expectations “contained,” “well contained” described
+ August statement. changes made light run-up inflation
+ compensation higher readings inflation expectations. concludes
+ prepared remarks.
+ CHAIRMAN GREENSPAN. Questions Vincent? not, I’ll start.
+ think interesting question answer this: Katrina done
+ destruction without affecting energy prices, would view it? We’ve
+ 
+ September 20, 2005
+ 
+ 90 117
+ 
+ post-World War II period innumerable supply-side shocks. remember prolonged
+ steel strike 1959, profoundly debilitating effect economy overall,
+ affected business confidence. strike over, economy came back surge.
+ Theoretically, one argue decline economic activity consequence supplyside shock lowers wages, lowers compensation, hence lowers expenditures. one could
+ theorize supply-side shock could bring recession.
+ never seen happen. suspect reason underlying
+ psychology associated replenishment invariably follows supply-side shock leads
+ expectations future create forward momentum. think current situation
+ exactly that—a large supply-side shock which, ex energy price effect, judgment
+ would gone way scenarios: would significant short-term
+ retrenchment activity, perhaps number quarters. would impact oil
+ structure production refining. submit price effect would
+ high earlier periods history crude price $20 barrel
+ excess supply OPEC several million barrels. words, would
+ cutback production refineries presumably crude oil production, price
+ effect would severely muted.
+ different today something mentioned several times around
+ table, namely, surplus depleted and, therefore, little variation supply hits
+ price. It’s crude price causing problem, judgment. It’s gasoline
+ price. higher price gasoline does, course, contract purchasing power.
+ importantly, visual impact gasoline one commodities—
+ 
+ September 20, 2005
+ 
+ 91 117
+ 
+ milk may another one—consumers look continuous price comparisons.
+ particular surge evident we’ve watched consumer attitudes
+ consumer expenditures course gasoline price run-up especially
+ acceleration occurred August 29.
+ One fascinating thing used talk crude price though
+ substitute gasoline price, dramatically different time.
+ found best way viewing markup crude prices gasoline prices
+ weight WTI 60 percent heavier crude, Maya, 40 percent. traces gasoline price
+ reasonably well, relatively stable markup weighted crude price
+ refining margin, marketing margin, retail price.
+ happened since big surge presumed shortfall production
+ price regular unleaded gasoline gone up, know, $3 gallon
+ weighted crude price gone $1.50 gallon, equivalent $60 per
+ barrel average weighted price. accounting taxes, $1.10 spread per gallon.
+ fairly narrow, normal spread 50 cents. 60 cent surge here, it’s showing
+ partly refinery margins, truly spectacular marketing margins. it’s clear
+ utterly unsustainable industry country highly competitive,
+ neighborhood service station. people running stations looking
+ competitors across street block, continuously adjusting
+ prices.
+ question is: happened? Well, happened obviously
+ refinery breakdown two forms. One, we’ve clearly squeezed excess capacity
+ 
+ September 20, 2005
+ 
+ 92 117
+ 
+ United States. two, process, we’ve considerable difficulty well
+ refining heavier crude oils. gives us worldwide mismatch type crude
+ oils produce, sour heavier, growing needs petroleum products
+ increasingly transportation, course include gasoline, diesel, lot
+ lighter products. essentially production lighter products requires
+ substantial transformation heavier crudes.
+ we’re better shape Europe respect balance catalytic cracking
+ coking operations, don’t enough. consequence, we’re running severe
+ pressures price margins opening considerably, especially refiners
+ capacity refine heavier heavily discounted crudes.
+ end year we’ll capacity back line that, Karen mentioned,
+ currently line. gradually creep up. particular stage significant
+ number tankers moving direction loaded motor gasoline produced
+ Europe, EPA regulations would able sold here. import little
+ million barrels day gasoline, lot reformulated basically form
+ meets EPA requirements barely. dropped EPA requirements opened
+ substantial amount less stylized gasolines United States, products
+ going hit shores matter weeks. fact, start relatively soon.
+ products shortly unless Rita turns really serious
+ problem, may. take look probability distribution path Rita,
+ goodly chunk northern Mexico even east New Orleans. don’t need that,
+ course. It’s they’ve missed chaos need it. real mess.
+ 
+ September 20, 2005
+ 
+ 93 117
+ 
+ point worst gasoline price close unless
+ significant damage refineries Houston area below,
+ stage conjectural. First all, we’re making assumption waters Gulf
+ Mexico somewhat warmer that, therefore, turn plain storm
+ hurricane. Right they’re talking category 1, 2, possibly 3 hurricane, they’re
+ guessing. don’t really know; reason they’re guessing it’s possible
+ know many variables. reminds little Kenneth Arrow
+ anecdote; it’s quite there’s lot involved.
+ markets sensitive. seen happened Katrina, they’re trying
+ discount—probably well discount—the possibilities associated Rita. know,
+ prices come today; last time looked, crude price dollar
+ gasoline 7 10 cents gallon big run-up yesterday.
+ point reasonably soon we’re going see gasoline prices move down. Ex Rita,
+ go $3.00 gallon pump probably $2.60. big
+ move, take significant amount consumer confidence erosion
+ conceivably business confidence erosion—which see there, think several
+ mentioned it—which, turn, consequence erosion consumer confidence.
+ think that, short caveat Rita, scenario uncertain.
+ historical precedent suggest keep margins refining marketing levels
+ anywhere near are. know there; supply-side shutdown.
+ supply coming back, indeed, imports Europe going quite
+ substantial.
+ 
+ September 20, 2005
+ 
+ 94 117
+ 
+ occurs, clearly situation outlook still
+ significantly restrained. Consumer outlays constrained gasoline $2.60 per
+ gallon something galvanize great deal consumption. So, next
+ number months economy fairly weak, it’s going difficult differentiate
+ part supply side part not. consequence, there’s going
+ considerable confusion much, much less certainty exhibited financial
+ markets last year so.
+ we’re going period one thing say certain level
+ uncertainty going rising, it’s going rising two sides. It’s going
+ rising presumably output side—and we’re going uncertain whether it’s related
+ supply demand—and almost assuredly price side. reason say
+ we’ve seeing gradual upward creep financial expectations, none us
+ experienced anything like 20 years. guess remember pre-1980 period
+ anyone around table, peculiar feel it. starts slowly. It’s
+ ambiguous. It’s disputable unforecastable, grows grows grows.
+ look pattern, change usually small short-term period jolt
+ look back say: “This growing quite while.” starts accelerate,
+ largely inflation expectations begin erode. That’s history is. It’s tough
+ forecast, exceptionally long period disinflation,
+ brought actual inflation expectations term premiums down. Everything
+ bottom. nowhere go except up.
+ 
+ September 20, 2005
+ 
+ 95 117
+ 
+ one characteristics types markets things going
+ expectational variable says going go further.
+ words, first difference matters. get low are, first
+ difference goes zero matter one say can’t go lower.
+ starts change pattern.
+ don’t know probabilities are. Anybody makes confident forecast
+ turn like I’ve discussing really reaching, reaching. I’m basically
+ reaching say think possibilities lot wider we’re envisaging
+ Greenbook. fiscal situation country gotten scary. nobody
+ wants forgo free lunch. big discussions whether ought cut taxes
+ raise spending. think terms whether worry
+ deficit. Indeed, one go suggest, rather foolishly occasion,
+ Congress could curtail expenditures reasonable way. think everyone
+ applauds? exactly.
+ We’ve lost moorings. budgets control. reason say
+ ever since surpluses—which damage fiscal discipline could
+ conceivably believed—nobody finds political purpose showing restraint.
+ means inflation premiums going build long-term interest rates point. don’t
+ know when, it’s somewhere.
+ event, one things know reasonable certainty that,
+ unlike previous periods, sharp rise prices running degree short-term
+ elasticity, especially gasoline, don’t think anticipating. Seasonally adjusted,
+ 
+ September 20, 2005
+ 
+ 96 117
+ 
+ weekly domestic demand gasoline sharply recent weeks. Now, that’s say
+ gasoline consumption necessarily going down. means primary shipments
+ including imports 600,000 800,000 barrels day. may happening
+ gasoline stations essentially running inventories—which incidentally
+ small—and tanks motor vehicles consume gasoline run down. primary
+ published data gasoline inventories—that would mean primary terminals—is 200 million
+ barrels now. come significantly.
+ average, gasoline service station inventories 80 million barrels. Taking
+ average capacity fuel tanks figuring probable level gasoline tanks, that’s
+ another 60 million. It’s conceivable numbers went great deal hence
+ actual consumption gasoline gone anywhere near much domestic
+ demand. strikes highly unlikely one dealing shortages,
+ tendency, anything, service stations get rather less gasoline. It’s areas
+ form rationing—even though call something else—that
+ stations run gasoline.
+ But, general, there’s little question mind we’ve run something
+ different—namely, significant drop gasoline consumption. means people
+ driving less, since stock cars hasn’t changed. Indeed, look overall unit use
+ energy, including oil, nonfinancial, non-energy corporate sector—as David mentioned—
+ actual per unit weighted amount fuel per dollar gross nonfinancial, non-energy
+ corporate product going fairly quickly. might add big chunk
+ natural gas, natural gas demand destruction, conservation. So, implied
+ 
+ September 20, 2005
+ 
+ 97 117
+ 
+ efficiency numbers great been. one reasons profit
+ margins held energy costs pushed yet
+ significant amount productivity going on, means oil less effect
+ used to.
+ we’re seeing great damage yet margins. Indeed, monthly basis find
+ margins nonfinancial, non-energy corporations—doing data calculations obviously quite
+ roughly—flattened March June. Now, it’s hard know going July
+ August. compression. don’t see could otherwise,
+ don’t data that.
+ Basically, come obvious question, twofold nature.
+ choose pause today, one obvious thing going happen federal funds futures
+ curve, still gradually goes even though eventually flattens out, going flatten
+ sharply. there’s point President Santomero made fact economy
+ going showing poor data next number months. So, statement
+ going resume raising rates point soon credible. markets won’t believe
+ it, good reason—because data, least short run, going give
+ rationale raising rates largely it’s going clear supply-side effect
+ demand-side effect. confusion going stay us while.
+ agree want restore path interest rate increases, it’s going
+ next year, it’s going next year face judgment going set
+ heightened inflationary forces. case, way behind curve
+ looking sure less economic output inflation, though
+ 
+ September 20, 2005
+ 
+ 98 117
+ 
+ precise combination easy determine. measure stagflation
+ could say virtually none year ago, we’re beginning get it.
+ We’re trading increased nominal GDP real GDP. sort process going
+ continue while.
+ think pausing stage highly risky, much issue
+ technical capability come back path explain we’re raising rates. could
+ it. We’re independent agency. saw poor data saw inflationary forces,
+ could raise rates. think we’d run serious explanatory problems, think end
+ day wouldn’t it. fear wouldn’t, even though probably should.
+ question, therefore, gets much notion perception ability
+ move, right thing do. right thing judgment
+ recognize, several mentioned, real risk imbalance inflation side.
+ turns raise funds rate today—I don’t know we’re going
+ thereafter—and economy actually shows weakening beyond supply-side gasoline­
+ price-induced weakness, capacity move rate back sharply. example,
+ 9/11, opened faucets. October 19, 1987, opened everything up.
+ Nobody going complain suddenly reverse start pump money system,
+ reasons self-evident.
+ If, however, pause outcome fear materializes, could run
+ problems. want emphasize I’m pretending know probabilities are.
+ I’m stipulating that, basis experience, sense larger we’re
+ projecting, mainly projections based experience last 20 years.
+ 
+ September 20, 2005
+ 
+ 99 117
+ 
+ period last 20 years extraordinary period beneficence economic
+ policy imagine, helped good deal globalization excess intended saving
+ intended investment.
+ period going end point. think it’s risky try guess
+ going be. ought sufficient buffer start run
+ troubles don’t seem able country buffers anything.
+ example, allowed excess electric capacity run California, years
+ ago. We’ve allowed oil refinery capacity run down. name number
+ examples non-energy related areas. definitely need stage buffer
+ monetary policy area sure we’re well positioned turns we’re running
+ early stages stagflation. turns case, better. may put
+ insurance necessary, insurance, judgment, well worth
+ cost. would opt 25 basis point increase funds rate language
+ statement essentially alternative B recently revised form.
+ Comments? President Lacker.
+ MR. LACKER. support recommendation.
+ CHAIRMAN GREENSPAN. President Hoenig.
+ MR. HOENIG. Mr. Chairman, support recommendation. listened
+ comments, would like invoke central banker’s prayer Jackson Hole year.
+ says, “Lord, shocks, let varied preferably moderate ones
+ stress test systems.” [Laughter]
+ CHAIRMAN GREENSPAN. Governor Ferguson.
+ 
+ September 20, 2005
+ 
+ 100 117
+ 
+ MR. FERGUSON. Mr. Chairman, support recommendation. agree
+ indeterminacy supply demand considerations. think analysis
+ ’70s understanding lack understanding productivity growth time
+ important.
+ I’ll close one thing, central banker’s anxiety, is: “Good times
+ bad could turn bad. Bad times bad obvious reasons.” [Laughter]
+ think you’ve given us lesson extremely good times unlikely good us
+ long run.
+ CHAIRMAN GREENSPAN. Governor Kohn.
+ MR. KOHN. Thank you, Mr. Chairman. support recommendation. I’m sure
+ we’re building buffer here. think question need do. keep
+ going, least get clarification, believe right thing do.
+ MS. YELLEN. support recommendation, Mr. Chairman, agree
+ Governor Kohn right thing spite greatly increased uncertainty.
+ CHAIRMAN GREENSPAN. President Moskow.
+ MR. MOSKOW. support recommendation, Mr. Chairman. lived
+ ’70s played part economic policy days, remember
+ pretty.
+ CHAIRMAN GREENSPAN. Governor Olson.
+ MR. OLSON. Mr. Chairman, continue support alternative A. would emphasize,
+ however, description vote leaving funds rate unchanged opposed
+ pause. Indeed, wording would say—that deferred policy firming
+ 
+ September 20, 2005
+ 
+ 101 117
+ 
+ light uncertainties surrounding Hurricane Katrina. recognize that’s much
+ minority view.
+ CHAIRMAN GREENSPAN. Governor Bies.
+ MS. BIES. Mr. Chairman, support increase ¼ point today. remain mainly
+ concerned inflationary risk, think need continue path.
+ CHAIRMAN GREENSPAN. President Pianalto.
+ MS. PIANALTO. Mr. Chairman, support recommendation.
+ CHAIRMAN GREENSPAN. President Guynn.
+ MR. GUYNN. Mr. Chairman, support recommendation.
+ uneasiness last meeting—perhaps elevated time—about one part
+ statement. I’m sure words inflation situation risks inflation
+ outlook truly capture tone discussion heard last four hours. think
+ concerns pressures core headline inflation greater statement
+ suggests. don’t think statement language really captures notion real risk
+ inflation side. don’t expect change language today, would hope
+ next meeting think whether we‘re true discussion
+ meeting.
+ CHAIRMAN GREENSPAN. Well, reflected minutes,
+ coming three weeks meeting.
+ MR. GUYNN. help.
+ CHAIRMAN GREENSPAN. President Santomero.
+ 
+ September 20, 2005
+ 
+ 102 117
+ 
+ MR. SANTOMERO. support recommendation terms rate movement
+ statement.
+ CHAIRMAN GREENSPAN. Thank you. President Stern.
+ MR. STERN. I, too, support recommendation, Mr. Chairman.
+ sympathy warning 1970s way things gradually kind got away
+ us. said that, I’d like think we’ll succeed conducting policy
+ effective way time around.
+ CHAIRMAN GREENSPAN. certainly hope so. [Laughter]
+ MR. POOLE. Mr. Chairman, retain preference change note
+ market priced almost 100 percent probability 25 basis point increase today.
+ However, reduced fed funds trajectory future and, unless statement
+ minutes change market’s view, think it’s important make clear that’s
+ necessarily path we’re on. increasing funds rate 25 basis points now,
+ change market expectations future, think full job.
+ event, say, retain preference change clear statement concern
+ inflation highly likely need restraint future.
+ CHAIRMAN GREENSPAN. President Fisher.
+ MR. FISHER. support recommendation tightening. still wish would
+ consider eliminating words “measured pace.” like last sentence first alternative
+ Vincent put forward substitute that. I’d prefer adding alternative B without
+ guidance. push comes shove, support entirely, right
+ thing also gives us buffer.
+ 
+ September 20, 2005
+ 
+ 103 117
+ 
+ CHAIRMAN GREENSPAN. President Minehan.
+ MS. MINEHAN. support recommendation. think it’s best way manage
+ risks currently face. agree future downside risks
+ predominate, ways deal that. Now, though, think risks credibility
+ inflation expectations—in light various inflation scenarios face—are sufficient
+ keeping path continuing remove policy accommodation best way go.
+ also wish watched little bit C-SPAN spent minutes less
+ 12-box matrix policy announcement. [Laughter] I’m happy go
+ recommendation.
+ CHAIRMAN GREENSPAN. Vice Chair.
+ VICE CHAIRMAN GEITHNER. support recommendation.
+ CHAIRMAN GREENSPAN. Would read appropriate language?
+ MS. DANKER. I’ll reading directive wording page 27 Bluebook
+ assessment risk exhibit 6 material passed out. directive: “The
+ Federal Open Market Committee seeks monetary financial conditions foster price
+ stability promote sustainable growth output. long-run objectives,
+ Committee immediate future seeks conditions reserve markets consistent
+ increasing federal funds rate average around 3¾ percent.”
+ assessment risk: “The Committee perceives that, appropriate
+ monetary policy action, upside downside risks attainment sustainable
+ growth price stability kept roughly equal. underlying inflation expected
+ contained, Committee believes policy accommodation removed pace
+ 
+ September 20, 2005
+ 
+ 104 117
+ 
+ likely measured. Nonetheless, Committee respond changes economic
+ prospects needed fulfill obligation maintain price stability.”
+ CHAIRMAN GREENSPAN. Call roll, please.
+ MS. DANKER.
+ Chairman Greenspan
+ Vice Chairman Geithner
+ Governor Bies
+ Governor Ferguson
+ President Fisher
+ Governor Kohn
+ President Moskow
+ Governor Olson
+ President Santomero
+ President Stern
+ 
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+
+ Yes
+ Yes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CHAIRMAN GREENSPAN. Okay. request recess ask members
+ Federal Reserve Board join me.
+ [Recess]
+ CHAIRMAN GREENSPAN. Federal Reserve Board voted unanimously approve
+ requests individual Reserve Banks increases discount rate.
+ next meeting November 1. well overdue luncheon Governor
+ Bernanke, suggest adjourn Dining Room E.
+ 
+ END MEETING
+ 
+ 

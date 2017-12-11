@@ -1,0 +1,3802 @@
+ Meeting Federal Open Market Committee
+ December 21, 1993
+ 
+ meeting Federal Open Market Committee held
+ offices Board Governors Federal Reserve System
+ Washington, D.C.,
+ PRESENT:
+ 
+ Tuesday, December 21,
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Ms.
+ Mr.
+ 
+ 1993, 9:00 a.m.
+ 
+ Greenspan, Chairman
+ McDonough, Vice Chairman
+ Angell
+ Boehne
+ Keehn
+ Kelley
+ LaWare
+ Lindsey
+ McTeer
+ Mullins
+ Phillips
+ Stern
+ 
+ Messrs. Broaddus, Jordan, Forrestal, Parry,
+ Alternate Members Federal Open Market
+ Committee
+ Messrs. Hoenig. Melzer, Syron. Presidents
+ Federal Reserve Banks Kansas City,
+ St. Louis, Boston, respectively
+ Kohn, Secretary Economist
+ Bernard, Deputy Secretary
+ Coyne, Assistant Secretary
+ Gillum, Assistant Secretary
+ Mattingly, General Counsel
+ Patrikis, Deputy General Counsel
+ Mr. Prell, Economist
+ Mr. Truman, Economist
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ Mr.
+ 
+ Messrs. R. Davis, Lang, Lindsey, Promisel,
+ Rolnick, Rosenblum, Scheld, Siegman,
+ Simpson, Slifman, Associate Economists
+ Ms. Lovett,
+ System
+ Mr. Fisher,
+ System
+ 
+ Manager
+ Open Market
+ Manager
+ Open Market
+ 
+ Domestic Operations,
+ Account
+ Foreign Operations,
+ Account
+ 
+ Winn,
+ Mr.
+ 
+ Assistant Board. Office Board
+ Members, Board Governors
+ Mr. Ettin. Deputy Director. Division Research
+ Statistics, Board Governors
+ Mr. Madigan, Associate Director. Division Monetary
+ Affairs, Board Governors
+ Mr. Stockton, Associate Director, Division Research
+ Statistics, Board Governors
+ Ms. Low, Open Market Secretariat Assistant,
+ Division Monetary Affairs, Board Governors
+ Ms. Pianalto, First Vice President, Federal Reserve
+ Bank Cleveland
+ 
+ Messrs. Beebe, T. Davis, Goodfriend, Ms. Tschinkel,
+ Senior Vice Presidents, Federal Reserve Banks
+ San Francisco, Kansas City. Richmond, Atlanta,
+ respectively
+ Mr. McNees, Vice President, Federal Reserve Bank
+ Boston
+ Ms. Meulendyke Mr. Thornton, Assistant Vice
+ Presidents, Federal Reserve Banks New York
+ St. Louis, respectively
+ 
+ 1.
+ 
+ Attended part meeting.
+ 
+ Transcript Federal Open Market Committee Meeting
+ December 21, 1993
+ CHAIRMAN GREENSPAN. Governor, since you're standing,
+ move minutes last meeting?
+ MR. LINDSEY.
+ 
+ Yes, move.
+ 
+ CHAIRMAN GREENSPAN. Without objection. think you're
+ familiar memorandum dated December 17th relates
+ delegation responsibility Decisions Appeals
+ Freedom Information Act denials access Committee records.
+ discussion issue? questions? Would somebody
+ like move delegation responsibility?
+ MR. LINDSEY.
+ 
+ move.
+ 
+ MR. KELLEY.
+ 
+ Second.
+ 
+ CHAIRMAN GREENSPAN. Without objection. Thank you. next
+ item agenda interesting analysis Dave Stockton
+ Jack Beebe relationship price stability economic
+ performance, believe initiated System-wide conference
+ back. turn [the floor] gentlemen.
+ MR. STOCKTON.
+ MR. BEEBE.
+ 
+ [Statement--see Appendix.]
+ 
+ [Statement--see Appendix.]
+ 
+ CHAIRMAN GREENSPAN. know we've done considerable
+ work United States weed statistical effects,
+ I'm sure exist countries, normal noise
+ variables creates inverse correlation price change
+ real GDP look implicit price deflator one hand
+ gross domestic product constant dollars other.
+ 
+
+ 
+ words, independently estimated nominal GDP
+ independently estimated set prices consider
+ noise variables, you're going end picking
+ negative correlation. United States think we've done
+ enough area demonstrate even adjusting
+ [using] industrial production versus price, subject
+ problem, still creates robust relationship. causation
+ question big debate is.
+ curious:
+
+ I've forgotten came
+ run Granger-causation tests U.S. data?
+ that.
+ MR. STOCKTON. work carried Board
+ we've done types statistical causality tests
+ appear indication inflation causes
+ productivity growth. lion's share negative correlation
+ inflation productivity growth occurs contemporaneously.
+ evidence, one would say, possible
+ there's causal relationship certainly doesn't show
+ strongly data. correlation appears
+ contemporaneous, raising questions [relationship].
+ CHAIRMAN GREENSPAN. Well, doesn't necessarily follow
+ causation must one direction other.
+ both.
+ 
+ 12/21/93
+ 
+ concurrent relationship could consistent unit labor
+ costs pulled hence price level.
+ recall
+ whether strictly statistical sense Granger-causation
+ results significant?
+ MR. STOCKTON.
+ think answer yes,
+ significant running inflation productivity. magnitude
+ relationship looked relatively weak terms lagged
+ part. You're absolutely right terms contemporaneous
+ relationship; could fact reflect causation running
+ inflation productivity growth.
+ skeptic could look
+ evidence say:
+ doesn't prove, course, isn't
+ going opposite direction well. appears
+ tantalizing correlation cross-country studies
+ time series data. difficulty presenting
+ skeptical audience, think whatever regression result put
+ table couldn't feel confident somebody else wouldn't come
+ along another demonstrate particular regression
+ wasn't fragile variety different minor modifications best-CHAIRMAN GREENSPAN. assume contemporaneous
+ increase productivity order magnitude
+ large far price inflation decline which,
+ therefore, couldn't explain it.
+ words, assume
+ we're looking something argument productivity
+ increases cause low inflation refuted level.
+ MR. STOCKTON.
+ 
+ It's refuted level, that's
+ 
+ correct.
+ CHAIRMAN GREENSPAN.
+ 
+ questions?
+ 
+ MR. PARRY. question seems
+ terms price distortion effects inflation,
+ pretty strong results.
+ effect productivity, etc.,
+ doesn't show strongly.
+ correct?
+ MR. STOCKTON.
+ 
+ That's correct.
+ 
+ MR. PARRY. aren't strong theoretical
+ analytical reasons think would negative effect?
+ fact quantitative results always strong
+ focuses much data, affected many
+ things.
+ would say establish something theoretically
+ analytically--and think that's done--it's very,
+ [probable].
+ would say respects results
+ much stronger you've portrayed.
+ MR. STOCKTON. It's certainly case review
+ literature examines effects inflation pricing
+ system relative prices, overwhelming majority studies
+ come conclusion fact inflation introduce
+ distortions price [signaling].
+ think strong evidence
+ inflation detrimental effects.
+ MR. PARRY. analytically conclusion [inflation
+ leads to] lot problems terms productivity probably also
+ growth.
+ 
+ 12/21/93
+ 
+ -3-
+ 
+ CHAIRMAN GREENSPAN. Yes.
+ think fairly widespread
+ acceptance inflation rates 10 percent clearly
+ disruptive; probably large majority [believe that] 5
+ percent upward.
+ crucial question happens academic
+ evaluation inflation 5 percent [or less]; [views] start
+ spread place.
+ MR. PARRY. think work indicated moderate
+ rates inflation price distortions statistically
+ significant.
+ CHAIRMAN GREENSPAN. ask:
+ anybody ever
+ tried isolate impacts trying subtract GDP
+ costs fighting inflation?
+ MR. STOCKTON. No, hasn't done;
+ issue raised conference flaw, sense,
+ studies we've done date relating inflation growth output.
+ would something research-CHAIRMAN GREENSPAN. basically raise GDP
+ finding something reservoir water, tell
+ GDP District Columbia went water pollution
+ question came retail activity everything
+ else went on. one questions measured GDP actually
+ means, especially particular context.
+ MR. PRELL. Mr. Chairman, think one could also note
+ interpretation made System conference
+ wanted way emphasis sort set aside
+ questions damage might done terms welfare lost
+ unanticipated inflation people saving enough
+ retirement.
+ There's whole array welfare costs might
+ go high unpredicted inflation. there's whole area
+ explore one wanted look reasons one concerned
+ non-zero inflation.
+ CHAIRMAN GREENSPAN. think Bob right
+ set analytical model, cause effect, demonstrate
+ crucial points micro evidence,
+ relationship inflation price dispersion [effects]
+ uncertainty relationship uncertainty cost
+ capital growth, build argument, even data
+ macro level insufficient largely data
+ considerable amount noise them. indeed forceful
+ tight inverse relationship exists, quite possible
+ there's enough statistical noise data system bring
+ 100 percent R square .2.
+ MR. PRELL. Well, recognize it's hard
+ establish, macro issue, anything definitive
+ research. analytical points argue
+ low inflation could conceivably better inflation. tried
+ experiment, also thought mission try put
+ empirical flesh analytical [bones].
+ progress made
+ concede lack certainty--
+ 
+ 12/21/93
+ 
+ CHAIRMAN GREENSPAN. Well, thought memorandum
+ really quite useful.
+ think results obtained showed
+ fairly extensive advance state knowledge area.
+ MR. BEEBE. might add survey data even moderate
+ rates inflation--U.S.-type rates--do indicate standard
+ errors uncertainty forecasters rise level
+ inflation. even reasonable rates inflation
+ evidence level inflation inflation uncertainty
+ related. gets back distribution issue Mike
+ alluded to.
+ not, go
+ CHAIRMAN GREENSPAN. questions?
+ substance meeting, conventional [agenda], Sandra
+ Pianalto first time we'd like welcome her.
+ she?
+ is. Welcome, Sandy. think we're
+ aware, last official meeting Governor Angell.
+ next meeting going away bash him. want
+ say today may leave philosophy remain
+ organization largely because, perhaps subliminally,
+ implanted ideas amongst colleagues think
+ own. result cherish immensely.
+ us observed years--and I've privilege
+ this--you going sorely missed lot reasons.
+ important extraordinary integrity
+ exhibited group absolute adherence issue
+ principle appropriate important public policy
+ central bank. We're going somebody else sitting seat
+ replaced you. officially wish
+ well later time, want say personally
+ professionally miss you. doesn't mean I'm going
+ give couple extra strokes next time play tennis!
+ Shall go normal procedures?
+ Peter Fisher Foreign Desk.
+ 
+ We'll start
+ 
+ MR. FISHER.
+ referring briefly two pages
+ color charts Carol kind enough put table front
+ morning.
+ [Statement--see Appendix.]
+ CHAIRMAN GREENSPAN. Questions Peter?
+ not,
+ objection request Desk made respect [the
+ disposition of] currencies? not, assume
+ authorization move required. Let's go Domestic Desk
+ Joan Lovett.
+ MS. LOVETT.
+ 
+ [Statement--see Appendix.]
+ 
+ CHAIRMAN GREENSPAN. Thank you. Questions Joan?
+ would entertain motion ratify actions
+ [intermeeting] period.
+ SPEAKER(?).
+ 
+ not,
+ 
+ move.
+ 
+ CHAIRMAN GREENSPAN. Since there's second, without
+ objection. Let's move Messrs. Prell Truman
+ economic report.
+ 
+ 12/21/93
+ 
+ MR. PRELL.
+ MR. TRUMAN.
+ 
+ [Statement--see Appendix.]
+ [Statement--see Appendix.]
+ 
+ CHAIRMAN GREENSPAN.
+ gentleman?
+ 
+ Thank you.
+ 
+ Questions either
+ 
+ MR. JORDAN. couple questions Mike.
+ look back Greenbook projections '93 starting year
+ ago, balance encouraging. Even though intra-year
+ pattern growth currently reported different, know
+ that's going revised away anyway, let's pay much
+ attention that. cumulative effect year
+ real growth year, even get 5 percent fourth quarter,
+ going projected year ago. inflation
+ probably going come slightly less, measured consumer
+ price index, looks pretty good. look
+ current projection 1994 versus year ago, output growth
+ projected slightly less thought year ago next
+ year inflation quite bit more--1/2 3/4 percentage point
+ consumer prices.
+ I've read written I've listened
+ said it's still clear think
+ inflation 1994 1995 going higher level
+ thought year ago.
+ MR. PRELL. Well, price performance year relative
+ expectation year ago depends series look at.
+
+ GDP fixed weight price measure expected 3/10ths
+ point higher expected '93 year ago.
+ crosscurrents price data. modest--though
+ think significant terms whether consistent
+ expectations deceleration--slowing core inflation past
+ year. somewhat lower level unemployment
+ higher level, think, capacity utilization expected
+ point. see compensation data, consider
+ another important measure underlying costs trends, really
+ clear evidence ongoing deceleration even course
+ period unemployment higher now.
+ perhaps sanguine might prospects
+ ongoing substantial deceleration move 1994.
+ We're re-calibrating things move along here.
+ looking different initial conditions expected see
+ enter [1994].
+ Now, one could certainly argue variety
+ econometric models built Phillips curve--one you're
+ particularly fond of--that could significant
+ deceleration. view, using model,
+ NAIRU 5-1/2 percent, significant output gap;
+ normal rules thumb would produce deceleration prices
+ have. hand, think many people would
+ say prospects aren't quite rosy we're forecasting
+ be. basic notion think likely
+ direction trend inflation 1994 downward.
+ MR. JORDAN. Let follow everything I've
+ seen, including Ted's report, outside United States
+ virtually everything been, anything, much, much weaker '93
+ expected year ago. global marketplace
+ model, framework, slack, excess
+ 
+ -6-
+ 
+ 12/21/93
+ 
+ capacity thought year ago would time.
+ global economy would say less price pressure
+ year ago would thought time.
+ MR. PRELL. Well, going significant
+ competitive pressure imports number sectors
+ economy, [though] sectors. sectors susceptible
+ influence degree.
+ noted, import
+ price prospect one things makes us hopeful
+ continue downward [inflation] trend. import price
+ pressure last year. isn't element
+ forecast going move [significantly] favorable
+ direction 1994; anything, prospects might infer less
+ favorable contribution import price side.
+ we're
+ splitting hairs.
+ think picture essentially
+ doesn't really make big difference go forward terms
+ rate deceleration.
+ MR. JORDAN. Okay, one point, may
+ technical question. Historically gap GNP deflator
+ CPI 1/2 percentage point, noticed
+ [widen] percentage point '94 carry
+ '95 almost full percentage point. What's giving rise that?
+ MR. PRELL. think major story ongoing
+ increase relative importance computers, whose prices
+ decreasing rapid rate.
+ MR. JORDAN.
+ 
+ Translate one wrong.
+ 
+ MR. PRELL. Well, different measures.
+ think
+ deflator optimal measure prices even broader measures
+ consumer prices going affected computer pricing.
+ SPEAKER(?).
+ 
+ technical matter computers much
+ 
+ smaller weight CPI deflator gross domestic
+ 
+ product. weight one item, fall price, small
+ CPI it's relatively large deflator.
+ CHAIRMAN GREENSPAN.
+ 
+ President Parry.
+ 
+ MR. PARRY. Mike, 1992 GDP revisions
+ discrepancy thought saw initially hours worked
+ output removed and, course, GDP increased
+ substantially. first half 1993
+ phenomena numbers [that could change in] revision
+ well.
+ one sort pro forma revision, making similar
+ occurred 1992, implications amount
+ slack would point?
+ would [view that]?
+ Toward end presentation mentioned concerns
+ cautionary measures [unintelligible]-MR. PRELL. Well, don't strong conviction
+ likely magnitude direction revisions GDP, personal saving
+ rate, key variables would look
+ first half
+ gap potential actual real output.
+ year, sure, evidence income side
+ somewhat rapid growth registered GDP numbers.
+ 
+ 12/21/93
+ 
+ isn't night day difference. don't think would make
+ great deal point. least leery
+ defining precisely GDP gap looking
+ unemployment gap.
+ It's difficult number construct.
+ don't
+ think looking anticipated revisions would loom large
+ thinking inflation risks.
+ discussion, might note,
+ possible revisions industrial production measures capacity
+ utilization. may stirred things indicating
+ release--I guess month ago--that February hope
+ markets took
+ publishing annual revisions.
+ indication anticipated major changes. time don't
+ really good fix don't real predilection
+ toward reducing raising capacity utilization based evidence
+ we've able process point.
+ we're agnostic
+ now; we'll looking couple months.
+ MR. LINDSEY. Could ask question fiscal model
+ last green page first Greenbook section?
+ assume
+ default, would law change model, first, third,
+ fourth quarters essentially 5 percent increase receipts.
+ have, say, $15 billion
+ I'm reading across top line.
+ increase Q1 '94 Ql '93 Q3 it's $17 billion increase,
+ etc. carries through. I'm puzzled timing,
+
+ $49 billion increase Q2 '94 Q2 '93.
+ I'm even slightly puzzled Q2 '95 Q2 '94
+ percentage increase quarters.
+ Could
+ briefly explain way timing scored government receipts?
+ MR. PRELL.
+ MR. LINDSEY.
+ MR. PRELL.
+ 
+ You're talking actual unified-Unified budget receipts.
+ Yes, receipts.
+ 
+ MR. LINDSEY. Now, come OMB, okay.
+ didn't think did.
+ 
+
+ 
+ MR. PRELL. No, case don't. I'm sure
+ give good answer cuff here. put
+ forecast effects '93.
+ modest differences
+ OMB CBO estimates. We've little conservative
+ sense allowing bit greater behavioral response,
+ diminishing income tax receipts accrue. April
+ we're expecting see substantially higher level non-withheld
+ income tax payments 1993 second quarter.
+ that's key feature year-to-year movements revenues apart
+ generated simply ongoing increases
+ economic activity boosting corporate personal
+ income. 1995 I'd look closely. see
+ lesser gain second quarter second quarter '95
+ '94, seems reasonable me. can't specific
+ point.
+ CHAIRMAN GREENSPAN. Well, technical question.
+ don't somebody it.
+ 
+
+ 
+ 12/21/93
+ 
+ MR. PRELL.
+ 
+ Sure.
+ 
+ rate,
+ MR. LINDSEY. would great, thanks.
+ kind bump assume unlikely affect consumption patterns
+ pretty much anticipated.
+ MR. PRELL. Well, isn't precisely we're viewing it.
+ things progressed, we've moved bit direction
+ thinking could larger effect first half 1994
+ We've made shift
+ initially allowed for.
+ direction. Yes, it's true lot people knew tax
+ increases coming; began adjust behavior least
+ timing income receipts late 1992, showed
+ bonuses coming then.
+ looking behavior
+ consumption year, one hard pressed discern anticipatory
+ effect. it's entirely clear everyone behaves totally
+ rationally terms gauging lifetime income stream
+ adjusting expenditures quickly. probably number
+ households going somewhat liquidity constrained
+ tax time. we're anticipating
+ disproportionate effect first half 1994 people really
+ calculate confront tax bills.
+ MR. LINDSEY.
+ 
+ Thank you.
+ 
+ CHAIRMAN GREENSPAN. questions? not,
+ would like start Committee discussion?
+ President Broaddus.
+ MR. BROADDUS. moved table year ago
+ time since I've general agreement
+ Greenbook projections.
+ I've often thought risk error
+ bit side, staff projections usually
+ struck generally reasonable sort within
+ confidence interval. can't really say strongly
+ time, least get beyond current quarter. number
+ things make think Greenbook forecast time may
+ significantly underestimating growth economy economic
+ activity get 1994.
+ First, think there's good chance projected sharp
+ deceleration consumer spending won't happen, especially durable
+ goods.
+ may get deceleration don't think it's going
+ sharp Greenbook projecting. Among things
+ Greenbook expects fiscal restraint exert fairly considerable drag
+ consumer outlays next year. maybe will, seems
+ upper income people likely affected
+ tax increases could reasonably seen things coming long
+ year ago, certainly middle last year. seems
+ quite likely taxes already worked effect
+ already whatever impact they're going path
+ spending going forward. broadly, nothing recent data
+ suggests economy generally pull back
+ fiscal drag fiscal restraint. seems
+ current acceleration activity, quite strong, basically
+ driven interest-sensitive sectors economy:
+ housing, consumer spending durable goods, producer spending
+ durable equipment. suggests decline real
+ interest rates going time perhaps
+ 
+ 12/21/93
+ 
+ finally showing rather fundamental way economy
+ generally. unless there's sharp backup interest rates,
+ especially long-term rates, would expect sectors continue
+ bolster economic activity period ahead. Also I'm less
+ pessimistic Greenbook prospects net exports,
+ although get Ted's comments maybe read Greenbook
+
+ particular framework pessimistic actually is.
+ significant reductions interest rates number
+ industrial countries seems could give us
+ somewhat stronger recovery G-6 countries Greenbook
+ appears expect.
+ standpoint compelling reason would
+ questioning staff forecast time anecdotal
+ comments we're hearing District, none suggests
+ real diminution activity going forward. contrary, sense
+ we're getting virtually directors
+ business contacts economy gaining momentum pretty much
+ across board. give couple examples:
+
+ Baltimore directors, pretty good cross section people,
+ pessimistic last meeting. last meeting
+ positive outlook first time really since
+ recession '90-'91. thing [is true] Richmond
+ Charlotte; they've somewhat optimistic several months,
+ last meeting much positive
+ current situation outlook time.
+ we're getting much stronger comments business contacts.
+ lot manufacturing activity District we're
+ contact people. Many telling us first
+ time long time plan bring new workers within
+ next six months. haven't heard significant broad
+ degree recently. Also declining vacancy rates commercial
+ property number areas District increased optimism
+ among commercial builders real estate developers. year ago
+ guys saying would never get better. add
+ acceleration general economic activity begun raise
+ concerns inflation among least contacts,
+ though it's terribly widespread yet.
+ think mentioned
+ something, Mike, pricing power. Several business
+ contacts told us believe recently
+ could make price increases stick, they're beginning think
+ within next six months.
+ So, overall, can't remember time years I've
+ here--maybe one exception, early 1983--when I've seen
+ broad accumulation positive information economy
+ nationally District. think important
+ implications policy decision today. think--I hope--we've
+ known along economy really began gain
+ strength, going let real short-term interest rates
+ move zero. money believe we're now. And,
+ frankly, defer action funds rate longer, think
+ could jeopardize credibility commitment price stability
+ good things credibility economy
+ long-term interest rates.
+ CHAIRMAN GREENSPAN.
+ 
+ President Keehn.
+ 
+ 12/21/93
+ 
+ -10-
+ 
+ MR. KEEHN. Mr. Chairman, District also underlying
+ level economic activity clearly gained momentum since
+ last meeting. Virtually important sectors area
+ shown improvement, driven largely certainly
+ exclusively auto sector. auto production schedules,
+ course, strong quarter; first quarter
+ next year set 13 percent first quarter
+ year. first quarter year pretty good
+ comparative period. industry estimates
+ contribution first-quarter GDP little stronger
+ number that's Greenbook. Given this, it's surprising
+ steel industry continues operate high levels.
+ Shipments year come 88 million tons.
+
+ forecast next year ship 90 million tons,
+ 3 4 percent increase. One company talked said
+ outlook steel industry next two three years
+ best seen fifteen years.
+ parts economy also well. farm
+ equipment business strong. heavy truck business
+ expecting even higher level sales next year year.
+ improved level experienced year, turns
+ out, due environmental standards
+ become effective January 1st. Machine tool orders, example,
+ though third quarter, year October
+ almost 30 percent. retail sales--and think
+ fairly strong recent development--really increased quite
+ substantially past month so.
+ It's uneven; it's much
+ stronger durable goods side apparel.
+ Nonetheless, overall
+ retail conditions described best prevailed
+ three four years. think I'd give high odds
+ Christmas season going come little better
+ employment situation also
+ forecasts we're hearing about.
+ strengthened. Consistent Al said, first
+ time remember heavy manufacturer indicated
+ far
+ add employees one facilities.
+ able meet increased demand increasing line speed.
+ plan add another shift, require additional
+ employees.
+ completely capacity major constraint
+ shortage qualified drivers; aren't enough people
+ available drive trucks.
+ cautious--really rather bearish time
+ --describes employment conditions best seen quite
+ while.
+ regard national economy, clearly fourth
+ quarter come strong side.
+ think question,
+ Mike outlined, whether experience kind
+ drop first quarter next year year
+ whether [the quarter] line staff forecast.
+ must say point think enough underlying
+ momentum place economy decline quite likely
+ much line staff forecast.
+ Certainly,
+ uncertainties there, well familiar.
+ point least, [the forecast] free doubt.
+ regard pricing experiencing interesting dichotomy:
+ strong growth economic activity yet pricing conditions
+ 
+ 12/21/93
+ 
+ continue very, competitive.
+ Despite higher demand
+ products, manufacturers don't latitude raise
+ prices confidence [the increases] stick.
+ continuing put tremendous pressure suppliers maintain
+ even reduce prices, many achieving
+ considerable success. Whether fundamental change last
+ whether we're setting stage somewhat higher prices
+ broader basis remains seen. hunch
+ basis discussion get policy deliberations.
+ MR. PRELL. Mr. Chairman, could clarify something
+ earlier response President Jordan? GDP fixed
+ weight price index expected, CPI core CPI
+ risen past year anticipated last
+ December unemployment rate 1/4 percentage
+ point lower got decline unemployment output
+ growth anticipated. I'd assert strongly
+ broad consistency fundamental principle applied
+ forecast continues apply. Thank you.
+ CHAIRMAN GREENSPAN.
+ 
+ President Parry.
+ 
+ MR. PARRY. Thank you, Mr. Chairman. report
+ Twelfth District economy optimistic, although changes
+ California small mixed. October employment District
+ states outside California showed considerable strength,
+ employment increasing 40,000.
+ Annualized economic employment growth
+ rates month ranged 2-1/2 4 percent
+ states; Idaho Nevada, incredibly strong,
+ actually recorded double-digit rates expansion. One thing
+ bit surprise last month two what's happening
+ state Washington. Washington's employment growth outpaced
+ District states, expanding 8 percent October
+ following 6 percent growth September. eastern
+ Washington continues reflect think correctly
+ characterized boom conditions associated intermountain states, contacts also report business activity
+ western Washington stronger. However, cutbacks aerospace,
+ course, remain drag region's performance. California's
+ economy remains weak although current conditions mixed
+ November payroll employment
+ recent months.
+ little changed recession low reached October. Moreover,
+ job losses continued areas construction
+ manufacturing. positive note, reports contacts
+ California longer uniformly negative. Retail sales
+ improving some, certainly good conditions
+ sectors motion pictures, entertainment, also agriculture.
+ Within state, economic conditions clearly weakest southern
+ California, especially Los Angeles area. Layoffs continue
+ aerospace defense, construction remains quite depressed. Real
+ estate values appear continuing slide area.
+ Conditions relatively stronger huge agricultural area
+ Central Valley also northern California, despite falling
+ employment Bay area.
+ Turning national economy, point think
+ likely outlook growth roughly
+ incorporated Greenbook. seems us following
+ 
+ 12/21/93
+ 
+ -12-
+ 
+ going clearly strong fourth quarter see
+ reduction growth rates along line indicated
+ Greenbook.
+ would say based upon [the Board staff's] forecast
+ wouldn't surprising see labor market slack
+ reduced core rate inflation incorporated
+ Greenbook. However, time think reasonable
+ chance growth inflation turn stronger
+ projected, along line Al talking about. New orders
+ production picked areas besides autos, think GDP
+ 1993 may revised extent, providing momentum
+ growth next year. result, it's possible gap
+ potential actual GDP may diminishing faster rate
+ anticipated forecasts. Thank you.
+ CHAIRMAN GREENSPAN.
+ 
+ President Hoenig.
+ 
+ MR. HOENIG. Mr. Chairman, District continuing
+ grow; actually it's showing indications faster growth
+ last half year think going 1994.
+ Construction
+ activity still strong continue so.
+ note
+ Intel building $1-1/2 billion plant New Mexico, adding
+ 1,000 jobs, activities throughout
+ District.
+ Services seem good improving, although perhaps
+ quite strongly information we're getting
+ national level. Manufacturing District either stabilizing
+ actually improving, smaller job losses durables
+ real job growth nondurables sectors. still
+ declines--McDonnell Douglas American Airlines maintenance
+ operations laying [workers]--but that's offset
+ job gains manufacturing. farm economy stable despite
+ flood.
+ Stronger grain prices offsetting weaker cattle
+ prices may see earnings pressure '94.
+ energy
+ sector actually holding despite fact oil part
+ dead region. Gas activity, though, positive;
+ obvious relationships two, gas
+ prices still holding drilling activity going
+ there.
+ Within context I'd like provide anecdotal
+ data; data systematic
+ are, think, worth noting. area prices, example, land
+ prices sensitive region.
+ Wyoming we've sales
+ and, one recent sale, fairly large ranch sold perhaps 10
+ 15 percent expected; local neighboring
+ ranchers, outside investors coming in.
+ north central Kansas,
+ general trends still price increases around
+ level inflation, we've seen sales recently maybe 5 10
+ percent trend line would suggest. areas like Denver
+ Albuquerque we're hearing comments boom-like
+ conditions.
+ We're seeing speculation residential real estate;
+ loan growth fairly strong, especially areas Denver,
+ parts Omaha, Lincoln. we're seeing activity there.
+ energy sector, I've said, oil prices gas prices
+ least holding own.
+ sale land lease
+ arrangements exploration large independents told
+ us leases selling levels significantly
+ expected. signs strong activity
+ 
+ 12/21/93
+ 
+ -13-
+ 
+ price pressures.
+ often.
+ 
+ It's systematic yet, we're hearing
+ 
+ nation, expect solid growth next year.
+ first quarter see bit drop-off Greenbook
+ following that, year whole, don't see drop-off
+ Greenbook projected. expect continued growth
+ allow inflation back-off Greenbook
+ Now, whether turn case,
+ [projects].
+ certain. we're seeing District
+ we're analyzing nationwide think going fairly
+ good growth, around 3 percent throughout year, inflation
+ stay least high throughout year.
+ CHAIRMAN GREENSPAN.
+ 
+ President Forrestal.
+ 
+ MR. FORRESTAL. Mr. Chairman, economic activity
+ District continuing move along moderate pace
+ think we're outperforming nation. Retail sales
+ fall somewhat disappointing holiday activity quite
+ good mid-December, certainly lot better
+ retailers expected. news relatively important
+ tourism sector continues mixed; busy season Florida
+ approaches there's still substantial concern impacts
+ unfavorable publicity related crime activity months ago.
+ time Mississippi money pouring state
+ result gambling activity along coast
+ Indian reservations, it's giving rise employment.
+ I'm
+ certain way produce economic activity, that's
+ another issue. Business convention bookings quite healthy
+ Atlanta.
+ manufacturing sector pace activity steady
+ November posting quite impressive gains October.
+ outlook area becoming steadily positive terms
+ orders, production, employment.
+ think that's particularly
+ evident outlook capital goods, brightened
+ orders picked recently producers become positive
+ current period expansion extended. Now,
+ negative side, continued cutbacks defense aerospace
+ well decline important apparel sector muting
+ enthusiasm little. Single-family homes continue sell quite well
+ around District. Even though inventories reduced,
+ don't reports [housing] price increases great
+ extent, although people trying pass along
+ recent increases lumber prices. generally speaking, singlefamily home prices moved much all.
+
+ nonresidential commercial areas signs slow
+ steady improvement begun take hold think
+ areas there's pretty general feeling bottom
+ energy sector
+ reached outlook positive.
+ rig count Louisiana fallen last two months although
+ it's well level year ago.
+ concern
+ among producers natural gas lower oil prices cause
+ substitution effects. spot gas prices marginally,
+ marginally, $2 level that's needed make new drilling
+ feasible.
+ balance continue see gains employment
+ District service area, although I've indicated
+ 
+ 12/21/93
+ 
+ -14-
+ 
+ positive signs manufacturing well.
+ see little
+ evidence price pressures.
+ anecdotal information supports
+ idea price increases difficult obtain even
+ positive atmosphere. anecdotal information also confirms
+ positive things I've talked about.
+ generally
+ feeling things much better. business contacts I've
+ had, including directors, indicate feel momentum
+ place economy. Now, go meetings I'm often
+ asked policy I'm also given requests.
+ frequent
+ request get is:
+ "Please leave things way are; don't
+ anything."
+ respect national economy, changed
+ forecast since last meeting. We're general agreement,
+ said last time, Greenbook near-term outlook.
+ get latter part 1994 1995 think growth
+ going somewhat stronger, inflation rate higher,
+ unemployment rate somewhat lower. Basically difference
+ consumer area think employment increases wages
+ salaries going help sustain consumption [growth] probably
+ order 3 percent period. Now, said
+ forecast somewhat higher growth higher inflation,
+ continued vulnerabilities risks forecast.
+ would cite particularly international outlook, although
+ indicated today situation appear little better.
+ may run risk seeing deceleration first quarter,
+ even first half 1994, although don't think it's going
+ extreme last year.
+ CHAIRMAN GREENSPAN.
+ 
+ President Jordan.
+ 
+ MR. JORDAN. Generally economic activity District
+ sector various industries wouldn't much different
+ Si Keehn reported Seventh District, I'm going
+ go different detail.
+ It's basically quite positive.
+ parts District would describe boom
+ conditions, especially central Kentucky around Lexington
+ area. lot driven motor vehicle-related things
+ domestic companies transplant companies
+ quite well, trucks well. Also, there's increasing tendency
+ banks report us business loan demand picking up.
+ Earlier year rather selective; comes almost without
+ exception banks say getting business loan demand.
+ Residential construction strong, [as has] commercial
+ construction, heavy infrastructure kinds construction
+ District. ag sector better year thought
+ going have--the best they've since [unintelligible].
+
+ also see rising farmland prices reports pickup
+ interest there. this, though, we've
+ would call marginal employment growth. Anecdotally,
+ manufacturing-type businesses report substantial increases
+ productivity. talk increased volumes, increased
+ output without adding work force, point that's
+ contrary national policy! passage NAFTA interesting
+ was, course, controversial. lot
+ organized labor activity District, intensive activity.
+ passed almost disappeared issue.
+ [The
+ feeling seems be] okay, it's basically positive area;
+ 
+ -15-
+ 
+ 12/21/93
+ 
+ labor organizations simply factor.
+ 
+ cannot
+ 
+ looks like mortgage refinancing activity slowed dramatically.
+ strength consumer side auto-related.
+ 
+
+
+ 
+ national scene, can't differ forecast put
+ Greenbook. assumptions policy
+ Greenbook produce kind inflation projected, especially
+ '95, would find unacceptable. either
+ forecast wrong policy wrong.
+ CHAIRMAN GREENSPAN.
+ 
+ President Syron.
+ 
+ MR. SYRON. Thank you. Well, First District isn't
+ outperforming nation seeing continued improvement.
+ I'd say legitimately moderate growth.
+ [In
+ our] area boom substantial amount would
+ call boom momentum, people certainly feeling lot better
+ this. exception would defense important,
+ Connecticut parts Rhode Island. fairly extensive
+ sample manufacturers would say balance
+ substantially optimistic true three four
+ years, maybe even five years. Again, significant
+ variance, people generally pretty optimistic
+ exception, might expect, areas produce health
+ equipment actually seeing anticipatory turndown well
+ defense group. price side everyone very,
+ anxious anything increase margins stage
+ don't seem feel ability so. lot
+ complaining that. interesting situation reported
+ us steel scrap area. lot producers increase
+ steel scrap prices resulted net reduction costs.
+ say:
+ be?
+ It's actually increase
+ scrap prices important [because] lot
+ producers sell lot steel scrap back market.
+ benefit increase finished
+ product change mix integrated mills
+ electric mills that's produced. it's question
+ look fairly carefully price data.
+ CHAIRMAN GREENSPAN.
+ MR. SYRON.
+ 
+ You're making point clear.
+ 
+ Okay.
+ 
+ CHAIRMAN GREENSPAN. saying electric price
+ cost structure goes shift nonelectric
+ furnaces--?
+ MR. SYRON. happened scrap prices,
+ know, substantially.
+ CHAIRMAN GREENSPAN.
+ 
+ Yes.
+ 
+ MR. SYRON. many users final products
+ steel generate lot scrap themselves. increase scrap
+ prices magnitude washed
+ increase output price finished steel
+ 
+ -16-
+ 
+ 12/21/93
+ 
+ they're buying. say:
+ Well, happen?
+ out, margins electric powered furnaces gone down.
+ CHAIRMAN GREENSPAN.
+ 
+ turns
+ 
+ see.
+ 
+ MR. SYRON. happens marginal cost
+ steel [unintelligible], understand it, integrated
+ mills, happened reduction
+ margin electric mills had.
+ CHAIRMAN GREENSPAN. Well, non-mini-mill electric furnace
+ operators big [unintelligible].
+ MR. SYRON. understand it--and Si would know much
+ do--the mix changed integrated mills
+ electric mills.
+ MR. KEEHN.
+ 
+ Right.
+ 
+ MR. SYRON.
+ 
+ Significantly.
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ Okay, I'm curious.
+ 
+ MR. SYRON. rate far national situation
+ goes, much agree Greenbook forecast general.
+ optimistic price outlook. confess that's
+ basis one might call gross macro relationships; guess
+ read Phillips curves.
+ MR. PRELL.
+ 
+ hope so.
+ 
+ MR. SYRON. go here, think we're
+ clearly difficult time terms deciding
+ policy. key question much slack
+ economy issue strong growth going
+ first half year even year whole, simply
+ don't know what's going happen respect issue
+ tax increase much people adjusted consumption
+ patterns that.
+ think Al correct need very,
+ sensitive whole thing. does, say, depend
+ importantly happened real economy.
+ going know.
+ CHAIRMAN GREENSPAN.
+ 
+ President Boehne.
+ 
+ MR. BOEHNE. Well, upward momentum apparent
+ Middle Atlantic states well. We've region
+ lagged nation; think still true, although clearly
+ attitudes aggregate demand stronger. We're seeing many
+ parts District we're seeing across industries,
+ notably manufacturing. true retailing
+ residential construction, although still problems
+ nonresidential side. said that, still tentativeness
+ present way business people looking ahead
+ --in respects trouble believing things
+ improving tough period--but also
+ actions. seeing kinds increases employment
+ appear case Districts. think
+ 
+ -17-
+ 
+ 12/21/93
+ 
+ improved attitude substance saw year ago,
+ still going need nourishing take hold
+ produce cumulative forward momentum need really
+ strong economy.
+ terms pricing, keep hearing
+ difficult raise prices way protect
+ margins still cost side.
+ There's lot pressure
+ suppliers, it's difficult make price increases stick.
+ implications national economy, don't
+ similar
+ think know answer bottom line question:
+ year ago much takeoff really seeing
+ economy?
+ think one make fairly good case either side
+ that. sense see kind weakness
+ saw year ago.
+ think [improvement] going
+ forward. it's early tell, ought goaded
+ tightening hawkish friends might urge us.
+ timid; need willing tighten time
+ comes.
+ think time. There's still enough
+ would call period watchful waiting; I'd
+ uncertainty.
+ prepared need precipitous it.
+ CHAIRMAN GREENSPAN.
+ 
+ President McTeer.
+ 
+ MR. MCTEER. Growth economic activity Eleventh
+ District slowed little since last FOMC meeting.
+ actual decline employment October primarily due
+ special circumstances, including early retirement program
+ state eliminated 6,000 government jobs earlier
+ usual hiring seasonal employees meant October
+ registered decline seasonally adjusted. Construction activity
+ strong it's expected remain upward trend. Single-family
+ building major source strength throughout 1993.
+ Next year
+ expect slow bit multifamily nonresidential activity
+ pick slack. Apartment occupancy rates high.
+ since June nonresidential contract values risen annual
+ rate almost 100 percent, driven start couple $2
+ billion refinery projects large increase shopping center
+ construction. Manufacturing employment growing 2
+ percent rate. weekly hours gone back high
+ 43, think highest nation, manufacturing
+ jobs continue gain. strength durables,
+ electrical non-electrical machinery, instruments,
+ construction-related products. Energy markets taken gloomy
+ real terms oil
+ tone District recently obvious reasons.
+ prices almost low 1973.
+ There's widespread
+ fear recent drop oil prices could sustained
+ time.
+ would hurt District; people estimate would
+ job losses 50,000 next two years oil prices
+ remain $15.
+ impact would much less
+ 1982 1986 since oil gas extraction declined 7
+ percent District's economy 23 percent back 1981.
+ However, what's bad Southwest would good country:
+ people estimate $15 oil prices lasted two years,
+ would take 1/2 percentage point inflation rate add
+ 3/4 percentage point real GDP rate nationally.
+ CHAIRMAN GREENSPAN.
+ 
+ President Melzer.
+ 
+ 12/21/93
+ 
+ -18-
+ 
+ MR. MELZER. Thank you, Alan. economic outlook
+ Eighth District economy continues favorable. Retail auto
+ sales strong firms surveyed report
+ increases sales, orders, employment. Loan demand continues
+ strengthen parts commercial retail markets
+ District banks. hand, sectors weakness
+ nonresidential construction agriculture. Missouri
+ experienced gains nonresidential construction contracts
+ last half year.
+ Moreover, preliminary estimates suggest
+ net farm income likely decline District states year.
+ recent firming crop prices appear large enough
+ offset reduction farm output due bad weather
+ flooding. Generally speaking, however, Eighth District expansion
+ appears broad-based sustainable.
+ respect national economy, would say outlook
+
+ appears converging Eighth District.
+ retail final sales strong, especially relative
+ inventory levels.
+ Trends employment, industrial production,
+ investment durable equipment, index leading economic
+ indicators point continuation strengthening cyclical
+ expansion. Indeed, improvement economy appears
+ spilled consumer confidence. indications
+ output growth would potential next year.
+ respect prices, I'd say it's testimony past
+ policy CPI increased 2-1/2 percent rate
+ first nine months year. Encouraging is, first all,
+ goal price stability achieved. Secondly,
+ reported improvement CPI due volatile food
+ energy components. dropped CPI increased 3
+ percent rate first nine months year
+ troubling 3.6 percent rate past two months.
+ Third, CRB
+ futures index risen sharply since September 10
+ percent time last year despite sharp reduction oil
+ prices. Finally, numbers tell us nothing inflationary
+ thrust current policy, quite stimulative measured
+ behavior things directly influence like growth
+ reserves M1.
+ wait effects recent policy show
+ inflation act, waited long.
+ CHAIRMAN GREENSPAN.
+ 
+ President Stern.
+ 
+ MR. STERN. Thank you, Mr. Chairman. regard
+ economy Ninth District, improvement;
+ that's trend way quite time.
+ stronger sectors appear consumer spending residential
+ construction. people even used language
+ District economy "strong." that's ebullient
+ get cautious conservative area Upper Midwest.
+ regard national economy, think Greenbook
+ forecast reasonable. internal forecast different
+ that, although recall forecast significant
+ slowing saw first half '93; gives little
+ pause go 1994. said that, assuming
+ general tenor Greenbook forecast forecast turns
+ accurate, don't think matters much whether real growth
+ 
+ 12/21/93
+ 
+ -19-
+ 
+ turns little rapid little slower
+ indicated Greenbook. seems critical factor,
+ several people commented, happens inflation. Neither
+ Greenbook forecast internal forecast
+ deceleration inflation certainly cause
+ concern. hand, listen anecdotal evidence-at least way--it appears very, difficult raise
+ prices, people seeing much way incoming price
+ pressures either. international situation slack
+ available foreign economies might also tend make one little
+ optimistic situation. One thought--and
+ perhaps heretical, nevertheless--many us accepted kind
+ working definition price stability [that inflation
+ factor] economic decisionmaking, perhaps we're little closer
+ realize. least talking business
+ people way, certainly think adjusting
+ idea price increases simply going far
+ between.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Angell.
+ 
+ MR. ANGELL. Thank you, Mr. Chairman. look
+ process, involve lot attention real economy;
+ is, twelve Presidents naturally responsibility
+ speak economic conditions District.
+ wasn't long
+ ago various groups unified--well, unified crossed--in
+ analysis role M2.
+ V2 stable,
+ wanted use output gap approach inflation found stable
+ velocity money helpful regard achieving policy
+ conducive level output would provide kind gap
+ approach would either restrain inflation produce gradual
+ disinflation. Robert Black Frank Morris certainly different
+ perspectives; crossed sense recognizing M2
+ information importance.
+ [1970s] suppose talked
+ disappearing money. V2 one-time step
+ confronted with, sense, disappearing money regard role
+ policy formation. Many looked money look
+ basis predicting output gap. steady growth
+ money seen prelude directly price level stability.
+ Irving Fisher, Milton Friedman, Anna Schwartz background
+ said:
+ right thing money, end getting stable
+ prices don't need worry real economy.
+ market-system economy efficient provide stable
+ money, output growth employment allocated
+ efficiently we'll good end results.
+ V2 becomes
+ totally unreliable--really became unreliable 1982-1983
+ unreliable many times--then want follow output
+ gap approach left without forward handle regard creating
+ output gap that's critical monetary policy. That's
+ monetary policy, know, works significant
+ variable time lag. concentration upon output gap think
+ somewhat exaggerated good work Mike Prell Ted
+ Truman staff Greenbook Greenbook
+ attempt say:
+ "Well, what's there?" think us know
+ best forecast really good regard
+ knowing there; forecast regard
+ growth rate forecast correct level
+ productivity know are.
+ 
+ 12/21/93
+ 
+ Now, atmosphere seems it's very,
+ important around table continue follow
+ closely output gap statistics clearly
+ supportive view.
+ is, best predictor rate
+ inflation output gap. yet seems following
+ approach, even it's economically advantageous,
+ strong political disadvantage. is, notion might
+ take away punch bowl growth gets going position,
+ seems me, central bank ought in. Since many
+ follow approach, prefer approach tries target
+ price level directly also don't help M2
+ regard that. don't help M2, think
+ ask ourselves:
+ current condition monetary
+ policy?
+ monetary policy present neutral
+ accommodating restraining?
+ M2 doesn't tell us itself,
+ think ask we're providing much liquidity
+ signs see extra liquidity. Now, suppose
+ oldest approach would approach Knut Wicksell, says
+ natural rate interest. think want
+ follow that--whether want concentrate real nominal
+ rates--can look five-year Treasury say that's
+ market saying natural rate interest is.
+ pull
+ rate interest far away natural rate, going
+ engaged constraint ease [depending on] direction
+ go.
+ can't tell moving interest rates leaving
+ whether policy consistent.
+ Now, I've done lot work--and many people
+ helpful--in regard commodity prices,
+ money rather plentiful show commodity prices.
+ that's mixed bag. panacea here. look
+ commodity prices today, see mixed picture. see picture
+ price oil declining Federal Reserve's
+ experimental index 21 commodity prices 21 percent
+ weight oil terms passthrough effects.
+ price
+ oil coming down, now, know
+ favorable immediate CPI arena. Now, well CPI performs
+ compared favorable arena may another question.
+ look best evidence commodity prices now, seems
+ quite robust price gold.
+ picture ample money table.
+ ample money table leave table
+ long enough CPI responds, sense it's late.
+ it's late terms stable money sound money doesn't
+ simply aim price level stability; sound money stable money
+ aims monetary-policy-induced cycles.
+ seems
+ cycles we've experienced monetarypolicy-induced. that's somewhat
+ forefront asking what's going take place
+ second quarter 1994 price level effects
+ today 1995 indeed 1996.
+ So, circumstances, tend Al
+ Broaddus believe [maintaining] fed funds rate
+ current level point time catch us.
+ catch us, won't know much move
+ take fed funds rate correct situation. is,
+ 3 percent we've kind head winds phenomena we've
+ 
+ -21-
+ 
+ 12/21/93
+ 
+ particularly household sector duration
+ mismatched. duration mismatch much less duration
+ mismatchwas three years ago money flowing 6-month CDs
+
+ longer-term bond mutual funds equity mutual funds.
+ reason alone monetary policy accommodative
+ current level rates 17 months ago.
+ checked,
+ 17 months ago, September, Treasury bill rate
+ reached low level market anticipated level;
+ Treasury bill really current range 17
+ months now. 17 months, monetary policy become
+ Now, know
+ increasingly accommodative.
+ accommodation gone long. U.S. economy
+ world economy significant real asset deflation,
+ altered behavior commercial banking industry regard
+ making loans altered behavior people regard
+ wanting make loans.
+ we're new ground really don't
+ know soon change might take place. would prefer
+ say price gold $389 ounce high. last spring
+ think many us thought price gold would never go
+ $400.
+ leave policy alone opportunity cost [holding]
+
+ gold conducive price gold going $400.
+ longer let go higher goes, greater
+ tradeoff cost bringing inflation back ought be.
+
+ narrow view, can't see choice say:
+ Let's try
+ move closer neutral.
+ don't think us knows neutral
+ would certainly think closer 4 percent 3
+ percent [on fed funds rate].
+ bond
+ markets tag us reluctance move, think get
+ output growth we, sense, get
+ lagging market.
+ I'm envious Swiss's 4 percent 10-year
+ rate tremendous increase output growth occur.
+ thought pursuing price level stability directly gave us
+ output growth employment, don't know anyone
+ cares quality labor force could ever foster
+ favor policies lead people unemployed people
+ bankrupt. think it's commitment stable money; stable money
+ gives us output don't recessions.
+ Thank you.
+ CHAIRMAN GREENSPAN.
+ 
+ President McDonough.
+ 
+ MR. MCDONOUGH. Second District still relatively flat
+ except financial services firms; commercial banks
+ investment banks well. industrial service
+ firms District, especially larger ones, still
+ concentrating reducing staff improving productivity.
+ looking price increases way improve margins.
+ long discipline continue, growing market talk around
+ New York increase growth automatically translates
+ price increases, leaves doubt. least price
+ discipline larger firms District seems good
+ control.
+ national picture, part company Greenbook
+ first time quite while. fourth quarter '93
+ fourth quarter '94 we're forecasting GDP growth 3 percent compared
+ Greenbook's 2.7 percent. unemployment rate believe
+ fall 6.1 percent compared Greenbook's 6.4 percent.
+ 
+ 12/21/93
+ 
+ -22-
+ 
+ components show robust growth consumer
+ expenditures, business fixed investment, residential construction,
+ Federal purchases; it's little cases enough
+ result larger growth picture overall. surprisingly, since
+ faster growth bigger drag net exports. show
+ GDP deflator next year 3 percent compared Greenbook's
+ 2-1/2 percent. 1995 even apart
+ deflator going 3.3 percent.
+ Now, differences enough
+ believe assumption fed funds rate remaining
+ 3 percent throughout year almost certainly going
+ one certainty
+ case. question is:
+ one's forecast say policy move evident,
+ taken? yet sufficiently certain forecast think
+ lead policy move. possibility slowdown
+ first quarter sufficiently great would well
+ advised view wait additional data come in.
+ We're particularly [waiting for] two [statistics]:
+ One first
+ look fourth-quarter GDP, comes late January;
+ employment data month January, scheduled
+ come first Friday February, second day
+ next meeting. Even though forecast today--if
+ absolute certainty--would lead one say time take policy
+ action imminent, view would prefer wait
+ additional data reaching conclusion.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Kelley.
+ 
+ MR. KELLEY. Thank you, Mr. Chairman. First let say
+ think remarks early meeting concerning Governor Angell's
+ departure well taken. may leave us physically
+ statement minute
+ influence certainly going remain.
+ two ago beautiful cameo he's leaving [with] us
+ point view. want tell appreciate it.
+ think us feel appropriate policy largely
+ hands strongly one feels growth. main question,
+ course, pace [the expansion is] liable sustain
+ next year. looking strong fourth quarter
+ sustainable, strong rate ease back somewhat
+ there? long list factors I'm sure everybody else
+ does, Mike expressed eloquently earlier won't go back
+ that.
+ somewhat harder evidence
+ "ease back" hypothesis sustained, strong growth.
+ little surprised moment ago find
+ factors Bill had, reverse interpretation. suspect
+ consumer ease back, largely consumer saving
+ all-time low strong consumer expenditures drive
+ lower. could [remain strong] consumer debt right
+ record terms relationship disposable personal income.
+ very, high ratio sustained order
+ strong consumer expenditures continue. seems housing
+ likely ease.
+ can't imagine something like 1.43
+ [million rate housing starts] saw hold. tax
+ increase kick in; effect remains seen.
+ understand hit higher incomes, course,
+ nevertheless there. Defense cuts occur.
+ hope it's true
+ deficit number continue get lower, providing drag.
+ Foreign economies may well start look better
+ 
+ 12/21/93
+ 
+ thinking recently, that's going happen overnight.
+ [their sluggishness] may well continue stretch seemed
+ likely months now.
+ sustained strength case strong; Al started
+ meeting strong credible statement that.
+ makes [policy decision] terribly close call; guess,
+ Ed Boehne said, don't know. think first quarter
+ liable start strong, echo nothing else.
+ sustainable? remember time last year--obviously don't
+ exactly situation last year huge fourth
+ quarter last year--that took subsequent three quarters get
+ meaningful momentum going again. even third quarter,
+ past, impressive. going get that?
+
+ might well, even though probably severely. So, close
+ call seems factors calling pull back
+ apparently fourth quarter strongest case.
+ Greenbook forecast something close correct,
+ possibility likelihood running inflationary
+ problems quarters yet; it's hard tell far.
+
+ depend exactly goes fast gap GDP gets
+ closed.
+ [the economy] somewhat stronger Greenbook,
+ that's toughest call me, don't know say
+ that.
+ believe it's considerably stronger
+ [the strength] sustainable, move immediately.
+ I'm quite there.
+ I'm cautious January, particularly,
+ likely echo. things continued
+ accelerate right January, would start get impressed
+ think January probably going strength
+ way one looks it.
+ all, puts
+ wait-and-see camp.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor LaWare.
+ 
+ MR. LAWARE. Thank you, Mr. Chairman.
+ must say
+ tendency agree concerns continued contraction
+ military spending, full impact higher taxes,
+ persisting sense job insecurity, think continue
+ driven time corporate re-engineering. don't see
+ real end trend. financing health care
+ program emerges, factors going continue tend
+ dampen dump economic growth.
+ context see really
+ compelling case policy change time spite current
+ spurt economic growth. contrary, think premature move
+ could choke satisfactory growth rate.
+ timing change
+ policy current circumstances exquisite
+ comfortable meet next indication
+ first-quarter outlook least. point adjustment
+ directive might appropriate--sort loading gun
+ perhaps tilting directive--if looks though staff
+ projection modest growth first quarter going
+ materialize.
+ Chairman Greenspan left room briefly
+ [Secretary's note:
+ take important call, Vice Chairman conducted meeting
+ Chairman's absence.]
+ VICE CHAIRMAN MCDONOUGH.
+ 
+ Governor Mullins.
+ 
+ 12/21/93
+ 
+ -24-
+ 
+ MR. MULLINS. Thank you. think developing pattern
+ incoming data continues confirm recognize. Head winds
+ continue diminish. haven't heard lot head winds lately.
+ traditional pattern interest-sensitive spending seems
+ well entrenched fueling sustainable moderate growth led
+ business investment, consumer spending durables, especially
+ housing.
+ don't see significant risk overly robust growth rate
+ remaining much discussed drags economy,
+ usual suspects Mike John mentioned. think
+ anyone
+ concerns getting little long tooth.
+ doesn't know taxes gone up? don't much longer
+ think [drags] limit side
+ flog one.
+ somewhat. However, don't see significant chance economic
+ deterioration absent shock. thing momentum; economy
+ grown rate 3 percent 8 quarters now. Growth
+ averaged 3 percent 2 years. true consumer spending
+ sustained unsustainable levels many, many
+ quarters; continues sustained unsustainable levels,
+ might get hint we're measuring correctly
+ people suggest lot self-employed people
+
+ small businesses captured [may right].
+ notion uncertain job climate 1992 1993 people
+ would feel confident spending lot they're
+ making see don't feel confident enough buy houses
+ like despite record affordability seems inconsistent.
+
+ seems much likely income there.
+ Regardless, [though] one talk so-called
+ slowdown first part year pickup,
+ mean 3 percent growth average variability quarter-to
+ quarter around rate--we've less average variability--we
+ think
+ see quarters 1 percent 5 percent.
+ mean 3 percent. Greenbook thinks it's 2-1/2 percent.
+
+ we'll never know sort variability, fortunately.
+ don't think it's possible predict quarter-to-quarter variability.
+ retail sales growing fourth quarter '92 12
+ percent. unsustainable; even would admit that.
+ first quarter pulled back. take two quarters together
+ growth 3.3 percent. second quarter inventory
+ adjustment [but] consumer spending continuing grow.
+ quarter inventory adjustment opposite direction.
+ It's
+ pretty clear view data confirmed durability
+ sustainability economic growth process I'm getting
+ bit tired holding breath two years.
+ Since believe much clarified last several
+ months sense we've another one normal sorts
+ variations, think time take stock see are.
+ 17 months, almost six quarters, since lowered
+ federal funds rate 3 percent; actually [lowered it] 75 basis
+ points summer '92.
+ think it's worth reviewing
+ basic rationale moving 3 percent federal funds rate,
+ lowest funds rate almost 30 years.
+ junior Fayetteville
+ High School last time federal funds rate. We've
+ real short-term interest rates approximately zero,
+ marginally negative, much time. recall, basic
+ rationale take insurance side--to weigh
+ risks summer '92 deterioration
+ 
+ 12/21/93
+ 
+ -25-
+ 
+ fledgling recovery.
+ worked. downside insurance paid off.
+ Comparing now:
+ we'd six quarters prior third
+ quarter '92 real GDP growth averaged 1 percent;
+ last six quarters averaged 3 percent. Mike mentioned
+ overall capacity utilization:
+ end second quarter '92
+ 79-1/2; it's 83.
+ Mike mentioned, peak last
+ cycle late '80s 84.8, it's 83 now. Unemployment
+ summer '92 7.7 percent; it's 6.4 percent now--better
+ say quickly-CHAIRMAN GREENSPAN.
+ 
+ It's 6.5 percent.
+ 
+ MR. MULLINS. Yes, it's 6.5 percent using concurrent
+ seasonals.
+ it's well percentage point last
+ year half. might ask might year half
+ now. know come last year half
+ point might think that. know there's going
+ measurement change, kick up, don't think
+ misled that. factory workweek factory overtime
+ stand post-World War II highs.
+ near-term
+ growth outlook portends continued growth employment, see
+ possibility lower unemployment. guess lot changed
+ year half. We've gone uncertain recovery
+ expansion which, mature, least adolescent.
+ signs suggest secure footing. think market risks
+ perceptions changed well. Last summer stock market
+ record levels weak first-half GDP performance
+ concern market getting ahead economic
+ fundamentals. Now, six months later, market gone essentially
+ sideways half year. economic outlook caught
+ market. current backdrop 5 percent fourth quarter
+ improved confidence economic growth next year, longer hear
+ scare stories market fragility, probably means it's
+ worry. sense economic
+ outlook filled underneath market.
+ short, world changed; federal funds rate
+ changed. downside economic risk diminished substantially
+ extinguished entirely. death downside risks
+ has, view, taken basic rationale
+ accommodative monetary stance place year half.
+
+ longer need potentially costly insurance downside risk
+ needed summer '92.
+ compare environment
+ --the conditions motivated us go 3 percent--I simply think
+ performance economy, currently prospectively, longer
+ justifies accommodative stance. world changed,
+ time come next several months begin process
+ moving toward neutral, sustainable stance, one appropriate
+ growing economy much diminished downside risks.
+ see
+ convincing signs accelerating inflationary pressures time.
+ would favor taking insurance side
+ moving restrictive policy high real rates. course, know
+ long lags associated inflation policy actions.
+ sit accommodative policy inflationary
+ pressures clearly visibly embedded, know late
+ game.
+ late. restrictive policy
+ required. look late '80s 10 percent
+ funds rate recession [that needed] turn one around.
+ 
+ 12/21/93
+ 
+ -26-
+ 
+ So, think aware false sense security,
+ getting inertia sitting accommodative policy long
+ rationale policy disappeared, made obsolete
+ progress economy. Rather let inertia produce wider
+ swings policy economic activity political pressures
+ result considerable risk objective sustained progress
+ toward price stability, think better path start move
+ policy toward even keel still time. think
+ would help secure low inflation environment, low long-term
+ rates, sustained economic growth.
+ Simply put:
+ job
+ view. would pretend suggest policy journey
+ entirely pleasant; unfortunately this, too, job.
+ course, beginning move accommodative neutral
+ would surprise one.
+ think consensus forecast
+ private economists short rates move moderately next year.
+ expected markets implicit forwards futures
+ prices; regardless rhetoric, Administration's
+ official forecast.
+ would favor immediate change thin
+ markets year-end pressures; helpful December '91
+ rates coming down. might helpful
+ opposite direction. would favor change linked statistics
+ economic growth unemployment. see compelling case
+ going asymmetry since move view dependent
+ on, potentially triggered by, receipt data
+ intermeeting period. would criterion use directive
+ bias--if I'm waiting piece data here. move next
+ year, think Committee debate issue make
+ careful assessment progress prospects economy.
+ reach consensus, hope shall, perhaps take
+ first step meeting carefully considered marginal
+ realignment stance policy rather response
+ specific incoming data.
+ sum, look economy see much changed
+ economic environment one faced summer '92.
+
+ thing hasn't changed federal funds rate.
+ view
+ concerns led us establish 3 percent federal funds rate
+ longer present.
+ rationale accommodative stance
+ longer valid time fast approaching begin
+ realignment policy accommodative stance appropriate
+ struggling uncertain recovery year half ago neutral
+ stance appropriate sustainable expansion, today.
+ Thank you.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Lindsey.
+ 
+ MR. LINDSEY. Thank you, Mr. Chairman.
+ I, too, want
+ second Governor Kelley said Wayne Angell's departure. Mr.
+ may,
+ Chairman, used word "subliminal" effect.
+ would say phrase "subliminal never subtle."
+ [Laughter]
+ CHAIRMAN GREENSPAN.
+ 
+ accept that.
+ 
+ MR. LINDSEY. two puzzles everyone
+ discussing. One unsustainably low personal saving rate
+ absence price pressures presence rather
+ 
+ 12/21/93
+ 
+ -27-
+ 
+ high capacity utilization rate.
+ two thoughts.
+ I've thought
+ and, since haven't come up, thought I'd
+ throw two cents worth. first relates consumer
+ general pretty happy. gotten three tax cuts.
+
+ first OPEC; that's $120 family $4 barrel.
+
+ second refinancing home; $100,000 mortgage could
+ $700 $800 year easily. thirdly, taxpayers 28
+ percent bracket, includes people taxable incomes of,
+ say, $35,000 $85,000 January 1 get tax cut
+ $200 $300 indexing. works well
+ encourage people things going way. There's still tax
+ increase coming think we're seeing effects that.
+ think
+ it's coming entirely savings.
+ One need
+ calculations I'm sure higher income people facing
+ see money coming from.
+ alternative paying
+ Uncle Sam is, say, regular short-term vehicle, real after-tax
+ return short-term vehicle minus 1-1/2 percent.
+ doesn't make sense hold kind cash, may
+ well dissave. So, think decline saving rate we've
+ witnessed really among scared middle upward middle
+ classes worried jobs it's rich
+ dissaving.
+ key disagreement [Green]book would come
+ $49 billion extra revenue we're expecting see
+ second quarter [all] going materialize; think half
+ will.
+ see low saving rate,
+ people putting money asset redeployment. first
+ reemergence $1 million home. Actually it's $1,250,000
+ home 80 percent financing $1 million maximum mortgage
+ [qualifies for] deduction. know rich people.
+ majority them, always paid cash homes--gee,
+ nice situation would be--tell fact
+ taking mortgages first time $1 million range.
+ It's
+ nice saving. Furthermore, it's nice form long-term cheap
+ funds. nominal after-tax cost mortgage someone, say,
+ New York right 3-1/2 percent, that's nominal aftertax cost. sounds like borrowing money free 30 years,
+ that's pretty good deal. would expect see result
+ bunch asset re-diversification, flow funds real estate
+ also durables untaxed. wonder boom [areas
+ economy] we're hearing [are indicative this].
+
+ Wyoming, example, heard [the boom real estate]
+ particularly true around Jackson Hole low moderate income
+ housing longer available California-type prices coming
+ in.
+ That's another way, again, sheltering money.
+ [Another] asset
+ re-diversification dividend paying stocks OTC stocks;
+ 85 percent OTC stocks, I'm told, outperformed DOW
+ year. nondividend paying, basically speculative. Utilities
+ hit spite favorable interest rate environment
+ they're high dividend paying. classic new
+ issues Boston Chicken. Virginian, I'm outraged. I'd
+ suggest opening Virginia corned beef cabbage fight back.
+ [Laughter]
+ Maybe make money that. think,
+ Al?
+ types diversification would make sense
+ would be:
+ hold commodities, we're seeing prices go up;
+ firm purchase business equipment, we've
+ record boom that. important, Mr. Chairman, mentioned
+ 
+ 12/21/93
+ 
+ -28-
+ 
+ earlier we're going inflation without C&I loans
+ going up. crazy go C&I loans.
+ don't want
+ bring cash books; you've got plenty already.
+ dispose can't pay
+ yourself. borrow house portfolio
+ use money something that's going give deduction
+ front.
+ way want keep cash company
+ pay yourself, you're going push way rather
+ pulling way. think that's we're seeing it.
+
+ think low personal saving rate rich
+ do, faced confiscatory tax rates.
+ second issue price pressures spite
+ boom conditions. think it's traded goods traded
+ non-traded goods not, we're going see $1 million houses
+ land Wyoming go price. missed forecast early
+ '80s last time hit negative real interest rates
+ ignored outside world. thought budget deficits would
+ us in; fact, borrowed abroad. check time
+ rest world us it's going restrain price
+ pressures.
+ Well, monetary policy?
+ First all,
+ think current monetary policy exacerbating effects
+ tax cuts keeping real after-tax rates decidedly negative.
+ Furthermore, want keep [restraint on] price pressure
+ abroad, think ultimately way we're going
+ perhaps see appreciation dollar. surprises
+ going abroad. We're going government Germany
+ end year. Bundesbank seems caught.
+ gloomy picture Japan. Japanese near liquidity trap
+ situation. perhaps one way helping
+ dilemma look relative decline currency
+ relative increase dollar. think foreign situation,
+ anything, calls action part.
+ Finally, agree
+ 3 percent [funds] rate unsustainable. also know
+ always act late.
+ particularly impressed presentation
+ yesterday showed long monetary policy lags are.
+ better act we're worried inflation '95.
+ So, think modest adjustment along lines Governor
+ Mullins talking about--away highly accommodative toward
+ neutral--would help stabilize destabilized parts economy.
+ CHAIRMAN GREENSPAN.
+ 
+ Finally, Governor Phillips.
+ 
+ MS. PHILLIPS. Clearly, economy strong fourth
+ quarter firm footing going '94.
+ think interesting
+ thing people right also believing
+ things better. Confidence perhaps employment
+ situation stronger. People voting feet spending,
+ borrowing it. Administration saying 3
+ percent growth good that's projection '94.
+
+ seems reinforcing fact economy well,
+ it's helping people feel better it. won't go
+ list [reasons] economy appears stronger
+ footing.
+ Suffice say adds assurance
+ 2-1/2 year--almost [2 years and] 11 months--recovery sustainable.
+ financial sector certainly well positioned support
+ 
+ 12/21/93
+ 
+ -29-
+ 
+ growth. find camp believe
+ slowdown early next year back 2-1/2 3 percent track.
+ think still head winds drags economy
+ work through:
+ defense government cutbacks,
+ tax increase, health care reform. Hearing comments around
+ table, seem different different parts
+ country. discussion health care reform
+ suggested it's going net cost federal
+ government fact it's going reduce deficit.
+ think
+ much attention cost employers,
+ serve another tax. Corporate downsizing, restructuring,
+ layoffs likely continue. employment quality effects may
+ continue exert pressures. slowdowns Europe Japan
+ continued considerations.
+ respect inflation, recent numbers
+ consistent continued deceleration inflation certainly
+ improvements modest.
+ worrisome signs
+ horizon, however, respect inflation:
+ general
+ acceptance 3 percent right number, example,
+ Administration; price gold, elevated
+ quite while; fact we're likely start hitting
+ capacity problems activity picks up.
+ Indeed, construction
+ industrial materials prices--scrap steel lumber--are up. Food
+ prices projections food price increases going '94
+ another year
+ began problem related floods.
+ bad crops, [the effect] going work way
+ think
+ food chain; we'll see oils meats on.
+ recent backup we've seen long-term rates showing
+ deterioration inflation expectations.
+ I'd hate count energy
+ import prices hold inflation.
+ CHAIRMAN GREENSPAN. Thank much. I'm certain
+ coffee available. need go break, let's make
+ reasonably short.
+ [Coffee break]
+ MR. KOHN.
+ 
+ [Statement--see Appendix.]
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ Questions Don?
+ 
+ MR. SYRON. Early year asymmetric
+ stretch, long asymmetric?
+ MR. KOHN.
+ 
+ Two meetings, May July.
+ 
+ MR. SYRON. pattern years asymmetry
+ what's longest episode
+ one direction another?
+ we've asymmetric one direction done anything?
+ MR. KOHN.
+ don't know. table put together;
+ doesn't episodes. number asymmetries
+ moves made asymmetries. course, two year
+ '92 six asymmetries moved three times;
+ move.
+ '91 five five; '90 four five; '89 two five;
+ '88 four six; '87 two five.
+ calculations
+ 60 percent time asymmetrical [subsequently
+ 
+ 12/21/93
+ 
+ -30-
+ 
+ moved direction asymmetry]; 65 66 percent
+ took last two.
+ MR. ANGELL. Don, meetings '87
+ asymmetrical? first go [asymmetrical], March
+ meeting?
+ MR. KOHN. August
+ Oh, you're right; early
+ toward tightening--I don't
+ back symmetry back
+ symmetry. toward
+ MR. ANGELL.
+ 
+ 18th asymmetrical toward firming.
+ year must asymmetrical
+ complete record here--but went
+ toward firming August back
+ ease crash.
+ 
+ Right.
+ 
+ MR. SYRON. Don, could ask mirror
+ rough recollection portion
+ question, is:
+ times we've taken action without asymmetric?
+ words, 60 percent time asymmetric something.
+ percentage time something
+ asymmetric?
+ MR. KOHN. Well, table right, goes '87
+ November year, took seven actions symmetric
+ directives.
+ compared many altogether?
+ 
+ MR. SYRON.
+ MR. KOHN.
+ 
+ 20 asymmetric directives.
+ 
+ MR. MULLINS.
+ 
+ July '92
+ 
+ [unintelligible].
+ 
+ MR. LINDSEY. Don, would imagine kind
+ relationship lags--how long takes us start
+ raising [rates]--and far raise [them].
+
+ good ideas rules thumb that?
+ MR. KOHN. No, don't rules thumb, Governor
+ Lindsey. point trying make delay
+ inflation expectations particular get going, you're going
+ raise rates cover higher inflation expectations
+ but-MR. LINDSEY.
+ 
+ even more.
+ 
+ MR. KOHN. -- certain inflation target you're
+ going overshoot get again. don't
+ rule thumb. would depend cycle
+ far you-MR. LINDSEY. case think '66
+ Fed [implemented] one small increase. remember much
+ increase long lasted?
+ MR. KOHN.
+ 
+ No, don't.
+ 
+ not, several
+ CHAIRMAN GREENSPAN. questions?
+ people mentioned ought speed meeting I'm
+ 
+ 12/21/93
+ 
+ going [compress] views since generally agree number
+ arguments made. First all, let say
+ it's rather obvious point acceleration seeing
+ heavily motor vehicles, though fully means.
+ also see steel markets number commodity
+ markets. It's remarkable big factor motor vehicles industry
+ still economy. sales levels moved
+ significantly scrappage levels one would
+ calculate engineering point view normal structure
+ scrappage. mean sales levels go
+ higher, can't grow [over time] pace they've
+ growing. since we're talking rate growth GDP,
+ even automobile sales flattened higher levels,
+ definition gross auto product inventory change goes zero
+ change. think seeing combination motor vehicles
+ residential construction, latter tending also
+ lead factor auto sales themselves.
+ don't know whether
+ subscribe Mike Kelley's view it's hard believe go
+ higher; go higher, running resistance.
+ looking autos construction,
+ would say expansion going flatten fast.
+ trouble process occurs engenders incomes;
+ even though leaders slow sudden find,
+ look business cycle history, begin fade
+ secondary industries begin come in.
+ would probably noncomputer-related capital goods types activities cash
+ flow engendered corporate sector business
+ sector generally think fairly impressive. looking
+ likelihood, rate gain industrial production,
+ probably getting inventory effect here.
+ can't large
+ presumption get [monthly] industrial production
+ increases .7 .9 going consumption,
+ square history. Nonetheless, still yet
+ see indications lead times material deliveries
+ moving. sure, operating rates moved up;
+ extraordinary rise import penetration across board
+ country made domestic operating rates less indicative
+ nature pressures system. There's extent
+ become extraordinarily well internationalized.
+ One argue saving rates low that,
+ therefore, consumption expenditures slow abruptly.
+ trouble saving rates, know,
+ notoriously poor estimates. often find fact
+ weren't thought. event, evident
+ willingness part consumers start taking debt
+ indication stage unduly pressed
+ unwilling spend they're running income. think
+ 5 percent [GDP growth rate], whatever get fourth
+ quarter, technically unsustainable.
+ fact, Greenbook
+ indicates, disaggregate it, gross auto product [accounts for]
+ 2 percentage points .4 coming
+ [unintelligible] statistical adjustment. issue whether not,
+ Governor Mullins said, expansion sustainable, looks
+ increasingly sustainable. doesn't look yet though
+ getting surge credit demands system usually
+ [tinder] inflationary acceleration. think, pointed
+ 
+ 12/21/93
+ 
+ out, credit numbers finally beginning move. don't
+ see loan data we're beginning see net debt
+ nonfinancial sector starting rise. It's still moving
+ slow pace relative history finally beginning move.
+ leads conclude, number
+ concluded, days accommodation got [about] over.
+ think correctly moved rate balance
+ sheet structural restraints exposed to; turned
+ exceptionally successful policy. balance sheet
+ adjustments indeed occurred--not yet fully; still
+ clearly way go, rate change slowed
+ dramatically. marginal increases
+ balance sheet adjustments come, longer absorbing--as
+ used put it--the excessive head winds impact saw
+ earlier time. Therefore, recovery seems finally moving
+ manner which, requiring significant tightening
+ central bank, surely indicate degree accommodation
+ must soon eased. Now, don't know [should occur]
+ find difficult believe go long 1994
+ That's unlike way
+ without starting process.
+ usually think things--that one thing time--it's
+ pretty obvious recovery taking broad general
+ characteristics historically say it's got legs it,
+ process single upward adjustment
+ whole succession way restoring [unintelligible]
+ positioning [our policy stance] closer neutrality. agree,
+ Wayne Angell said, [means funds rate] closer 4 percent
+ 3 percent. think policy largely necessary
+ avoid it, making bad mistake.
+ question
+ don't see material reason
+ conditions--in event
+ accelerate--where might
+ meeting.
+ 
+ judgment is:
+ begin?
+ begin today.
+ conceive
+ lot things begin
+ desirable move next
+ 
+
+ 
+ happens, think would worthwhile
+ 
+ consultation Committee rather putting something
+ directive time authorizes Desk move [during
+ intermeeting interval].
+ crucial move. begin
+ major policy [adjustment], judgment, think point
+ start something requires full Committee
+ consulted prior action taken. I, therefore, conclude
+ stage ought vote formally unchanged policy
+ symmetric directive, clear understanding unless
+ outlook suddenly deteriorates far rapid pace seems
+ even remotely likely would consider moving path fairly
+ early year. would merely put general
+ discussion. President Jordan.
+ MR. JORDAN. remark suggested something
+ communicating actions hadn't considered before,
+ next action communicated easing degree
+ accommodation, would easing move think. I'm increasingly
+ troubled rhetoric outside--by people looking
+ do--and sometimes even within Committee notion growth
+ per se reduces purchasing power money. puts us
+ way perceived, maybe perceive ourselves, says
+ we're anti-inflation, we're anti-growth. lot trouble
+ 
+ -33-
+ 
+ 12/21/93
+ 
+ slack model, Phillips curve kind tradeoff calls
+ forecast things like capacity sorts things
+ trouble with. even people operate
+ framework would suggest careful saying want
+ maintain degree unemployment idle capacity sub-potential
+ growth something because-CHAIRMAN GREENSPAN. Well, let say fully agree
+ would say issue credit.
+ MR. JORDAN. would like see us setting
+ objective four five years.
+ fact, hope
+ Bluebook February meeting gives us longer-term indication
+ price level path. belief objective
+ moving price stability measured somehow in, say, four five years
+ conduct actions way achieve objective,
+ level output standards living people would go
+ operate way maintain past rate
+ inflation. don't know whether staff projections would show
+ not, that's conviction. talk times speeches
+ articles though reason moving price level stability,
+ stabilizing purchasing power money, order enhance
+ standards living growth. conduct affairs
+ short-term way though trying restrain growth
+ we're worried [our economy] growing rapidly. it's partly
+ conceptual theoretical issue it's partly communications
+ issue.
+ far short-term actions, agree suggestion
+ symmetric now. would like see asymmetric directive
+ critical nature move. also agree
+ comments Governor Mullins made waiting certain
+ data trigger [an action].
+ take issue
+ suggestion Bill McDonough made [January] release
+ [fourth-quarter] GDP February release nonfarm payroll
+ [employment data January].
+ numbers going come
+ strong, last thing would want perceived
+ reacting strong numbers knock down. think
+ numbers going strong, better move ahead
+ numbers.
+ CHAIRMAN GREENSPAN.
+ 
+ President Boehne.
+ 
+ MR. BOEHNE.
+ think days degree accommodation
+ numbered. It's likely sooner rather later we'll
+ reduce level accommodation. think, however,
+ we're period wait-and-see. move, believe
+ Committee vote explicitly make decision
+ it's important. reason think ought
+ symmetrical directive face issue squarely
+ "This
+ time comes everybody record saying:
+ we're going do."
+ CHAIRMAN GREENSPAN.
+ 
+ President Parry.
+ 
+ MR. PARRY. Mr. Chairman, think quite likely
+ current quarter see moderate growth next year
+ and, therefore, could support alternative B.
+ It's little hard
+ 
+ -34-
+ 
+ 12/21/93
+ 
+ reach conclusion risks symmetrical, leads
+ direction thinking case asymmetry
+ toward restraint. could easily buy symmetry also would
+ get Ed Boehne offered.
+ CHAIRMAN GREENSPAN.
+ 
+ President Broaddus.
+ 
+ MR. BROADDUS. Mr. Chairman, certainly respect
+ position but, said earlier, think accumulation positive
+ economic news we're seeing really quite extraordinary.
+ situation think time come let real short-term
+ interest rates rise order make expansion sustainable one
+ keep getting hand side. really
+ think need move now. recognize certainly
+ arguments moving yet, fact always
+ arguments. know long experience get
+ lot trouble wait long.
+ [wait] time, risk
+ significant deterioration inflation expectations risk
+ backup long-term interest rates. view
+ risks kind outcome would harm economy; [the cost
+ terms of] growth jobs production general health
+ economy significantly greater moderate tightening
+ monetary policy. say moderate tightening, mind
+ know turn
+ something like 1/4 point interest rates.
+ direction know that's important.
+ 1/4 point increase
+ exactly lethal weapon. regard think 1/2 point
+ backup long-term interest rates we've seen recently warning.
+ realize, course,
+ still time heed it.
+ difficult time Fed; attack number fronts.
+ view makes imperative signal
+ clearly promptly we're going distracted
+ principal longer-term objective.
+ So, would favor 1/4 point
+ increase funds rate now.
+ CHAIRMAN GREENSPAN.
+ 
+ President Forrestal.
+ 
+ MR. FORRESTAL. Mr. Chairman, thought forecast
+ correct fulfilled, would certainly want move
+ think probability
+ sooner rather later.
+ forecast turn right one. enough
+ uncertainties surrounding forecast want wait
+ little longer make sure recovery expansion
+ fact sustainable. would prefer wait agree
+ also think it's important,
+ prescription score.
+ others indicated, crucial time--at turning
+ point, crossroads--that take action meeting.
+ would also prefer symmetric directive.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Lindsey.
+ 
+ MR. LINDSEY. comments I've heard far suggest
+ incompatibility. agree want take action meeting;
+ think that's important.
+ also think Jerry Jordan said
+ true. don't want reacting high real growth number.
+ That's simply bad policy it's also bad PR. nothing
+ growth. February meeting coincides
+ release real GNP number know going high--I
+ believe that's correct--yes?
+ 
+ 12/21/93
+ 
+ -35-
+ 
+ MR. MULLINS.
+ 
+ don't know.
+ 
+ MR. LINDSEY. Well, betting number going
+ high. think it's [released] Friday. Isn't
+ correct?
+ MR. PRELL.
+ 
+ No, it's employment report is--
+ 
+ MR. LINDSEY. first
+ [for fourth quarter]?
+ MR. PRELL.
+ 
+ [release of]
+ 
+ GNP number
+ 
+ 20th January.
+ 
+ MR. LINDSEY. last statistic [that meeting]
+ would strong real growth number, think we'd perceived
+ reacting high real growth number. we'd probably
+ strong employment report following that.
+ Therefore, don't see us
+ acting February meeting; would see us postponing March
+ moved. brings back logic best time
+ move right now, 1/4 point increase, show
+ simply responding strong real growth.
+ CHAIRMAN GREENSPAN.
+ 
+ President Syron.
+ 
+ MR. SYRON. Mr. Chairman, support proposal. We're
+ always going acting situation uncertainty; that's
+ way is.
+ certain, wouldn't need here.
+ think time come, we're going make mistake, err
+ side tightening rather staying non-neutral position.
+ think direction we're prepared go in.
+ Ordinarily might think asymmetry situation,
+ enhance credibility maintain credibility it's much better
+ group act whole time [the move made].
+
+ would hope could done degree consistent spirit
+ across group time it's done. would strongly
+ favor staying symmetric now.
+ CHAIRMAN GREENSPAN.
+ 
+ President McTeer.
+ 
+ MR. MCTEER. came meeting, Mr. Chairman, thinking
+ time coming soon ease accelerator bit
+ probably wasn't yet.
+ influenced much
+ statements Messrs. Broaddus, Angell, Lindsey, Mullins.
+
+ think Mr. Mullins gave good argument something now,
+ although don't think conclusion. It's close call
+ whether wait go ahead something now. However, I'm
+ glad, three reasons, try split difference
+ change [to adopt] asymmetric directive. One
+ tend frequent use asymmetric directives
+ principle, primarily it's main thing inhibiting
+ moving prompter release decisions.
+ think need
+ move use asymmetric directive complicates
+ general. Number two, don't want us appear responding
+ strong growth statistics; think statistics going
+ strong next weeks [if move] it's going appear
+ we're anti-growth. think public ought understand
+ inflation thing
+ growth. third reason one someone mentioned
+ 
+ -36-
+ 
+ 12/21/93
+ 
+ likely beginning series moves
+ important enough us meeting
+ [participate decision].
+ would rather tighten slightly
+ change asymmetric directive, I'm prepared
+ follow suggestion.
+ CHAIRMAN GREENSPAN.
+ 
+ President Melzer.
+ 
+ MR. MELZER.
+ favor increasing degree pressure
+ reserve positions now. think economy's momentum intensified
+ point capacity maintain moderate inflation,
+ mention declining inflation, appears run out. mentioned
+ before, growth narrow money reserve aggregates
+ quite stimulative nearly seven quarters current
+ cyclical expansion. Last year alone monetary base allowed
+ increase $35 billion order maintain federal funds
+ rate target level. Joan mentioned mirror image
+ additions portfolio magnitude. minimum
+ think funds rate ought allowed move line
+ market interest rates. least prevent monetary policy
+ automatically shifting toward inflationary stance
+ nominal interest rates rise expanding economy. addition,
+ credibility gained increasing degree pressure reserve
+ markets may help us restrain inflationary expectations
+ almost certain intensify improving level economic
+ activity.
+ CHAIRMAN GREENSPAN.
+ 
+ President Hoenig.
+ 
+ MR. HOENIG. Mr. Chairman, said earlier, think
+ information evidence mounting economy
+ sustain next year [with] inflationary pressures.
+ inclined see rates moved modestly be, sense,
+ anticipating that. I'm certainly willing see goes
+ first year. reason also feel strongly
+ agreed-upon action Committee.
+ would
+ agree proposal.
+ CHAIRMAN GREENSPAN.
+ 
+ Vice Chairman.
+ 
+ MR. MCDONOUGH. Mr. Chairman, agree "B" symmetric
+ let say why. think combination great many outside
+ remarks accompanied remarks number us--first person
+ plural--have made led world believe antigrowth, that's bad position in. It's bad monetary
+ policy, it's bad economics, it's bad within public sector
+ live.
+ think need educational exercise
+ part central bank explain goals are,
+ involve combined objective sustained growth price stability.
+ probably [can said in] Humphrey-Hawkins testimony
+ or, it's difficult Humphrey-Hawkins testimony clear
+ enough average intelligent layman understand, perhaps
+ speech taken advantage time lay
+ sustained growth price stability mean [in terms]
+ really think need
+ average voting citizen understand.
+ that.
+ 
+ 12/21/93
+ 
+ -37-
+ 
+ regards data come early 1994,
+ mention existence data--the first measurement
+ fourth-quarter GDP January employment data--was [to point
+ out] that, forecasts wrong high side
+ first-quarter flop again, could affect timing.
+ I'm
+ absolutely convinced bring monetary policy
+ neutral stance early part next year.
+ timing
+ related education effort find necessary
+ release specific data.
+ would fact opposed
+ way would seem lead observer conclusion
+ data led [action].
+ far whether directive
+ symmetric asymmetric, believe--maybe strongly
+ anything I've stated--that symmetric. Since
+ highly, highly likely don't firm policy today,
+ next meeting, asymmetric directive
+ anything--on top two asymmetric directives
+ correctly didn't change policy summer 1993--could
+ easily put us posture substituting asymmetric directives
+ action, even though think policy firmed,
+ sooner rather later. valiant central banker could appear
+ somebody waves little flag soon shots come
+ across, pulls back again. think could
+ unattractive public relations impact asymmetric directive,
+ would quite counterproductive real purpose is.
+ CHAIRMAN GREENSPAN.
+ 
+ President Keehn.
+ 
+ MR. KEEHN. Mr. Chairman, also would favor
+ alternative B symmetric language. seem
+ environment one policy stance ought heading
+ asymmetry toward tightening. think it's question
+ timing. key first-quarter data begin come
+ rather fourth-quarter data. don't think we're
+ going much available tell us
+ first quarter really coming in. that, I'd
+ prefer stay are.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor LaWare.
+ 
+ MR. LAWARE. I'm little puzzled fact almost
+ everyone spoken far said convinced
+ going tighten sooner rather later yet
+ willing buy stand pat symmetric language directive
+ right now, even though everybody expressing concern reacting
+ strong numbers. seems mixed problem. I'm
+ mind find hard disagree much
+ Greenbook projection and, therefore, I'm reluctant take action
+ prematurely, stated earlier comments.
+ arrived prescription policy slightly
+ different points view. support "B" symmetric.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Angell.
+ 
+ MR. ANGELL. Mr. Chairman, certainly feel I'm good
+ company here. isMR. LAWARE.
+ 
+ long!
+ 
+ [Laughter]
+ 
+ 12/21/93
+ 
+ -38-
+ 
+ MR. ANGELL. But, John, I'm correct, think minutes
+ conference call might would published February 9th.
+ correct?
+ MR. BERNARD.
+ 
+ Committee makes decision, yes.
+ 
+ MR. ANGELL.
+ words, Committee made
+ decision--. So, knows?
+ MR. LAWARE.
+ 
+ Good.
+ 
+ MR. ANGELL. There's much said agree
+ with, won't emphasize that.
+ think it's correct
+ isn't right go asymmetric directive.
+ need act
+ meeting.
+ think agree that. many made
+ fine statements saying "Don't react strong employment
+ growth numbers."
+ Chairman's statement really very,
+ helpful regard.
+ I'm going add one tough deal,
+ right? is:
+ Don't make 25 basis point move.
+ reason.
+ far away neutral believe are,
+ it's much better wait week two get 50 25
+ 25 could [misaligned] time bond market reacts
+ that. strongly believe act--or act--that
+ 50 basis points. Remember 1970s jiggling
+ along moves 1/8th percentage point; didn't work.
+ It's hard start moving rates up; '87, Don, believe
+ [initially] raised funds rate 25 basis points. move
+ meeting move asymmetric directive March?
+ MR. KOHN.
+ 
+ I'm sure, Governor Angell.
+ 
+ MR. ANGELL. think put rate 25 basis
+ points bond market [went up] another 50 basis points
+ course wasn't enough. wasn't Alan Greenspan came
+ really said "Hey, wait minute," caught
+ bad timing situation. Now, think ought
+ 50 basis points really think ought 50 basis points now.
+ reason ought now--or whenever next
+ opportunity is--is unexpected bad things happen. go along
+ get employment number, get get that,
+ doesn't seem [to the] right [time] it.
+ remember Paul Volcker called
+ caught May 1987.
+ Manley [Johnson] said, effect:
+ "Look, guys
+ wanting increase rates; I'm telling want
+ it, let know."
+ Every day looked markets,
+ including foreign exchange value dollar strong,
+ found excuse every day it, didn't
+ anything. made difficult. So, 50 now.
+ CHAIRMAN GREENSPAN.
+ 
+ President Stern.
+ 
+ MR. STERN. find something close call,
+ don't think evidence persuasive move now.
+ support prescription. said that, think
+ long ought try come grips mean
+ effective price stability. also think obligation come
+ grips evidence work Messrs. Stockton
+ Beebe presented terms empirical benefits
+ 
+ 12/21/93
+ 
+ reducing inflation modest levels.
+ gloss question theory.
+ CHAIRMAN GREENSPAN.
+ 
+ don't think
+ 
+ Governor Kelley.
+ 
+ MR. KELLEY. Mr. Chairman, choice gets tougher
+ tougher. First all, subscribe prescription. Factors
+ sides exceptionally well articulated
+ morning. every one high level validity,
+ certainly support prescription. Timing
+ make choice.
+ seems issue minds. pace
+ agnostic
+ economy, guess, largely going determine that.
+ timing issue point.
+ could easily see
+ while, Governor LaWare suggests; may need sooner
+ later. We'll see. appreciate desire
+ together. do.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Phillips.
+ 
+ MS. PHILLIPS. Well, seem tightening
+ inevitable appropriate. issue form--with
+ asymmetric directive first direct move. certainly agree
+ need meeting. question, then,
+ early, chance derailing
+ timing.
+ recovery. think risk slight.
+ we're late-sort perennial Fed problem--we're going chasing [market]
+ rates. even problem we'd lose confidence
+ bond markets, crucial growth. preference would
+ go ahead tighten now, I'm sure would
+ terrific damage waiting. time definitely coming.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Mullins.
+ 
+ MR. MULLINS. There's certainly strong logic moving
+ sense don't think need wait confirmation; two
+ years 3 percent growth enough. could wait third year
+ might miss entire expansion.
+ [Laughter]
+ terms 1/4
+ percentage point versus 1/2 point, like Governor Angell's concept.
+ may possible do; difficult make move
+ we're moving up, think. also advantage [holding
+ steady] while--and knows maybe bit while-whereas quarter we're treadmill inevitably
+ get dragged market.
+ think advantage
+ let market lead us won't exactly getting ahead
+ market get started something
+ said 50 basis point [move].
+ Regardless whether it's 25
+ 50, think there's plenty economic case now.
+ market case, though, concerns even it's quarter-that's small amount couldn't find [the effect of]
+ economy--it big signal it's turning point.
+ there's capitalized value impact markets markets [are
+ thin] around holiday time. Again, December '91 helped us lot
+ cut rates sorts markets set rally one
+ around--with two people bidding prices three weeks--but
+ would probably hurt us now. So, support "B"
+ symmetric.
+ 
+ 12/21/93
+ 
+ -40-
+ 
+ CHAIRMAN GREENSPAN.
+ symmetric.
+ 
+ We've got everybody.
+ 
+ Let's try "B"
+ 
+ MR. BERNARD.
+ "In implementation policy
+ immediate future, Committee seeks maintain existing degree
+ pressure reserve positions. context Committee's
+ long-run objectives price stability sustainable economic
+ growth, giving careful consideration economic, financial,
+ monetary developments, slightly greater reserve restraint slightly
+ lesser reserve restraint might acceptable intermeeting
+ period. contemplated reserve conditions expected
+ consistent moderate growth M2 M3 coming months."
+ CHAIRMAN GREENSPAN.
+ 
+ Call roll.
+ 
+ MR. BERNARD.
+ Chairman Greenspan
+ Vice Chairman McDonough
+ Governor Angell
+ President Boehne
+ President Keehn
+ Governor Kelley
+ Governor LaWare
+ Governor Lindsey
+ President McTeer
+ Governor Mullins
+ Governor Phillips
+ President Stern
+ Governor Lindsey
+ 
+ Yes
+ Yes
+ soft
+ Yes
+ Yes
+ Yes
+ Yes
+ Pass
+ Yes
+ Yes
+ Yes
+ Yes
+
+ 
+ CHAIRMAN GREENSPAN. one additional item
+ agenda, want raise you. want
+ comment notion Al Broaddus raised pressures
+ institution, many variable
+ continued long while.
+ beseech separate monetary policy
+ discussions, will, that. words, cannot
+ trade way policy prescriptions decide
+ table grounds event occurring might
+ change view. Monetary policy primary responsibility;
+ everything else secondary. isolate activity
+ central bank issues going
+ battlefields.
+ One issue decide today question
+ request Chairman Gonzalez respect October
+ 15th tapes. essentially come view would like
+ come here--not himself, aide--and listen tapes
+ look transcript.
+ That's stepping earlier
+ position wanted us ship tapes transcripts
+ Hill. best judge, say vagueness,
+ he's accusing us conspiring somehow October 15th meeting
+ hide transcripts somehow decide tell like was.
+ remember, particular meeting one
+ discussed considerable length pros cons releasing
+ transcripts and, indeed, concluded end meeting
+ wanted effectively replicate particular
+ discussion [on Hill].
+ evidence see
+ it's extremely difficult [determine] accusation
+ 
+ 12/21/93
+ 
+ coming from.
+ Indeed, letter sent Chairman recently
+ spelled views evidence was.
+ type environment exist, I've
+ indicated previously, one deep-seated suspicion
+ institution. It's regrettable guess comes
+ turf.
+ think it's important put notions
+ particular conspiracy behind us.
+ thing saying
+ believe Chairman Gonzalez cease pressure us.
+ think
+ it's important, however, position respect
+ remainder Congress public large
+ perceived of, would invariably accuse us, trying
+ hide tapes there's something there. Accordingly, I'd like
+ put whole issue rest; [I'm talking about] October 15th
+ issue, don't think we're put [issues]
+ rest quickly. would recommend Committee
+ allow Chairman Gonzalez's [staff] attorney listen tape
+ meeting several people choosing. is,
+ preliminary view would invite senior aide Congressman
+ Leach, ranking minority member Banking Committee,
+ chief aide subcommittee Chairman Kanjorski whose committee
+ essentially oversees organization. obvious reason
+ prevent inevitable danger arises people
+ picking choosing individual lines sentences
+ probably two three mild ones transcript. Frankly, I've
+ read transcript accusations wholly without merit.
+ evidence transcript [to support
+ accusations].
+ sentences which, [taken]
+ context, could readily employed raise issue that's
+ one reasons want sure people
+ basically say "This nonsense."
+ must say, make recommendation reluctance
+ potential precedential nature. October 15 meeting,
+ however, deliberative meeting monetary policy.
+ request made transcripts tapes monetary policy
+ deliberative processes go through, think we'd
+ choice say "no" unequivocally. may choose find
+ means obtain that, that's Congress's initiative. far
+ given
+ we're concerned, think stand pat that.
+ issue considerable thought [gone over] various
+ alternatives.
+ I've around town, governmentrelated jobs, since 1968 know politics town pretty
+ well. tell it's strongly considered judgment
+ important get behind us.
+ would,
+ therefore, put table recommendation would like
+ respond questions. Vice Chairman.
+ VICE CHAIRMAN MCDONOUGH. don't questions.
+ comment you're prepared that.
+ CHAIRMAN GREENSPAN.
+ 
+ Questions?
+ 
+
+ 
+ Well, comments questions,
+ 
+ then.
+ know recommendation
+ VICE CHAIRMAN MCDONOUGH.
+ making us one you've reached pain great
+ deal thought. think is, fact, do.
+
+ particular meeting tape transcript go
+ 
+ 12/21/93
+ 
+ -42-
+ 
+ different meetings tapes transcripts.
+ subject preparing testimony Hill great
+ many people present here. Obviously, conspiracy
+ intention anyone's part conspire anything certainly
+ deprive Congress information.
+ However,
+ accused accusation continuing. taken
+ considerable life promulgated among members
+ Congress among population general,
+ country others, way placing question
+ integrity Committee Federal Reserve.
+ think
+ respond. responded letter, don't think
+ defense complete without taking painful step
+ recommend. can't imagine us say agree
+ great joy. agree recommend others
+ well.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Kelley.
+ 
+ MR. KELLEY. Mr. Chairman, first part
+ statement, understand say Chairman Gonzalez
+ indicated approach you're taking would acceptable?
+ CHAIRMAN GREENSPAN.
+ MR. KELLEY.
+ listen tape?
+ 
+ He's requesting people come
+ 
+ CHAIRMAN GREENSPAN.
+ MR. KELLEY.
+ 
+ That's requested.
+ 
+ Yes, people.
+ 
+ people.
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ That's correct.
+ 
+ MR. KELLEY. So, difference suggestion
+ said would acceptable we'd
+ [Congressional staff present] well?
+ CHAIRMAN GREENSPAN.
+ 
+ Correct.
+ 
+ MR. KELLEY. Well, case, Mr. Chairman, fully
+ happily endorse approach. think definitely
+ forthcoming. played idea suggesting go
+ ahead fully release it, would agreeable Chairman
+ Gonzalez would make suggestion this-CHAIRMAN GREENSPAN.
+ MR. KELLEY.
+ 
+ written letter.
+ 
+ didn't know that.
+ 
+ MR. KOHN. asked would make tape transcript
+ "available review."
+ words.
+ MR. KELLEY.
+ 
+ Available review.
+ 
+ MR. ANGELL(?).
+ 
+ means send there?
+ 
+ -43-
+ 
+ 12/21/93
+ 
+ CHAIRMAN GREENSPAN. No, fact indicated via telephone
+ wanted one people come Board listen
+ tape. He's made request.
+ MR. KELLEY.
+ 
+ ought it.
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Lindsey.
+ 
+ MR. LINDSEY. Mr. Chairman, two questions.
+ I'd like follow the--
+ 
+ first
+ 
+ MR. WINN. Mr. Chairman, letter front
+ me.
+ fact, two different letters.
+ one dated
+ December 17 said:
+ "Please provide Committee staff
+ access transcript tape October 15th conference
+ call."
+ one December 3 says:
+ "Please make transcript
+ tape FOMC conference call available Committee staff
+
+ it's somewhat ambiguous put it.
+ review next week."
+ think understand they-CHAIRMAN GREENSPAN. recollection called.
+ call come listen tape point,
+ not?
+ MR. WINN. called obviously come view
+ guess understood call
+ table recordings, etc.
+ mean coming here.
+ CHAIRMAN GREENSPAN. Well, let put way:
+ recommendation here.
+ SPEAKER(?).
+ MR. MULLINS.
+ 
+ [Unintelligible]
+ 
+
+ 
+ take notes.
+ 
+ Yes.
+ 
+ MR. LINDSEY. happens--and understand you'd
+ want people here--there possibility people
+ come go away different interpretations.
+ MR. SYRON.
+ 
+ likelihood.
+ 
+ MR. LINDSEY. Chairman Gonzalez's representatives might
+ conspiratorial interpretation people might
+ listen it, case we'd "Yes did,
+ didn't" discussion.
+ think we'd think reaction
+ would likely outcome.
+ Unfortunately, don't believe
+ would end people involved listening would
+ involve ultimately Governor Kelley intimated might
+ unfortunate long-run result, would actual release. Could
+ see different outcome?
+ CHAIRMAN GREENSPAN. possible. But, remember,
+ results ambiguous, doesn't necessarily mean
+ get fully clarified I'm sure we'll ever satisfy
+ certain people.
+ 
+ -44-
+ 
+ 12/21/93
+ 
+ MR. LINDSEY. Well, we're trying dispel suspicion--.
+ conspiratorial types always believe conspiracy long
+ someone whispering word conspiracy.
+ CHAIRMAN GREENSPAN. Let suggest this:
+ It's conceivable
+ may resolve totally, point
+ address condition face. don't think ought make
+ decision point may necessary.
+ MR. LINDSEY.
+ depends likelihood. second
+ question, could, I'd ask counsel.
+ FOMC ever
+ authorized either taping meetings permanent retention
+ transcripts?
+ MR. MATTINGLY.
+ MR. LINDSEY.
+ MR. MATTINGLY.
+ 
+ I'm aware of.
+ there's not-[Not]
+ 
+ 1976.
+ 
+ MR. LINDSEY. That's correct.
+ right we're taping
+ meeting without authorization Committee?
+ MR. KOHN.
+ 
+ Technically, yes.
+ 
+ MR. MULLINS.
+ 
+ That's correct.
+ 
+ It's policy--
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Phillips.
+ 
+ MR. PHILLIPS. question is:
+ think allowing
+ folks come listen going resolve it?
+ CHAIRMAN GREENSPAN. think resolve October 15th
+ issue.
+ resolve issue assaults institution
+ various different areas.
+ MS. PHILLIPS. Well, taking step guess
+ think next steps might next things coming
+ pike. raised question precedent I-CHAIRMAN GREENSPAN.
+ policy deliberations.
+ 
+ Please remember, monetary
+ 
+ MS. PHILLIPS. Yes.
+ actually call
+ don't really know said session. I'm trying
+ statements taken
+ think would next steps.
+ context different people, I'm wondering likely
+ stir pot fact make worse standing pat.
+ CHAIRMAN GREENSPAN.
+ MS. PHILLIPS.
+ 
+ would think not.
+ 
+ difficult judgment call.
+ 
+ CHAIRMAN GREENSPAN. think Vice Chairman said,
+ particularly delightful activity. President Syron.
+ MR. SYRON. Mr. Chairman, find guide
+ actions issues we're way nearly bad
+ seem people. even thinking--I'm suggesting
+ 
+ 12/21/93
+ 
+ -45-
+ 
+ this--that people listened conversation
+ monetary policy today would impressed degree
+ "technicalness" that's brought judgments amount
+ information. think suffer generally--it's raised
+ dimensions here--from misunderstanding public
+ do.
+ Conspiracy theories abroad land, it's
+ favor
+ business feed avoid it.
+ regard
+ suggestion it's precedential ways.
+ concerned, though would favor going ahead immediate
+ step.
+ personally don't feel issues,
+ ability talk going
+ testimony, necessarily bound request [the
+ Banking] Committee staff [nor do] feel properly advised
+ extent binding. don't think it's
+ reasonable go future, inevitably
+ will, believe can't discussions among
+ nature we're going proceed can't advised
+ among counsel Committee degree
+ able best-CHAIRMAN GREENSPAN. May say something?
+ proper part discussion next month.
+ MR. SYRON.
+ 
+ That's
+ 
+ It's separate issue.
+ 
+ CHAIRMAN GREENSPAN. Next month we're going discussing
+ whole procedure going move forward respect
+ means taking minutes, communication, like.
+ MR. SYRON. No, support this.
+ reason mentioned
+ want mind comfortable, think
+ am, we're area way constrain
+ us things think probably should-CHAIRMAN GREENSPAN. answer "not knowledge,"
+ President Broaddus.
+ yet [unintelligible].
+ MR. BROADDUS.
+ support suggestion strongly, Mr.
+ Chairman.
+ think there's risk. possibility
+ proposed won't resolve fully ultimately
+ release entire tape one meeting. that's
+ tough hard-hitting conversation. think you're
+ absolutely right we've got get thing behind us
+ conspiracy [accusations].
+ So, even happens, would say
+ go ahead.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor Angell.
+ 
+ MR. ANGELL. Mr. Chairman, support proposal.
+ wonder
+ whether there's pre-step might taken would set
+ context little better, I'd like Virgil respond. I'm
+ wondering whether previous [review Banking Committee staff]
+ state categorically think tape show.
+ CHAIRMAN GREENSPAN.
+ MR. ANGELL.
+ 
+ letter?
+ 
+ letter.
+ 
+ -46-
+ 
+ 12/21/93
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ fact that's one issues that--
+ 
+ MR. ANGELL. Yes, state it. there's
+ ambivalence there, think would approach ambivalence
+ there's news value actual looking it.
+ CHAIRMAN GREENSPAN.
+ fact, discussing
+ earlier, that's exactly suggested do.
+ letter
+ response Chairman Gonzalez say:
+ see, tapes
+ show following.
+ MR. ANGELL. Right, vulnerability
+ [emerged], many us thought began [preparing]
+ testimony was:
+ notes take do?
+ even us knowledge seemed
+ Committee's [procedures] Secretariat doing,
+ said said clear unequivocal
+ responsibility Chairman reveal information.
+
+ question raised individual members was:
+ put
+ testimony? course, me, independent knowledge
+ testimony. discussion,
+ recall, members saying:
+ Well, need put testimony?
+ think need set [the point] clearly
+ individuals asking question never doubt
+ Secretary going reveal fully [the existence of] tapes.
+ one, recall, view wanting tapes
+ there. knew be.
+ CHAIRMAN GREENSPAN.
+ 
+ President Keehn.
+ 
+ MR. KEEHN. Mr. Chairman, agree proposal;
+ certainly support it.
+ question would raise, really,
+ relates access people.
+ monetary policy
+ discussion, would gather therefore something could
+ discovered Freedom Information Act?
+ CHAIRMAN GREENSPAN. Well, interesting
+ question. think that's type thing ought discuss
+ February meeting relative proceed generally.
+ MR. KEEHN. Well, I'm really raising issue:
+
+ October 15th tape transcript one somebody comes
+ asks Freedom Information Act we're going
+ deliver. is, right?
+ CHAIRMAN GREENSPAN.
+ 
+ don't ask General Counsel?
+ 
+ MR. MATTINGLY. No, wouldn't all.
+ That's deliberative material.
+ MR. KEEHN.
+ 
+ would it.
+ 
+ MR. MATTINGLY. would disclose it, don't
+ think waive right make available
+ Oversight Committee.
+ MR. KOHN. FOIA isn't aimed monetary policy; exemption
+ aimed deliberative process, whatever outcome is.
+ 
+ -47-
+ 
+ 12/21/93
+ 
+ MR. MATTINGLY. lot October 15th tape
+ attorney/client material anyway.
+ MR. KEEHN. Well, agree.
+ wondered, fact
+ would end disclose it, whether tactically might
+ advantage releasing publicly time give
+ Committee. that's risk, would not.
+ CHAIRMAN GREENSPAN.
+ 
+ Governor LaWare.
+ 
+ MR. LAWARE. Along lines:
+ October 15 conference
+ call meeting Committee protectable
+ deliberative open Oversight Committee,
+ precedent open deliberative matters monetary
+ policy Oversight Committee?
+ MR. MATTINGLY.
+ MR. LAWARE.
+ 
+ Boy, that's delicate differentiation.
+ 
+ MR. MATTINGLY.
+ 
+ example.
+ 
+ don't think so, no.
+ 
+ I've expressed it--
+ 
+ MR. MULLINS.
+ part meeting would open,
+ isn't monetary policy, it?
+ MR. MATTINGLY.
+ MR. LAWARE.
+ MR. MULLINS.
+ 
+ Well, think--
+ 
+ Well, deliberating something?
+ Oh, okay.
+ 
+ MR. MATTINGLY. grant access [the
+ Secretariat's records of] October 15 meeting doesn't mean
+ grant access meetings FOMC, either monetary
+ policy part something else.
+ MR. LAWARE.
+ 
+ That's part worries it.
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ Well, that's side it.
+ 
+ MR. LAWARE.
+ think it's good gamble try ploy
+ hope presence witnesses see whole thing
+ objectively able defuse attempt take pieces
+ context advantageous. think that's good strategy
+ pursue. would support recommendation, Mr. Chairman.
+ CHAIRMAN GREENSPAN.
+ 
+ Thank you.
+ 
+ President Hoenig.
+ 
+
+ MR. HOENIG.
+ Two questions, Mr. Chairman. Number one:
+ proposal would members Committee senior
+ aides coming condition individuals Chairman
+ Gonzalez's group coming over?
+ words, others
+ included--
+ 
+ CHAIRMAN GREENSPAN. Well, obviously, stop us
+ making materials available people.
+ MR. HOENIG.
+ 
+ Right.
+ 
+ 12/21/93
+ 
+ -48-
+ 
+ CHAIRMAN GREENSPAN. decides
+ participate conditions, may choose go forward
+ without participation.
+ MR. HOENIG.
+ want make sure something doesn't occur
+ come look themselves.
+ CHAIRMAN GREENSPAN.
+ 
+ would say would mistake.
+ 
+ MR. HOENIG. agree would be, I'd feel much
+ comfortable proposal knowing
+ memory
+ individuals there. second question is:
+ short, possibility take look
+ parts transcript conversations
+ get call we'll know exactly?
+ CHAIRMAN GREENSPAN.
+ MR. HOENIG.
+ 
+ Yes, check will--
+ 
+ case would support it.
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ President Forrestal.
+ 
+ MR. FORRESTAL. Mr. Chairman, suppose there's question
+ people would willing come, there?
+ would
+ assume will.
+ CHAIRMAN GREENSPAN.
+ 
+ don't think there's problem.
+ 
+ MR. FORRESTAL. Well, said well earlier.
+
+ disagreeable distasteful go this--and
+ perhaps overstating it--but think it's almost necessity
+ take kind step. Look, we're going resolve
+ issue this. Mr. Gonzalez staff going keep
+ us matter do. we're accused
+ secretive, that's around country now--we've seen
+ editorials on--I think we've got dispel extent
+ can. importantly, we--I wasn't call,
+ others--have accused lying engaged conspiracy,
+ challenged. seems real way
+ use best evidence, call itself.
+ letters write anybody else writes going
+ convince anybody unless get material prove
+ irrefutably, understand it, occur. think
+ you've made meaningful distinction kind meeting
+ telephone call monetary policy decision. think
+ draw line there. would say, think you've said
+ before, continue withhold monetary policy deliberations
+ Congress chooses tell us otherwise. mean
+ whole Congress.
+ That's business want change
+ law, it.
+ wouldn't move beyond furnish
+ monetary policy transcripts unless we're forced whole
+ Congress.
+ CHAIRMAN GREENSPAN.
+ 
+ President Parry.
+ 
+ MR. PARRY. Mr. Chairman, support recommendation.
+ two questions.
+ deny access, likely
+ mind Chairman Gonzalez would try get Committee
+ 
+ 12/21/93
+ 
+ -49-
+ 
+ issue subpoena? secondly, likely he'd
+ successful since isn't monetary policy issue probably
+ viewed lot people House something sort
+ got together develop tactics testifying?
+ CHAIRMAN GREENSPAN. Remember accusation
+ [that engaged in] form conspiratorial action.
+ members Banking Committee might disagree Chairman
+ nonetheless feel obligated [to investigate] circumstance
+ there's accusation nature refuse release
+ evidence.
+ would say would quite easy majority
+ marshalled subpoena because, indeed, it's
+ accusation insignificant dimensions.
+ It's minor
+ transgression he's accusing us of.
+ President Melzer.
+ MR. MELZER. First all, think need go ahead
+ let ask couple questions.
+ understand
+ logical basis making distinction conversation
+ monetary policy deliberations.
+ legal basis?
+ MR. MATTINGLY. Yes, think so.
+ think Committee
+ right maintain confidentiality deliberations
+ also right make exception occasion believes
+ warranted. that's we're here. face
+ allegations levelled Committee, suppose
+ decide order address things put rest it's
+ best grant access circumstances.
+ mean
+ grant access conversations.
+ MR. MELZER.
+ 
+ legal basis.
+ 
+ MR. MATTINGLY.
+ 
+ believe is, yes.
+ 
+ MR. MELZER. Okay. would inclined whatever
+ letter send back spell precedent issue clearly.
+ words, say don't view precedent-setting
+ respect providing tapes transcripts.
+ think would
+ helpful part letter.
+ recall call, Virgil,
+ Another legal question:
+ started giving us legal advice respect new
+ Freedom Information Act interpretations.
+ suppose, effect,
+ releasing we're waiving attorney/client privilege sense.
+ done case-by-case basis without setting precedent
+ respect future legal advice Committee might get?
+ MR. MATTINGLY. Yes, can. you're giving right
+ keep confidential let Henry Gonzalez look
+ it. particular matter, you're correct.
+ MR. MELZER. Okay. one final observation:
+
+ personally think need this.
+ agree Susan
+ saying before--that basis singling
+ individuals criticizing won't end it.
+
+ think try but, following Tom's suggestion, need
+ prepared defend statements going taken
+ context connection this.
+ 
+ -50-
+ 
+ 12/21/93
+ 
+ VICE CHAIRMAN MCDONOUGH. follow-up question
+ Virgil.
+ Chairman made distinction, made distinction,
+ others also discussions monetary policy
+ discussions matters. legal precedent we're
+ saying giving access particular tape;
+ doesn't give access tapes, whether
+ tapes include discussions monetary policy matters.
+ MR. MATTINGLY.
+ 
+ That's view, yes.
+ 
+ VICE CHAIRMAN MCDONOUGH.
+ CHAIRMAN GREENSPAN.
+ 
+ Okay.
+ 
+ President Stern.
+ 
+ MR. STERN. support recommendation, although
+ seems real reason
+ provide comfort friends we've gone ahead taken
+ step toward openness.
+ think suggestion people
+ Mr. Kanjorski's staff Mr. Leach's staff good one.
+ I'm
+ one letters
+ wondering it's possible go even further.
+ suggested want meet Chairman Gonzalez
+ testify, wonder there's way tie get
+ done.
+ CHAIRMAN GREENSPAN. get impression
+ I've requested
+ wants give forum rebut [these accusations].
+ many occasions gotten response. President Boehne.
+ MR. BOEHNE.
+ 
+ balance support recommendation.
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ President McTeer.
+ 
+ MR. MCTEER. small comment couple questions.
+
+ also wondering maybe three people might
+ small number I'd urge consider way make larger
+ number.
+ CHAIRMAN GREENSPAN. Well, view Susan's remarks,
+ may pinpointed fact enough get
+ critical mass objectivity.
+ MR. MCTEER.
+ press?
+ 
+ Right.
+ 
+ given thought releasing
+ 
+ CHAIRMAN GREENSPAN. would disinclined stage
+ that.
+ say "at stage" it's lot material
+ people start publishing we're considered highly visible
+
+ people. may go direction; don't deny that.
+ would soon second step.
+ MR. MCTEER. Well, leads another question
+ is:
+ made available them, shouldn't get copy
+ transcript ourselves? We'll making available something
+ haven't made available us.
+ MR. MULLINS.
+ [Laughter]
+ 
+ He's congressman.
+ 
+ Can't ask him?
+ 
+ 12/21/93
+ 
+ -51-
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ answer course yes, obviously.
+ 
+ MR. MCTEER. know might want talk
+ next month happens next
+ scheduled meeting get fax Committee asks
+ something also asks us communicate other.
+ happened left totally isolated, knowing
+ what, afraid call anybody-CHAIRMAN GREENSPAN.
+ first amendment myself.
+ 
+ Well, think that's abridgment
+ 
+ MR. MCTEER. wish somebody called said that--had
+ said "Feel free talk colleagues."
+ feel
+ breakdown.
+ CHAIRMAN GREENSPAN. Well, let say this. think
+ you're quite right.
+ type request inappropriate, long
+ series reasons, think self evident mostly.
+ MR. MCTEER. declined make notes available worried
+ person going decline.
+ CHAIRMAN GREENSPAN.
+ MR. BOEHNE.
+ 
+ President Boehne.
+ 
+ I've already commented.
+ 
+ CHAIRMAN GREENSPAN.
+ MR. FORRESTAL.
+ MR. BOEHNE.
+ 
+ No.
+ 
+ change mind?
+ [Unintelligible.]
+ 
+ CHAIRMAN GREENSPAN.
+ much eloquent.
+ MR. SYRON.
+ 
+ I'm sorry.
+ 
+ Sorry that.
+ 
+ didn't say
+ 
+ Direct correlation.
+ 
+ MR. BOEHNE.
+ 
+ made great impression!
+ 
+ [Laughter]
+ 
+ CHAIRMAN GREENSPAN. Well, one else wants comment,
+ take general conversation affirmation going forward
+ this, report back soon feasible
+ outcome issue.
+ MR. MULLINS.
+ 
+ don't require vote?
+ 
+ CHAIRMAN GREENSPAN.
+ MR. KOHN.
+ 
+ don't think need it.
+ 
+ don't think it's necessary.
+ 
+ CHAIRMAN GREENSPAN.
+ SPEAKER(?).
+ 
+ don't need vote.
+ 
+ CHAIRMAN GREENSPAN.
+ MR. BERNARD.
+ 
+ It's sense Committee.
+ 
+ next meeting is?
+ 
+ February 3rd 4th.
+ 
+ -52-
+ 
+ 12/21/93
+ 
+ CHAIRMAN GREENSPAN.
+ 
+ February 3rd 4th.
+ 
+ MR. PARRY. fact we're going take
+ issue next meeting going affect starting ending
+ time? long continue?
+ CHAIRMAN GREENSPAN. Yes, will.
+ colleagues work out.
+ MR. BOEHNE.
+ appreciate knowing!
+ 
+ think I'll leave
+ 
+ Well, plan spend weekend, Don, I'd
+ 
+ END MEETING
+ 
+ 

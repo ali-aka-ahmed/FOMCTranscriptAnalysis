@@ -1,0 +1,3793 @@
+Meeting of the Federal Open Market Committee
+May 18, 1993
+
+A meeting of the Federal Open Market Committee was held in
+the offices of the Board of Governors of the Federal Reserve System
+in Washington, D.C.,
+PRESENT:
+
+on Tuesday, May 18,
+
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+Ms.
+Mr.
+
+1993, at 9:00 a.m.
+
+Greenspan, Chairman
+Corrigan, Vice Chairman
+Angell
+Boehne
+Keehn
+Kelley
+LaWare
+Lindsey
+McTeer
+Mullins
+Phillips
+Stern
+
+Messrs. Broaddus, Jordan, Forrestal, and Parry.
+Alternate Members of the Federal Open Market
+Committee
+Messrs. Hoenig, Melzer, and Syron, Presidents
+of the Federal Reserve Banks of Kansas City,
+St. Louis, and Boston, respectively
+Mr.
+Mr.
+Mr.
+Mr.
+Mr.
+
+Bernard, Deputy Secretary
+Coyne, Assistant Secretary
+Gillum, Assistant Secretary
+Mattingly, General Counsel
+Prell, Economist
+
+Messrs. R. Davis, Lang, Lindsey, Promisel,
+Rolnick, Rosenblum, Scheld, Siegman,
+and Slifman, Associate Economists
+Mr. McDonough, Manager of the System Open
+Market Account
+Ms. Greene, Deputy Manager for Foreign
+Operations
+Ms. Lovett, Deputy Manager for Domestic
+Operations
+
+Mr. Ettin, Deputy Director, Division of Research
+and Statistics, Board of Governors
+Mr. Madigan, Associate Director, Division of Monetary
+Affairs, Board of Governors
+Mr. Stockton, Associate Director, Division of Research
+and Statistics, Board of Governors
+Mr. Hooper, Assistant Director, Division of
+International Finance, Board of Governors
+Mr. Small,
+Section Chief, Division of Monetary
+Affairs, Board of Governors
+Ms. Low, Open Market Secretariat Assistant,
+Division of Monetary Affairs, Board of Governors
+Messrs. T. Davis, Dewald, and Goodfriend, Senior Vice
+Presidents, Federal Reserve Banks of Kansas City,
+St. Louis, and Richmond, respectively
+Ms. Browne, Mr. Judd, and Mses. Rosenbaum and White,
+Vice Presidents, Federal Reserve Banks of Boston,
+San Francisco, Atlanta, and New York, respectively
+Mr. Eberts, Assistant Vice President, Federal Reserve
+Bank of Cleveland
+
+1.
+Attended portion of meeting relating to a report on a study
+entitled "Operating Procedures and the Conduct of Monetary Policy:
+Conference Proceedings." edited by Marvin Goodfriend and David
+Small. This two-volume study has been designated Working Studies 1,
+Parts 1 and 2, of the Federal Reserve Board's Finance and Economic
+Discussion Series.
+
+Transcript of Federal Open Market Committee Meeting of
+May 18, 1993
+CHAIRMAN GREENSPAN. Good morning, everyone. There are going
+to be thunderstorms this morning, but I trust that we can integrate
+them in an appropriate [unintelligible] that is in sync.
+The
+impression I get is that the authorities up above, knowing that this
+is Jerry Corrigan's last meeting, have decided to let us know they are
+aware of that.
+If anyone can read the drumbeat as to whether it's pro
+or con Jerry, please let us know. We, of course, are going to be
+having a farewell lunch in Jerry's honor in Dining Room E after the
+meeting.
+Let me say before we start:
+You may recall that a number of
+meetings ago I raised some questions about the security of this
+operation which--to use a kind word--was "dubious" for a while. I
+think our record in recent months, indeed pretty much back to the end
+of last year, really has been extraordinarily good. I cannot honestly
+say that I have seen a comment that I would unambiguously read as
+coming out of an FOMC meeting. I think you are all aware that what
+will be going on here today has very considerable interest outside.
+So, all I would suggest is:
+Let's not lower our guard. Let's be
+cautious, and I think we can fend off the clever endeavors on the part
+of a lot of our media friends on the outside who will try to infer how
+this meeting came out.
+I don't request anything new; I think what
+you've been doing is fine. Let's just have an awareness not to let
+our guard down inadvertently.
+I will raise some questions [later] in the proceedings when
+we get into our discussions about exchange rates, concerning which I
+have a memo from our colleague, Ted Truman.
+I'd like to read it to
+It relates
+you so you will be up-to-date on what the issues are.
+somewhat to this confidentiality issue but it's not directly in that
+context, so I'll leave it for later.
+Shall we start off? I ask for a
+motion to approve the minutes for the meeting of March 23.
+SPEAKER(?).
+
+So moved.
+
+CHAIRMAN GREENSPAN.
+SPEAKER(?).
+
+Is there a second?
+
+Second.
+
+CHAIRMAN GREENSPAN. Without objection. Al Broaddus, I
+assume, is available at the moment to give us a rundown on the very
+interesting work with which his group has been involved.
+MR. BROADDUS. Thank you, Mr. Chairman. I'll be brief and
+just give a quick background. Members of the Committee will remember
+that about two years ago at the July 1991 meeting it seemed pretty
+clear that the economy was beginning to recover. And I think most
+members of the Committee recognized that somewhere down the road the
+Committee was going to be faced with the prospect of rising inflation
+pressures and the possible need to change the direction of policy
+toward restraint.
+In the environment as I remember it, Governor
+Angell asked a very reasonable and straightforward question, and that
+was:
+If and when that time arrived, would such a move be facilitated
+by a change in our operating procedures away from the current
+procedure of conducting policy by controlling the funds rate very
+
+5/18/93
+
+tightly? Would we change perhaps in the direction of a more automatic
+adjustment of the funds rate in response to emerging inflation
+developments or other economic developments or perhaps along the lines
+of the nonborrowed reserve procedure we used between late 1979 and
+late 1982? In any case, we got a group of System economists together
+and we produced two volumes as your answer, Governor Angell. It's a
+lengthy response but I think an interesting one.
+CHAIRMAN GREENSPAN.
+what's in those volumes?
+
+Is he going to have to take an exam on
+
+MR. BROADDUS. I think I may have to take an exam on it at
+some point! Actually, a shorter answer was delivered at the next
+meeting of the Committee in August of 1991 when Don Kohn summarized a
+memorandum that Dave Lindsey had prepared. That memo reviewed several
+alternative procedures that might assist in the next change in the
+direction of policy. Just very quickly: One set of those
+alternatives would have deliberately caused somewhat greater movement
+in the funds rate in the short run in an effort perhaps to camouflage
+or disguise when an increase in the rate might be taken; this might
+soften or at least stretch out the market and public reaction to the
+move. The second set of alternatives would have involved tying the
+funds rate, or perhaps a borrowed reserve instrument, in some way to
+deviations of M2 from its target. The memo also noted that in an
+automatic procedure we might want to substitute total reserves or
+perhaps the monetary base for the funds rate as the operating
+instrument. In any case, at that August 1991 meeting the Committee
+discussed all of these alternatives. And, of course, the memorandum
+pointed out that there were disadvantages as well as advantages
+according to the tradeoffs involved. The Committee I think also
+recognized that the current unpredictable behavior of M2 might cause
+some difficulties with some of these alternative procedures that would
+not have existed so much in the past.
+In any case, all of this was brought out and in this
+situation the Committee mandated a more broadly scoped study, similar
+to studies that had been done along these lines in the past. We had
+one in the early 1980s and another in the early 1970s. This broader
+project was carried out in the second half of 1991 and the first half
+of last year. It culminated in a very interesting two-day conference
+at the St. Louis Fed in which 16 papers on this topic, along with
+formal discussions, were presented. Economists from the Board staff
+and all of the Reserve Banks participated in this conference. We also
+invited two prominent outside monetary economists, Ben McCallum from
+Carnegie Mellon and John Taylor from Stanford, to participate in the
+conference--actually to comment on particular papers and in both cases
+to give an overview. Both wrote papers giving their overview comments
+on the research and its implications. All the papers prepared for the
+conference, including the discussion papers and the Taylor and
+McCallum papers reviewing the overall conference, are included in this
+two-volume study. You should have received these volumes last week as
+well as a summary of those proceedings, which I hope you will have an
+opportunity to read if you haven't done so already.
+As the summary indicates, the study did not attempt to arrive
+at specific recommendations as to alternative procedures that the
+Committee should adopt. I think we recognized rather quickly when we
+got into this that it would be unrealistic to try to do that in this
+
+5/18/93
+
+study. What we tried to do was to lay a solid analytical foundation
+on which such a discussion and decisions could be based. Frankly, we
+concluded that we have produced a very solid foundation for that kind
+of consideration if the Committee wants to take that next step; I
+think we've covered the subject comprehensively. Many of the papers
+used state of the art research techniques in reaching their
+conclusions.
+In any case, the summary document that you should have
+describes several of the more formal papers in some detail and it
+presents five broad conclusions. I'm not going to go through those in
+any detail but let me just paraphrase them.
+First, we studied the operating procedures in a number of
+other major industrial countries. We found that most of them employ
+procedures that are similar to those that this Committee uses but we
+also found that some differences of detail exist. And if we take the
+next step, we might want to consider whether there are any significant
+advantages to adopting some of these procedures.
+For example, I have
+in mind something like the Lombard facility that the Bundesbank has
+available.
+Second, in view of the current problems with the monetary
+aggregates as indicators of policy, in this study we looked at a large
+number of alternative indicators of the thrust of policy and future
+economic developments to see whether we might improve the execution of
+policy by, in some more systematic way, taking account of some of
+these variables in conducting policy. I have in mind here variables
+like bond rates, yield curves, commodity prices, and a number of
+others. Not surprisingly, no single indicator jumps out and says "I'm
+the one on which you should focus all of your attention."
+But we did
+learn that certain indicators do seem to do a better job over
+particular time horizons than others. So, we did a bit of filtering
+that I think is useful there.
+The third and perhaps the most important conclusion we
+reached is that a case can be made that the Committee's current
+procedure of adjusting the funds rate in response to a variety of
+indicators can be used successfully over time to achieve the principal
+objectives of monetary policy. I think a lot of people, like Dave
+Lindsey, suspected that before the study was done. But the study
+provides very important and very solid analytical confirmation in
+support of that conclusion. However, and I can't emphasize this
+enough, the effectiveness of our current policy regime depends
+critically on the maintenance of the credibility of the System's
+longer-term policy objectives.
+Fourth, some model simulations that were done for the study
+indicated that a feedback mechanism to guide policy might be of some
+assistance in improving our results without creating a lot of undue
+short-term instability. Several papers in particular looked at
+feedback mechanisms where either a funds rate instrument or a monetary
+base instrument would be [varied] in some systematic way in response
+to deviations of nominal income from a target--for example, the
+Humphrey-Hawkins projections that we put forth twice a year--that
+might be set.
+Fifth and finally, research done for the project indicated
+that greater transitory deviations in the funds rate permit targeting
+that would characterize some of these alternative procedures but not
+
+-4-
+
+5/18/93
+
+necessarily be transmitted to greater variability in longer-term
+interest rates. So, that possibility should not prevent us from
+looking at some of these alternative procedures if we wished to.
+In
+any case, Mr. Chairman, those are the principal conclusions. Again, I
+think this study positions the Committee to take the next step, and it
+would be a fairly straightforward step of looking at particular
+changes we might make. Let me take this opportunity to thank
+everybody who was involved in the project but express particularly my
+appreciation to Marvin Goodfriend and to Dave Small of the Board's
+staff who did a tremendous amount of work in editing these papers.
+CHAIRMAN GREENSPAN.
+
+Thank you.
+
+MR. BROADDUS.
+I'd be happy to try to answer any questions
+anybody has and I'm sure Marvin and Dave could help me with some of
+the more technical ones.
+CHAIRMAN GREENSPAN. I must say I didn't have a chance to
+read the fat books but I did read the summary, and it really is useful
+in segregating the various types of problems that confront us.
+I'm
+not saying that I feel overly encouraged about different means that we
+could employ other than what we are doing. I guess we all hope that
+somewhere down the line we're going to be able to deviate from "funds
+only," if I may put it that way, as a policy. But I think the type of
+data systems that you set up for an evaluation will enable us to
+continue until we can fundamentally come to grips with a view that
+presumably for us [fed funds] continue as our optimum operating policy
+procedure.
+[Hearing none,] I guess
+Questions for President Broaddus?
+everybody has read the two books and all the questions have been
+answered!
+MR. BROADDUS. Thank you very much, Mr. Chairman, for the
+opportunity to summarize the study.
+CHAIRMAN GREENSPAN. And thank you very much, indeed. We'll
+now move on to Gretchen Greene and operations of the Foreign Desk.
+MS. GREENE.
+
+[Statement--see Appendix.]
+
+CHAIRMAN GREENSPAN. Thank you very much. Let me just add
+something about that intervention episode.
+It resulted from fairly
+close coordination between the Fed and the Treasury. When we began
+over here to see the spillover effects on the exchange rate, on the
+bond market, and on the stock market, the notion of a deterioration in
+confidence became, I think, somewhat more evident than it had been
+previously. We had been arguing here that we had a necessary
+condition to get a response in the market from intervention because
+the market did not expect intervention, meaning it was net short. And
+in our discussions with the Treasury we suggested that a two-pronged
+approach be initiated that day. One was to intervene moderately in
+the market but visibly. This clearly came as a surprise to the
+market; just watching the screens one could immediately see a variety
+Concurrently, we knew that there were
+of the shorts begin to cover.
+opportunities for both Messrs. Bentsen and Summers to make remarks
+that day, considering the fact that in the period immediately
+preceding, the President--and obviously even earlier Secretary Bentsen
+
+5/18/93
+
+-5-
+
+and Secretary Brown--had made comments which suggested, as Gretchen
+pointed out, that there was perhaps some concerted American policy to
+strengthen the yen. The truth of the matter is that no such policy
+existed. These were in the nature of ad hoc comments by commentators
+who were not discussing American policy, but really were observers of
+the scene who concluded that history tells us that if the exchange
+In fact, we
+rate of the yen rises, the Japanese surplus will fall.
+are not certain what would happen. Indeed, my suspicion is that if we
+actually tried to create changes in exchange rates by consistent
+intervention, the secondary consequences in the markets, mainly in the
+expectations area, would very likely make the correlations which are
+fairly robust between real exchange rates and current account deficits
+break down. So, what we were trying to do was to indicate that these
+comments were nothing more than academic discussions about
+relationships.
+I think we were about 20 percent successful, which is
+about 10 percent more than I would have thought. But it came out
+pretty well. In fact, I told [my colleagues] that I thought the
+[outcome] that day was about as good as it gets in this endeavor to
+intervene in the markets and not to expect that there is an easy
+process here by which one can readily manipulate exchange rates. To
+his credit Larry Summers, who is very knowledgeable about all of this,
+has been very cooperative with us; he has made certain to keep us
+fully informed about any issues and discussions that they have been
+involved in, and we have tried to reciprocate. Hopefully, that
+process will continue. Any questions for Gretchen?
+Tom.
+MR. MELZER. Gretchen, in the [written] report there was a
+comment about the [market's] vulnerability to the dismantling of these
+longer-term investment positions--and you just mentioned it in your
+remarks--in Europe in particular. Do we have any sense of the
+magnitude of that, what dynamics might drive a liquidation, what the
+impact of that could be, and so forth?
+MS. GREENE.
+positions?
+MR. MELZER.
+
+Are you talking about intra-European investment
+I'm talking about investment positions in U.S.
+
+dollars.
+MS. GREENE. Well, in reading the Greenbook last night I
+noted that there have been some persistent foreign purchases of U.S.
+government securities in the first quarter of the year at the same
+time that there has been a continued very high level of U.S. outward
+investment.
+So, in effect, one could see this as financing our
+capital outflow. The liquidation that I spoke of--the Japanese
+investments--will probably at least in the first instance not be U.S.
+dollars. Nevertheless, it had an effect on the dollar exchange rate
+because they liquidated, let's say, Canadian dollar securities,
+received Canadian dollars, and converted that to U.S. dollars; the
+dollar was a means of exchange for getting back into yen. We thought
+they were relatively easily shaken out of the Canadian dollar market;
+there was also some Australian dollar intervention by the Japanese.
+The market has been talking about the Japanese more as a vulnerability
+than an actuality as far as U.S. bond markets are concerned. My
+feeling is that, with the somewhat better climate that exists now in
+the middle of May than existed at the beginning of April, they are
+more secure now. But that's just a personal impression. Bill may
+want to say something [on this issue].
+
+5/18/93
+
+MR. MCDONOUGH. Let me just add a footnote.
+[In the period]
+before the intervention that Gretchen described and the Chairman
+commented on there's no question that the Japanese were not resisting
+rumors in the market reminding the United States that Japanese life
+insurance companies held a lot of rather long Treasuries and that if
+they dumped them, the price to the United States would be rather high.
+As soon as the intervention took place, all of that talk disappeared.
+MR. LINDSEY. Mr. Chairman, to what extent is it your
+judgment that the success that day was due to the fact that it was
+largely not trade or even capital fundamentals but senior
+administration official statements that were driving the market?
+CHAIRMAN GREENSPAN.
+
+Do you mean before or after?
+
+MR. LINDSEY. Well, before having driven the dollar down and
+that, therefore, we were successful with our intervention.
+CHAIRMAN GREENSPAN. Well, remember, the statements came
+after the intervention. The intervention was a perceived success, if
+one puts it in those terms, before the statements were made. But I
+think the statements reinforced it; that in large part turned around
+the concerns that existed. It was probably not that it moved the
+dollar higher, but that it may have forestalled an erosion of some of
+the gains that had occurred earlier in the day as a consequence of the
+intervention.
+MS. PHILLIPS.
+
+I agree.
+
+CHAIRMAN GREENSPAN. Any other comments?
+Let me just take a
+minute to fill you in on some comments that I heard at the Basle G-10
+meeting the weekend before last and early last week. There was quite
+an extraordinary number of subdued people in Europe; there is an
+underlying fear that that system is continuously eroding. They are
+continually revising down their estimates; they are talking as though
+the upturn is somewhere off in the future, whereas earlier in the year
+they were talking--in sort of government-speak--about the turn being
+at hand and the official forecasts were [being revised] up. The mood
+was really quite a good deal more subdued last week. They're
+particularly concerned about the shortfalls in revenues impacting on
+their budget deficits. The French were, I think, particularly
+traumatized by that.
+The mood is really very soft--if anything, the
+worst I've seen this year. The British obviously are feeling somewhat
+better, but even among the Brits a slightly hollow cheerfulness is
+evolving.
+In any event, let me turn for a minute to an adjunct on this
+exchange rate discussion and read to you three points that Ted Truman
+is recommending relative to our discussions about exchange rates.
+It
+comes basically out of the experience that we've observed first with
+Secretary Bentsen, then the President, and then Secretary Brown. Item
+one:
+Exchange rates are like interest rates, and if a central banker
+discusses one, the central banker will be understood to be discussing
+the other. The best comment for the Federal Reserve is "no comment."
+[Item two:]
+We are going through a delicate period in terms
+of exchange rates and, any talk, no matter how analytical, is likely
+Even a "no comment" from someone
+to take on exaggerated importance.
+who has previously commented is a comment. My answer is that the best
+
+5/18/93
+
+way to handle that is to ask the reporter "May I go on deep
+background?" Then, when they shake their heads, I say "no comment."
+The new Administration, or at least those parts
+Item three:
+of it with which the Federal Reserve deals regularly, is sensitive to
+the fact that talk about exchange rates, loose or any other kind,
+tends to be unconstructive. While it would be foolish to think that
+the Treasury Department would be able to shut down entirely all other
+sources of Administration comment on exchange rates, it is somewhat
+embarrassing if the Federal Reserve becomes part of the problem. Of
+course, the Treasury from time to time may feel it is necessary to
+make an official comment on exchange rates, but we hope that those
+comments are deliberate and well considered. The recent record shows
+that the Treasury is prepared to work with the Federal Reserve on such
+occasions. That's the end of Ted's comments and I must say I fully
+subscribe to them.
+Let's move on. We have to ratify the actions taken by the
+Desk with respect to intervention against the yen. I would ask
+somebody to move it.
+VICE CHAIRMAN CORRIGAN.
+CHAIRMAN GREENSPAN.
+MR. KELLEY.
+
+I move it.
+
+Is there a second?
+
+Second.
+
+CHAIRMAN GREENSPAN. Without objection. Let's move to Bill
+McDonough and the operations of the Domestic Desk.
+MR. MCDONOUGH.
+
+[Statement--see Appendix.]
+
+CHAIRMAN GREENSPAN.
+
+Questions?
+
+MR. BOEHNE. In the context of what the market views as good
+news and bad news and how it might move the market, how would the
+market react to a tightening of Fed policy in the near term?
+MR. MCDONOUGH. Assuming it would happen soon enough so that
+we have the present market conditions--the short end is priced on the
+3 percent funds rate--the likelihood is that interest rates out to two
+or three years would probably go up. I think [a tightening] would
+probably bring the yield on the 10-year bond down a little because it
+would be interpreted as the Fed being both active in fighting
+inflation and very concerned about the economy. I think you would get
+those two reactions. What it would do to the 30-year bond is really
+hard to call.
+If investors became convinced--making that distinction
+I made earlier--that economic growth is likely to be low and that the
+Fed is very concerned about inflation, my guess is that the long bond
+would probably go up in price and down in yield. But at the present
+time it's really being played essentially by hedge funds and various
+other speculators, and in their hands it could go either way. It
+would depend an awful lot in the longer end of the market on whether
+the investors were back in.
+If they were, then I think we would get a
+flattening of the yield curve--short end up and longer end down.
+MR. SYRON. Bill, what is in market expectations now in terms
+of the deficit? There has obviously been some change in that, but I'm
+
+-8-
+
+5/18/93
+
+trying to get some view of any likely disappointment or, conversely, a
+pleasant surprise.
+MR. MCDONOUGH. It has improved a little in the very recent
+past by Mr. Rostenkowski getting the bill through the House Ways and
+Means Committee in the shape that it did. And I think the market
+assumption now is that the House will pass the Ways and Means bill.
+Then it shifts over to the Senate, and the market is somewhat confused
+about that.
+There's no doubt that a fair piece of the rally through
+March [reflected the view] that gridlock was not likely, that there
+was a serious effort to reduce the deficit, and that the new
+Administration had the kind of political skills that they showed in
+winning the election. What has happened is that that view has flipped
+a lot. The market went from thinking that the Administration could do
+nothing wrong politically to a view that, well, maybe it can't do
+anything too well either. So, I think one would [unintelligible].
+But the pricing in the market--the fact that we're in the same trading
+range--in my view would say that the market view is still that the
+deficit reduction will happen.
+MR. PARRY. You indicated that the market reaction to the
+shortening of the maturity of the debt was muted. Was there much
+discussion as to the motives for shortening? Has it been received
+well by the market?
+I know there wasn't much of a move in rates.
+MR. MCDONOUGH. The general reaction has been that it was
+motivated by the desire to reduce the deficit.
+MR. PARRY.
+
+Short term.
+
+MR. MCDONOUGH. Short term. And since most market experts,
+or at least so-claimed experts, advised against the move, they talked
+to their [unintelligible] and said it was a bad idea.
+It did not go
+over well.
+If not,
+CHAIRMAN GREENSPAN. Any other questions for Bill?
+would somebody like to move to ratify the actions of the Desk?
+VICE CHAIRMAN CORRIGAN.
+CHAIRMAN GREENSPAN.
+SPEAKER(?).
+Prell.
+
+So moved.
+
+Do I hear a second?
+
+Second.
+
+CHAIRMAN GREENSPAN.
+Mike.
+
+Without objection.
+
+[Statement--see Appendix.]
+MR. PRELL.
+Chairman. I apologize for the unusual length.
+
+We now move to Mike
+
+Thank you, Mr.
+
+CHAIRMAN GREENSPAN. Well, this is a very crucial period for
+us. And even though Mike Prell went on at some length, I'd like to
+weigh in and add to his comments. Let me just say in looking at these
+data that I come out with the same concerns you do, Mike. The problem
+that we're confronting is one in which we have to be able to
+understand what is causing the price movements we are seeing here that
+have deviated from our most likely expectations.
+I think we can rule
+out that the usual money and credit phenomenon is pushing inflation.
+
+5/18/93
+
+We can barely find the figures even though they've come up a bit; we
+have a very faint pulse but not much more than that. You raised
+interesting questions about the labor market slack issue and I do
+agree that there's something there, especially the size of the defense
+adjustment that's going on.
+But there, too, it is rather tough in my
+view, with the excess capacity especially abroad and the labor market
+questions that we have here, to argue readily that there is something
+of significance working. There are some elements that I think do
+clarify the issue. One is that profit margins very clearly have been
+rising, and rising quite significantly. In the context of coming off
+rather weak demand, and a cumulative weak demand, it's pretty apparent
+that there has been a considerable endeavor to restore margins from
+subnormal levels and that this process is [being reflected in] very
+formidable profit figures that continue to emerge not only for the
+industrial sector but pretty much across the board. We probably
+haven't run through that process as yet but it's obvious that the
+higher profit margins get, the less they can be expected to continue
+to move higher. And correct me if I'm wrong, Mike, but in the Board's
+model, as margins rise, the pressures on prices fall.
+The high
+margins imply that we will begin to get softer prices as the momentum
+from the rising margins ceases to be able to be carried through.
+I
+don't know if we're there yet, but there is something very
+specifically there.
+An issue you didn't discuss that I do think is of some
+importance, but frankly I don't know the order of magnitude, is the
+protectionism that has been emerging very subtly but in a pronounced
+manner. There is no way to describe the steel price increases of late
+other than [as a reflection of] protectionism. This is not an issue
+of there being available supplies from abroad that are pushing our
+prices down; but squeezing the amount of imports enables the domestic
+mills to move their prices significantly higher. Needless to say,
+they have done so with alacrity. And while [the importance of] steel
+isn't what it used to be, it's nonetheless enough to have an impact in
+the durable goods pricing structure that is visible. Remember that
+almost by definition durable goods means "made with steel."
+And that
+really tends to spread [the effects] out in a particularly long line.
+I don't now what the regulatory costs are but as we were
+discussing in a Board meeting the other day, I'm sure that the
+Disabilities Act has had some impact on costs. We view that and the
+Clean Air Act largely in terms of capital costs and equipment. But
+remember that on a consolidated basis capital costs become labor
+costs.
+And in a consolidated sense it doesn't matter whether the
+pressure on the cost structure is from capital or direct labor because
+we consolidate out materials; it doesn't matter one way or the other.
+If in fact this is the type of inflation we are dealing with, it is a
+stagflation type of inflation except for, of course, the profit
+margins, which are very difficult to deal with. My [suspicion] is
+that it's part of all this.
+I do think the issue that was raised with
+respect to inflationary expectations may be the most relevant
+consideration here if what we are dealing with is a continued increase
+in the general price level. That's because in all of our analyses of
+inflation we endeavor to find the transmission mechanism by which the
+actions of workers in the wage bargaining process and of managers in
+price markups take place. The conventional wisdom in our models is
+that [the transmission] is largely induced through changes in
+psychology. That is, labor force and economic slack are supposed to
+
+5/18/93
+
+-10-
+
+change people's attitudes. But it's only when those attitudes change
+and indeed we get low [settlements in] wage contracts that the antiinflation process occurs. If we get the slack but nothing happens,
+all we're saying is that something broke down in the process. That
+essentially means that people--despite the fact that they're losing
+their jobs and despite the fact that unemployment is rising--still
+view the outlook as inflationary and they want wage increases. Or,
+alternatively, it means that the business community--despite what we
+would all view as a very weak economy--perceives that in fact the
+economy is really strengthening and that they can get price increases.
+And if their customers believe it, the price increases stick. But we
+have to look at the actions that people are taking. Clearly, when we
+get a PPI or a CPI we are looking at the end result of actions taken
+by people. And the question is:
+What is driving them? At the end of
+the day it doesn't matter what is driving them if in fact they are
+behaving in a manner that is bringing the price level up. This is
+something that I think we will get into when we get to our policy
+discussion. I hope it is where our discussion will take place because
+if anybody seriously believes that we can move interest rates at all
+in this particular context and [unintelligible] choke off
+[unintelligible] inflation, I would say that history tells us the
+chances of doing that are zero short of a 200 or 300 or 400 basis
+point rise in interest rates.
+So, the question really gets down to how we view this other
+structure. Unless we are willing to abandon fully all of our notions
+of what has historically created inflation--meaning forget the credit
+aggregates, forget the slack market issues, forget all of the cost
+pressures that occur as a consequence of regulations--we cannot
+readily explain what is happening. Unless we're willing to forget all
+of those elements involved in our ability to forecast--I don't see how
+we can unless we abandon all intellectual rigor--as far as I can see
+we cannot explain what is happening other than by this inflationary
+psychology [process].
+And that, in my judgment, may in part reflect
+political questions as to whether there is stability in the system and
+what the longer-term outlook is--whether in fact there are really
+serious problems in the long term.
+I do think the issue that Mike raised about accelerating
+demand may be quite relevant. That is, we were going through the
+second half of last year on an accelerating path and that could very
+well have altered the basic expectations of everybody. And the
+actions we are looking at, remember, are historical. The price
+changes that occurred in April, which are our latest price data,
+probably were made weeks before as far as planning is concerned. And
+the only evidence that we have since then is that wage rates in April
+have softened considerably. That is a somewhat useful cost
+development. As you may have observed in the Greenbook, the Board's
+staff is reducing [its projection of] the ECI, the employment cost
+index, for the second quarter; it is down dramatically from the first
+quarter. Therefore, the fundamental issue, as I read the Greenbook,
+is that the essential thrust of this last acceleration is where the
+inflation expectations are coming from rather than the politics or
+anything else. If that explanation is true, we should find that out
+within a reasonably short period of time. But I will tell you that at
+this stage we are pretty much testing the limits of our theoretical
+knowledge as to what the actual inflationary process is really doing.
+
+5/18/93
+
+-11-
+
+There is also the obvious question as to whether the price
+data themselves are creating problems for us. For example, a not
+insignificant part of the April CPI is a big increase in owner
+equivalent rent, which popped up. If one looks at owner equivalent
+rent as a ratio to the quality adjusted price of homes--a sort of rate
+of return estimate--that has been rising fairly significantly of late.
+And that's not what one would expect in the rate of return; one would
+expect it actually to be going in the other direction. Now, I don't
+put much weight on either the numerator or the denominator of that
+because, as you all know, the sample that is taken on owner equivalent
+rent, which accounts for something just short of 20 percent of the
+total index, is dubious and highly unstable. So, it is conceivable
+that the implicit price forecast in the Greenbook is right; and that
+would mean that all of a sudden the rate of price increase will slow
+fairly dramatically. But I will say this:
+The fact that Mike shows a
+significant amount of humility [is] something that I think is relevant
+to this type of analysis. All I can suggest is that anyone who in
+their comments around the table can add anything to what we know about
+this price process will contribute a great deal to our colleagues'
+base of information, which as I see it is pretty slender indeed at
+this particular stage. Who would like to start off?
+MR. PARRY. Mike, when I look at the forecast of quarterly
+growth rates for gross domestic product and inflation and compare it
+to the previous forecast, I see a couple tenths weaker growth rate
+It
+throughout the entire period and a couple tenths higher inflation.
+almost seems that a supply shock of some sort would produce this
+because typically a model is constructed so that if the economy runs
+into a slow period [the model] will pull it back--in effect make up
+for that [slowing] within a relatively short period. But when there
+is a supply shock, that's not necessarily the case. What, in effect,
+did you have in mind that caused it?
+MR. PRELL. Well, as I noted, we're trying to understand why
+things have been going the way they have. Certainly, supply
+conditions [are] a possible explanation. That was something that was
+at least in our minds as we were doing this. But basically the bigger
+driver in this was simply a recognition that the trends had not been
+developing as we had anticipated and were carrying through higher
+levels of inflation throughout and moderating somewhat further the
+tradeoff; in a sense, we were getting less bang for the unemployment
+[buck] from here on.
+But it's very much a level adjustment that is
+involved here.
+MR. PARRY.
+I can see that [you have made an adjustment], but
+do you have any particular feeling as to why that tradeoff may have
+changed?
+MR. PRELL. Nothing more than what I suggested. It's not
+going to [unintelligible] a separate matter from the tradeoff if you
+feel that in effect the NAIRU has been raised. It is simply that the
+gap is small-MR. PARRY.
+
+Right.
+
+MR. PRELL. The tradeoff could be affected if the
+expectations formation process is different than the backward-looking
+version that's inherent in a simple Phillips curve model. But again,
+
+5/18/93
+
+-12-
+
+it's hard to say whether that's a level adjustment we're making or a
+tradeoff adjustment. We simply tried to recognize the tendencies
+we've seen and to be a shade less optimistic, going forward, about the
+tradeoff between unemployment and disinflation. These are rather
+small adjustments in a sense.
+MR. LINDSEY. Thinking of a supply shock more broadly, one
+would include in that an upward revision to inflationary expectations;
+in a sense that would worsen the possible combination of output and
+inflation.
+MR. MCTEER. One thing that would account for both higher
+inflation and a weaker real sector would be weather, and we know we
+have had some bad weather. To what extent have you analyzed that and
+figured out how many points could be attributed to that?
+MR. PRELL. Well, we think it's probable that weather chipped
+a bit off of the first-quarter growth. We could see some disruption,
+some temporary loss at least, of output in industrial production. But
+I don't see a correlation between those output losses and the price
+pressures. I see it certainly in vegetable prices.
+Clearly,
+agricultural commodities have been affected by the weather and we see
+it in their prices.
+But I don't think the steel price increases that
+were referred to earlier and the medical services price increases
+recently had any significant weather element. So, while it's a nice
+simple conceptual analysis to say "Well, we reduced the supply and the
+prices went up," I really don't think that was what has accounted for
+the uptick in the inflation trend.
+MR. MCTEER. I was under the impression that the food
+component was a pretty good chunk of it, though.
+MR. PRELL. Well, in the overall CPI it was an element
+recently. But we're really focusing on the core CPI, recognizing that
+within a few months we should move back to normal supplies of fruits
+and vegetables and then the price level of food should return to the
+basic trend. So, this is not a significant element in our analysis.
+MR. PARRY. We would really have to have a convoluted impact
+on inflationary expectations to get the kind of effects that you have
+with the weather.
+MR. PRELL.
+Indeed. Overall inflation undoubtedly is
+important as well as the core in determining peoples' expectations
+about the future, or what they perceive to be acceptable increases in
+wages, and so on. But I don't think weather is the story here.
+CHAIRMAN GREENSPAN.
+
+President Stern.
+
+MR. STERN. I admit I don't understand the inflation numbers
+very well but, in thinking about the discussion on profit margins,
+maybe there is something there telling us about the degree of slack.
+After all, those price increases seem to have stuck for whatever
+reason. And maybe part of that has to do with the international
+situation. Maybe foreign competition isn't as vigorous as it was
+earlier; certainly something of that [nature] must be what is going on
+in autos I would think.
+
+5/18/93
+
+-13-
+
+MR. PRELL. But clearly we have had an exchange rate movement
+and slack in the Japanese economy. Both of those things have tended
+to boost the prices of Japanese automobiles and have provided an
+umbrella for domestic manufacturers. They started off the year with
+relatively generous incentives that held down the seasonally adjusted
+prices.
+They've been able to take those off; they raised a few list
+prices. And I think this is certainly influenced by the developments
+in the foreign exchange market. As the Chairman noted, in steel there
+has been a marked reduction in imports and there has been considerable
+pressure on supply in some parts of the steel market. There is some
+uncertainty about whether that's going to persist in the coming
+months. Of course, this will depend in part on decisions that are
+made about protectionist measures. Basically, the improvement in
+profits has largely conformed to the typical pattern of profits moving
+up with an acceleration in activity and a related jump in
+productivity. I assume we've had a rather typical cyclical pattern in
+that respect.
+CHAIRMAN GREENSPAN. What, incidentally, is the accounting
+addition of import prices on the CPI?
+In other words, to what extent
+are import prices affecting the CPI and in what direction?
+MR. PRELL. Well, on net, there probably has not been a very
+great influence to date. The Japanese automobiles are one story, but
+exchange rates against other currencies haven't been adverse. So,
+overall import prices have not been rising very rapidly at all.
+In
+fact, for the first quarter, non-oil import prices are estimated to
+have declined. So I don't think to date that we've seen, overall, a
+major unfavorable impact from import prices.
+In particular areas it
+has been a factor.
+CHAIRMAN GREENSPAN.
+
+President Jordan.
+
+MR. JORDAN. In reading the Greenbook for this meeting and
+listening to your comments and then thinking back over the analysis in
+the Greenbooks over the last 8 or 9 months and the swings in sentiment
+and developments as reported in various statistical [measures], it's
+tempting to have a sense of security that we're in a sort of fail-safe
+zone:
+That in the longer term nothing much can really go wrong even
+though we get surprised in the short run. We entered the fourth
+quarter with an expectation of a quite weak quarter in nominal GDP and
+real GDP with a 3 percent funds rate. And the surprise was that it
+was a much, much stronger quarter than expected. During that quarter
+as we were looking ahead to '93, the first quarter in particular,
+there was an expectation of fairly strong nominal GDP growth and real
+output growth; the surprise was that real output growth [in the first
+quarter] was much weaker than expected. And by some measures prices
+have been much higher than expected, yet we still have a 3 percent
+funds rate. When I look at your forecast through '94 in terms of
+nominal growth, real growth, and inflation it assumes a continuation
+It is still the right number in spite of
+of the 3 percent funds rate.
+all of these developments. It seems to me--and this is where I'd like
+you to comment on the way your model works--that when we have a
+development like the first quarter and real output comes in weak and
+inflation is reported to be much higher, it's not something to be
+concerned about because it means that the real interest rate has
+fallen or the natural rate or something because of the higher
+inflation and that will take care of the weakness in real growth. But
+
+5/18/93
+
+-14-
+
+out in the future because of the slack, the gap, the NAIRU or
+something, inflation will decelerate; that will raise the real
+interest rate so that no matter what happens it's going to turn out
+that the 3 percent funds rate is the right rate.
+I'd be curious as to
+what it would take to persuade you that it's either too high or too
+[Laughter]
+low!
+MR. PRELL. I think we all recognize the dangers of pegging
+nominal interest rates.
+It is not an automatic stabilizer. And if
+the pattern has been relatively stable, it has been because of various
+offsetting factors.
+I would say that coming into the first quarter we
+initially expected growth in the high 2 percent area for the quarter
+with a lower inflation path. As things have turned out, we may yet
+approach that real forecast but the price numbers clearly have been
+unfavorable. Going forward, you are correct that--as we noted in a
+footnote in the Greenbook--in essence the higher inflation trend and
+what we would take probably to be somewhat higher short-run inflation
+expectations than we had been expecting earlier do imply a somewhat
+lower real short-term interest rate.
+The question is whether at that
+level we are providing sufficient stimulus to offset the fiscal drag
+and other drags in the system now. Or perhaps, on the other side, is
+this excessive monetary stimulus? As has been noted, we don't see it
+in terms of rapid money growth on average. We don't see it yet in
+terms of rapid nominal GDP growth. But in due course it's conceivable
+that we would see that this [policy] was excessively stimulative. Our
+sense has certainly been that as we move along there would likely be
+some tendency for the real short-term interest rate to rise. But we
+do have to recognize that at least out through 1994, if this fiscal
+program is adopted, there is going to be a very large tax increase and
+a very substantial amount of fiscal drag. So the point at which this
+becomes an unsustainable real short-term rate may not be imminent; it
+may be some time down the road. At least that's the implication of
+our analysis.
+MR. JORDAN. Can I follow-up, though, because you mentioned
+the fiscal drag.
+Isn't the argument that if the fiscal program is
+adopted, we would get a lower inflation premium and more stimulus
+coming from private investment and the household sector, even housing,
+because of lower nominal interest rates than otherwise would be the
+case? And thus the net effect of the fiscal action could be presumed
+to be not restrictive at all.
+MR. PRELL. The simple analysis might lead you to expect
+lower real interest rates. But if you believe that inflation
+expectations are based on either some primitive notion of how deficits
+cause inflation or a more sophisticated one about the risks of future
+[monetization] then, yes, we could get also some narrowing of the
+inflation premium. In either case we would have had some offset from
+the beneficial anticipatory effects of the fiscal action. We think
+those are probably already behind us, but I'm not sure.
+Back to the
+question that Bill addressed earlier, what could happen here would be
+an important, pleasant surprise that would be a big boost for the bond
+market. At this point, I think people recognize that there's a budget
+resolution out there with which they have to contend. Most likely
+[Congress] will do something that at least nominally meets those
+requirements. No one, I think, is anticipating a vastly larger or
+vastly smaller deficit reduction than is currently being discussed.
+
+5/18/93
+
+-15-
+
+MR. LINDSEY. Mike, this morning's Wall Street Journal said
+that the health care package would involve a 9 percent payroll tax for
+extending benefits--7 percent on employers and 2 percent on employees.
+Assuming this were enacted, how would we think that 7 percent tax
+would be reflected in terms of prices versus lower nominal wages?
+MR. PRELL. Well, as I should remind everyone, our
+presumption has been that even if this were legislated by sometime in
+1994 the phase-in would be long and the effects within our projection
+period would be almost solely those based on expectations. Our
+presumption would be that an increase in mandated costs relating to
+payrolls would be passed on only gradually to the workers in the form
+of lower wages and that the hit would be primarily on the price side
+in the short run.
+MR. LINDSEY. Why wouldn't that be perceived as a positive
+demand shock then?
+Because it's either higher real compensation if
+you lump workers and beneficiaries together and what you're saying is
+that profits would eat it for a while. Why wouldn't that be a
+positive boost for consumption?
+MR. PRELL. Well, that depends on whether monetary policy
+accommodates that kind of supply-side shock. Clearly, the monetary
+policy response to that, as it would be to any other jump in exogenous
+forces, is critical.
+But if this provided opportunities for much
+larger consumption of medical services to people, there presumably
+would be some offset on the demand side.
+CHAIRMAN GREENSPAN.
+
+President Syron.
+
+MR. SYRON. Mike, I have two questions about inflation.
+Being as puzzled as everyone else, I'm just wondering if there is any
+information in the cross-sectoral look at where margins have widened
+most. I'm just wondering whether that's more suggestive of this
+regulatory, protectionist argument as compared to an ability to widen
+margins because of demand. The other question is whether there is any
+information on the expectations side--looking at the relative
+deterioration of longer-term as compared to shorter-term inflation
+expectations.
+MR. PRELL. I don't think I can give you any useful sectoral
+breakdown. On your question of the long-term versus short-term
+expectations, could you repeat that one for me?
+MR. SYRON. When you look at the surveys that show a
+deterioration in expectations and try to get a handle on what is
+driving the deterioration--and I'm not that familiar with the data-I'm just asking whether the deterioration has [been much greater] in
+the longer run than in the short run and whether that would be
+consistent with the general notion of some kind of political
+deterioration, if I can call it that.
+VICE CHAIRMAN CORRIGAN.
+general?
+MR. SYRON.
+
+Yes.
+
+You're talking about expectations in
+
+5/18/93
+
+-16-
+
+MR. PRELL. Our indicators of long-run expectations are
+rather volatile from month to month and my sense is that in general
+they haven't moved much recently. They came down some earlier in the
+recovery, but recently I don't think there is a particularly
+discernible trend. The Michigan Survey has bounced around in the 5
+percent neighborhood. A survey that is a successor to the Hoey Survey
+shows a similar pattern, except that it's more in the 4 percent
+neighborhood, but I don't discern a big change there. On the shortterm side, what is notable is that we have not had any consistent
+further lowering and there's perhaps a little firming if one wants to
+read it very finely. But basically it has been a rather stable
+picture even as we got into the 3 percent CPI increase area for two
+years. That's the impression I have.
+Let me go back to Governor Lindsey's question. I suppose in
+general if people felt that they were more secure because this program
+offered them particular long-term care and some other safeguards
+against their wealth being depleted, then we could have in a sense a
+wealth effect that could be positive for consumption in the short term
+apart from the fact that the cost of medical services for some part of
+the population might have been lowered.
+CHAIRMAN GREENSPAN. Any further questions for Mike?
+would somebody like to start the roundtable?
+
+If not,
+
+MR. HOENIG. Mr. Chairman, I'll start with our District,
+which continues to show a very moderate pace of growth.
+In
+agriculture, winter wheat is in good condition and our cattle feedlot
+operations have rebounded from some winter problems. Construction has
+bounced back from the winter-related slowdown; it now has strengthened
+in all areas. In gas and oil, prices of natural gas have improved
+from year-ago levels and drilling has leveled off.
+I would point out
+that drilling has not picked up and is not expected to accelerate
+until there is more confidence in the price gains and that those
+prices will be stable. Absent that, they are very reluctant to push
+forward on any exploration or drilling. Manufacturing in our area
+remains sluggish and it is consistently operating below capacity as we
+hear from area business leaders.
+Banking has been extremely
+profitable in our region. Bank earnings are at record levels in the
+first quarter. In fact, in Oklahoma banks have reported returns on
+assets of higher than 2 percent.
+Looking ahead for the District, we think moderate growth is
+continuing. Despite some expectations that cattle prices will come
+down and wheat prices may also, we still think income in '93 will be
+at a level close to that in '92.
+In construction, there is now a
+whole pipeline of activity that bodes well for the summer in our
+region.
+In energy, although prices have risen we don't expect a lot
+of activity unless those prices remain stable [or] rise. In
+manufacturing, the possibility of a turnaround, as I've said before,
+has been set back by some continued restructuring. As an example,
+Boeing is laying off about 7,000 people in Wichita.
+At the national level, we continue to expect moderate growth
+and moderate inflation as we move through '93.
+We expect GDP growth
+of about 2-1/2 percent and inflation of just over 3 percent fourth
+quarter-over-fourth quarter. I might add that an important reason we
+scaled back our growth projection is because in talking with business
+
+5/18/93
+
+leaders around the District we heard a lot of anecdotal evidence
+[pointing in that direction].
+They are thinking about or have put
+[plans] on hold because of expectations about taxes--particularly
+Federal, but even the states are talking about very dramatic increases
+in taxes.
+So businesses are focusing now more than ever on cost
+containment and trying to get their profits up.
+I think this is one
+reason businesses are raising prices; they want to see if the higher
+prices can take hold. This has been complicated in the health care
+industry because in some sectors, like medical devices, activity has
+virtually stopped because of the anticipated health care program.
+Also impeding renewed spending is this continued effort by businesses
+that we've spoken about for some time to pay down debt and to
+consolidate their positions in an environment of increasing
+uncertainty. If I heard it once I heard it a hundred times in the
+last three weeks:
+Business people are very, very concerned about the
+environment of uncertainty, so they are trimming back or are holding
+back a little more than they would otherwise. Having said all this,
+there is still a willingness to go forward where opportunities show
+through in a strong way, as we're seeing in the western part of our
+District.
+So we pared back our projections--not quite as much as the
+Board staff--to the 2-1/2 percent level for growth. Those are my
+comments, Mr. Chairman.
+CHAIRMAN GREENSPAN.
+
+President Broaddus.
+
+MR. BROADDUS.
+The first-quarter data were quite
+disappointing and we have gotten mixed reports for the month of April
+so far in our District. But, in some contrast to Tom Hoenig's report,
+I haven't really noticed any major change in attitudes about the
+economic outlook either among our directors or most of our other
+business contacts. By and large, I think they still expect continued
+moderate growth both regionally and nationally through the forecast
+horizon.
+I personally subscribe to that view. I was a little
+surprised by the size of the downward revision to the real GDP
+forecast in the Greenbook this time.
+I'm inclined to put a little
+less weight on current fiscal developments in assessing economic
+prospects than the Greenbook. It seems to me that the loss of the $12
+billion stimulus in the President's package is not a really big deal
+in a $6 trillion economy. And while uncertainty about fiscal policy
+certainly puts a drag on the economy, it seems to me that this effect
+is very difficult to quantify. I don't have a sense that the
+uncertainty about fiscal policy is exerting any greater drag now than
+it was at the time of the March FOMC meeting. So, all in all, I still
+think that growth of real GDP in 1993 will be somewhere around 3
+percent, as forecast in the March Greenbook, rather than the 2.2
+percent that is currently projected in this month's Greenbook. And I
+believe I'm right in saying that most private forecasters are still
+somewhere around that number, although they may have revised their
+forecasts down a bit in some cases.
+For me, clearly the most relevant and most disturbing recent
+development is the uptick in the reported inflation rate. The core
+CPI rate, as I calculate it, now has risen at a 4-1/2 percent annual
+rate over the first months of the year and that really bothers me.
+I
+recognize, as everyone else does, that temporary factors may account
+for part of this; nonetheless, at a minimum the data strongly suggest
+
+5/18/93
+
+-18-
+
+that inflation is no longer coming down. So we're no longer clearly
+making progress toward our longer-term goal of restoring price
+stability and we may have regressed a bit. And as Dave Lindsey and
+others have pointed out, I think it's fair to say that inflation
+expectations have probably been revised upward at least a little since
+the beginning of the year. That's an interesting point because it
+implies that real short-term interest rates are lower than they were.
+So, in a sense we've had a de facto easing of policy as a result of
+this development in recent months, and I would hope that we would take
+some account of that in our policy discussion later in the meeting.
+CHAIRMAN GREENSPAN.
+
+President Parry.
+
+MR. PARRY. Mr. Chairman, economic conditions continue to
+vary in the Twelfth District.
+In California some evidence has
+accumulated that the economy actually may have hit bottom in recent
+months. We have seen, for example, that payroll employment is a
+little higher than it was in December; and taxable sales also appear
+to have bottomed out with increases experienced in the fourth quarter
+of 1992 and the first quarter of 1993.
+Nevertheless, we are faced
+with significant further defense cuts, state and local fiscal
+problems, and lingering weakness in commercial real estate that make
+it unlikely that the California economy is going to grow at any time
+in the next year. The Seattle area, which until recently was
+expanding briskly, has stagnated in recent months.
+I must admit that
+recent new orders for Boeing aircraft are encouraging. The economies
+of most other areas of the District continue to flourish. Utah,
+Nevada, Alaska, and Oregon are ranked in the top ten states in terms
+of employment growth between December 1992 and March 1993.
+And even
+the eastern Washington economy continues to be strong. Throughout the
+West, and this is similar to what Tom Hoenig picked up, many business
+leaders have noted to us that uncertainty about federal fiscal policy,
+particularly tax policy, is delaying investments and other major
+business decisions.
+On the issue of inflation,
+in general report
+little price pressure, but there was one anecdote that I thought was
+rather interesting.
+and he reported that they periodically conduct a price
+survey of packaged and canned goods. Now, this doesn't get into the
+problem with fresh fruits and vegetables. At the wholesale level, the
+latest survey revealed more widespread increases in the prices they
+pay for these goods than they had ever experienced before.
+The
+interesting thing is that he went on to say that he doubts that they
+will be able to pass those price increases along.
+It remains to be
+seen whether they will or not.
+Turning to the national scene, it appears at least to me that
+the changes in the Greenbook forecast since the last FOMC meeting are
+large and, I'd have to say, quite disturbing. Real GDP seems to be on
+a decidedly lower path and inflation on a discouragingly faster track.
+Our own forecast is also more pessimistic in the short run, but by
+1994 we have stronger growth than we had before and an unchanged rate
+of inflation. The change to our forecast reflects the defeat of the
+Clinton stimulus package, general concern about the extent of higher
+taxes, and slower-than-expected growth in the first quarter as well as
+the unexpected buildup of inventories. The change to the Greenbook
+forecast would appear to result from more permanent influences in
+
+5/18/93
+
+-19-
+
+addition to the factors that I noted. It would seem, if the Greenbook
+forecast proves to be correct--and that certainly is a possibility-that the policy tradeoffs are likely to be far less attractive than
+I'd earlier thought.
+CHAIRMAN GREENSPAN.
+
+President Keehn.
+
+MR. KEEHN. Mr. Chairman, economic conditions in the Chicago
+District have been somewhat uneven since the last meeting, but on
+balance I think there has been an increase in the level of activity.
+In a modest context the outlook is reasonably positive.
+Starting with
+the automotive sector:
+Based on a pretty good April, the industry's
+confidence in their forecast for sales in the second quarter and the
+full year is somewhat stronger than it has been. Despite press
+reports to the contrary, the inventory levels in their view are
+currently just about right and, therefore, second-quarter production
+schedules have been set about 10 percent over last year. And they are
+pretty confident about those production schedules.
+I must say the
+mood in Detroit is much more positive than it has been and that is
+radiating pretty much throughout the dealer organization. The truck
+business also continues to improve.
+Orders for the Class 8 units, the
+large units, were strong in the first quarter and that has continued
+into the second quarter. For the full year the industry is
+forecasting an increase in sales of the big trucks of from 17 to 18
+percent. Also, and something of a change, there has been a recent
+increase in the medium truck category, the Class 5 to 7 units, and for
+the full year they are now forecasting an increase in sales of some 13
+percent for those. Medium truck sales are viewed as something of a
+lagging indicator and, therefore, this turn, which generally occurs
+about 6 months after the change in the heavy truck category, is viewed
+as a good sign. But despite the strength in the underlying auto sales
+rate, I must say that truck prices really have not been increased.
+The steel business continues to do well and is benefiting
+particularly from the improved level [of activity] in the auto
+industry. The current order rate for one major company, which they
+expect [to continue] for the full second quarter, is coming in at
+about 110 percent of capacity. This is down from the first quarter
+but still pretty strong. Some of the order rate they [feel] is due to
+the current labor negotiations; nonetheless, the underlying demand is
+pretty good. And based on this they are now forecasting shipments
+this year of some 87 million tons, which comparatively is an awfully
+good year. We've talked about the steel price increases at previous
+meetings and again earlier today. There is, as you know, another
+increase scheduled for July. They would expect that to stick. But I
+do think it's important to remember that these increases do not apply
+to the major purchasers who are buying the steel on contract. Those
+prices are still very, very tight, and it's particularly true of the
+auto industry. But for others who are not buying on contract, when
+we're all done here this increase is going to amount to about 12
+percent.
+In the agricultural equipment business, sales of tractors and
+combines have been higher most recently and production schedules,
+therefore, have been increased. The large manufacturer that I talked
+to expects their production for the full year to be about 9 percent
+higher than last year. Also, there has been a recent increase in
+construction equipment; it has been slow to get off the mark but some
+
+-20-
+
+5/18/93
+
+of those orders are beginning to pick up. One very major manufacturer
+is now selling a number of its product lines on back order.
+Retail sales are uneven and this, I think, is heavily driven
+by the terrible weather that we had in March and April. As for car
+[sales], retailers tell me that their sales this year are up about 5
+to 6 percent from last year.
+In the ag sector, as you know, we had a
+very wet spring and planting, therefore, has been terribly slow. But
+conditions looked pretty good last week and they got a lot done; that
+is true I will say with the exception of Iowa, which is still very
+wet.
+But they're still well behind and for the major states planting
+is at about 40 percent of the normal level. Nonetheless, there's
+enough time left and most people expect that there is a good
+opportunity to get a good crop. Perhaps one of the most significant
+changes, at least to me, has been a decided change in the attitude
+about lending by banks. People tell me, both borrowers and banks
+alike, that banks have become more aggressive. They are now actively
+seeking loans and are pretty much out looking for business; they have
+begun to shave rates, but I am assured that they have not begun to
+ease their credit standards.
+In a national context, while the improved level of activity
+may relieve some of the concerns I've had about the sustainability of
+this expansion, I still think the big imponderable is on the
+employment side. Major companies--and I must say everyone I have
+talked to in the manufacturing sector--say they will continue to
+reduce their employment and will produce more products with fewer
+people. At some point it does seem to me that the lines between
+overtime and an increase in demand will cross, but so far they just
+are not yielding. And almost surprisingly, some of the unions don't
+want the companies to hire more people either. But despite this
+improved tone both in the District as well as in the national economy,
+it does seem to me that at best we are talking about a pretty modest
+recovery. If you look at the staff forecast, which is largely in line
+with ours, the outlook continues to be positive but in a very, very
+modest context.
+On the price front, in talking to people I just don't sense
+the upward pressures that the recent numbers might suggest. Yes,
+there are some exceptions, such as steel, and for the reasons that we
+talked about; but there are some offsets.
+Raw aluminum prices, for
+example, are at the lowest real level in history. Labor contracts
+continue to be settled on favorable terms that are, I think, very much
+noninflationary. For example, the steel contract is a long way from
+settlement, but so far the thrust of the discussions has been entirely
+in the work rule area and productivity. Companies want to improve
+work rules to achieve more productivity and they are willing to give a
+little in terms of employment security. On the economic side the
+discussions really are focused on pensions, not on wages. Therefore,
+the steel industry hopes that they will come out of this [negotiation]
+without an inflationary settlement. So, although the recent numbers
+are a little unnerving, I do think it's far too soon to conclude that
+we are experiencing a basic shift in the outlook for prices. Thank
+you.
+CHAIRMAN GREENSPAN.
+
+President McTeer.
+
+5/18/93
+
+MR. MCTEER.
+In case some of you missed it, I'm pleased to
+report some good news from south of the border. The government of
+Mexico has submitted a constitutional amendment to give independence
+to the central bank, the Bank of Mexico, and to make price stability
+its overriding objective. The way they worded it was that the main
+mandate of the Bank of Mexico over any other objective will be to
+preserve the purchasing power of the national currency.
+In the Eleventh District we've seen some modest weakening in
+the numbers and some deterioration in the tone of the anecdotal
+information. It's somewhat more negative, primarily surrounding
+uncertainty over the future. Projects are being put on hold because
+people are waiting to see what the tax situation is going to be and
+[what happens regarding] certain government spending situations and
+also health care reform. And probably somewhat unique to our area, we
+also have some slowdown related to the diminished prospects for the
+passage of NAFTA.
+On the national economy, I really don't have any helpful
+insights to offer. I don't understand this recent split in the
+economy with the real sector seeming to turn down and inflation
+seeming to pick up at the same time.
+It's a mystery to me. On the
+nontraditional source of the inflation, however, and not being able to
+find the pulse of money and credit growth, it's probably because we're
+still trying to find that pulse on the balance sheet of banks. When
+we talk about the money numbers and what's going on, I think it's
+fairly clear that there is liquidity out there and there is money out
+there; it's just not where we used to measure it.
+I think we haven't
+quite made the adjustment when we're talking about inflation to
+realize that it's probably there in that context as well. That's all.
+CHAIRMAN GREENSPAN.
+
+President Forrestal.
+
+FORRESTAL. Mr. Chairman, things are looking fairly good in
+the Sixth Federal Reserve District. Economic activity in the area has
+continued to expand in the early months of this year. And perhaps
+more significantly, the expansion is now fairly broad-based since it
+has spread to several industries that previously had been lagging,
+namely financial services, communications, and manufacturing. As the
+expansion has become more widespread, a number of long-standing fiscal
+problems of the states in terms of their financing have begun to ease,
+and I think that will have implications as the federal fiscal policy
+emerges.
+The manufacturing industry has benefited from fairly good
+activity in single-family housing and the continued surge in activity
+due to hurricane rebuilding in south Florida. The auto assembly
+plants in the District, especially the Saturn and the Nissan plants in
+Tennessee, are operating at very high capacity. And this jump in
+manufacturing activity in the first quarter has led to considerable
+job growth in the District. In fact, the Southeast accounted for over
+half of net manufacturing jobs added to payrolls for the nation in the
+first quarter. Even the depressed extraction industry in Louisiana
+has turned around and, as natural gas prices have increased, activity
+off the Louisiana shore has risen to levels we haven't seen since
+1985. The generally good performance around the District is dominated
+by Georgia and Florida, where sales tax receipts have been very
+strong; but other states have seen improvements as well. As I've
+indicated, even Louisiana is beginning to emerge from the doldrums.
+So, [the improvement] is not only broad-based in terms of economic
+
+-22-
+
+5/18/93
+
+sectors but geographically as well. Now, this better performance than
+the nation may not continue very long because the activity due to the
+hurricane rebuilding will begin to slow.
+The one serious negative note that I've picked up--and it has
+been referred to before--is the uncertainty about the fiscal and
+political situation. Tom Hoenig heard it 100 times; I think I heard
+it 110 times in the last three or four weeks.
+It's ambivalent in the
+sense that the business people in the Southeast, as reflected in my
+report, are fairly optimistic about their own businesses and what
+might be emerging in the economy. Or to put it another way, they're
+not unduly upset about the first-quarter numbers. But this
+uncertainty about the fiscal situation may very well begin to be
+reflected in business investment and employment plans for the rest of
+the year. Business people are telling me constantly that they're not
+able to begin to do their business planning because of the fiscal
+situation and the health care problem.
+In spite of the good economic activity and in spite of the
+inflation numbers that have been reported, I don't hear anybody
+talking about price increases at all.
+They're not seeing them at the
+wholesale level and to the extent that any of them have tried to pass
+any prices increases through--the minimal increases that have
+occurred--they are not able to make them stick. At the same time
+there are no wage pressures at all that I can tell.
+The credit situation seems to be improving. Banks are
+reporting higher loan demand, particularly in the consumer sector, but
+they also are seeing better demand in the commercial area.
+Looking at the national situation, our forecast shows a
+continuation of the moderate rate of expansion that we've had over the
+last year. Like many others we've revised our forecast down, based on
+the first quarter primarily, and we're looking at growth in real GDP
+of about 2-3/4 percent for this year, which is about 1/2 percentage
+point lower than our previous forecast. Overall, it seems to me that
+the outlook, despite that reduction, is pretty much the same--with the
+continued working off of imbalances and the slow employment growth
+that we've referred to before. We see the economy as somewhat
+stronger than the Greenbook and this divergence continues after the
+second half of the year. The difference for the most part is in the
+area of consumption expenditures, where we see more strength; and we
+see more inflation notwithstanding slow employment growth. I wouldn't
+want to over-emphasize these differences, however. I think our
+general path is fairly consistent with that of the Greenbook. I
+certainly don't have any insights into the inflation numbers. I'm
+Thank you.
+perplexed, as I guess most other people are.
+CHAIRMAN GREENSPAN.
+
+President Stern.
+
+MR. STERN. The economy of the District continues to improve.
+There are some signs of life now in nonresidential construction. A
+lot of it is public construction, but it looks like that sector is
+poised for a pretty good year in many parts of the District. Consumer
+spending appears to be continuing to grow and business out at the Mega
+Mall has held up very well.
+In agriculture, the livestock business is
+very healthy and very strong. With regard to crops, there is the
+concern about moisture but, of course, it's always either too dry or
+
+5/18/93
+
+-23-
+
+too wet. This year apparently it's too wet but I have a hunch they'll
+still [be able to plant] most or all of their crop. There are also
+some renewed signs of life in the energy business. Exploration and
+leasing activity in western North Dakota and eastern Montana are
+starting to show some signs of life, and iron mining activity in
+northern Minnesota is expected to pick up as a consequence of the
+improvement we're seeing in the domestic steel industry.
+The one thing I might comment a little further on is what's
+happening to employment.
+It's something that, of course, shows up in
+the data, so I think we're aware of it.
+But I've heard a couple of
+comments lately that have put this very directly. Employment is up in
+the District. And yet if we talk to business people, they say they're
+clearly trying to do more--or at least the same--with less when it
+comes to employment. Part of that has to do with fringe benefit
+Part of
+costs, such as workers comp and insurance and health care.
+it, I think, is expectations in that businesses that used to think
+they were going to make at least some of their higher incomes over
+time through expansion are revising down their expansion plans. That
+has to do in part with environmental restrictions and other
+regulations.
+I think they're concluding that the way to improve
+profitability is through very tight cost containment, and they seem to
+be succeeding. And that has affected employment, certainly in the
+District, and perhaps nationwide as well.
+With regard to the outlook for the national economy, my
+principal concern, as many have commented, is the inflation situation.
+I am not as sanguine as the Greenbook that inflation is going to
+decelerate from here. I certainly agree that a lot of the
+fundamentals we typically look at--slack in the economy, money and
+credit growth, and so on and so forth--don't seem to suggest an
+environment where inflation ought to be accelerating. In fact, they
+suggest an environment where further deceleration is likely. Yet I
+remember from the 1970s that we're always pretty good at explaining
+away inflation but those [situations] don't seem to have happy
+endings. So, I'm very uncomfortable with what we're seeing and I'm
+not convinced that what is going on now is simply temporary and will
+self-correct.
+CHAIRMAN GREENSPAN.
+
+President Boehne.
+
+MR. BOEHNE. Most of the business people I talk to feel
+deprived in terms of price increases. They feel they are owed price
+hikes if only they could make them stick. If you look at it from an
+individual business person's point of view, their sales growth for the
+most part has been slow, competition has been tough, they have cut
+costs and lowered their break-even point, and they still feel very
+squeezed. So it's not surprising that they would jump at whatever
+opportunity they can to raise prices, whether it's a streak of good
+orders or a weaker dollar and foreign competition that isn't quite as
+tough or an attempt to get ahead of the regulatory or tax changes.
+It's not surprising that that is happening and that that's the way
+they feel. The question is whether it is broadly sustainable or
+cumulative, and I don't think any of us really knows. But my hunch is
+that it's not, given the generally sluggish economy, the underlying
+competitive situation, plus what is going on in money and credit.
+
+-24-
+
+5/18/93
+
+Looking at the District economy, growth is very modest, very
+modest indeed. Retail sales are going up negligibly. Industrial
+production, while still advancing, seems to be advancing at a
+decreasing rate. We have sluggish loan demand, or flat loan demand
+really, and slow job growth. And, as has been mentioned almost by
+everybody, there is slipping confidence and building anxiety in
+national leadership and all the uncertainty about taxes. Every day in
+the paper some other tax that might [be enacted] is mentioned, and
+that has really pulled the rug out from any kind of increases in
+spending. There is just a strong desire to hold tight and steady and
+to put on hold everything that one can.
+My sense on the national economy is that, yes, we are going
+to get somewhat more inflation than we thought earlier this year. And
+I think we're going to get somewhat less growth. But my basic
+conclusion is that at this point it's more a matter of degree rather
+than a fundamental shift.
+CHAIRMAN GREENSPAN.
+
+President Syron.
+
+MR. SYRON. Thank you, Mr. Chairman. As far as the District
+goes, the situation remains mixed. I'd say it's soft, but not
+collapsing, and to some extent the overall tone is almost improved.
+In the job market, employment isn't increasing but it's stabilizing;
+hours are up. Hiring of temporary help is up a good bit, along with
+all you've heard. We are still having major layoffs, though, in some
+areas and an overall softness in the employment market.
+In retailing,
+like everywhere else, the weather impact was particularly severe.
+Some bounceback from that occurred but there was some renewed
+softening more recently in retail sales.
+The same weather pattern
+holds for autos, but auto sales have been making up their losses and
+remain quite strong. Housing activity, particularly at the lower end
+of the market, is quite strong, with prices actually rising at that
+lower end for houses selling for less than $150,000.
+The rest of the
+market is still fairly soft. The commercial real estate market is
+flattening with vacancies stabilizing but values are still quite soft.
+If you want another worry to add to all of this, you can talk
+to people in the financial services industry, particularly the mutual
+funds. They continue to have very, very strong inflows into bond
+funds, junk bond funds, and other [investments].
+Everyone takes the
+money, but at the same time they express continued concern about the
+sophistication of the investors, particularly that in a lot of cases
+people are not really aware that they can lose some capital in those
+bond funds.
+Also, a lot of concern is being expressed about how clear
+people are when they buy these funds in banks that the value of these
+instruments is variable, not just the yield.
+As far as manufacturing goes, the situation is mixed.
+Anything tied to autos is doing all right; the same is true of
+environmental [firms].
+But in defense we see more and more of a
+slide; it's continuously softer. Like everyone else, we hear
+continuous complaints about uncertainty and what is going to happen.
+I had some people in the other morning and one fellow said his company
+was not going to do anything they don't have to do and that every CEO
+he knows is absolutely frozen until he can see where things are going.
+
+-25-
+
+5/18/93
+
+Unfortunately, as far as the national economy goes, I'm
+pretty much in agreement with the tone of the Greenbook that--excuse
+the colloquialism--it's just a plain lousy situation that we have
+here. Like everyone else, I'm very disappointed about the price
+situation. If it was just one month it would be one thing, but it has
+been longer than that now. I really can't understand what is going
+on; I find it hard to believe that the fundamentals don't have
+something to do with this in the longer run. And, if anything, the
+economy right now seems softer than six weeks ago at the time of the
+last FOMC meeting, [based on] retail sales control, [initial] claims,
+and industrial production. But having said all that, I don't have a
+whole lot of conviction. There is an enormous amount of uncertainty;
+and to some extent it seems with these concerns about taxes and other
+things that [people] are almost trying to jawbone the economy down,
+not in a purposeful sense but in the "if" effect it is having. And in
+that environment, it's hard to have very strong convictions about the
+intermediate-term [outlook for] either output or prices.
+CHAIRMAN GREENSPAN.
+
+Governor Lindsey.
+
+MR. LINDSEY. Mr. Chairman, I have one disagreement with the
+Greenbook. The Greenbook implicitly has a reduction in inflation from
+a 4.6 percent rate over the first four months to 2.6 percent in the
+next eight months in order to get to the new higher inflation
+forecast. Again, I respect the talents of the people involved, but
+that seems like an awfully steep deceleration of inflation in order to
+I think the
+get to the new [forecast of] 3.3 percent for the year.
+reason that we've had the higher inflation was well argued by you, Mr.
+Chairman. It is expectations-based. You ran through a better list
+than I could:
+mandated benefits, strike replacement, calls for a
+higher minimum wage, re-hiring of workers; that's for labor. For
+management, there's protectionism, protectionism, and protectionism
+along with loan guarantees for our failing industries such as
+airlines. So, no matter whose side you're on, labor or management,
+there is Uncle Sam to stand behind you.
+You asked for another reason why inflation might be there.
+I'm going to give it to you.
+I don't mean to say that this is a
+dominant reason. It's not one that people in this room are familiar
+with. It goes back to the redistribution of income literature.
+I
+doubt many people in this room are readers of "Nation" or "American
+Prospect."
+I would hope not anyway. I read this literature some
+years ago as part of my research for my doctoral dissertation. You
+can also look up Ira Magaziner's writings on this.
+The most unspoken
+part of the health care plan is its redistribution elements. Right
+now, effectively, health care is a lump sum tax. It's $4,000 per
+worker on the payroll, paid over to the health insurance company.
+What is going to change, and the only question is to what degree, is
+that it is now going to become what is effectively a proportional tax;
+it's payroll based. Those are very different because income is
+distributed [unevenly].
+Now, when we are talking about a shift of 14
+percent of GDP in the income among various quintiles, that will dwarf
+whatever Reagan has accomplished by a big factor, and in reverse.
+There is a good reason to believe--in fact I can argue four
+reasons--that at least in the intermediate term such a redistribution
+is likely to be inflationary. The first comes from the higher tax on
+the wealthy. Now, in the short run at least, we would expect some of
+
+-26-
+
+5/18/93
+
+that higher tax to come out of savings. That might not be true in the
+longer run; but certainly in the short run the part from the higher
+taxed people will come out of savings. On the other hand, for the
+lower taxed people it's more likely to augment consumption. So on the
+demand side the redistribution effect of the burden of health care
+costs is liable to increase demand via increased consumption. On the
+supply side there are also two reasons to suspect inflation. The
+first is the "classic" supply side argument that when you move from a
+lump sum tax to a proportional tax what you're going to get is less
+output. And if you think about both the substitution effects and the
+income effects, they're both going in the same direction. I'd assume
+that with, God forbid, another 9 percent payroll tax, the typical
+worker will be pushing 50 percent as a marginal rate. And people in
+this room will probably be at around the 65 percent area for the
+marginal rate. That is a whopping substitution effect. On the income
+effect side, if you no longer have to work to service a $4,000 bill,
+you will get less work on the other end as well. The other supply
+side reason why an intentional redistribution is liable to be
+inflationary has to do with the Keynesian argument about nominal wages
+being sticky. Effectively, a low cost worker for whom [a firm is] now
+paying $4,000 in health care is entitled to a raise. And the unions
+representing that individual certainly will make that point. So, I
+think nominal wages will rise at the lower end. Indeed, it will
+reverse probably two decades of declines in real wages at the lower
+end. On the other hand, for those who are taxed more--who will cost
+management more to hire--[firms] actually would have to force a
+decline in the nominal wage of those people. That would involve, say,
+middle management on up. In a 7 or 8 percent inflation environment
+that would be easy. You'd simply hold nominal wage increases down.
+In a 3 percent inflation environment, you're not going to have nominal
+wage cuts.
+So, what you're going to have is a bit of a wage/price
+spiral, with rising wages for workers and insufficiently falling real
+wages for management.
+So, for all four of those reasons--again, one
+can go back in the literature even from the '20s about redistribution
+and its effect on inflation--it all adds up. Now, I'm not saying
+that's what is causing it.
+But we all know the health care story is
+on our minds and it might be one reason at least to explain why,
+[given] the supply shock, the higher [inflation] expectations might
+actually turn out to be rational.
+CHAIRMAN GREENSPAN.
+
+President Melzer.
+
+MR. MELZER. First of all in terms of the District, the
+unemployment numbers I'm going to report are really the best numbers
+I've seen in a good while. We had payroll employment growth in the
+most recent three-month period, which would be through March, up 3.8
+percent in the District. Another notable change [is that] we've been
+getting marginal growth in employment. And certainly the St. Louis
+District in general has done better than the nation through the
+recession. Another shift has been that we're getting more of the
+growth through manufacturing. That was actually up 4.8 percent, with
+particular strength in electrical equipment and transportation
+equipment; it was up somewhat less in nonmanufacturing, 3-1/2 percent.
+And there is considerable strength in construction. It's somewhat
+stronger in residential in terms of contracts and significantly
+stronger in nonresidential for that most recent three-month period.
+Notwithstanding that, as I talk to people around the District, I don't
+get the sense--in terms of the tone of comments--that people think
+
+5/18/93
+
+we're in any kind of a boom. And I'm hearing the same concerns others
+have expressed regarding uncertainty about fiscal policy and other
+government policies.
+With respect to the national picture, in thinking back to the
+second half of last year when real growth came in at around 4 percent,
+I'm struck by the fact--just thinking about where we are now and where
+we thought we were then--that the economy is fundamentally in a lot
+better shape now than it was then. We are getting some job growth now
+which we weren't getting then. There were considerable uncertainties
+at that time and, indeed, there are uncertainties now. But in some
+ways they were even greater at that time. The whole financial
+restructuring process has proceeded further. I think one has to
+assume that we're in better shape in that sense. And the anecdotal
+reports we've heard around the table today in general are better. As
+Mike Prell acknowledges in the Greenbook, there is a possibility of
+the first-quarter GDP being revised up. But I think it's a little
+dangerous to put too much stock in one quarter's GDP numbers. We
+could actually be surprised in retrospect in terms of how well things
+are going now.
+As some others have mentioned, notably Al Broaddus and Gary
+Stern, my principal concern is on the inflation side. I, too, am
+skeptical as to whether or not we will resume the disinflationary
+trend we seemed to be on. And I think the experience of the first
+four months of this year has definitely had an impact in terms of
+expectations. In terms of why that could be, it seems to me there is
+an explanation relating to money and credit, though not one we in this
+room generally put a lot of stock in. We had M1 growth over the last
+two years through the first quarter at double-digit rates.
+I guess
+I'm not prepared to try to translate that into what it may mean
+exactly in terms of real growth and prices, but I view that as a very
+substantial monetary impetus. As that growth slowed very dramatically
+in the first quarter it gave me some comfort that perhaps the general
+thrust of policy had shifted somewhat. But what I'm seeing as far as
+Again, this is only a
+M1 projections looking forward [concerns me].
+month or two, but for May we're talking about a possible 25 percent
+annual growth rate in M1.
+It may be that what I perceived as a
+significant sea change in the thrust of the growth in that aggregate
+in the first quarter of this year was really only a temporary pause
+and that we're still on a very strong upward trend in terms of
+monetary thrust. We're probably not compelled to act now, but if
+these inflation expectations become embedded and the first-quarter
+[inflation rate] turns out stronger than people perhaps think it is
+now and if real growth is stronger, it's just going to be harder to
+catch up later. So, my principal concern relates to developments
+we've seen in the wage and price climate.
+CHAIRMAN GREENSPAN.
+
+Governor LaWare.
+
+MR. LAWARE. Mr. Chairman, I find the recent indicators of a
+possible intensification or rekindling of inflation very disturbing in
+the context of our stated objective of price stability, which I
+believe is the proper objective for this institution. The question,
+it seems to me, is whether this is the time to take the punch bowl
+away before everyone but the host gets drunk and the party gets rowdy.
+The timing of any tightening of policy is critical. It must be early
+enough to stop inflation before it gains momentum but it must also be
+
+5/18/93
+
+-28-
+
+late enough to be based on reality and not just intuition.
+In the
+current situation it is hard to make a substantive case, in my
+opinion, that a real inflationary trend is under way rather than the
+effect of simultaneous aberrant one-time influences.
+By contrast, I
+believe that a case can be made that the apparent slowdown in growth
+is a result of collapsing confidence on the part of both consumers and
+businesses in the extremely uncertain environment created by record
+high proposed tax increases, large proposed [defense] cutbacks, and
+fundamental change in a health care system that was basically
+established in our culture more than 30 years ago. Consumers and
+businesses continue to be more interested in debt reduction than in
+re-leveraging with long-term commitments.
+It can't have escaped any
+reasonably intelligent observer that the economic proposals that are
+before the Congress right now are essentially contractive. A
+premature move to tighten policy against that background could be
+disastrous to economic growth and could run the risk of reigniting
+enthusiasm for fiscal stimulus rather than deficit reduction and
+budget discipline. In that scenario the inflation fat would really be
+It seems to me that this is the time to hold to
+in the fire again.
+our present course at least long enough to have a better idea of what
+Congress will do with the President's proposals and what the effect
+will be on economic growth.
+CHAIRMAN GREENSPAN.
+
+Governor Kelley.
+
+MR. KELLEY. Mr. Chairman, with the emergence of the most
+recent data, it seems to me that we now have before us about the
+widest spectrum of fundamentally conflicting possibilities that I can
+remember. I have attempted to make a bit of an inventory of what
+those possibilities are and what some of their implications might be,
+If we were to make a straightjust to help my own thinking along.
+line projection [based on] the most recent data, we'd wind up with
+stagflation, which obviously would be a very serious situation. But
+there are a number of other possibilities and each carries a different
+set of implications.
+In the area of real economic activity, I think
+there may be two basically credible paths we could find ourselves on.
+The first is that the first-quarter data are signalling an emerging
+decline--that things are indeed beginning to go back downhill and that
+we might even be looking at the possibility of a new recession down
+the way. That's possible but it seems to me highly unlikely. We have
+a good bit of momentum going; jobs are being formed net of all the
+restructuring that's going on; new claims are flat; the credit crunch
+is easing; the consumer is returning; our competitiveness is improving
+through productivity, which is the good way, and through a somewhat
+softer dollar in some cases, which may not be so good a way.
+Nevertheless, competitiveness is [improving].
+So, I would doubt that
+what we're looking at is a fundamentally weaker economy that is going
+downhill.
+But if that is what emerges, then we're going to have to
+reverse a lot of the thinking we've been doing.
+What seems to me much more likely is that we've been looking
+at some type of a blip in the rather moderate upturn that we've had
+for eight quarters now. I noticed that of the eight quarters we've
+had in succession that have been basically positive, four have been
+lower than the previous quarter, which is rather interesting. So, it
+seems likely that we're looking at a blip. And the question is what's
+going to happen after that blip.
+
+5/18/93
+
+-29-
+
+The first question, obviously, is:
+When is the blip going to
+be over?
+It may last a little longer; it may still be going on. But
+is the Greenbook basically correct? Are we looking at an extended
+period of slow or sluggish growth?
+Is it going to be somewhat
+stronger than that, maybe a good deal stronger than that?
+Each of
+these [scenarios], it seems to me, takes us in a different direction.
+But regardless of which one begins to emerge, there doesn't seem to be
+any compelling impetus in real economic activity that we can see [as
+cause] for concern right this minute.
+I think there will be time to
+have this very murky situation begin to [clarify].
+In the area of inflation there may be three possible
+scenarios working here. The first one--which I think all of us hope
+is the case and which has a fair probability in my mind--would be that
+the things we've been seeing the last several months are indeed
+aberrations and that the disinflationary process that we've had is
+still more or less in place. I hope that's the case. It seems
+unlikely to me that we're in an incipient rising new [inflation]
+trend, that the game is over and [inflation is] on the way back up.
+Now, we've been talking about that all morning. And a number of
+possible explanations that would lead one in that direction are out
+there. That may turn out to be what is happening, but it's very
+difficult for me to see how that can be, given the fundamentals of the
+slack in the economy. In my mind the highest probability would be
+that we're looking at some rough bottoming out process in here, and
+that may be the toughest of all to deal with. If we are looking at a
+rough bottoming out process with the kind of economy that we have now,
+it would really be disappointing to still have 3-1/2 percent or so on
+the CPI.
+And what should be done about it? When we think about what
+should be done about that, if that's the case, we have to have a
+context or a view of what is happening in the real economy. If we're
+going to have an economy that will start to accelerate soon and
+strongly, then it's fairly clear what we'll need to do as soon as that
+becomes apparent. If the first quarter is the start of a new decline,
+then we have some very fundamental economic problems that I'm not sure
+I understand, and maybe nobody understands. What in the world would
+be going on that would lead us to this kind of configuration?
+If we
+have the Greenbook's economy, continuing sluggish growth, that gives
+us a nice philosophical policy question to answer. Do we try to
+restrain this kind of economy in order to push inflation lower?
+If we
+did, would it work?
+Or as you suggest, Mr. Chairman, are we perhaps
+looking at some other kinds of problems that appropriately would
+It seems to me that this is the type of
+require some other answers.
+question that we're going to need to address in the next part of the
+meeting.
+CHAIRMAN GREENSPAN.
+
+President Jordan.
+
+MR. JORDAN. As things started to thaw out in my part of the
+country after our last meeting, it seemed like a good time to do a
+great deal of traveling throughout the District in large and small
+communities to hear what people had to say. I found it an
+increasingly depressing experience as the weeks wore on. Had I just
+stayed at home I could have given you a much better report because the
+numbers really are not bad. But the mood is totally sour.
+Our agricultural sector is in good shape. Planting got off
+to a slow start, but it did dry out and by the beginning of May
+
+5/18/93
+
+-30-
+
+[farmers] were closing the gap on getting the planting accomplished.
+As of last week they said they were very close to finishing their
+seasonal planting. Farm equipment sales--implements of all types--are
+the strongest in years but that doesn't seem to be driven as much by
+confidence as by fear [that induces people] to go ahead and get it
+done. Land prices are up sharply, 10 to 20 percent for agriculture.
+There is talk of prices up to $1900 an acre, which cannot be sustained
+by current [crop] prices.
+Manufacturing is in good shape if one looks at the numbers;
+new orders and backlogs are quite good. The metals are strong; auto
+parts suppliers are in good shape and are taking market share away
+from imports, especially by selling to the transplant firms but also
+to the domestic producers.
+Capital goods also are strong both on
+domestic sales and [exports]; they feel they are able to take market
+share back from where they dropped before. A telecommunications
+equipment firm also reports very good sales, with good export sales to
+Latin America in particular. Coal production is down 13 percent in
+the first quarter but [our contacts] don't know whether that was
+I spent some time touring these coalweather-related or not.
+producing areas and mostly they're in a shrinking mode; their strategy
+is a gradual longer-term exit, with a decline in capacity that is
+planned.
+Employment wasn't too bad in the District, but there is no
+sentiment to increase employment.
+The areas where we had been getting
+some increases, especially health care, are totally frozen. Staff
+levels are "replacement only" in major communities for health care.
+One large hospital group said that it had cancelled all openings for
+doctors and has no plans to fill the openings it previously had
+listed.
+Nothing is going on in commercial construction in the
+District, but in industrial construction there is replacement of
+capacity. No expansion is planned, but [firms] will build where they
+need a facility to replace something that is obsolete. The
+residential sector is pretty strong, both in sales and in
+construction.
+When I starting hearing about business loan demand picking up
+at banks, that seemed to be an element of encouragement. But I was
+quickly dissuaded from that by bankers who said:
+"No, it's people
+coming in whom we haven't seen in a long time saying that times are
+going to get tough so they had better get friendly with their banker
+and [arrange] lines of credit because they are going to need them
+somewhere along the line."
+On prices, the two types of firms that are able to get price
+increases are those related to capital goods or motor vehicle
+companies that are experiencing demand. But the others are those that
+are shrinking [production]; they feel they're "right sizing" their
+operations.
+So, it's really a shift of supply and a shrinking of
+their overall capacity. Some of that is defense or aerospace-related
+and some is in electronics.
+When I think about the national situation, I still cannot
+persuade myself that we've entered a period of accelerating inflation
+[and that] the erosion of the purchasing power of the dollar is
+
+-31-
+
+5/18/93
+
+worsening.
+[But] I don't know a single person outside this room who
+agrees with [me on] that.
+I've heard over and over again talk about
+inflation, whether people relate it to the deficit or overall fiscal
+policy or health care concerns. To me health care can raise costs and
+redistribute [income], but I try to persuade people that it doesn't
+mean a sustained erosion in purchasing power and money. And people
+tend to snicker at me; I have zero credibility. My own daughter was
+telling me why she was buying a town house at a fixed-rate mortgage in
+southern California and I was trying to explain some things about
+southern California's economy. She said I was being totally naive.
+I
+explained that I'm a central banker and it's important that I talk
+about price stability and controlling inflation. She said it was time
+I had a reality check!
+[Laughter]
+She said:
+"Why do you think
+inflation is not going up? You're just wrong."
+And I found this same
+sentiment among bankers and people in small and large businesses.
+They have persuaded themselves that inflation is going up and there's
+not anything anybody can do about it.
+So, even though I felt relieved
+by the March numbers coming in much better than those for January and
+February and I thought we were okay--and I still have some
+reservations about how reliable the April numbers are--I don't think
+that's the issue. The issue is not whether we really have inflation;
+I think we have inflation psychology. We have people acting on the
+belief that future inflation will be higher. That's what we have to
+address no matter what the statistics show.
+CHAIRMAN GREENSPAN.
+
+Governor Angell.
+
+MR. ANGELL. Jerry, your comments are very much along the
+lines of my thinking. I learned to fly an airplane very early in my
+life; I had a father who was my flight instructor who taught himself
+back in 1931.
+He spent his life teaching me that the best way to be a
+general aviation pilot is to find out what mistakes people make. And
+even though I don't fly very much, I do read very regularly about
+airplane accidents to find out what mistakes pilots make. And it's
+interesting to me that the major mistake that amateur pilots make is
+that they get in bad weather and they don't feel the gauges are right.
+Somehow or other they think the gauges are wrong. It feels as if the
+airplane is doing this and the gauges tell them the airplane is doing
+something else. We're at the place, in the murky weather, where the
+old monetary aggregates don't give us much help. In this environment,
+we have to look at the gauges; we have to look at the instruments.
+And the instruments tell us that inflation is rising. Clearly,
+inflation is not going to go down to the 2-1/2 to 2 percent level that
+I thought was doable as recently as one year ago.
+I think the
+Chairman is correct when he says that it's not a question of money or
+credit that explains this phenomenon. Clearly, as others have said,
+it is an attitude question. Now, in December I made some comments
+about a 200 basis point increase in the fed funds rate and, Mr.
+Chairman, you [went further] when you said that 300 or 400 basis
+points really wouldn't work to change the attitudes. Well, I guess I
+don't quite agree with that.
+CHAIRMAN GREENSPAN. I didn't say it wouldn't change the
+attitudes; I said it wouldn't change the-MR. ANGELL.
+
+The result.
+
+CHAIRMAN GREENSPAN.
+
+--the result.
+
+5/18/93
+
+I don't think
+MR. ANGELL.
+Here's what I think would happen.
+we should increase interest rates by 300 basis points but, if we did,
+I'm quite certain the price of gold would immediately begin a [sharp],
+quick [drop].
+It would happen so fast you'd just have to go and watch
+it on the screen. If we made a 100 basis point increase in the fed
+funds rate, the price of gold surely would turn back down unless the
+situation is worse than I anticipate.
+If we made a 50 basis point
+increase in the fed funds rate, I don't know what would happen to the
+price of gold but I'd sure like to find out!
+[Laughter]
+Now, I want
+to remind you that monetary policy cannot do anything about growth
+except harm it. Monetary policy can't fix growth; monetary policy can
+only harm growth; monetary policy can only cause growth to be worse.
+I agree that there are some attitude problems out there and some
+significantly held belief by the American people and foreigners that
+the U.S. government budget deficit is out of control.
+And they
+believe that because it's out of control the Federal Reserve will not
+be able to stand firm. They believe that we'll have to give in and
+that we will have to inflate our way out of this problem. Now, I
+don't believe that. But the American people do believe that,
+including, I think, your daughter, Jerry. Maybe she doesn't even
+understand that; she just knows that inflation is going up.
+We cannot make growth better in the period immediately ahead.
+We just can't do that. Now, when I look at the first-quarter numbers
+in the Greenbook, nominal GDP was 5.2 percent. Mike tells us that if
+the trade numbers come in [as projected], if real GDP goes up, then
+nominal GDP may go up also. Now, we only had two quarters of the
+eight in the current expansion when that 5.2 percent was exceeded; one
+was 6.2 percent and one was 7.1 percent. Of the eight quarters, the
+5.2 percent is [the third highest] and everybody is sitting around
+wringing their hands about what kind of growth we're [experiencing].
+Pardon me, but every time I look at GDP quarterly data I see
+variations quarter to quarter. I don't know what is going to happen
+right now, but monetary policy can't fix it. Monetary policy can harm
+it.
+Monetary policy is about credibility; inflation is about
+credibility. Now, if the American people believe that we are not
+going to act, then this phenomenon of inflation attitudes we have will
+get worse; if attitudes get worse, that means the tradeoff gets worse.
+We can fix the attitudes about the Federal Reserve very quickly. And
+if we fix those attitudes, we will gain stature for our institution
+and our political system. Our democracy respects proper
+decisionmaking. If we do what we need to do, [inflation] attitudes
+will improve.
+At the last meeting I was very concerned about what commodity
+prices were doing. And as you know, they got lucky again and told us
+that the rate of inflation was higher than we thought it was. Now, I
+know there's nothing to it but they did get lucky. I've had plenty of
+econometric studies tell me how lucky commodity prices can get. I
+told you at the time that the reason I had not been upset before the
+March FOMC meeting was that the price of gold was well behaved. But I
+said that the price of gold was moving. The price of gold at that
+time had moved up from 328 to 344, and I don't know what I was so
+excited about! I guess it was that I thought the price of gold was
+going on up. Now, if the price of gold goes up, long bond rates will
+not be involved. People can talk about gold's price being due to what
+the Chinese are buying; that's the silliest nonsense that ever was.
+The price of gold is largely determined by what people who do not have
+
+5/18/93
+
+-33-
+
+trust in fiat money system want to use for an escape out of any
+currency, and they want to gain security through owning gold. Now, if
+annual gold production and consumption amount to 2 percent of the
+world's stock, a change of 10 percent in the amount produced or
+consumed is not going to change the price very much. But attitudes
+about inflation will change it.
+The longer we go with this situation, the more we'll have to
+increase rates and the higher long-term rates will go. The sooner we
+move, then the sooner we [will remove] the uncertainty in intermediate
+and long rates that comes with an increase in short rates. I hope
+Bill McDonough is correct that a rise in short-term rates will mean
+that the 10-year rate will fall. Whether that's the case or not to me
+is a little uncertain, as I think it was to you. That is, I don't
+know whether people will say:
+"Oh my goodness, the Fed is worried
+about inflation."
+If the market's reaction to the first move is that
+the Fed is worried about inflation, then in that environment I would
+expect long bond prices to improve. But every 25 basis points we give
+away on long bond yields--and we've already given 25 away by not
+acting when we should have acted--is lost. When we act, when we let
+the American people and the capital markets around the world know that
+we care about price level stability--that's our mission--then we will
+be well ahead and we will return to falling intermediate- and longterm interest rates, which will help get growth higher. A monetary
+policy step at this time is a win/win.
+I don't know what is going to
+happen for sure. I hope Mike is correct that the rate of inflation
+will move back down to 2.6 percent for the remaining 8 months of this
+calendar year. If we make a move and Mike is correct, we could take
+credit for having accomplished this and the price of gold will soon be
+down to the 328 level and we can lower the fed funds rate at that
+point in time and declare victory. But if what some of us suspect is
+true--that the Greenbook is a little optimistic on inflation--then it
+I don't feel
+seems to me essential that we take a [firming] step.
+[Laughter]
+very strongly about it!
+CHAIRMAN GREENSPAN.
+
+Governor Phillips.
+
+MS. PHILLIPS. Thank you. Clearly, I haven't mastered the
+timing of when to get my name on the list, having to follow such an
+impassioned statement. As I listen to the discussion around the
+table, I'm always struck, but even more so this time, by the vast
+regional differences and perceptions. These people are trying to
+bring some anecdotal evidence that gives us some clues on where we're
+going as opposed to complete reliance on the statistics. So I'm
+particularly struck this time by the differences regionally.
+My own read on the national situation is that I think we're
+more than likely returning to a slower, but I do believe sustainable,
+growth path. And I don't think that this is necessarily bad.
+Certainly, there are some areas of strength, and Mike pointed out a
+number of them. But it does represent a continuation of this
+operating restructuring that we're going through--the defense
+restructuring and the balance sheet adjustments.
+I don't think it's
+very clear how long this process is going to take. Six months ago or
+eight months ago we were trying to make projections as to how far
+along it was.
+[Now] I think it's pretty clear that we probably can't
+make those kinds of assessments.
+People and businesses are trying to
+adjust to a new order of technology and more complete world
+
+5/18/93
+
+-34-
+
+integration.
+In fact, I think the whole inflationary/stable price
+argument is clearly becoming a central part of day-to-day business
+decisions.
+There is the uncertainty that's associated with the
+Clinton economic program. If you think about it, this Administration
+has been in office only four months but we've been on an amazing
+roller coaster with different thrusts. Some of [the ideas] clearly
+were trial balloons, but some of them were certainly put forward with
+great fervor as proposed bills. We are still not sure where all of
+this is going to end up. Nevertheless, all of these arguments do
+appear to be leading us to more inflationary pressures.
+So, no matter
+how it comes out--even though we didn't get the stimulus bill and I
+think some folks might question whether it was really a stimulus
+proposal--it is still leading to increased inflationary pressures.
+I know I have talked about this in the past but I continue to
+think--and I'll echo some of Si's comments--that the labor markets
+remain a key to the economic environment. The economy is growing
+enough to produce some jobs but hardly enough, really, to accommodate
+even the population growth. I think the unemployment rate does mask
+some of the adjustments and the turmoil that is occurring in the labor
+markets on account of the downsizing, the de-layering, and the changes
+in employment needs on account of new technology. The huge fixed
+costs that are associated with taking on new permanent employees are
+clearly deterring many businesses from staffing up. I come back to
+this whole labor market question continually because I think it's the
+flip side of what is going to happen with spending and whether or not
+consumers are going to be able to participate in the stimulation of
+the economy. So, whether or not this is a setback or a blip, and
+whether or not this is a long blip or a plateau, I think it's not that
+unexplainable if we go back to this entire question of restructuring
+that is occurring.
+Let me turn to inflation. Like everybody else I'm having a
+hard time reconciling the recent numbers with the economy. One
+observation I would make is that we shouldn't necessarily assume or
+expect a smooth route of progress on inflation any more than we should
+necessarily expect a smooth route on a recovery. Some bumps and
+plateaus are likely. We should expect some experimentation in prices
+as folks attempt to see if they can get price increases to stick.
+We've seen lumber prices shoot way up but we've also seen them come
+back down again. In looking at cattle prices, for example, we've seen
+very strong prices, and they've finally been reflected in some of the
+We saw strong
+meat numbers in the CPI. Tobacco is another example:
+[price] increases--that was what was driving the CPI--but now we hear
+that we're going to have some cuts.
+I agree with Jerry's argument on
+inflation psychology.
+I think we had inflation for so long that
+people in demanding wage increases confuse growth with inflation. It
+used to be that a 6 percent salary increase was nothing. But now that
+would be fairly large. So, I think it's going to take a long time to
+work through this entire process.
+I don't think we should lose sight
+of some of the countervailing pressures on prices:
+international
+competition; weak economies, certainly domestically but also
+internationally; quality improvements; improved productivity; and weak
+credit conditions. All of these things may well start to be reflected
+in prices, so we will see this movement that's a bit up and down.
+Having said all of that, the most recent CPI and PPI numbers and some
+of the commodity price increases are clearly disturbing. But we have
+to recognize that we have considerable difficulty interpreting these
+
+5/18/93
+
+-35-
+
+numbers, even the ones that are historical, much less trying to
+address some of the future ones.
+So, I certainly agree with the
+Chairman that this is an area that we have to address our attention
+to.
+It makes the policy questions that we're going to be facing in
+the next round even more challenging.
+CHAIRMAN GREENSPAN.
+
+Governor Mullins.
+
+MR. MULLINS. With respect to the real economy, my sense
+continues to be that we're on a path of moderate growth.
+I don't
+really see a change in outlook with the mean between 2-1/2 and 3-1/2
+percent, but with individual quarters ranging from perhaps a bit below
+2 to a bit above 4 percent. The first quarter is pretty well
+explained, it seems to me, by the weather and the pullback from the
+surge in consumption. We had a similar phenomenon last year. As for
+the employment situation, I know there is a lot of negativism around
+it; but unemployment has come down from the peak last summer of 7.7
+percent to 7 percent. And even California's unemployment rate this
+last time came down to 8.6 percent; it had been up around 10 percent.
+When I look at the monthly payroll numbers, I find it difficult to get
+too depressed. The monthly average payroll growth in the third
+quarter [of last year] was 25,000; it was 85,000 in the fourth
+quarter, 147,000 in the first quarter of '93, and it eased off to
+119,000 in April. The overtime is at record levels and the employment
+gains are running at more than double what they were in the second
+half of last year. So, I think this bodes well for durability and
+sustainability. Auto sales seem to be holding up; the housing starts
+numbers were good this morning; there may be an inventory adjustment.
+Confidence certainly has fallen back from the euphoria of late last
+year but it has stabilized at levels well above where it was, say, in
+It's hard
+October.
+So, I guess people are buying housing and cars.
+to become too convinced that we're headed for another serious swoon.
+On the inflation watch, to paraphrase an old Ronald Reagan TV ad, last
+time the question was:
+Is there a bear in the woods? As far as I'm
+concerned the inflation bear has been sighted--not by our staff I
+might add!
+[Laughter]
+I think they should not be allowed near the
+woods; I fear for their health.
+Well, it's a curious phenomenon we've been going through the
+past [several months].
+Perhaps it's a blip; it's a very long blip if
+it is a blip. Now, I suppose there are many hypotheses. I won't bore
+you with my own personal list.
+It's not especially useful to have
+arguments saying this [upturn in inflation] can't happen with this set
+of economic fundamentals because that's pretty articulately rebutted
+by the fact that it has happened and has persisted for a number of
+months.
+I feel pretty much the same way about the notion that
+basically the economy has to slow down for inflation to slow down.
+It
+has been slow and we've had rising inflation. I suspect inflation is
+driven mostly by expectations.
+That's one of the reasons there's not
+so much talk about it; it's roughly what people expect.
+I do think we can affect inflationary expectations, at least
+in the market. Since I think we have 4 percent inflation, I now see a
+couple of issues. The first is whether a 3 percent federal funds rate
+is appropriate in this environment. And, secondly, are we satisfied
+with 4 percent inflation? To focus on the first question, the more
+immediate question, I think no one is proposing instituting a
+restrictive policy to actually try to get on top of inflation in the
+
+5/18/93
+
+-36-
+
+The only question that I can see is
+sense of positive real rates.
+whether one might partially adjust the nominal rate to reflect the
+reality of higher inflation, leaving real short rates still lower than
+those prevailing last year. But at some stage we're going to have to
+think about whether 4 percent inflation is something we want.
+I thought in the latter part of last year that there was some
+chance that if inflation continued to decelerate we could hold a 3
+percent federal funds rate--that that would be sustainable. The
+perception was that inflation was 3 percent and falling. Now I have
+very serious doubts as to whether a 3 percent federal funds rate is
+sustainable. It seems out of line; it seems to violate some basic
+tenets of common sense. The last time we had a 3 percent federal
+funds rate was in 1963.
+This is not a 1963 inflation environment.
+When one looks around the world today, the only other 3 percent short
+rates observed in captivity are found in Japan. And their economic
+environment in terms of fundamentals is clearly as sluggish as ours,
+if not more so.
+But we are not in a Japanese inflation environment.
+Their inflation is on the order of 2 percentage points below ours.
+Obviously, we had a lot of opportunity to choose a federal funds rate
+1 percent below the inflation rate last year and chose not to do it.
+I would suggest that the result of the negative real short rates in
+the 1970s was not pleasant. So, I rather doubt that anyone
+parachuting into this economic environment would choose a 3 percent
+federal funds rate. Now, perhaps real short rates don't matter, at
+least in a weak economy. We certainly instruct the weak economies of
+eastern Europe and the former Soviet Union that the one thing they
+have to do is to get that nominal rate at about, or a little above,
+the inflation rate. We certainly felt that significantly positive
+real rates made a lot of sense in late 1990 and early 1991 [even] with
+negative real GDP growth because of concerns about price stability.
+However, without the aggregates to guide us, I think it's also a
+pretty visible and simple measure which people may focus on. I wish
+we had the aggregates to guide us; we don't know what is happening to
+the hypothetical, shadow M2.
+I suspect it may be growing pretty
+rapidly, given the volume of funds going into the stock market.
+It is
+true, clearly true, that we don't understand the transmission
+mechanism well. But I don't believe the lack of thorough
+understanding should lead us to ignore what seems apparent to me:
+So,
+namely, that 3 percent short rates seem quite a bit out of line.
+I don't have a lot of doubt that we're going to feel that the 3
+percent needs changing. The question is one of timing, and my
+argument is for sooner rather than later.
+The concern is that as people start to look at the recent
+inflation performance, it stands in direct contradiction to our
+publicly stated objectives. It also stands in visible contrast to the
+FOMC's inflation forecast of 2-1/2 to 3 percent issued only a few
+short months ago in February. If we stand by while measured inflation
+shreds our publicly stated convictions and forecasts, the concern I
+have is that the long rate will continue to rise. As Governor Angell
+mentioned, we've already lost 25 basis points. As inflation concerns
+fester, I think long rates will move on up. And in my view perhaps
+the market needs a signal that we're not going to allow this to get
+out of hand, that we actually do care about inflation and that this
+caring goes a bit beyond just the rhetoric. We lagged the market on
+the way down and I thought that conserved credibility. But in the
+opposite direction if we wait until we're dragged up by the market, I
+
+5/18/93
+
+-37-
+
+think that will extinguish credibility. A measured response could
+limit the damage on the long end of the market.
+To me this is
+important not just for long-term concerns but for near-term growth as
+well. The only component of the current environment that is
+stimulative or conducive to growth is the capital market environment
+and in particular the long bond rate. My concern is that, with rising
+inflation unchallenged by the Fed, the long end could deteriorate
+quite rapidly. Ultimately, it's not up to us whether we tighten or
+not. The markets are going to tighten on the long end as people focus
+on the inflation and start thinking about it.
+And that's going to
+have whatever impact on the economy higher long rates will produce.
+We can't do anything about that. What we can do, and about the only
+thing we can do, is to try to limit the deterioration in the long end
+by indicating that we're on the job. I think the long rate would
+likely move up a bit if we made a measured move. But if credibility
+matters at all, somehow at the end of the day when all the dust
+settles the capital market environment and growth prospects should be
+better compared to a situation with Fed inaction.
+So, I think a lot is at stake:
+not only the credibility [of]
+long-term success but the capital market environment [of] near-term
+success. The risk of waiting too long is that market participants
+will start to focus more and more closely on inflation. They will
+look back not just to the beginning of the year but to the fourth
+quarter as well. They will look at our forecasts and our statements,
+and the market will start to price in concerns and hypotheses about
+Fed inaction. And I believe this could do serious damage not only to
+credibility but to long rates, [including] mortgage rates, and to the
+near-term outlook.
+To summarize, I do see a changed environment. There is no
+compelling evidence of any change in the outlook for growth; I think
+we're still sort of in the middle there. We have a very different
+inflation environment than the one we thought we were in, one in which
+inflation has been running much higher. And the question is:
+Does
+the same federal funds rate of 3 percent make sense with no material
+change in the outlook for growth, which is the way I see it, and an
+environment of much higher inflation? It seems to me that if it made
+sense in the old environment, it doesn't make sense in the new one.
+And my preference would be to face up to this sooner rather than wait
+until the market takes it out of our hands.
+CHAIRMAN GREENSPAN.
+
+Vice Chairman.
+
+VICE CHAIRMAN CORRIGAN. I'll try to do this in three
+sentences.
+First, my instincts about the real economy have not
+changed much; Governor Mullins was on the mark there. But as I've
+said at several meetings running, I still do not have any great
+conviction about the future in terms of the real economy. I still
+think it could be stronger, but it could be weaker; I just don't have
+that conviction. I want to second very strongly the comment you made
+at the outset of the meeting, Mr. Chairman, about the situation in
+Europe. I was not, as you know, at that last Basle meeting, but the
+string of visitors who passed through after the Interim Committee
+meeting, both on the official side and the private side, were gloomy
+across the board. I mean really gloomy. The third point is that I
+don't understand this inflation situation any better than anybody else
+does. I think we cannot dismiss it as simply broccoli prices and
+
+-38-
+
+5/18/93
+
+other wholly transitory things. On the other hand, I do
+that economic fundamentals matter. And while I probably
+hopeful as Mike Prell, I don't think I'm quite as gloomy
+others appear to be in terms of where we are going. But
+it is a changed situation.
+CHAIRMAN GREENSPAN.
+or not, but it's out there.
+
+still think
+am not as
+as some
+I agree that
+
+I don't know whether the coffee is cold
+
+[Coffee break]
+CHAIRMAN GREENSPAN.
+MR. D. LINDSEY.
+Appendix.]
+
+Thank you, Mr. Chairman.
+
+CHAIRMAN GREENSPAN.
+MR. MULLINS.
+
+David.
+
+Thank you, David.
+
+[Statement--see
+
+Questions?
+
+What's been happening to M2 plus flows to
+
+funds?
+MR. D. LINDSEY. We have attempted to construct an M2 plus
+mutual funds. We've tried to define the bond and stock mutual fund
+component of that aggregate as consistent with M2 by pulling out the
+IRA/Keogh components of bond and stock funds and also institutional
+holdings, which unfortunately are reported to us only once a year.
+We, therefore, have had to interpolate. The most recent data we have
+for this measure are through March. They show that whereas M2 has
+fallen since December, M2 plus mutual funds was about flat in January
+and February before jumping up to a 6.7 percent rate of growth in
+March. As you may remember, M2 growth for all of last year was 1.8
+percent and growth of this broader measure was about 4-1/2 percent or
+so.
+MR. MULLINS.
+
+Thank you.
+
+MR. PARRY. In alternative C you state that you think the
+impact of higher rates would cause the prime rate to go up by 1/2
+percentage point. How strong are your convictions in light of this
+historically large spread between the cost of funds and the prime and
+also the very weak demand for bank credit?
+MR. D. LINDSEY. Well, they are not absolute but our guess
+was that banks would tend more or less as a knee-jerk reaction to
+maintain the spread, given the opportunity. Presumably, at some point
+those spreads would come down but I'm not sure it would be tomorrow if
+the FOMC decides to move up the funds rate.
+CHAIRMAN GREENSPAN. Any other questions?
+If not, let me
+start off.
+Frankly, I found this a really interesting meeting in the
+sense that there is a new view about what is going on out there which
+I found quite intriguing. In fact, I think it explains part of what
+the big problem is.
+It's interesting to go around the table,
+especially hearing the presidents, and to get the sense of this
+political pessimism which seems to have emerged. It's a relatively
+recent phenomenon. It's the type of thing that we, of course, have
+been exposed to inside the Beltway to some considerable extent.
+The
+Washington Post has been publishing all this to a large extent. There
+
+5/18/93
+
+-39-
+
+is some evidence in the political polls, which show a deterioration in
+the view about where the country is going, etc. What is new is that I
+haven't heard this in the business community at the level that I've
+been hearing it around here. What this suggests to me is a possible
+explanation of what, indeed, is going on in the inflation area.
+As I indicated earlier, I don't think one can look toward the
+fundamentals for an explanation. One of those fundamentals is
+protectionism; but even though it is a key factor, it cannot be
+contributing a large-size impact on inflation at this stage.
+I think
+the effects of regulatory changes are real, but again we're talking a
+It strikes me that what we are
+minimal effect of .1 or .2 percent.
+dealing with here are very strong and in a certain sense accelerating
+psychological expectations--pessimism or concern about whether this
+country has the capability of politically solving the problems which
+the markets have been terribly concerned about. The deficit has been
+hanging out there for a long while and it is only very recently that
+[unintelligible] the current services deficit starts to turn up in the
+long run. In effect we've seen in recent years an extraordinary tilt
+in the yield curve, which is very suggestive of that. The long-term
+view is one which is scarcely positive.
+Now, if you superimpose a deep-seated pessimism on the
+outlook and if you argue that the transmission mechanisms that we're
+all used to are fundamentally psychological, then the reason why slack
+labor markets affect wages is essentially that people react in a
+certain way; they [assess] their prospects and they bid in the markets
+accordingly, and those markets work. And it's true, as I indicated
+before, in the price area as well.
+So, the major issue in examining
+inflation is not to start where we usually do in trying to look at
+slack markets and money and credit and to watch the transmission
+affect the price level. It's really important for us to recognize in
+looking at prices--assuming that prices are correctly calibrated, and
+there are problems, so obviously that is a question--that the price
+levels and the wage levels tell us what people are doing. And then
+it's up to us to figure out why they're doing it. That they are doing
+it is without question. The question that we've really got to
+confront is:
+What is the mechanism? I must say, having looked at all
+of the data and having done all the contemplating that I could, I
+cannot believe that anything other than inflation expectations is
+embodied in here. Clearly, actual inflation can run up wholly
+independently of the real world for a while; ultimately, the real
+world will cave in. The problem, however, is that before the real
+world works, the very fact of the price movements themselves has real
+world effects.
+So, we're dealing here with a very interesting problem
+in which the underlying inflationary expectations can have real world
+effects. We cannot view this type of outlook by stipulating that
+there are fundamentals and then there is the psychology, because
+that's not what happens. What happens is that when interactions
+begin, they basically change the fundamentals.
+Now, I don't know whether or not this [increase in] inflation
+is a bubble or a blip as some of you said. I don't know whether it's
+deep-seated and irreversible. It may well be that the President will
+get his budget passed very quickly and this whole [issue] will
+dissipate. That's the expectation on the Hill.
+I frankly don't know
+whether it's true or false.
+I do know that great certainty at this
+particular stage about what any of these variables is doing is
+
+5/18/93
+
+-40-
+
+probably ill advised. What we have to deal with here is something
+that I would suspect we have to watch very closely. I think Governor
+Mullins is right that a 3 percent funds rate is too low. I think
+we've known that for quite a long while; the issue has never been
+that. The issue is:
+When do we move?
+I would suggest that while
+there is a remote possibility that we may not want to move at some
+point in the future, it has to be pretty remote.
+My inclination for today--and I'm frankly most curious to get
+other people's views--would be to go to a tilt toward tightness and to
+watch the psychology as best we can.
+By the latter I mean to watch
+what is happening to the bond market, the exchange markets, and the
+price of gold, and try to sense whether inflation is accelerating or
+dissipating. It is perfectly credible, having lived through these
+types of things many times in the past, that this [upturn in
+inflation] can suddenly begin to deflate. It has happened innumerable
+times in the past. I know that both Governors Angell and Mullins have
+argued that there is a 25 basis point ratchet in the long bond. I
+respectfully submit that you know, more than anybody, that if you
+really seriously believe that that is a ratchet, it can go either way.
+I must say I agree fundamentally with the philosophy that both of you
+are raising and the only point I would raise is the rachet issue.
+MR. MULLINS.
+this, necessarily.
+
+It has gone up 25 basis but not entirely due to
+
+CHAIRMAN GREENSPAN. That's the point I'm trying to get at.
+In any event, my initial inclination--and frankly this is a very tough
+issue and one that has all of us sort of swimming around--would be to
+have a tilted directive and to keep a very close eye on the situation
+and see day by day what is happening. If this [inflationary
+expectations sentiment] simmers down in the marketplace, then I think
+the next sign post is what actually happens to the price indexes
+because that clearly will have a significant psychological effect.
+I
+also think this is one of the rare times when we ought to have more
+frequent telephone conferences as events evolve. And rather than take
+any action today, which I don't think would be desirable for a number
+of reasons, I would very much like as a starting point to go to an
+asymmetrical directive and then just watch developments and perhaps
+have one or more telephone conferences until we get a better feel on
+this. We are in an unstable environment and I think it can go either
+way. That would be my recommendation.
+I have one other issue I'd like to throw on the table. I
+hesitate to do it, but let me tell you some of the issues that are
+involved here. If we are dealing with psychology, then the
+I was raising the
+thermometers one uses to measure it have an effect.
+question on the side with Governor Mullins of what would happen if the
+Treasury sold a little gold in this market. There's an interesting
+question here because if the gold price broke in that context, the
+thermometer would not be just a measuring tool.
+It would basically
+affect the underlying psychology. Now, we don't have the legal right
+to sell gold but I'm just frankly curious about what people's views
+are on situations of this nature because something unusual is involved
+in policy here. We're not just going through the standard policy
+where the money supply is expanding, the economy is expanding, and the
+Fed tightens. This is a wholly different thing. Anyway, I'm most
+
+5/18/93
+
+-41-
+
+curious to get your views in these various respects, so please don't
+be afraid to throw things out on the table.
+MR. LINDSEY.
+
+Just a question.
+
+CHAIRMAN GREENSPAN.
+
+Yes.
+
+MR. LINDSEY. Mr. Chairman, last time you argued very
+eloquently against an asymmetric directive because of the costs
+involved. I was wondering what has [changed].
+CHAIRMAN GREENSPAN.
+
+Costs?
+
+MR. LINDSEY. Well, I can't say it as well as you did last
+time, but the case against an asymmetric directive last time was that
+there are fixed costs in our putting out [such a] directive. And in
+fact you persuaded me actually to dissent. So it's relevant.
+CHAIRMAN GREENSPAN.
+
+I'm not sure I referred to
+
+"fixed"
+
+costs.
+MR. MULLINS. The argument was that it's better to move from
+a symmetric directive, that there's nothing to be gained from-CHAIRMAN GREENSPAN. No, what I was arguing then--remember
+the two-month moving average on inflation then was higher than it is
+today and either it was going to come down dramatically or not--was
+that it wasn't going to matter whether we moved from a symmetric
+directive or from an asymmetric directive. My impression now is that
+we are truly asymmetric and that we are looking at a process which is
+different from the one that existed previously. I did not have a view
+that what we were looking at was essentially a risk driven by
+inflation expectations. In fact, I don't think I raised that issue;
+my recollection eludes me. This is different. I think this relates
+to a large extent to the political-psychological issues.
+I thought
+When he looks just at the data
+Jerry Jordan [said] it best:
+everything looks fine; when he goes out into the boondocks he sees
+awful attitudes.
+I don't know how many of you said it; I didn't write
+it down, but there were five or six of you who said that. And it's
+certainly very startling.
+MR. ANGELL.
+I'd like to ask
+mentioned where we are, if the dollar
+foreign exchange markets do you think
+circumstance to surprise everyone and
+CHAIRMAN GREENSPAN.
+raise rates.
+MR. ANGELL.
+
+you a question also. When you
+were to weaken somewhat on
+it would be appropriate in that
+not sterilize the intervention?
+
+Well, that's another way of saying just
+
+I know, but it seems to me that the timing would
+
+be--
+
+CHAIRMAN GREENSPAN. I think we would confuse the market.
+I
+don't know how they would read that. It would take them a long while
+to figure out what was going on. Supposing we intervened for $200
+million and didn't sterilize; I don't know what it would do to the
+funds rate.
+
+-42-
+
+5/18/93
+
+MR. MCDONOUGH. I think people would be so busy trying to
+I
+figure out what we'd done that I doubt the funds rate would move.
+think it would just enormously confuse people.
+CHAIRMAN GREENSPAN.
+
+Yes, that's frankly my impression.
+
+MR. ANGELL. You think a $200 million change in reserves
+would cause the fed funds rate to move definitely?
+MR. MCDONOUGH.
+repo of $3-1/2 billion.
+MR. ANGELL.
+
+Our intervention today was a two-day System
+
+Yes.
+
+MR. MCDONOUGH. The law of supply and demand doesn't get
+changed at all by $200 million. So it would be only the signalling
+effect, and the signalling effect would be to confuse.
+MR. MULLINS.
+
+We have to tell them what the fed funds rate
+
+is!
+MR. D. LINDSEY. The problem is that there are a lot of other
+things going on.
+If you held everything else equal and affected
+borrowing by $200 million, that would have a big effect.
+MR. ANGELL. But what I meant was that if we change a path by
+$200 million, that's quite a few basis points, right?
+MR. D. LINDSEY. Oh, my goodness!
+[Laughter]
+You're
+approaching zero or near double-digits, I think, with that kind of
+change. Maybe that's slightly exaggerated.
+MR. ANGELL. What other meaning can you give to nonsterilized intervention than a change in the target?
+MR. D. LINDSEY. Well, around current levels, [we estimate
+that a change of] $25 million in the borrowing level will have a 50
+basis point effect. So, you're talking almost 10 times that much.
+MR. ANGELL. You could demonstrate the $25 million of foreign
+exchange intervention-CHAIRMAN GREENSPAN. I think it's an interesting idea but
+it's too complex. Why create uncertainty when what we're trying to do
+is to eliminate it?
+MR. JORDAN. May I ask a question that relates to that
+uncertainty and trying to reduce it?
+If an action that results in a
+higher funds rate, which would be the first increase in I don't know
+how many years-CHAIRMAN GREENSPAN. This is the longest period we've gone
+since when without changing the funds rate?
+MR. JORDAN.
+[of last year].
+MR. ANGELL.
+
+Well, we haven't changed it since September 4th
+
+We haven't raised it since February of
+
+'89.
+
+5/18/93
+
+-43-
+
+MR. JORDAN. So, if it's the result of an action by the
+Committee after a full set of deliberations, I don't know that it
+would raise many questions in the minds of people as to what happened.
+[It would be clear] that this Committee looked at a whole lot of
+things and in its collective wisdom decided to raise the funds rate.
+But if it's done as a result of an asymmetric directive, which
+involves discretion, then what it was that triggered the increase is
+going to be very important.
+CHAIRMAN GREENSPAN. Let me put it this way. I would have no
+intention of acting on that directive without full consultation of
+this Committee because it's a very important move.
+MR. SYRON.
+
+So, would you have a vote?
+
+CHAIRMAN GREENSPAN. That depends. The evidence may be
+sufficiently startling that a vote may not be required. The answer to
+the question is that I don't like to take votes on the telephone; I
+don't think we've had many and I would prefer not to. But this is a
+very unusual situation, and I'm not sure how I would [do it].
+We
+could have a vote in that event.
+MR. ANGELL.
+It seems to me important that the Chairman's
+powers not be diminished to require a vote. I just don't think we
+want to do that at all.
+MR. BOEHNE. The purpose of an asymmetric directive is to
+give the sense of the Committee to move in that direction. And if
+we're going to meet frequently, then the notion of tilting it one way
+or the other seems to me to lose some of its merit.
+CHAIRMAN GREENSPAN.
+
+I think that's right.
+
+If it's too important a decision to move without
+MR. BOEHNE.
+making sure you have the Committee's agreement, then you can decide it
+then. We don't need to bias it.
+CHAIRMAN GREENSPAN. That is a very legitimate issue, and I
+would be fully willing to agree to that because it does raise an
+interesting question as to what the meaning of asymmetry is if we're
+effectively going to go back into a meeting. The Desk can move from
+symmetry as well as asymmetry. But it does raise the interesting
+question as to what would be the appropriate vehicle.
+I do not feel
+strongly on this question and I would yield to whatever the Committee
+would be interested in doing.
+MR. KEEHN. Just to add to Ed's point:
+If we think the
+inflation issue is expectations as opposed to real, it seems to me
+that an asymmetric directive, which no one will be aware of for
+another six to eight weeks, isn't going to do anything for us. An
+asymmetric directive that won't be known for eight weeks isn't going
+to do anything with regard to the expectations issue.
+If in fact the
+inflation increases are sustained, then it seems to me we ought to
+move in a way that will deal with those issues, and that ought to
+follow a phone call.
+Therefore, I think the asymmetry confuses the
+My thought is to leave the directive
+issue and doesn't deal with it.
+as is but be very specific that we will have a phone call.
+
+5/18/93
+
+-44-
+
+CHAIRMAN GREENSPAN. That is a very thoughtful note.
+That's
+the other side of this argument, and I think it's important to put
+that on the table.
+MR. FORRESTAL. Mr. Chairman, what would be the trigger point
+for the consultation? Are you going to be waiting for the next PPI
+and CPI?
+CHAIRMAN GREENSPAN. No, not necessarily. It would be a
+judgment that something is deteriorating and the Committee must
+address it.
+If this simmers down, and I think there's a reasonably
+good chance it may do exactly that, then we can remain tranquil until,
+If that is tranquil, then we can
+say, the next PPI/CPI comes out.
+afford to stay where we are, as far as I'm concerned.
+MR. ANGELL.
+I think the Committee should remember that the
+reason for having [an asymmetric] directive is that sometimes the
+deliberation/decisionmaking process is facilitated by having the
+Chairman be free to make the moves that need to be made based upon
+what the Committee has said. I guess I thought that's what you were
+after.
+CHAIRMAN GREENSPAN. Let me put it to you this way. My
+preference is to have an asymmetric directive on the grounds that, as
+I listen to the Committee, that's my inference as to what the
+However, it's my inclination on a very serious issue
+[consensus] is.
+of this nature to consult with the Committee--because it's a very
+important move if we move--and I think the Committee should be
+satisfied that everyone has had his or her say in this regard. In
+that context, I don't think it's going to look that bad whether there
+is a symmetrical directive or not. The question basically is the
+choice of the Committee as far as I'm concerned. Vice Chairman
+Corrigan, you've been around here for a long time. What's your view?
+VICE CHAIRMAN CORRIGAN. Let me make a factual observation
+and then a comment--not that we should let facts get in the way of
+these things. On this inflation issue, the question, aside from the
+diagnostics of what is causing it, is really:
+Where are we?
+It's
+clear that achieving the further progress toward price stability that
+But
+everyone is hoping for in 1993 looks a bit remote at this point.
+the other side of the question is that while we may not be doing as
+well as we hoped, are we doing as badly as we think? Of that I'm not
+so sure, so I think a little perspective here might be useful. Look
+at the core CPI in the first and second quarters of the years 1990,
+1991, 1992, and 1993.
+In '90 it was 5.3 and 5.5 percent; in '91 it
+was 6.5 and 3.8 percent; in '92 it was 4.2 and 3.3 percent; in '93 it
+is 4.1 percent and--if you take the Greenbook [projection for the
+second quarter], which I'm quite prepared to do--3.3 percent. Now,
+that's not what we had hoped for. Again, Wayne or David made the
+point that the number reported in the Humphrey-Hawkins testimony as
+the central tendency of the Committee was 2-1/2 to 3 percent or
+something like that.
+So, in that sense things aren't working out as
+well as we had hoped. But at least to date I'm not yet quite
+persuaded that the genie is out of the bottle. If you look at the
+experience at least so far, while there's no question it's not what we
+want it to be, I'm not so sure that I'm personally ready to concede
+I don't think it is.
+the point that all is lost.
+
+-45-
+
+5/18/93
+
+Now, on the question of procedure:
+First of all, under any
+circumstance I have always believed that no matter what we do we've
+always got to leave the Chairman with maneuvering room.
+I don't care
+whether the directive is asymmetric or symmetric; to me that's
+irrelevant. There always has to be that powerful, powerful prejudice
+that leaves the Chairman with flexibility when he needs it. Having
+said that, and putting aside my own views about policy which will come
+later, in my mind's eye one argument for an asymmetric directive that
+I don't think has yet been mentioned--it has nothing to do with
+process--is that if it turns out that things do start to look a little
+better, we're going to look a lot better by virtue of having that
+asymmetric directive on the record.
+CHAIRMAN GREENSPAN. When you say "look a little better,"
+look a little better in what sense?
+VICE CHAIRMAN CORRIGAN. If overall performance starts to
+look better in terms of the economy, inflation, or both, and that
+asymmetric directive is on the record, I think institutionally that
+makes us look better. In other words the signal is still there that
+we weren't insensitive to what was going on.
+MR. MULLINS.
+
+Yes, we noticed.
+
+VICE CHAIRMAN CORRIGAN. Yes, we saw the bear in the woods;
+he went back to hibernate but we saw the SOB. This seems to me to be
+a win/win [situation] because if on the other hand it turns out that
+things aren't so good--that the bear is out in the corn field or the
+back yard--and we have an asymmetric directive that we've utilized,
+we're better off as well.
+So, putting aside all of these complicated
+questions of process, I think those arguments should be part of the
+picture. As a matter of fact, I think the substantive arguments are
+more important in this setting than are the process arguments.
+CHAIRMAN GREENSPAN. I think the substantive issue here is a
+crucial one, and how we want to handle it relates to the secondary
+picture of the question. President Broaddus.
+MR. BROADDUS.
+Thank you.
+
+I had a question but it was answered earlier.
+
+MR. MULLINS.
+I was going to make the point that President
+Corrigan made. I think an asymmetric directive captures at the
+minimum where we should be. And I see no down side from it; we can
+only look good. If things get better, it says at least that we were
+concerned about [inflation] and were focused on it.
+It also says the
+same thing, as Jerry mentioned, if things get worse.
+If we don't have
+[an asymmetric directive], then I think it says that somehow we were
+not attuned to or did not recognize the situation.
+CHAIRMAN GREENSPAN. You're raising an interesting point.
+There's a timing question here. Let me just say for the sake of
+argument that we move from a symmetrical directive three weeks from
+now because of certain events that are occurring. If we do that, it
+gives the impression that we are moving because 24 hours before
+something happened whereas if we-MR. MULLINS.
+
+It's event driven.
+
+-46-
+
+5/18/93
+
+CHAIRMAN GREENSPAN.
+
+It means that there is a process--
+
+MR. MULLINS. And I think it's worse if inflation gets better
+Shouldn't they at
+because then, looking back, people will wonder:
+least have been on watch? Again, I just see no down side. Last time
+perhaps there was a down side in the sense of alerting people. I
+don't think it affects process at all but instead will communicate,
+though not for quite a while. But it will communicate the right
+things.
+CHAIRMAN GREENSPAN.
+
+President Syron.
+
+MR. SYRON. Actually, my view on this just changed 180
+degrees based on what you said. My original view was that there was a
+cost to going asymmetric and if the economy were to weaken and prices
+were also behaving favorably, given the timing of Humphrey-Hawkins--.
+But I'm persuaded by the point you just raised that if we have to act,
+it's much better that it be seen that there was an extensive
+discussion of this and not that a number came in out of the sky and
+that we were acting just on that number. So, I changed my mind 180
+degrees based on that.
+CHAIRMAN GREENSPAN.
+
+President Parry.
+
+MR. PARRY. I guess I'm persuaded by the arguments for
+asymmetry. It seems to me that if what we want to do is to deal with
+inflationary expectations, then the most effective way to do it--in
+terms of when we change the rate--is to do it by vote to show the full
+Committee's participation in that decision.
+I'd say it would be even
+better at a meeting, either this one or the next one, but certainly by
+telephone if not that.
+CHAIRMAN GREENSPAN.
+
+Governor Lindsey.
+
+MR. LINDSEY. I have to agree with what President Parry just
+said. If what we have is psychology, we want to deal psychology a
+death blow. I think that is [best] done at a meeting and I would
+suggest now.
+I think we have another problem. Governor Angell and I may
+have more of a problem than anybody else; on Friday our dissents [at
+the March FOMC meeting] will come out. And it will be obvious that
+the Committee considered a move and rejected it again at this meeting.
+So, I would again say that the best thing to do, if in fact what we
+have is psychology at work, is to [vote for] an increase at this
+meeting.
+CHAIRMAN GREENSPAN.
+
+President Keehn.
+
+MR. KEEHN. May I just ask a technical question in reference
+to Jerry's point? I haven't had the feeling that the difference
+between symmetry and asymmetry necessarily constrains your ability to
+make a move. It seems to me that as the Chairman you ought to have
+the ability to make a move under [changing] circumstances as you see
+fit. Asymmetry means to me that we would go into the intermeeting
+period [ahead] with a very strong bias toward making a change to
+tighten, and I don't think the lack of asymmetry necessarily ought to
+
+5/18/93
+
+-47-
+
+inhibit your ability to tighten if in fact the numbers
+way that makes that seem the appropriate thing to do.
+
+[develop]
+
+in a
+
+CHAIRMAN GREENSPAN. Well, let me just say that I'm not sure
+that whatever happens in the real world over the next period of time
+is going to be significantly influencing our decision relative to
+whether we were symmetrical or asymmetrical. Normally when we talk in
+those terms we are talking about real economic variables and we are
+looking at whether or not the economy is [weakening] or strengthening.
+It happens in a gradual way. Remember that when we were asymmetric
+toward ease for a long period of time it was because what we were
+seeing was a gradually sagging economy. And we could anticipate how
+we'd react. This is really quite different. This is almost a bubble.
+It is either going to go burst and disappear or it's going to build
+up. I don't visualize looking at that sort of process in the same
+manner. I think how we stipulate our directive is probably irrelevant
+to how we will want to behave.
+So, as I said before, I don't consider
+it a big deal one way or the other. And I don't think it will
+significantly affect what this Committee does or how we do it.
+I
+think it's strictly a perception question of how we wish to be
+recorded in this particular meeting and under what conditions. And
+there are arguments on both sides of that.
+VICE CHAIRMAN CORRIGAN. Si, just to emphasize in case I
+wasn't clear, I agree with you:
+There's no question that with or
+without asymmetry the Chairman always has a margin of flexibility. I
+was trying to suggest that on the issue of whether to prefer symmetric
+or asymmetric--not that they are the only possibilities but just
+focusing on those two--the substantive [reason] for having an
+asymmetric directive is that no matter what happens, if things get
+worse or if things get better, the Committee is at that point on the
+record as having been vigilant and alert.
+MR. BOEHNE. The cost of an asymmetric directive, I think, is
+not insignificant.
+If, for example, this turns out to be an inflation
+bubble--if it turns out not to be a problem and goes away--but the
+real sector because of all the uncertainty about tax policy and so
+forth turns out to be a good bit weaker than we [anticipate], we're
+going to look pretty trigger happy. So I think there is a cost
+involved. I don't know if it's going to come out that way but we have
+a very uncertain environment. The situation can go either way both on
+the inflation front and on the real growth front.
+I think we need to
+watch it very closely and we need to show that we have an open mind as
+to which direction policy is going to go.
+If circumstances warrant a
+tighter policy, then let's tighten. I think deeds, not words, speak
+to expectations.
+I just don't see that asymmetry buys us very much.
+There can be a plus to it, but there can be a negative to it. And I
+don't think we need to take the chance. We're going to meet
+frequently.
+CHAIRMAN GREENSPAN. Let me state that we have another tool,
+which we're not discussing, that can be used here--not as far as
+policy is concerned because I think we've all concluded that policy
+will be what it is--because we're talking now about the question of
+perceptions. We haven't discussed the fact that we do have a policy
+record--I beg your pardon, minutes. And we have the capability in
+those minutes, depending on how they are stipulated, to characterize
+what we are doing. And that should readily capture the particular
+
+-48-
+
+5/18/93
+
+problems that we are all addressing here. So, in viewing this I think
+we ought to try first to find a means by which to separate what policy
+is and then to discuss the issue of how we wish to be perceived. If
+we can make that distinction--and from what I can judge I think most
+of us would be willing to do that--they should be handled separately.
+President Jordan.
+MR. JORDAN. I had started off this year hoping that
+inflation would be less than last year; but much more importantly I
+believed that inflation this year was going to be less than last year.
+It has already been mentioned that it would take [an inflation rate
+of] 2.6 percent or something like that for the rest of the year [to
+achieve the staff forecast for inflation].
+But I had been thinking
+more that 2-1/2 percent nominally should be a goal that was doable
+this year for the whole year, which would have been an average of .2
+for every month of the year. Now, if it averages .2 for the remaining
+eight months, that still is going to hold inflation only at last
+year's level, and I find that unacceptable. So, I think there is
+already enough information, that nothing else needs to be learned, and
+that an immediate action is warranted.
+CHAIRMAN GREENSPAN.
+
+President Forrestal.
+
+MR. FORRESTAL. Mr. Chairman, we're obviously operating in a
+very difficult environment and within parameters that may be quite
+different.
+I think I could make an argument for easing on the basis
+of a decelerating economy just as I could for tightening in the light
+of the recent inflation numbers.
+Given the amount of pessimism that
+is out there, given the employment situation and the high level of
+unemployment--even though it has come down, 7 percent is not a
+desirable number--a tightening action could well abort the expansion
+or certainly cause greater deceleration in the economy. And I think
+we have to be as attentive to that as to the inflation numbers. Now,
+it may be that we will have to make a move to counter inflation but
+before we do that I think we have to be very sure that inflation is
+really on an upward trend. Inflationary expectations may be out
+there, but I certainly haven't heard anybody in our area of the
+country telling me that they're concerned about inflation. Maybe they
+should be, but there isn't any concern about it.
+I agree entirely
+with Governor Angell that monetary policy can harm the economy. If we
+were to make a premature move, we could harm the economy; and I think
+we ought not to be doing that. Again, these inflation numbers may be
+temporary. They may not be but they could be, and I think we have to
+be very careful before we overreact to the inflation numbers.
+So, I
+would not be in favor of any move at this time and I agree with your
+prescription in that regard.
+On symmetric versus asymmetric, in light of my views on the
+economy, I think we ought to have a symmetric directive. The down
+side of having an asymmetric one is exactly as Ed Boehne described:
+We could be viewed as overreacting to the inflation numbers if in fact
+they get better. So, I hope if we have to take action that we do it
+very, very deliberatively in light of real information about a trend
+in the inflationary situation.
+CHAIRMAN GREENSPAN.
+
+President Hoenig.
+
+-49-
+
+5/18/93
+
+MR. HOENIG. Mr. Chairman, my inclination is to say that
+although there is some pessimism, it is fiscal-related. My own bias
+is that these inflation numbers are bothersome and that tightening
+would be the better path if I were convinced that they were permanent.
+At this point I am willing to wait and see a little longer. So, I
+would leave [policy] the same. When we do act, though, I think it
+should be by vote, so I would also say symmetric for now.
+CHAIRMAN GREENSPAN.
+
+President Broaddus.
+
+MR. BROADDUS. Mr. Chairman, I'd like to support action
+today. As far as I'm concerned, the issue is credibility.
+I think
+Governors Mullins and Angell made that point very eloquently. In
+matters of credibility there is no substitute for action, so I think a
+good move today would be to raise the funds rate 1/4 point. Yes,
+there are risks, but it's possible to exaggerate those risks. The
+funds rate now in real terms is negative. I think it's easy to
+overstate the risk to the economy of a small increase [in the funds
+rate].
+The other point I would make is that if we wait until we're
+absolutely certain and convinced that the inflation trend is upward-we've been down that road before--we may well have waited too long.
+That would reduce our credibility and it might be quite costly to
+regain it.
+So, I would favor action today.
+CHAIRMAN GREENSPAN.
+
+Governor Angell.
+
+MR. ANGELL. Maybe I'm haunted too much by late 1986 and
+early 1987.
+At that time a lot of regions of our economy really were
+pretty sick. You could put a football over the map of the United
+States and put one end on Phoenix, Arizona and the other end on
+Pittsburgh, Pennsylvania and lay that football out and the economy
+would really [unintelligible].
+Talk about pessimism and talk about
+depression and talk about the fall in land values from $1700 an acre
+to $900 an acre and in Iowa from $3100 down to $1400!
+That pessimism
+was strong.
+It was hard to see then, but we knew what was there if we
+looked at commodity prices and gold. And yet when we got ready to
+act, we were so incapable of acting because events got in our way.
+This speech is about events that may get in our road. One event was
+the Louvre Agreement. When the Louvre Agreement [existed], it didn't
+seem appropriate for us to make a move because in some sense that was
+a part of what some of us thought was a deal. And then we got into
+May of '87 and the dollar got strong; and I remember Paul Volcker
+saying:
+"Well, is this the day we want to increase rates?" And I
+felt that the dollar was strong on that day, [so] maybe we didn't want
+to do it then. We didn't do it; events got in the road and all of a
+sudden we found ourselves with the wrong fed funds rate in the fall
+when you came on Board, Mr. Chairman.
+So, of course, I want to act
+today. I want to raise the rate today. I'd be satisfied with 25
+basis points.
+That's crazy when I want 50, but I'm a compromising
+I would recommend to you--in a sense I've taken
+person.
+[Laughter]
+myself out of the decision--that you stay with the Chairman's
+I think it's very
+recommendation on an asymmetric directive.
+important that you do that.
+CHAIRMAN GREENSPAN.
+
+President McTeer.
+
+MR. MCTEER. My preference would be for no change today but
+with an asymmetric directive toward tightening. I think having that
+
+5/18/93
+
+-50-
+
+on the record in the future
+against us for reasons that
+mentioned. For psychology,
+to dump her bracelet on the
+CHAIRMAN GREENSPAN.
+
+is more likely to be in our favor than
+Jerry Corrigan and Governor Mullins
+I think we ought to get Governor Phillips
+gold market at some point!
+Governor LaWare.
+
+MR. LAWARE. I'm marginally persuaded to go with asymmetric
+toward tightening. But I must say that I'm rather astonished that Bob
+Forrestal is the only one around this table who has even discussed the
+possibility that tightening might have a very, very serious effect on
+economic growth. That is what worries me. And the political reaction
+to a dumped economic growth rate could have much more serious
+inflationary implications and also serious implications for the future
+of deficit reduction. So, I think we ought to be very, very careful
+not to move until we're really persuaded that there are overwhelming
+reasons to do so.
+CHAIRMAN GREENSPAN.
+
+President Keehn.
+
+MR. KEEHN. Mr. Chairman, my earlier comments were really
+observations and questions. Just to be clear as to where I come out
+on policy at this point:
+It seems to me, as we went around the table
+and talked about the economy, that the general thrust was that the
+economy is okay but there was a theme that some moderation has taken
+place in terms of growth since the last meeting. I didn't hear
+anybody talk about a growth rate that to me would be high enough to
+sustain this inflationary trend that we're worried about.
+It does
+seem to me that Ed Boehne makes a very compelling point on this.
+In
+light of all that, I'd be for alternative B with symmetric language.
+But I would be prompt to take an action by telephone if something in
+the future would warrant that.
+CHAIRMAN GREENSPAN.
+
+President Syron.
+
+MR. SYRON. Mr. Chairman, just on the issue of policy itself,
+it seems to me that credibility is a two-way street. It's important
+to maintain credibility but I fully agree, as I think everyone does,
+I would
+that we are--using your words--in an unstable environment.
+argue that psychology is poor not just on the price front; we heard a
+lot of that. I think we're in a situation where a lot of our
+institutions look very weak. And the Federal Reserve is one
+institution that hasn't looked weak so far.
+So, I'd be pretty
+cautious about running off and doing anything that looks too much like
+overreacting in one direction or another. And for that reason I would
+strongly feel that now is not a time to do something. Also, on the
+psychology front, [unintelligible] even on prices unfortunately the
+markets would react with it.
+I'm not sure Jerry Jordan's daughter
+would react right away [in terms of] what she wants to pay for the
+house if we raise the funds rate 25 basis points.
+For a lot of people
+we would have to wait until it affects their pocketbooks and they see
+some impact from that.
+On the question of symmetry, I think that's
+issue. It depends an awful lot on whether we end up
+which is at least a 50/50 chance. How would we want
+ourselves in that case? Where is the lesser cost of
+think it probably is to be asymmetric.
+
+not an enormous
+being wrong,
+to present
+being wrong?
+I
+
+5/18/93
+
+-51-
+
+CHAIRMAN GREENSPAN. Yes, having heard the conversation here,
+I think that's the real question. It's not what happens if we're
+right, but how we want to appear if we're wrong. Since we are the
+central bank, if we're going to be wrong, we should be wrong on the
+side of preserving the currency. That's where I guess our bias should
+be, provided we don't allow that to affect how we are going to-MR. SYRON. One small last point:
+On the issue of
+implementing policy--and several colleagues have said this--this is an
+important enough point that I hope we would have a telephone
+conversation. Everything else being the same, I would hope that
+people could be recorded if this is seen as a critical problem.
+CHAIRMAN GREENSPAN. Well, I take that as a serious question
+and I think it's going to depend to a very substantial extent on what
+happens out there.
+I hate to go out of a meeting with the degree of
+uncertainty that we have. But the uncertainty is real; and we're not
+going to change the level of uncertainty by making believe that it is
+unreal. Let's face that. We happen to be meeting at this particular
+date because that is what was on our calendar. If we were meeting on
+a different date, we'd probably have a greater degree of certainty
+about what is going on. Governor Kelley.
+MR. KELLEY. Mr. Chairman, we've been around this bush a
+number of times now. I would support no change with an asymmetric
+directive. The reason I like the asymmetric directive is that I think
+it reflects the fact that this Committee is on top of the situation
+and is concerned. That is the case and I think we should have an
+asymmetric directive for that reason. That does not mean that I
+necessarily think we're going to use it.
+If we move to tighten now,
+it seems to me the reason would be because we have the perception that
+inflation has indeed already set in on us and has to be countered now,
+or maybe it should have been countered sooner. The way to counter it
+is to tighten money; and the reason we tighten money is to restrain
+something. Well, if we had a strongly accelerating economy, it would
+be clear that it needs to be restrained. We have something less than
+that--the Greenbook economy or worse. What is it we want to restrain?
+There are not any excesses that I can clearly find. It seems to me
+that if we want to tighten, we've got to be very clear why. To simply
+say "to counter inflation" really isn't enough.
+If there's something
+we want to restrain, let's decide we want to restrain it. If it is a
+matter of restraining expectations, let's be very express about that
+and be very careful that we take a good look at whatever secondary
+effects--in the way of hard effects--we might set off in an attempt to
+counter a psychological or soft effect in the area of expectations.
+Now, that's not to say that we might not need to tighten at some
+point; but I think we ought to be quite careful about tightening in
+the face of a perception of an expectation-driven inflation without
+some other harder evidence to go along with it.
+CHAIRMAN GREENSPAN.
+
+President Stern.
+
+MR. STERN.
+In these circumstances I think we need at a
+minimum an asymmetric directive toward tightening. A lot of the
+reasons for that have been covered and I won't belabor them. But I
+would note that we have been shooting for further disinflation and
+indeed, ultimately, for price stability. That is the long-run target
+that we have committed to, appropriately, and we seem to be drifting
+
+-52-
+
+5/18/93
+
+away from it.
+I don't think it's fatal if the drift goes on a little
+longer; and I admit that I don't know what the short run--the next
+month or two of data--may bring. But it seems to me that we have to
+be very careful at this point because we're not getting the result we
+anticipated nor are we moving in the direction of our long-run
+objective.
+So, at a minimum I think we need the asymmetric directive
+toward tightening.
+CHAIRMAN GREENSPAN.
+
+Governor Mullins.
+
+MR. MULLINS. I agree with what Gary Stern said. I guess I'm
+less concerned than Ed Boehne is about the notion that we might be
+viewed as trigger happy. We haven't been close to a trigger in
+months. This may be temporary, but seven months is a pretty long
+temporary time as far as I'm concerned. It is true that we wouldn't
+be restraining anything or countering anything if we moved because I
+doubt that we would get ahead of inflation since it has already moved.
+But at least we might be catching up in the sense of reflecting the
+higher inflation in nominal rates. When we talk about moving a small
+amount, we ought to be realistic about what sort of potential impact
+it could have on the economy. I don't think there's anything sacred
+about 3 percent rates. The yield curve has been upward sloping for
+quite a long time now, since people have been expecting higher rates.
+And the real short rate would still be negative and lower than it was
+last year. So, I wouldn't be opposed to moving now. At least we
+should be asymmetric. We ought to be clear on the risk of waiting too
+long here, and that risk is that we will have to make precipitous
+moves down the road. And if you want to think about the consequences
+for the economy and the flak we're going to receive if we wait a bit
+long, I think it's useful both for signalling and also for execution
+that we be asymmetric now.
+CHAIRMAN GREENSPAN.
+
+Governor Phillips.
+
+MS. PHILLIPS.
+I would prefer symmetric. I still have
+concerns about the weakness of the economy, so I think one can make
+arguments in either direction. I will say that, having listened to
+this discussion, I am persuaded that perhaps the perceptions of our
+being [watchful]--or maybe getting out the signal that we really are
+addressing inflation--might be helpful. So, I could live with
+asymmetric toward tightening.
+CHAIRMAN GREENSPAN.
+
+President Melzer.
+
+MR. MELZER. I didn't put my hand up, but I have to speak
+anyway! I was very much influenced by this meeting. I came in
+sitting on the fence, frankly. And based on hearing the discussion my
+preference would be--if I had to do one or the other--probably to move
+rates up a little right now. But it's clear to me that there's not a
+consensus to do that. This is a very important move and I think there
+has to be a stronger consensus than exists right now. Therefore, I
+could accept deferring action.
+I think there's a risk in deferral and
+David put his finger on it. There's a risk that we might have to do
+more later if things break the wrong way. In a sense, even if they
+break the right way and we follow [developments] in this intermeeting
+period, we may decide we really don't have to act. We can discuss it
+again at the next meeting and maybe decide that we don't have to act
+then either, but it won't remove the fact that the funds rate probably
+
+-53-
+
+5/18/93
+
+is not pegged at a sustainable level. The question is:
+What is that
+[delay] building in, in terms of lagged effects that ultimately are
+going to come home to roost later? And then there's the credibility
+question that Al Broaddus raised in terms of where we all expected
+inflation to come in this year and where it is likely to come in and
+what that means if we take that sitting down. It's a tough issue, but
+that's where I come out.
+CHAIRMAN GREENSPAN.
+
+Vice Chairman.
+
+VICE CHAIRMAN CORRIGAN. I'm quite comfortable with "B"
+asymmetric.
+I might say, if I could just add a word on process which
+I know you want to deal with separately, that if it turns out that the
+Committee does come to a consensus that a tightening move is needed in
+the foreseeable future, of course, I won't be a part of that decision.
+But leaving that aside, if a tightening move is needed any time
+between now and the next meeting, that will be one of the relative
+handful of watershed policy decisions that come along. This is not a
+"gimme putt."
+Indeed, it's probably [a watershed decision] not just
+because it would be a turning point but because of the environment in
+which it is going to happen, if it happens.
+So, I think there's a
+great deal of wisdom in the suggestion that several people have made
+that if you do that, you better do it right with a meeting of the
+Committee by telephone or otherwise and by a vote.
+CHAIRMAN GREENSPAN. I'm inclined to agree strongly with that
+in the sense that we haven't moved interest rates up since 1989.
+We
+haven't moved at all in over six months. This Committee is going to
+be highly visible. And no matter what it is we do over the next 3 to
+6 or 9 to 12 months, it's going to be quite important for us to be as
+close as we can to each other.
+In other words, it's important since
+there's no doubt from our various conversations that the underlying
+philosophy of every member of this Committee falls within a relatively
+narrow range in terms of what should be the economic and monetary
+policy of this country. I think it would be very tragic if a group of
+this extraordinary capability--as Bob Black used to say, this is the
+best Committee he has seen in all the years he had been on the FOMC-were perceived to be in disarray. It's very important that we act as
+a Committee and try to avoid, where we can, any evidences that this
+Committee is in disarray or something of that sort. If it ever gets
+to the point where this Committee is either in disarray or perceived
+to be in disarray, there is no other institution in this government
+And if my [assessment of] what in fact is
+that can substitute for us.
+causing the problems we are confronting is correct--that it's a deepseated psychological deterioration that continues--it is crucially
+important that we stand tall as a group and try to find the means by
+which we can merge our differences in a way in which the vast majority
+of the Committee can support.
+There have been occasions in the past
+when I've raised the issue of "Let's try to vote together because it's
+a crucial issue" but they were very few. I think I raised it a couple
+of years ago; I may have raised it two or three times in the last
+several years.
+I don't think it's something that ought to be raised
+often because one of the great strengths of this Committee is the
+capability, which I think we exhibited today:
+namely, that we have
+interaction where a lot of minds are changed. I know my views changed
+several times as this meeting evolved because of the evidence and the
+strength of the arguments that came up. That's an extraordinarily
+valuable facet of this Committee. If we at any time endeavored to
+
+-54-
+
+5/18/93
+
+sort of force ourselves into a mold, we would lose that.
+So, there
+are two sides to this question. All I want to say is that Jerry
+Corrigan won't forgive us if we don't get this right!
+In any event, as I read this Committee as to where we stand
+at this point, there is a significant majority who are willing to
+support an asymmetric directive, using alternative B.
+I think we are
+in a position where before any action is taken--or indeed if any
+evidence emerges that would even raise the question of whether we
+should or should not act--we would want a telephone conference. My
+best hope is that this whole psychological thing will dissipate, which
+it could conceivably, that the next set of price data we end up with
+are benevolent, and that we won't speak to each other for the next six
+weeks! The chances of that are less than 50/50.
+But leaving that
+aside, are there any other issues that people would like to surface at
+this time before I call for a vote?
+MR. KEEHN.
+by a phone call.
+
+I think I hear that any change would be preceded
+
+CHAIRMAN GREENSPAN.
+
+Correct.
+
+MR. ANGELL. But that would be more restriction on you than
+you normally have when we have [an asymmetric directive].
+CHAIRMAN GREENSPAN. No, I don't consider that a restriction
+on me. This is something that I want to do.
+I think it is important
+that I get the views of this Committee before making this particular
+decision. Frankly, I don't consider it a diminution of the Chairman's
+power; I want to emphasize that.
+VICE CHAIRMAN CORRIGAN. I also assume that if something
+really ugly happens that has nothing to do with the things we're
+talking about here, you will always have-CHAIRMAN GREENSPAN. Well, let me put it this way. I've been
+around this Committee for a number of years and I think I can say that
+I pretty much know how every single member of this Committee would
+come out under [any given hypothetical] event. In other words, I
+could take the vote myself if I had to and I bet I'd get it on the
+nose three times out of four! The reason for that is that I know
+where you're all coming from. We get updated periodically on what our
+basic views are. So, I don't consider that a major concern.
+Obviously, I'm not arguing that we are setting any precedents; this is
+not a precedent.
+This is something quite extraordinary. I hope that
+we don't have to talk again shortly; but if we do, we shall. And with
+that I would like to get a vote on an asymmetric directive and have
+the Secretary read it.
+MR. BERNARD.
+"In the implementation of policy for the
+immediate future, the Committee seeks to maintain the existing degree
+of pressure on reserve positions. In the context of the Committee's
+long-run objectives for price stability and sustainable economic
+growth, and giving careful consideration to economic, financial, and
+monetary developments, slightly greater reserve restraint would or
+slightly lesser reserve restraint might be acceptable in the
+intermeeting period. The contemplated reserve conditions are expected
+
+-55-
+
+5/18/93
+
+to be consistent with appreciable growth in the broader monetary
+aggregates over the second quarter."
+CHAIRMAN GREENSPAN.
+
+Call the roll.
+
+MR.BERNARD.
+Chairman Greenspan
+Vice Chairman Corrigan
+Governor Angell
+President Boehne
+President Keehn
+Governor Kelley
+Governor LaWare
+Governor Lindsey
+President McTeer
+Governor Mullins
+Governor Phillips
+President Stern
+CHAIRMAN GREENSPAN.
+MR. BERNARD.
+
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+Officially our next meeting is when?
+
+July 6-7.
+
+CHAIRMAN GREENSPAN. July 6-7.
+I assume that all of you are
+joining us for lunch to give our best wishes to Jerry.
+END OF MEETING
+
+

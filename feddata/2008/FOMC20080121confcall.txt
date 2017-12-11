@@ -1,0 +1,921 @@
+January 21, 2008
+
+1 of 32
+
+Conference Call of the Federal Open Market Committee on
+January 21, 2008
+A conference call of the Federal Open Market Committee was held on Monday, January
+21, 2008, at 6:00 p.m. Those present were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Mr. Evans
+Mr. Hoenig
+Mr. Kohn
+Mr. Kroszner
+Mr. Poole
+Mr. Rosengren
+Mr. Warsh
+Mr. Fisher, Ms. Pianalto, and Messrs. Plosser and Stern, Alternate Members of the
+Federal Open Market Committee
+Messrs. Lacker and Lockhart, and Ms. Yellen, Presidents of the Federal Reserve Banks
+of Richmond, Atlanta, and San Francisco, respectively
+Mr. Madigan, Secretary and Economist
+Ms. Danker, Deputy Secretary
+Mr. Skidmore, Assistant Secretary
+Ms. Smith, Assistant Secretary
+Mr. Alvarez, General Counsel
+Mr. Baxter, Deputy General Counsel
+Mr. Sheets, Economist
+Mr. Stockton, Economist
+Messrs. Clouse, Connors, Kamin, Sullivan, and Wilcox, Associate Economists
+Mr. Dudley, Manager, System Open Market Account
+Mr. English, Senior Associate Director, Division of Monetary Affairs, Board of
+Governors
+Mr. Dale, Senior Adviser, Division of Monetary Affairs, Board of Governors
+Mr. Levin, Deputy Associate Director, Division of Monetary Affairs, Board of Governors
+Mr. Luecke, Senior Financial Analyst, Division of Monetary Affairs, Board of Governors
+Messrs. Judd, Rosenblum, and Sniderman, Executive Vice Presidents, Federal Reserve
+Banks of San Francisco, Dallas, and Cleveland, respectively
+
+January 21, 2008
+
+Ms. Mester and Mr. Weinberg, Senior Vice Presidents, Federal Reserve Banks of
+Philadelphia and Richmond, respectively
+Mr. Hakkio, Senior Adviser, Federal Reserve Bank of Kansas City
+
+2 of 32
+
+January 21, 2008
+
+3 of 32
+
+Transcript of the Federal Open Market Committee Conference Call on
+January 21, 2008
+CHAIRMAN BERNANKE. Good afternoon, everybody. Thank you for taking time on
+your holiday. The purpose of this meeting is to update the Committee on financial developments
+over the weekend and to consider whether we want to take a policy action today. I would like to
+start with a brief update on the markets from Bill Dudley and take any questions for him, and
+then I will introduce the issue, make a recommendation, and ask for your comments following
+that. Bill, would you like to give us a short review?
+
+MR. DUDLEY. Thank you, Mr. Chairman. Since our videoconference on
+January 9, the market functioning in terms of the bank term funding markets has
+generally continued to improve, with the one-month and three-month LIBOR relative
+to the overnight index swap rates coming back very sharply. They are now as narrow
+as they’ve been since the market turmoil began. But elsewhere in terms of market
+functioning, we started to see a step backward last week—especially late in the
+week—when we viewed the asset-backed commercial paper market beginning to
+deteriorate again, and there was some flight to quality into the Treasury bill market
+late last week.
+More important, the macro outlook and broader financial market conditions
+have continued to deteriorate quite sharply. The S&P 500 index, for example, fell
+5.4 percent last week; it is down almost 10 percent so far this year. Today it fell
+another 60 points, or 4.5 percent, so that means that the cumulative decline in the
+S&P 500, if it opens near where the futures markets closed today, will be nearly
+15 percent since the start of the year. Global stock markets were also down very
+sharply today—Monday. Depending on where you look, the range of decline was
+anywhere from 3 percent to 7½ percent, pretty much across the board. Corporate
+credit spreads and credit default spreads have continued to widen, and bank mark-tomarket losses and loan-loss provisions keep increasing. The Merrill Lynch and
+Citigroup earnings announcements last week generally suggested a widening in terms
+of the scope of losses, not just in subprime but also in terms of credit card receivables
+and other loans.
+A newish wrinkle here in terms of bank markdowns reflects the deterioration of
+some of the monoline guarantors. Merrill Lynch, for example, announced a
+multibillion dollar charge for its exposure to ACA, which is the most impaired of the
+monoline guarantors. The other monoline guarantors are in better shape, but they’ve
+either been downgraded, such as the case of Ambac by Fitch on Friday afternoon, or
+are under review for being downgraded by a number of different credit-rating
+
+January 21, 2008
+
+4 of 32
+
+agencies. The problem with the monoline guarantors is that raising capital has
+become much more difficult. Ten days ago, for example, MBIA issued 14 percent
+surplus notes, which are now trading at about 70 cents on the dollar. It’s not clear
+how much additional capital is needed to keep the AAA rating. The goal posts keep
+moving. S&P, for example, raised its loss estimates on subprime mortgages about a
+week and a half ago, and this has implications for the monoline insurers in terms of
+their capital adequacy.
+So the bottom line is that, unless the monoline insurers raise significant additional
+capital soon, further rating downgrades seem very, very likely. This has three
+potential consequences that are noteworthy. First, in the money market space, a
+number of money market products are wrapped by the monoline guarantors, including
+variable-rate demand notes, auction-rate securities, and tender option bonds. Some of
+these securities have liquidity support, so if the securities can’t be rolled over, they’ll
+go to the banks, and this will increase the pressure on bank balance sheets. For those
+without liquidity support, either they will be converted to longer-dated securities,
+which the investors will be surprised to find out they are holding, or the dealers will
+have to take them back on their books to prevent the auctions from failing. A second
+consequence from monoline guarantor downgrades would be to the municipal bond
+funds. The loss of AAA insurance raises the question of what the retail bond
+investors do. Do they start pulling out their money and run? So far things are pretty
+calm on that front. For example, last week the net asset values of some of the major
+muni bond insurance funds actually increased a bit for the week. So there are no
+signs of a run there yet, but we haven’t really explored this fully, given the fact that
+only one major monoline guarantor has been downgraded and that happened late, late
+last week. Third, financial institutions have to mark down the value of the
+guarantors’ insurance as their financial conditions worsen. In contrast, the monolines
+don’t have to mark to market. Downgrading the monolines frontloads the hit to
+capital and potentially aggravates the magnitude of the hit to capital because market
+valuations can overshoot. So it is not trivial to transfer this risk from the monolines
+to the financial institutions given the distinction that the monolines do not have to
+mark to market but financial institutions that use their insurance do.
+At this point, monetary policy expectations have priced in a lot of easing over the
+near term. As of Friday’s close, there were about 67 basis points priced in through
+the January meeting at the end of the month and about 110 basis points priced in
+through the March meeting (if you look at the April federal funds futures contract).
+There is likely more than that now given the decline in the equity futures market that
+we saw today. So the markets are expecting quite a bit from the Fed. I’ll be happy to
+take any questions, of course.
+CHAIRMAN BERNANKE. Are there questions for Bill? President Lacker?
+MR. LACKER. Can you explain that third consequence of monoline downgrades? I
+didn’t quite get that.
+
+January 21, 2008
+
+5 of 32
+
+MR. DUDLEY. The monoline insurers don’t have to mark to market the consequences
+of the deterioration in, say, the structured-finance product they insured. All they have to do is
+pay out, as it is incurred, the interest that the structured-finance product can’t pay out. So their
+losses are going to be realized only very gradually over a long period of time. There is no sort of
+foreshortening of all that into the present. In contrast, if a monoline guarantor gets downgraded
+and so the financial institution no longer has the support of that monoline guarantee, they have to
+write down instantaneously the value of the assets that were wrapped by that guarantee. So it’s
+quite a big difference in terms of the market impact as you transfer that risk from the monoline
+guarantors to the financial institutions that bought that insurance.
+CHAIRMAN BERNANKE. Other questions for Bill? President Hoenig.
+MR. HOENIG. Yes, Mr. Chairman. I don’t want to get ahead of what you might be
+saying, but if Bill could give us a sense of what the markets are doing overseas, I would
+appreciate just his sense of things.
+MR. DUDLEY. Well, the market on Monday morning in Asia was down somewhere
+around 3, 4, or 5 percent, and it was everywhere, including some of the emerging markets that up
+to now had performed pretty well. India took one of its biggest one-day hits, for example, in a
+very long time. Then, we got to Europe, and the declines in Europe were actually a little bigger
+than the declines that we saw in Asia. For example, the Dow Jones STOXX 50 Index, which is
+an index of 50 large European companies, was down 7¼ percent on Monday. The market went
+down sharply at the open, it rallied back up a bit during the day, and then it came sharply down
+again at the close. So for both indexes you are basically at or very close to the low for the day.
+Bond markets reacted as you might expect. Bond markets rallied as people became more
+pessimistic about the stock market. In the currency market, we saw the sort of normal risk-
+
+January 21, 2008
+
+6 of 32
+
+aversion behavior. The euro underperformed, the dollar was in the middle, and the yen
+appreciated as people were reducing their risk appetites.
+I talked to some people about what was going on in Europe. I didn’t really feel as though
+my contacts there were focused exclusively on the financial guarantors. That was part of the
+story, but there were other parts of the story, including the idea that maybe decoupling isn’t
+going to happen to the degree that we hoped. Also, part of the story was that the risks of
+recession in the United States were increasing. So financial guarantors got part of the blame for
+the stock market decline in Asia and Europe, but that by no means was the whole story.
+CHAIRMAN BERNANKE. Other questions? If not, let me just talk about the issue
+here. I was reluctant to call this meeting, both because of the holiday and because the
+Committee did express a preference on January 9 for not moving between regularly scheduled
+meetings and I accepted that judgment on January 9. However, I think there are times when
+events are just moving too fast for us to wait for the regular meeting. I know it is only a week
+away, but seven trading days is a long time in financial markets. As Bill described, over the
+holiday, global stock markets have been falling very sharply, both in Asia and in Europe. As he
+mentioned, even though the U.S. markets are closed, the S&P 500 was off about 60 points today,
+close to 5 percent. That makes the cumulative decline in the S&P 500 since our last FOMC
+meeting 16½ percent. Obviously, it is not our job to target stock values or to protect stock
+investors, but I think that this is a symptom of both sharply mounting concerns about the
+economy and increasing problems in credit markets.
+On the economy, the data and the information that we can glean from financial markets
+reflect a growing belief that the United States is in for a deep and protracted recession.
+Moreover, as we saw from the global markets today, the concern is rising that that recession will
+
+January 21, 2008
+
+7 of 32
+
+have global consequences. Consequently, we saw, for example, an 8 percent drop today in the
+German stock market. The dollar rose today, reflecting I think increasing belief that other
+central banks will have to follow us in cutting rates, and oil prices are down to about $87,
+reflecting expectations of slowing global demand. So it is not necessarily a U.S.-only story.
+On the financial side, as Bill noted, a lot of things are going on. The latest is the likely
+downgrade of one or more of the monoline insurers, which would cause banks and other
+financial institutions to have to mark down billions more of their holdings. I think there is a
+general sense—I certainly feel in talking to market participants—that it is not just subprime
+anymore and that there are real concerns about other kinds of consumer credit—credit cards,
+autos, and home equity loans—and that there is fear of housing prices falling enough that
+contagion will infect prime mortgage loans. There is building in the market a real dynamic of
+withdrawal from risk, withdrawal from normal credit extension, which I think is very worrisome.
+Would a rate action today, before the start of trading tomorrow, be of help? I don’t
+know. In some sense it was a lucky break that today was a holiday because in the middle of the
+day we got a very good read on what the markets are doing tomorrow, and so we can get ahead
+of things as opposed to being forced, after a couple of disastrous days, to respond. Again, I don’t
+know if this would help, but I think that indicating that the Fed is on top of the situation and that
+we are proposing to address economic and credit risks aggressively would help. In any case, it
+would at least make clear that the Fed was in touch with the situation.
+I think we have to take a meaningful action—something that will have an important
+effect. Therefore, I am proposing a cut of 75 basis points. I recognize that this is a very large
+change. I would not do that if I thought that the size of the cut was inconsistent with our
+medium-term macroeconomic objectives. Let me discuss that a few minutes.
+
+January 21, 2008
+
+8 of 32
+
+As I said to some of you, on Friday I had a briefing from Dave Stockton and his team
+about their Greenbook forecast for next week’s meeting. They have not made an explicit
+recession call, but they do forecast very weak growth going forward. More important, in order to
+get that positive economic growth, they revised down their assumed path of the federal funds rate
+by 100 basis points—50 basis points next week and 50 basis points in March. That gives a
+cumulative decline in the staff’s fed funds assumption of 200 basis points since August, which is
+consistent both with the markets and with a 225 basis point decline in medium-term r*, which is
+an indicator of the neutral rate, as well as the optimal policy rate that they calculate. Importantly,
+of course, we have lowered the funds rate only 100 basis points so far, so I think at first
+approximation we are about 100 basis points behind the curve—something in that general area—
+in terms of the neutral rate, and that itself doesn’t even take into account what I believe at this
+point is a legitimate need for risk management.
+With respect to risk management, these credit risks obviously have the potential to feed
+back into our financial system and to affect the economy going forward. I hope to be able to talk
+next week more about a simulation the staff is working on, which shows that a severe recession
+would create extraordinary credit losses for our financial institutions, with implications
+obviously for credit extension and for financial stability. It is just one indicator, but a paper by
+Carmen Reinhart and Ken Rogoff has been circulated in the past couple of days, which compares
+some indicators of our economy with other major financial crises and finds that we rank at the
+moment among the five largest financial crises in any industrial country since World War II.
+Given what their indicators show, they conclude that, if we have only a mild recession in the
+United States, it would be a very fortunate outcome. Now, I am not saying that this is
+necessarily evidence, but I am saying that there are risks and that a careful approach should
+
+January 21, 2008
+
+9 of 32
+
+allow for some easing with respect to risks. Governor Mishkin is not here. He is aware of this
+meeting, but he is on the slopes—I think in Idaho somewhere. He has made I think a case for
+being more aggressive initially, trying to address the problem, and then removing
+accommodation as the situation calms down. I think there is a case for doing that, given the fact
+that we have done 100 basis points and that we seem to have not really made a dent.
+Now, of course, there is also the issue of inflation. Many of you have valid concerns
+about inflation. Let me just make a few comments on that. First, in the Greenbook, despite a
+100 basis point drop in the rate assumption and the scenario that I take as being in some sense
+optimistic in that it avoids an outright recession, the preliminary Greenbook forecast for 2009
+has total PCE inflation at 1.7 percent and core PCE inflation at 1.9 percent. This does not take
+into account any disinflationary effects that would arise if we did have an NBER recession or
+worse. Again, I note that we have, for example, effects working through oil prices, which the
+Greenbook doesn’t take into account directly. So I think, obviously, that we have to continue to
+watch inflation and inflation expectations carefully. It is very important to do so. But at this
+point we are facing, potentially, a broad-based crisis. We can no longer temporize. We have to
+address this crisis. We have to try to get it under control. If we can’t do that, then we are just
+going to lose control of the whole situation.
+So that is my case. I think we really have no choice but to try to get ahead of this. A
+statement has been circulated. Those of you who wish to comment on the proposal—of course,
+you can. You may wish to comment on the statement as well. But let me just stop there and see
+what comments the Committee has. President Plosser?
+MR. PLOSSER. Just as a point of clarification, I have not received the statement. I have
+not had access to encrypted e-mail. May I ask that it just be read?
+
+January 21, 2008
+
+10 of 32
+
+CHAIRMAN BERNANKE. Certainly. Let me do that. I had one word in the second
+paragraph—the word “broader”—which I will come to.
+“The Federal Open Market Committee has decided to lower its target for the federal
+funds rate 75 basis points to 3½ percent.
+The Committee took this action in view of a weakening of the economic outlook and
+increasing downside risks to growth. While strains in short-term funding markets have eased
+somewhat, broader—add that word—financial market conditions have continued to deteriorate
+and credit has tightened further for some businesses and households. Moreover, incoming
+information indicates a deepening of the housing contraction as well as some softening in labor
+markets.
+The Committee expects inflation to moderate in coming quarters, but it will continue to
+monitor inflation developments carefully.
+Appreciable downside risks to growth remain. The Committee will continue to assess the
+effects of financial and other developments on economic prospects and will act in a timely
+manner as needed to address those risks.”
+President Evans.
+MR. EVANS. Thank you, Mr. Chairman. I strongly support this recommendation. At
+our last videoconference, I was in favor of action at that time. The situation has deteriorated
+since then. I think the macroeconomic outlook supports this type of move. As we look at the
+data, we are on the edge of a more serious downturn. It is not exactly clear how large that will
+be, but we ought to be pricing in at least 100 basis points of accommodation against what I think
+of as sort of a medium-term neutral rate of about 4½, and this is a move that takes us there. I
+
+January 21, 2008
+
+11 of 32
+
+think the growth risks are definitely greater, and the real question after this is what it means for
+our meeting next week. But I strongly support this.
+CHAIRMAN BERNANKE. Thank you. President Stern.
+MR. STERN. Thank you, Mr. Chairman. I largely share your assessment of the situation
+and certainly support this action and taking it now. What has really caught my attention is the
+breadth of the weakness of the incoming data and the extent of the financial problems, some of
+which Bill Dudley covered. I don’t have the sense at this point, given both the nature of the
+incoming data and the state of many of the financial markets we pay attention to, that there is a
+lot of latent or underlying strength in the economy. So that affects my view of the outlook as
+well, and I think it is important that we move aggressively, decisively, and in a timely way.
+Of course, the inflation numbers haven’t been all that I might have hoped for, and even
+core inflation has been running a little higher than I thought it would. But even if we were in
+some sort of more formal inflation-targeting regime—and, of course, we are not—I have always
+assumed and always argued that, when you are confronting these kinds of conditions, you would
+deal with that situation as effectively as you can first and return to your inflation objective when
+conditions permitted. So I don’t have any trouble taking such aggressive action at this point.
+CHAIRMAN BERNANKE. Thank you. President Yellen.
+MS. YELLEN. Thank you. I strongly support your proposal for a 75 basis point funds
+rate cut today, and I like the proposed wording of the statement. The outlook has deteriorated,
+not only since December but since our conference call. The downside risks have clearly
+increased. I think the risk of a severe recession and credit crisis is unacceptably high, and it is
+being clearly priced now into not only domestic but also global markets. Even so, I put the
+stance, as best I can judge it, of monetary policy within the neutral range. Policy should be
+
+January 21, 2008
+
+12 of 32
+
+clearly accommodative. We also need a cushion against severe downside risks. We need strong
+action, and your speech has prepared the markets for actions of this sort. At this point, they are
+expecting at our next meeting more than 50 percent odds of a 75 basis point cut. An
+intermeeting move will be a surprise, but I think it will show that we get it and we recognize we
+have been behind the curve. I think it will be assumed with this statement and action today that
+we will move somewhat further as well at our next meeting. That is something we should
+recognize—the statement creates that expectation.
+CHAIRMAN BERNANKE. Thank you. President Rosengren.
+MR. ROSENGREN. I, too, strongly support reducing the federal funds rate 75 basis
+points. I am very concerned about financial market conditions detailed earlier by Bill. It is
+widely viewed in the business community that we are slipping into a recession. Problems with
+consumer debt are growing. I am concerned not only that we might be in, or about to be in, a
+recession. I am concerned also how severe a recession could be. It is time to take decisive and
+aggressive action, and I agree that, even with this cut, downside risks remain. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Poole.
+MR. POOLE. Thank you. I accept all the discussion about the risks of recession and the
+risks of the financial markets. All those are relevant to what we do next week. But the key issue
+for me is what we get by acting now rather than nine days from now. I note that the stock market
+has declined, despite the fact that the market has built in the expectation of 50 basis points, with
+some probability of 75. If we do today pretty much exactly what is expected of us nine days
+from now, it is not clear that we are going to accomplish a lot that is positive, and I believe that
+we run the risk of upsetting things in a couple of ways.
+
+January 21, 2008
+
+13 of 32
+
+First of all, whenever we act between meetings, we set a precedent, and what this will do
+in the future, maybe even in the very near future, is that whenever we have a stock market
+decline of this magnitude, if we get some more of them—and we could easily—or whenever we
+have some bad economic data—and we certainly could have some—there will be speculation in
+the market as to whether the FOMC is going to jump in with an intermeeting policy action. So
+we have to be confident in our own minds that we are not setting a precedent that we will live to
+regret.
+Second, this action will not be viewed in the marketplace as anything other than a direct
+response to the stock market. I understand the comments about the other strains in the financial
+markets. Although the thing that we have most commonly pointed to, and it has occasioned the
+most market discussion, has to do with the behavior of the LIBOR rate, LIBOR seems to have
+settled down. It is trading below fed funds, and the further out you go in the future, the lower is
+LIBOR. So it seems to me that that situation has largely returned to normal.
+So before I am willing to support, I need to hear compelling arguments as to what we
+gain from acting today rather than nine days from now and what the risks of acting today are. I
+think there are downside risks in acting today rather than nine days from now, and to me that
+needs to be the focus of our discussion. I agree that the economy is weak, and I agree that there
+are a lot of problems in the financial markets. Thank you.
+CHAIRMAN BERNANKE. Thank you. Who is next? Would anyone else like to
+speak? Vice Chairman.
+VICE CHAIRMAN GEITHNER. Mr. Chairman, of course, I support your
+recommendation. I think it is the right thing to do. Even with this move, I think we are likely to
+have to move significantly further. It is hard to know how much more and what the optimal
+
+January 21, 2008
+
+14 of 32
+
+timing of further actions is going to be. It is very important, in the context of a move, that we
+signal—as your statement does—that we will do what is necessary to provide a meaningful
+degree of accommodation, a meaningful degree of insurance against a more adverse set of
+financial and economic outcomes. If we were to wait until the meeting, we would be taking just
+too much risk. I think it would be irresponsible to take the risk that we would see a substantial
+further deterioration in confidence and in market prices, which would do substantially more
+damage to market functioning than we have witnessed so far.
+I think you said on January 9, Mr. Chairman, that the risk we have to worry about is not
+so much that we have simply a mild, short, and shallow recession but that we face a much deeper
+and more protracted economic downturn with much more damage to the financial system that
+would ultimately require, if it were to happen, much more action in terms of monetary policy
+with perhaps more-adverse consequences for future incentives and for the economy as a whole. I
+think that that is a risk we have to worry about. It is very hard to judge what the probability of
+that risk is. None of us can know for sure what the next nine days would be like if we did not
+act. None of us can know the probability that the market will work through this stuff on its own.
+It is a matter of judgment, and I think your judgment on this is right. I strongly support it. I just
+would say again, although I don’t think any of us can support this with hard, quantifiable
+evidence, that conditions are so fragile and so tenuous now that by not acting tomorrow morning
+we would be taking an irresponsible risk that we would see substantial further erosion in
+confidence. That would put us in a much weaker position to mitigate these risks going forward.
+CHAIRMAN BERNANKE. President Hoenig.
+MR. HOENIG. Yes, Mr. Chairman. I am troubled by this, I will admit. I understand the
+arguments, and it is difficult to argue against dodging a crisis. It is a very daunting thought to
+
+January 21, 2008
+
+15 of 32
+
+think about a crisis that you might have avoided had you just taken certain actions. I would echo
+Bill Poole a bit in terms of understanding what we will get out of this and how we will deal with
+backing away from this in the future because part of the reason we have the problem today, of
+course, is the last crisis. The desire is to intervene, to get the market rates down, and to bring
+confidence; but then our ability to pull out of that is compromised because we can’t be sure in an
+uncertain world of how strongly the economy might be coming out of something. Therefore, we
+often delay and create the next issue that we have to deal with—as we are today.
+So I am troubled. I know the risk coming in tomorrow. I know we are being driven
+heavily by these markets. At the same time, I think doing an intermeeting move commits us to
+another move down the way. It will be hard to stay at rates that are not going to at least invite
+another series of problems down the road because I see us at 3 percent by nine days from now.
+So how do we deal with that? I would at least like to hear some discussion as we consider this
+pretty substantial action tonight. Those are my comments.
+CHAIRMAN BERNANKE. Thank you. President Lacker.
+MR. LACKER. I can support a 75 basis point cut in the funds rate this month, Mr.
+Chairman. I had been thinking of something less. The data last week were clearly negative,
+clearly disappointing, so I could support 75 at our meeting. Like President Poole, I have real
+reservations about moving now rather than waiting until our meeting. I think that in the situation
+this is inevitably going to be viewed as a reaction to the falloff in equity markets. Interpreters
+are going to take into account that we could have moved last week, after the slew of real data—
+Thursday afternoon, for example, after the housing report—or we could have waited until our
+meeting ten days from now. I worry about the message that this tactical choice sends about our
+strategy. I worry about what it says about what drives our reaction function and what we believe
+
+January 21, 2008
+
+16 of 32
+
+that we can control or offset. I share President Poole’s concern that what we gain isn’t clear. I
+can appreciate the possibility of financial market fragility, but I don’t see the level of the funds
+rate as real closely tied to conditions of fragility. I don’t think a funds rate change is going to
+save the monolines. I don’t think it is going to save financial institutions from the monolines.
+So I have reservations and would rather wait until our meeting. But I can support moving 75.
+CHAIRMAN BERNANKE. Thank you. President Lockhart.
+MR. LOCKHART. Thank you, Mr. Chairman. In the earlier discussion on January 9, as
+I recall, I not only supported a move but suggested that I would support an intermeeting move if
+the conditions merited, and I do think they merit it. I am really in the same camp as President
+Geithner. I am not sure I see what is to be gained by waiting another eight or nine days. I think
+the psychology here is bordering on, shall we say, a spiral quality. A preemptive move like
+this—preemptive on two dimensions, the rate dimension and the timing dimension—has a shot at
+changing the overall psychology of the moment, including perhaps even creating an atmosphere
+in which support for the monolines, if they are having trouble raising capital, might very well be
+a more rational decision on the part of some investor.
+I think we would appear much less panicky than we might have on January 9. We are not
+doing this in combination with the TAF. The TAF actually appears to have done its work pretty
+well, and the need for the TAF may be diminishing. Not much more data will come in the next
+few days, if I have my schedule correct. I think we are at a kind of juncture now where the
+spillover from the financial markets is not really much debatable; it is very clearly happening,
+with risk of a dynamic that feeds off itself. So I am very supportive of this move, and that is
+really my position. Thank you very much, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Fisher.
+
+January 21, 2008
+
+17 of 32
+
+MR. FISHER. There are some pros to moving now, and there are some cons. Clearly,
+one of the pros is that we would have the element of surprise. It is a holiday. We have the
+benefit of some knowledge of new data and what has happened in the market starting in Asia and
+rolling through Europe, which Bill walked us through. I do have some concerns, however, Mr.
+Chairman. I know you know what they are. I articulated them in a speech in Philadelphia, and
+we discussed these a bit. I have basically the same concerns that President Poole, President
+Hoenig, and President Lacker have. The question is, What do we get for this? What
+expectations do we build in for future decisionmaking? My biggest concern, however, is that I
+have yet to see convincing evidence that we are seeing movement on the inflation front. If we
+were to cut rates to this level today, as of now, in terms of the headline CPI and PCE numbers,
+we would have a negative real rate of interest, and I don’t understand quite fully what the
+consequence of that would be. The projections in the Greenbook are just that—they are
+projections. They can be right, and they can be wrong, as thoughtfully as they are constructed.
+Unlike President Rosengren, although I am only about 30 percent of my way through my
+CEO calls in preparing for the meeting, I don’t hear a widespread expectation of recession. I do
+hear a concern about slowing down, and we have seen that in all of the indexes that I like to talk
+about in the meetings from the credit card payables, delinquencies in payments, the Baltic index,
+et cetera, et cetera. But the words “severe recession” I have yet to hear from the lips of anybody
+but those in the housing business, and for them, it gets more severe with each passing moment.
+So I am not convinced of the economic case, and yet I can see where there are some
+benefits to moving now. The real question is, What do we do next? If the markets react by
+blowing us off, does that mean that we will be expected to move aggressively at the next meeting
+and then the next meeting after that? Or as President Poole has mentioned, does that mean that
+
+January 21, 2008
+
+18 of 32
+
+we will have to have some more interim meetings? I am a little worried about being trapped by
+this concept of being behind the curve. There is a fine line between being behind the curve and
+what may be an overreaction. But, Mr. Chairman, I don’t have a vote at this meeting, and I
+would just ask you to consider the arguments that have been put forward by Mr. Poole, Mr.
+Hoenig, and Mr. Lacker and the ones that I have just given. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Pianalto.
+MS. PIANALTO. Thank you, Mr. Chairman. I support your proposal for a 75 basis
+point reduction in the fed funds rate today. At the time of our last call, I was hesitant about
+moving because it was in advance of some important data. Obviously, we got those data, and
+they were very weak. Financial conditions, as many have indicated, have also deteriorated. My
+conversations with the bankers in my District indicate that the earnings reports that are coming
+out will demonstrate that problems have spread beyond just the mortgage sector. They are also
+seeing deterioration in credit card and other consumer debt. I think that it is important that we
+move in a timely and an aggressive way. I don’t think that there is much to gain by waiting
+another week. In this environment, I do believe that we should make every effort to make sure
+that we are more accommodative and not stay inadvertently restrictive, as the evidence suggests
+we are today. So I do support moving 75 basis points today. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. I think we are in a very, very difficult
+position. I don’t want to reiterate many of the points that have been already made. I certainly
+appreciate and am sympathetic with the point of view that markets are fragile. Market
+expectations, in terms of what they seem to be building into the path of the economy going
+forward, seem to me extraordinarily volatile and pessimistic. I am very concerned about that.
+
+January 21, 2008
+
+19 of 32
+
+That bothers me. But at the same time I also am very concerned about the expectations this sets.
+While the U.S. market was closed today, we have heard what has gone on in the foreign markets.
+I am very concerned that we are going to be interpreted as reacting to the stock market declines,
+and I think my concern is that lowering the funds rate terribly rapidly with intermeeting moves is
+going to set up a dynamic that is going to drive us into more and more of these and drive the
+markets into expecting more and more from us. It is not clear to me that the fragility that exists
+in the market in fact will be solved by rapid cuts in the funds rate. I share President Lacker’s
+concern that it is not clear that lowering the funds rate is a solution to the problem of the
+monoline insurance companies or others.
+Having said that, I nonetheless would certainly be supportive of a very dramatic action at
+our regularly scheduled meeting. Frankly, I am very torn right now as to whether to support this
+intermeeting cut. My gut instinct tells me “no,” but I also have to recognize the views shared by
+a number of our colleagues who are concerned about the fragility of the markets and the signals
+we are sending. If we decide to go through with this today, I think that we will find ourselves in
+a very tough position at our next meeting as to how much more will be expected from us and at
+what rate. President Poole or President Lacker pointed out that it was partly our aggressive ratecutting in some periods that helped foster some of this, and we may be setting ourselves up for
+another fall. I share Governor Mishkin’s view that if, in fact, we are to get aggressive, we also
+have to be willing to take it back when times change. I understand that view, and I can live with
+it, except the history of this institution is that we haven’t been very aggressive in doing that or
+demonstrating our ability to do that.
+So I have a lot of concern and caution about this move. I think it is going to affect
+expectations of us as we move forward, and I think we need to be realistic about what it is we are
+
+January 21, 2008
+
+20 of 32
+
+buying with this. I am not sure we are buying very much. Maybe we will calm some market
+nerves. If so, that would be great, and it may be of short-run benefit, at least over the next nine
+days. I worry what it is going to mean for us over the next nine months as we move forward. So
+those are my views. I am not a voting member at this meeting, but I just wanted to share those
+views. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Poole, did you want to intervene?
+MR. POOLE. Yes, if I may. I have a question of fact first and then a further question.
+Do we know at all what the ECB and the Bank of England are considering given that the markets
+were open and they are the ones who have seen markets and know what is going on there today?
+CHAIRMAN BERNANKE. We don’t know what they are considering, but just to
+anticipate my response to some of these comments, I think the situation in the United States, the
+fundamental situation, is much more severe at this juncture than in Europe or the United
+Kingdom. The basis for this move is not to calm markets per se but rather to get the funds rate
+closer to where it ought to be on fundamental grounds. But to answer your question, I don’t
+know what the ECB and the Bank of England are contemplating. You had a second question.
+MR. POOLE. I think the market’s view, then, is going to be that we are responding to
+the markets abroad. Our own market has been closed. I understand the futures market, but there
+are a lot of people who don’t understand the futures market or know of its existence. So I think
+that the investor on the street, if you will, will be saying that we are responding to foreign
+markets. In terms of the problems in the financial markets, the monoline insurers and others, that
+is a problem of the capital of those firms. Cutting the funds rate does nothing to build up capital
+for those firms. I still come back to the point that I do not see a convincing argument for acting
+today rather than nine days from now, and I see lots of downside to acting today because of the
+
+January 21, 2008
+
+21 of 32
+
+problems that it is going to create for us in the future. I really believe that, and I just don’t see
+the argument for acting today.
+CHAIRMAN BERNANKE. Governor Kohn.
+MR. KOHN. Thank you, Mr. Chairman. I strongly support your proposal. As I noted in
+our conference call a couple of weeks ago, I think our reaction to the incoming data and to the
+change in financial conditions, even as of a couple of weeks ago, was much smaller than it
+needed to be to stabilize the economy. We had a long way to go, and the situation has
+deteriorated since then, a little bit on the data side—the consumption data were a little weaker
+than we expected—but much more in the financial markets. We have a vicious cycle in housing
+between the financial markets and the housing markets, where the decline in the housing markets
+is feeding into the credit markets, which is feeding back on the housing market. I think there is
+evidence, as others have cited, that it is spreading geographically a bit to other countries, which
+means that the export support that we were counting on may not be as strong as it was, and
+spreading to other markets like the consumer credit markets. I agree that the equity markets per
+se aren’t our goal, but declines in equity prices destroy wealth. I think they are symptomatic, as
+you indicated, Mr. Chairman, of a fear and a declining confidence in where this economy is
+going. That dynamic of declining confidence and growing fear argues for early action despite a
+number of reasons to wait for the next meeting.
+I agree with President Poole that no one can be certain what the market reaction will be
+and what kind of responses we will get now and in the future. We could look panicky. We
+could set up expectations in the future that we would regret. But I think the greater risk would be
+in not acting. Given the dynamic out there, living through another nine days before the next
+meeting has a very high degree of risk that we could come into that meeting in a very, very
+
+January 21, 2008
+
+22 of 32
+
+adverse spot in terms of where the markets are and what is expected of us. So there is no
+guarantee of success here. That is for sure. But if I were going to place my bets—and I guess I
+am as a voting member of the Committee—I would place it on acting now rather than later.
+President Lockhart talked about the potential positive effects on psychology. I think that is part
+of it. There are also just the normal channels through which monetary policy works on the
+economy. Lowering interest rates will help in terms of asset prices, and it will help financing
+costs; and given the risk of waiting, I think we should get to that right away. I agree that it is not
+going to do anything directly for the monolines or for the other institutions that need capital. But
+part of what is driving this fear and eroding confidence is the concern about recession. I think
+lowering interest rates, doing it promptly, and doing it emphatically with 75 basis points, as well
+as acting through the usual channels, will help ameliorate that fear.
+In terms of taking it back, the point that President Hoenig made, I think the history of
+what we have done is pretty complicated and more complex maybe than that we are always too
+late taking it back. If we were always too late, we would have seen an upward trend in inflation.
+But we haven’t. We have seen a downward trend in inflation for the past 25 years. So it seems
+to me that the proof of the pudding is in the inflation eating, and I don’t think we have been
+reluctant to—I mean, yes, you can argue that we should have done it one meeting sooner or that
+sort of thing. That is all 20/20 hindsight. You know, you can always make that argument. But I
+think basically monetary policy has accomplished its objectives pretty darn well over this period,
+reacting to financial market distress and then taking it back when we see the distress being
+alleviated. I think, President Hoenig, if we keep our eye on the inflation forecast, if we make
+sure that we are forward-looking in that regard, that we will take it back in a timely way. Even if
+we get started a meeting or two too late, we can move up faster after we start. So I don’t think
+
+January 21, 2008
+
+23 of 32
+
+our history is so unambiguous that we are always late taking things back. I don’t think the
+results support that kind of assertion.
+I agree with you, Mr. Chairman, that we cannot take our eyes off inflation, particularly
+inflation expectations. If we had a build in inflation expectations, that would set into motion a
+very serious and destructive dynamic, especially with the dollar. But I do think that declining
+resource utilization, a soft economy, even if it’s not in recession, will exert competitive pressures
+on both workers and businesses as they consider raising prices. Our focus right now, as several
+of you have remarked, given the risk to the economy, must be on financial stability and its
+implications for the economy. That is where we need to focus our attention at the moment.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Governor Warsh.
+MR. WARSH. Thank you, Mr. Chairman. Let me just make a few brief points. First,
+during the discussions on this call, we have described these financial markets as fragile. That
+strikes me as rather euphemistic for what we have been witnessing really since the first of this
+year, particularly what is being witnessed overseas today. The losses appear to be selfreinforcing. Panic appears to be begetting further pullbacks by investors, retail and institutional
+alike. There seems to be continued interest in the safest currencies, and this pullback strikes me
+as quite nondiscriminate, geographically and in terms of sectors, companies, and even entire
+asset classes. Certainly, we shouldn’t be responding to those moves unless, when we think about
+our credibility, we think about it both with respect to our inflation-fighting credibility and, I
+think as Governor Kohn just said, our financial stability credibility. I think the standard for
+moving between meetings is a very high one; but looking at the evidence, both in the financial
+
+January 21, 2008
+
+24 of 32
+
+markets and in the real economy, and thinking about our own credibility, my sense is that we
+rather convincingly meet that standard.
+My judgment would be, if we chose not to act today, that we would in all likelihood not
+make it until next week. There can’t be a ton of conviction that by virtue of 75 basis points
+today we are going to redress some of this fear and some of the psychology that is working
+against us in the markets. But just because we don’t have a panacea, just because monetary
+policy can’t solve the monoline problem and can’t solve some of the other problems, doesn’t
+mean that we shouldn’t be doing our part. It strikes me that by taking action today we are doing
+our part. We are showing the financial markets and the real businesses that we do get it.
+Speaking for myself, I am glad that the interbank funding markets are working better. That puts
+them in a better position to take more advantage of changes in monetary policy. Through the
+TAF and through time they are now lending to each other. But based on what has happened in
+the last several days, it doesn’t look as though they are going to be lending to many others. So
+our action today needs to be focused very much on that front.
+With all that said, Mr. Chairman—and recognizing how quickly the decoupling
+hypothesis seems to have raced away from these markets as quickly as it found its way into their
+collective wisdom—we look to emerging markets and look to markets here in the United States.
+I think our actions today will go some small way to ensure that markets come back to a more
+realistic assessment, but we shouldn’t fool ourselves that somehow we in any way are going to
+be solving this problem between now and the next time we meet. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+MR. KROSZNER. Thank you very much, Mr. Chairman. I think it is very clear that the
+numbers have weakened significantly from where we were before. In some sense, the pieces are
+
+January 21, 2008
+
+25 of 32
+
+starting to fall in the puzzle, and we were uncertain before—we are still uncertain—but there is a
+lot more evidence of significant downside risks. So things, unfortunately, have been clarified on
+that side. We have also gotten some data that are not particularly welcome on inflation, which
+suggests that there are still some challenges there, both in headline and in core. At the last
+meeting, a lot of us focused a lot on the potential for a regime switch. We haven’t really talked
+about that much here, but I think this evidence suggests that there is much higher probability of a
+fairly rapid shift from a growth state to a recession state. That is being reflected in the financial
+market, so it is just a different way of saying similar things that the Chairman, Governor Kohn,
+and others of you have said.
+I think Bill would also say that the credit default swap spreads on a number of the
+financial institutions have been going up, even as some of the liquidity issues have been coming
+down. There are very strong concerns about significant losses coming down the line—concerns
+not only about the monolines but also, as the Chairman said, about losses just because of the
+problems in the consumer sector—increasing delinquencies in a variety of areas, not just in
+subprime mortgages. That is going to put a lot of stress on bank balance sheets. Even though
+the banks have been nimble in bringing in a lot of capital, they have also had astonishingly large
+losses. If they continue to have these losses going forward, they just will not be able to churn out
+the funding that is necessary to keep an economy growing certainly at anything that is close to
+potential, probably nothing that is close to a positive rate of growth.
+So it seems that it is sensible to buy some insurance and buy it through taking a bold,
+decisive action now. The question, of course, is whether we do that now or whether we do that
+in nine days. People have talked about the tradeoff that we have between the value of acting
+now and averting the possibility of very negative outcomes over the next nine days and some
+
+January 21, 2008
+
+26 of 32
+
+concern about developing a bad expectations dynamic and problems of people thinking that we
+are responding to the equity markets in and of themselves, not what the equity markets are
+signaling about the real economy. But I think things are different now than they were earlier in
+the month, when I was not very supportive of moving at that time. First, we now have more data
+in a variety of areas, and we have the concerns about the monolines. We have a more
+substantive basis on which to move, so it doesn’t look as though we are responding to just one
+particular thing; the pieces are there together. Second, there is a much clearer foundation from
+the Chairman’s testimony and speech, in which he made it very clear that we would be thinking
+about and seriously contemplating bold action. So now there is a foundation for this. This is not
+just coming out of the blue or coming out of some rumors in the market. I think that is a very
+different situation from the one we had before. Third, I think it is actually beneficial that we
+have the meeting coming up in nine days. That gives us an opportunity to refine the message
+fairly quickly if we feel we need to and to take further actions if we need to. So I come out, on
+balance, thinking that the risks are too high not to act now. I acknowledge some of those
+downside risks, but I see that there are very strong benefits to acting now.
+But I do hear some of the concerns that people have raised, and I had some of these
+concerns also, particularly with respect to inflation. I might suggest that in the last paragraph in
+the proposed FOMC statement, which I am fine with, perhaps a way of showing a little more
+concern about some of the inflation issues is in the second half of that sentence, where you say
+“but it will continue to monitor inflation developments carefully,” to say instead “but it will be
+necessary to continue to monitor those inflation developments carefully.” That might buy us a
+little there because the statement is a fairly large move away from what we have said before.
+This phrase is about the only one that we have repeated from before, and I think strengthening
+
+January 21, 2008
+
+27 of 32
+
+that phrase may be beneficial. But I am supportive of the statement as is. Perhaps it could be
+improved with a little strengthening there to address some of the concerns, but I am very much
+supportive of the overall 75 basis point move now. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Hoenig, does a language change on
+inflation help you at all?
+MR. HOENIG. It is, I guess, helpful, but let me ask this. A point that was made earlier,
+when you said that we are moving to where we need to be, in terms of the real rate, taking total
+inflation, we are moving to real rates that are negative. I am fairly confident that, while this is a
+bold move, it is also a precursor to another move a week or nine days from now, which would
+put us in an even more negative position, when we are projecting the economy to be slowing and
+when, in fact, total inflation is above—currently at least, year over year—4 percent. I understand
+the concerns about the markets and people’s uncertainty. But we are taking these very dramatic
+actions right now, more perhaps than what we need when you say “where interest rates need to
+be.” If we were to go 50 basis points now and 50 basis points at the next meeting, we are still
+moving down, but we are taking it in a more measured form. I am not convinced that isn’t a
+better way of going, given where we are with the economy and given where we are with our
+projections looking forward. That is really something that maybe you could at least address—
+the negative levels of the real rate in terms of your comfort going forward and where we need to
+be.
+CHAIRMAN BERNANKE. All right. Thank you. Let me make a few comments.
+Thank everyone for your input and your concerns, which I appreciate. This is a very, very
+difficult situation, and no one can know exactly how this is going to work out. But let me try to
+respond to a few points that were made. First of all, as I indicated earlier, I would not be
+
+January 21, 2008
+
+28 of 32
+
+proposing this if I didn’t think that we were seriously behind the curve in terms of economic
+growth and the financial situation. I said that on January 9, and since then the markets and the
+data have only gotten significantly worse. I do believe that we are at least 100 basis points
+behind the curve in terms of neutrality, and so I am quite comfortable with this order of
+magnitude of move. Frankly, I think the evidence is very much in favor of it.
+With respect to what the real rate is, I would combine my response to you with a
+comment to President Fisher, which is that real rates depend on expected inflation, not past
+inflation. Inflation is a lagging indicator. We cannot wait until inflation is down before we
+begin to act. We have to look at the future. We have seen oil prices down $10 already. We just
+have to make a judgment. With the economy slowing and with oil prices likely to moderate, the
+best guess is that inflation will be well controlled going forward. If that is not the case, we can
+begin to address it. But I do believe that, from a forecast viewpoint, we don’t have a negative
+real interest rate, and we don’t necessarily have inflation above 4 percent.
+I would like to address the issue of the lesson of 2001. I don’t think that the problem
+with 2001 was the rate at which the interest rate was cut. The interest rate was cut more than
+500 basis points, including three intermeeting moves of 50 basis points each in 2001.
+Nevertheless, at the end of that episode, inflation was too low, which is evidence I think that in
+some sense the response was even inefficiently slow. Not that they could have necessarily done
+better, but clearly it was not the cut itself that led to inflation problems. Governor Kohn’s points
+notwithstanding, and it was very difficult to know ex ante what was right, if there is a concern
+there it has to do with how quickly the rate was raised starting in 2004 going forward, when the
+economy was already on a growth path. I think we have learned from that. I think we will be
+very sensitive to that.
+
+January 21, 2008
+
+29 of 32
+
+Let me just add that I do intend to be talking more about the outlook and about policy. I
+am sure that I will do my best to communicate where I think we are and how we are going to
+manage policy going forward. I have talked specifically about the need to be aggressive in the
+short run, particularly when financial stability is at stake. So again, my fundamental point is that
+we are behind the curve. We need to do something to get up there.
+Why does that help markets? Well, I think there are issues of psychology and dynamics
+and damage that could be done if we let the markets twist and turn for another nine days. But the
+fundamentals are also involved. The markets essentially—in their incredible efficiency—are
+bringing into the present concerns about very bad outcomes that might happen in the future.
+With fair value accounting, mark to market, and all of those things, the risk that house prices
+might fall 20 or 30 percent, even the small risk, is affecting today’s credit ratings and credit
+markdowns. We can help the markets in a fundamental sense by assuring them that we are
+aware of these risks and that, though we are not going to necessarily stop a slowdown, we will do
+our best to minimize the tail risks of a really bad outcome that are right now driving today’s
+market reactions. That would help the monoline insurers in the sense that, if the markets become
+convinced that those risks are much smaller, then the obligations of the monolines insurers will
+be less, and the willingness to advance capital might be greater.
+Again, if I thought that we were where we should be and this was just a question of
+placating the markets, I would not be here talking to you. But I think that we need to move, and
+if we move now, we will get a bonus in terms of at least some hope of reducing the fear and the
+uncertainty that is currently in the markets. So I do think it matters whether we move today or
+move nine days from now. I recognize the risks, but in the two years that I have been here in this
+position, we have not moved intermeeting. We waited a long time to move in September after
+
+January 21, 2008
+
+30 of 32
+
+our intermeeting statement. I don’t think that we are trigger happy. I don’t think we are
+perceived as trigger happy. I think that we need to be catching up to where the right interest rate
+is, and that is the essence of the issue. I guess that is all I have to say.
+As I said, Governor Mishkin is not here. For what it is worth, he authorized me to say
+that he supports the action and the statement. We are currently at a very critical juncture. We
+are being watched very carefully. We have to demonstrate our willingness to address these very,
+very serious risks. I think we ought to go ahead and take this step, and I hope that you can
+support this action. Are there any other comments? President Hoenig.
+MR. HOENIG. Mr. Chairman, I hear you, and I appreciate your concerns. I do
+understand that there is a psychology in the market that is having its effect. I think if we make
+this statement as strong as we can about the need to watch inflation, and if we understand among
+ourselves that, as we take this action today and the follow-up actions that I am certain we are
+going to take, we will watch these inflation numbers, including broad asset values—I know we
+don’t prick bubbles and that sort of thing, but watching these broad asset-price movements—that
+would be very, very important, at least to think about. I do not wish to be dissenting on this, as
+troubled as I am about it. I do understand the psychology of it. For those reasons, I am willing
+to go along with this. But I worry about our ability to deal with reversal as this takes place,
+especially given where our projections for growth are right now and my concern that we already
+have inflation above 4 percent. So I defer to you at this point. I would vote for it because I think
+the psychology of the marketplace is, of course, rather fragile, and I will leave it at that. Thank
+you.
+CHAIRMAN BERNANKE. Did you want to accept Governor Kroszner’s suggestion?
+
+January 21, 2008
+
+31 of 32
+
+MR. HOENIG. Yes. I think the strongest language as we can give would make me much
+more comfortable.
+CHAIRMAN BERNANKE. Okay. Governor Kroszner’s suggestion was to say, “The
+Committee expects inflation to moderate in coming quarters, but it will be necessary to continue
+to monitor inflation developments carefully.” Does that work for everybody? All right. If there
+are no further comments, I would like to call the roll, please.
+MS. DANKER. I will read the directive and then the statement and call the roll. “The
+Federal Open Market Committee seeks monetary and financial conditions that will foster price
+stability and promote sustainable growth in output. To further its long-run objectives, the
+Committee, in the immediate future, seeks conditions in reserve markets consistent with reducing
+the federal funds rate to an average of around 3½ percent.”
+The statement goes, “The Federal Open Market Committee has decided to lower its target
+for the federal funds rate 75 basis points to 3½ percent.
+The Committee took this action in view of a weakening of the economic outlook and
+increasing downside risks to growth. While strains in short-term funding markets have eased
+somewhat, broader financial market conditions have continued to deteriorate and credit has
+tightened further for some businesses and households. Moreover, incoming information
+indicates a deepening of the housing contraction as well as some softening in labor markets.
+The Committee expects inflation to moderate in coming quarters, but it will be necessary
+to continue to monitor inflation developments carefully.
+Appreciable downside risks to growth remain. The Committee will continue to assess the
+effects of financial and other developments on economic prospects and will act in a timely
+manner as needed to address those risks.”
+
+January 21, 2008
+
+Chairman Bernanke
+Vice Chairman Geithner
+President Evans
+President Hoenig
+Governor Kohn
+Governor Kroszner
+President Poole
+
+32 of 32
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+
+MR. POOLE. And you could add this sentence of explanation, “President Poole does not
+believe that current market conditions justify policy action before the regularly scheduled
+meeting next week.”
+MS. DANKER. Thank you.
+President Rosengren
+Governor Warsh
+
+Yes
+Yes
+
+Thank you.
+CHAIRMAN BERNANKE. Okay. Thank you very much. Again, I am sorry to
+interrupt your holiday, and we will see you next week in Washington. Thank you. The meeting
+is adjourned.
+END OF MEETING
+
+

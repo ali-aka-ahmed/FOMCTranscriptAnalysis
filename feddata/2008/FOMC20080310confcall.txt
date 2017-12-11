@@ -1,0 +1,1190 @@
+March 10, 2008
+
+1 of 39
+
+Conference Call of the Federal Open Market Committee on
+March 10, 2008
+A conference call of the Federal Open Market Committee was held on Monday, March
+10, 2008, at 7:15 p.m. Those present were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Mr. Fisher
+Mr. Kohn
+Mr. Kroszner
+Ms. Pianalto
+Mr. Plosser
+Mr. Warsh
+Ms. Cumming, Messrs. Evans, Lacker, and Lockhart, and Ms. Yellen, Alternate
+Members of the Federal Open Market Committee
+Messrs. Hoenig and Rosengren, Presidents of the Federal Reserve Banks of Kansas City
+and Boston, respectively
+Mr. Sapenaro, First Vice President, Federal Reserve Bank of St. Louis
+Mr. Madigan, Secretary and Economist
+Ms. Danker, Deputy Secretary
+Mr. Skidmore, Assistant Secretary
+Ms. Smith, Assistant Secretary
+Mr. Alvarez, General Counsel
+Mr. Baxter, Deputy General Counsel
+Mr. Stockton, Economist
+Mr. Kamin, Ms. Mester, Messrs. Rosenblum and Sniderman, Associate Economists
+Mr. Dudley, Manager, System Open Market Account
+Mr. Clouse, Deputy Director, Division of Monetary Affairs, Board of Governors
+Mr. Struckmeyer, Deputy Staff Director, Office of Staff Director for Management, Board
+of Governors
+Mr. Leahy, Associate Director, Division of International Finance, Board of Governors
+Ms. Liang, Associate Director, Division of Research and Statistics, Board of Governors
+Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors
+
+March 10, 2008
+
+2 of 39
+
+Mr. Luecke, Section Chief, Division of Monetary Affairs, Board of Governors
+Messrs. Fuhrer and Judd, Executive Vice Presidents, Federal Reserve Banks of Boston
+and San Francisco, respectively
+Mr. Altig, Ms. Perelmuter, Messrs. Rasche, Sellon, Sullivan, and Weinberg, Senior Vice
+Presidents, Federal Reserve Banks of Atlanta, New York, St. Louis, Kansas City,
+Chicago, and Richmond, respectively
+Ms. Logan, Assistant Vice President, Federal Reserve Bank of New York
+
+March 10, 2008
+
+3 of 39
+
+Transcript of the Federal Open Market Committee Conference Call on
+March 10, 2008
+
+CHAIRMAN BERNANKE. Good evening, everybody. I am sorry, once again, to have
+to call you together on short notice. We live in a very special time. We have seen, as you know,
+significant deterioration in term funding markets and more broadly in the financial markets in the
+last few days. Some of this is credit deterioration, certainly, given increased expectations of
+recession; but there also seem to be some self-feeding liquidity dynamics at work as well. So the
+question before us is whether there are actions we can take, other than monetary policy, to break
+or mitigate this adverse dynamic.
+There are two actions on the table, which I think we should just try to consider together,
+if possible. The first is the proposed term securities lending facility—I know you received the
+documentation on this without much notice, but we will get some explanation in the meeting.
+The second item—we have received formal requests from the European Central Bank (ECB) and
+from the Swiss National Bank (SNB) to expand and extend the currency swap lines that we have
+with them. As you recall, in December we had a coordinated action, which involved the ECB
+and the SNB doing dollar funding auctions that piggybacked on our term auction facility. They
+stopped doing that after the turn of the year, but they would like to return to doing that now for
+some time. They think that dollar funding conditions warrant it. They are requesting that we
+raise their swap lines. The ECB’s line is currently $20 billion. It would like to raise its line to
+$30 billion, so it can do two $15 billion auctions a month. The Swiss National Bank would like
+to have its $4 billion line raised to $6 billion, so it can do one $6 billion auction each month.
+That would be a coordinated effort. We would have a joint statement, along with the United
+Kingdom and Canada, and also supporting statements from Sweden and Japan. So it would be a
+
+March 10, 2008
+
+4 of 39
+
+type of coordination similar to the one we saw in December. Again, the request is to increase the
+swap lines and to extend them, and we propose to extend them through September 30. That
+requires a vote of the FOMC, and so, again, we have two items for your discussion.
+I would like to proceed as follows. I am going to turn first to Bill Dudley and his
+colleagues in New York to give us a brief update on market conditions and then to outline for us
+the proposed term securities lending facility and how it would work and what we hope it would
+do in the markets. I don’t think extensive exposition of the swaps is necessary, but any questions
+are welcome. After New York’s presentation, we have Bill, Brian Madigan, Scott Alvarez, and
+other staff here, if you have any questions. Following that, we would have a go-round and get
+comments and positions, and then we proceed to votes. So without further ado, let me turn to
+Bill in New York to start with a market update and then to talk a bit about the proposed facility.
+Bill.
+
+MR. DUDLEY. Thank you, Mr. Chairman. Financial conditions have worsened
+considerably in recent days. Credit spreads have widened, equity prices have
+declined, and market functioning has deteriorated sharply. Although there are many
+factors that can be cited to explain what we are seeing—including the acute weakness
+in the U.S. housing sector, a deteriorating macroeconomic outlook, and the loss of
+faith in credit ratings and structured-finance products—we may have entered a new,
+dangerous phase of the crisis. Major financial intermediaries are pulling back more
+sharply and along more margins than previously—shrinking their collateral lending
+books and raising the haircuts they assess against repo collateral. For a time, this
+adjustment was occurring in a relatively orderly way, but we appear to have passed
+that point about ten days ago. The failure of Peloton—a major hedge fund—and the
+well-publicized problems of Thornburg Mortgage and Carlyle Capital Corporation in
+meeting margin calls have triggered a dangerous dynamic.
+That dynamic goes something like this: Asset price declines—say, triggered by
+deterioration in the outlook—lead to margin calls. Some highly leveraged firms are
+unable to meet these calls. Dealers respond by liquidating collateral. This puts
+downward pressure on asset prices and increases price volatility. Dealers raise
+haircuts further to compensate for the heightened volatility and the reduced liquidity
+in the market. This, in turn, puts more pressure on other leveraged investors. A
+vicious circle ensues of higher haircuts, fire sales, lower prices, higher volatility, and
+
+March 10, 2008
+
+still lower prices, and financial intermediaries start to break as a liquidity crisis
+potentially leads to insolvency when assets are sold at fire sale prices.
+This dynamic poses significant risks. First, it impairs the monetary policy
+transmission mechanism. We have seen that in recent weeks in the sharp widening
+between mortgage rates on an option-adjusted basis and Treasury bond rates. Second,
+as hinted at above, there is a systemic issue. If the vicious circle were to continue
+unabated, the liquidity issues could become solvency issues, and major financial
+intermediaries could conceivably fail. I don’t want to be alarmist, but even today we
+saw double-digit stock price declines for Fannie Mae and Freddie Mac. There were
+rumors today that Bear Stearns was having funding difficulties: At one point today,
+its stock was down 14 percent before recovering a bit. Third, the problems in one
+financial market disturb others. We have seen the problems move from subprime to
+alt-A mortgages to jumbo prime mortgages and now even agency mortgage-backed
+securities. Commercial-mortgage-backed security spreads and corporate credit
+spreads have also widened, and we have seen considerable distortions in the
+municipal market.
+The deterioration in market function can be seen in a number of ways. First, term
+funding spreads have widened back out. For example, the one-month LIBOR–OIS
+spread today is 56 basis points, up from its low point in 2008 of 16 basis points,
+which was reached in January. Second, haircuts for residential MBS have increased
+sharply, and if anything, the rate of deterioration in terms of haircuts has accelerated
+markedly in the last week. Third, bid-asked spreads for transactions on many types of
+financial instruments have widened, indicating a growing liquidity problem in the
+market.
+To address these issues, the Federal Reserve has responded by increasing the size
+of the TAF program and by implementing a large, term, single-tranche RP program.
+Together, these two programs will likely cumulate to total outstandings of about
+$200 billion. In addition, as the Chairman mentioned, the ECB and the SNB today
+have submitted requests to increase their foreign exchange swap draws and restart
+their term funding auctions. But there are limits to what these programs can do. The
+TAF provides liquidity only to depository institutions—this liquidity is not
+necessarily passed on readily to primary dealers and to other financial institutions.
+Although term RPs do provide some assistance to primary dealers, these operations
+are limited to the highest quality collateral—Treasuries, agencies, and agency
+mortgage-backed securities. Moreover, as both programs are scaled up, there is a
+large impact on reserves that must be offset by Treasury redemptions, sales, or
+reverse repurchase operations. Frankly, there are limits to our ability to adjust our
+portfolio quickly without our actions becoming a source of disruption to financial
+markets.
+For this reason, the staff has proposed a new facility, the term securities lending
+facility, or TSLF. A memo from the New York Fed staff and a term sheet were
+circulated to the FOMC earlier today, and these documents discuss in some detail this
+
+5 of 39
+
+March 10, 2008
+
+proposal. Let me give a summary of what I see as the most important points. In
+brief, this facility would expand the Federal Reserve’s securities lending program for
+primary dealers by lending securities secured for a term of 28 days, rather than
+overnight, by a pledge of other securities—Treasuries, agencies, agency mortgagebacked securities, or AAA-rated private-label mortgage-backed securities. The last
+category is not currently eligible for open market operations (OMO). Currently, our
+securities lending program is overnight and exchanges only Treasuries for Treasuries.
+The purpose of this facility is to help alleviate the rapidly escalating pressures evident
+in term collateral funding markets.
+So how would this facility help to accomplish this? By providing the ability to
+swap illiquid mortgage-backed collateral for Treasury securities, the program would
+reduce the uncertainty among dealers about their ability to finance such collateral.
+The expanded supply of Treasuries obtained in the collateral swaps would improve
+the ability of primary dealers to finance the positions on their balance sheets. This
+should, in turn, increase the willingness of dealers to make markets across a range of
+securities. Better market-making, in turn, should lead to greater liquidity for these
+securities. This, then, should reduce price volatility and obviate the need for dealers
+to assess higher haircuts against such securities. The liquidity option provided by the
+TSLF should reduce liquidity risk more generally. The program should help slow, or
+even reverse, the dynamic process of reduced liquidity, greater price volatility, higher
+haircuts, margin calls, and forced liquidation.
+Why does the staff recommend that the scope of collateral be broader than OMOeligible collateral? The staff believes that a program based only on OMO collateral
+could help improve liquidity in those markets. An improvement in liquidity in these
+core markets could help other related markets. Despite this, the staff recommends
+that the TSLF go one step further and also accept AAA-rated private-label residentialmortgage-backed securities in this program. The staff believes that it is important to
+take this additional step because the level of dysfunction in the non-agency mortgagebacked securities market is pronounced, this market is large, and steps to improve
+market function in this asset class are likely to have positive consequences for the
+availability and the cost of mortgage finance. In other words, improvement in this
+area would make monetary policy more effective and would likely generate
+significant macroeconomic benefits.
+To limit the credit risk exposure of the Federal Reserve, the facility for nonOMO-eligible collateral would be limited to AAA-rated residential-mortgage-backed
+securities assets not on review for downgrade. In addition, the securities would be
+repriced daily, and appropriate haircuts would be applied against such securities.
+Why not go further? Although the SOMA lending facility could be extended to
+include other asset classes such as commercial-mortgage-backed securities,
+corporates, and municipals, the staff recommends against such a broader extension
+for two reasons. First, these markets are not under the same degree of duress as the
+residential-mortgage-backed securities market. Second, adding additional asset
+
+6 of 39
+
+March 10, 2008
+
+classes would increase the operational complexity and risk of the program—for
+example, by requiring additional auction cycles.
+What are the risks of such a program? We think there are several risks that are
+particularly noteworthy. First, we cannot be sure that the program will have its
+intended impact. Experience with the TAF suggests that it will, but there is no
+guarantee of this. Second, the TSLF could increase moral hazard. If the program is
+successful in preventing losses that would have arisen from an inability to obtain
+funding, the TSLF would be a form of insurance that could conceivably induce
+broker–dealers to run smaller liquidity cushions during normal times. Third, Federal
+Reserve credit risk would increase as the SOMA portfolio accepted lower-quality
+collateral from primary dealers.
+On the first point—Will it work?—the TSLF would be quite large, perhaps
+cumulating to $200 billion, the same size as the TAF and the term RP program
+combined. We can make it even bigger if we desire. So we think we have the muscle
+here to have an impact on term funding markets. On the second point—the moral
+hazard issue—the staff believes that the TSLF will increase moral hazard somewhat.
+Ideally, this type of program would also be accompanied by prudential regulation to
+ensure that primary dealers hold adequate liquidity buffers across the typical business
+cycle. On the third point—the issue of credit risk to the Federal Reserve—we
+conclude that there will inevitably be some increase in credit risk. But this risk
+should be controllable. We know our counterparties, we are not accepting securities
+that are on watch for downgrades, and the non-agency MBS securities will be AAArated. Moreover, we plan to limit the exposure to the more robust AAA-rated MBS
+by not accepting private-label MBS with CDO-type structures and characteristics.
+And if securities are put on watch, we can demand substitution.
+Fully cognizant of these risks and others—which are outlined in more detail in the
+memorandum circulated to the FOMC earlier today—we conclude that the benefits
+are likely to significantly exceed the costs of the program. The staff believes it is
+important to take those steps necessary to restore the monetary policy transmission
+mechanism to working order and to short-circuit the vicious dynamic now evident in
+financial markets. Debby Perelmuter will now describe the TSLF program in more
+detail, focusing on how it will operate in practice, now that I’ve outlined the theory.
+Debby.
+MS. PERELMUTER. Thanks, Bill. Should the Committee approve the proposal
+for the TSLF, we intend to announce tomorrow to the public the total program size
+envisioned as of today—as Bill mentioned, up to $200 billion. It will consist of
+$100 billion against pledges of OMO-eligible collateral and $100 billion against
+pledges of TSLF-eligible collateral beyond the OMO-eligible. Together the two
+tranches will be comparable in size to the TAF program plus the recently announced
+28-day single tranche RPs.
+
+7 of 39
+
+March 10, 2008
+
+For an immediate impact, we are thinking about auctioning $50 billion in each of
+the tranches at the outset, with the first auction occurring during the week of March
+24. Specifically, the plan is to hold separate 28-day auctions for each main category
+of collateral in successive weeks with our primary dealer counterparties. We will
+auction the first tranche against pledges of OMO-eligible collateral on Thursday,
+March 27, to settle the following day (T+1) and to mature 28 days hence, and we will
+auction the second tranche against pledges of the non-OMO-eligible collateral on the
+following Thursday, April 3, also for T+1 and for a period of 28 days. The auctions
+will be held at 2:00 p.m. and will close at 2:30 p.m. with results posted shortly
+thereafter. We plan to auction in this pattern, each Thursday, alternating between the
+two collateral tranches for the duration of the facility.
+The auctions will be based on a fee rate, in a bonds-versus-bonds construct. It is
+similar to our daily securities lending operations, and it is very familiar to our primary
+dealers. The fee rate bid will represent the spread, in basis points, between the cost of
+28-day financing of general collateral Treasury securities and the cost of 28-day
+financing of the respective basket of collateral in the respective tranche. As with the
+TAF auctions and our daily securities lending operations, a minimum fee will be set
+by the Federal Reserve Bank of New York for each of the collateral tranches ahead of
+each auction. The fee will be set by a competitive single-priced auction process in
+which the accepted dealer bids will be awarded at the same fee rate, which shall be
+the lowest fee rate at which bids were accepted. Similar to our temporary open
+market operations, haircuts for the OMO-eligible collateral pledged will be the same,
+given that the facility is open to the same set of counterparties—the primary
+dealers—and the collateral in this tranche is identical. In addition, the Federal
+Reserve Bank of New York will use the services of the major clearing banks, BONY
+and JPMorgan Chase, and all transfers of collateral will be made through the
+borrower’s clearing bank account. This is how we do things for our open market
+operations.
+Overall, the terms and conditions are similar to those of the TAF auctions in the
+following ways. There will be a 28-day fixed fee determined via a single-price
+centralized auction. The TSLF will have a minimum fee rate, and settlement will be
+forward settling. The term of operation will be 28 days except for holiday conflicts.
+The TSLF will have a minimum bid amount ($10 million as opposed to $5 million in
+the TAF). The maximum number of bids per participant will be two. The total
+propositions for each bid submitted and the total award may not exceed a specified
+percentage of the announced offering amount. We are contemplating a 20 percent
+limit per dealer. If a participant ceases to qualify for the TSLF (if it is no longer a
+primary dealer, for instance), the Federal Reserve Bank of New York may accelerate
+the unwinding of the loan, making the return of any pledged collateral immediately
+due.
+The main differences between the TAF and the TSLF are as follows. They
+involve different sets of counterparties. The TAF provides direct funds, and the
+TSLF will provide securities. A different range of collateral is accepted: The TSLF
+
+8 of 39
+
+March 10, 2008
+
+9 of 39
+
+is limited to OMO-eligible collateral and AAA non-agency residential-mortgagebacked securities. We expect to assess higher haircuts on non-OMO-eligible
+collateral as loans will be to the primary dealers and not to depository institutions.
+Overall we expect haircuts to be higher than those in normal times but lower than
+those in extremis. The haircuts on non-OMO-eligible collateral are expected to be
+higher than those on OMO-eligible collateral.
+We expect to develop the terms and conditions of the TSLF more precisely after
+consultation with the primary dealers and the clearing banks. Should the Committee
+approve the proposal this evening, we expect these conversations to begin shortly
+following the announcement. Thank you.
+CHAIRMAN BERNANKE. Thank you very much. We have all the staff here. Are
+there any questions about any aspect of the presentation or about the swaps? President Hoenig.
+MR. HOENIG. If I understand this, the ability to go outside our normal collateral and
+into, say, these jumbos and so forth is based upon section 13 (3) in the Federal Reserve Act. Am
+I right on that? As you talked about moral hazard, did you have any concerns that, should the
+market not accept this and things deteriorate further, we would find ourselves going down the
+road to greater acceptance of greater varieties of collateral that we need to think about in the
+future?
+CHAIRMAN BERNANKE. Scott, do you want to answer the first part about
+section 13(3)?
+MR. ALVAREZ. Yes. President Hoenig, you are correct. We are relying in part on
+section 14, the open market operations piece, even for accepting collateral that is not section 14
+collateral because it does have an effect in improving the market for U.S. government securities,
+but there is a very strong component of this that is providing liquidity to the primary dealers, and
+to satisfy that we are relying on section 13(3) authority.
+MR. HOENIG. I assume that to try to handle the issues around moral hazard, the fact
+that we are confining it to the primary dealers is an important consideration?
+
+March 10, 2008
+
+10 of 39
+
+MR. ALVAREZ. That is right. We are relying on market conditions, on limiting it to
+primary dealers, and on limiting the types of assets that we will accept as collateral.
+MR. DUDLEY. You asked a question about broadening it potentially to other asset
+classes. I don’t think there is any presumption. That is certainly not our intention, but obviously
+we have to be responsive to the way things evolve. We are certainly not intending to do that, but
+I can’t say categorically that we would want to rule it out.
+MR. HOENIG. I don’t oppose this. I just want to make sure that I understand some of
+the implications because I assume that part of this, given the circumstances in the markets, is to
+create a floor under this that is, in effect, trying to stanch the momentum and keep the losses
+down. So that logic will apply more broadly should the markets deteriorate, and that is kind of
+the path we are on. This is a crisis, I admit, and I just want to make sure that we are clear on
+what it is we are initiating here.
+CHAIRMAN BERNANKE. We would not be setting a price floor for the asset, but we
+would be trying to reduce the liquidity premium. If there were further deterioration in price
+associated with the credit risk, that would still show through.
+MR. HOENIG. Okay.
+CHAIRMAN BERNANKE. President Fisher has a question.
+MR. FISHER. Mr. Chairman, you wanted to have a go-round, but I do have some
+questions.
+CHAIRMAN BERNANKE. This is the question phase now. We will have a chance for
+everyone who would like to speak to do so.
+MR. FISHER. Well, Bill, you used the term “presumably prudential regulation,” I think
+it was. We are talking about broker–dealers. This gets to a broader concern that I have, which is
+
+March 10, 2008
+
+11 of 39
+
+the stick part of this. I can understand the carrot side of this thing, and we are doing it for the
+reasons that you stated, and I am very sympathetic to the argument. The question is, What do we
+get in return, and how do we make sure that, since we are not the regulator of these dealers, there
+is indeed discipline? I would like to know what your answer is. Do we have an arrangement
+with the SEC, or how do we work with the other regulators to make sure that discipline is
+applied here? In essence, as I understand this in my simple fashion, obviously we are taking
+lesser-quality paper in return for high-quality paper over the defined time frame that you stated
+and under the conditions that you stated. But I am just a little worried about being taken
+advantage of here. So the question is specifically about the “prudential regulation” of those
+people that we’re dealing with. Then, I have other questions to follow.
+MR. DUDLEY. Well, the first thing I would say, President Fisher, is that we are doing
+this collateral swap for a fee and for one that is higher than the normal fee in normal markets. So
+in no way is it free. In terms of the prudential regulation, I think there will be a lot of lessons
+learned from this crisis that will be addressed in the fullness of time, and this is one lesson that
+we are going to have to remember when we look at what we have learned from this experience.
+CHAIRMAN BERNANKE. I would like to note that I did talk to Chairman Cox today
+about this and got his strong support.
+MR. FISHER. Again, I think it would be helpful, Mr. Chairman—you and I talked about
+this a little last night—to have a full understanding of that strong support because it is critical
+input. Just to move on, on the question of the haircut, as I understand it from the paper, on the
+non-OMO eligible collateral, we are talking about an 8 percent haircut—is that correct?
+MR. DUDLEY. That is the working assumption for the time being. We are going to
+have conversations with our primary dealers, and that is where we are going to really fine-tune
+
+March 10, 2008
+
+12 of 39
+
+what the appropriate haircut is. But I think the general operating principle here is to have
+haircuts that are considerably higher than the market during normal times but lower than the
+market during times of crisis, which we would argue that we are in or are close to being in right
+now.
+MR. FISHER. The only thing I would caution about is the sentence in the paper that said
+“conservative relative to pre-crisis levels.” Those were fantastically low spreads that were out of
+touch with reality, which we now know. Obviously, you are going to be prudent about this, but
+it seems to me that 8 percent is not much more than what we have on the TAF now. Is it
+7 percent that we apply as a discount?
+MR. DUDLEY. For AAA collateral, I think it is actually lower than that. I think it is
+3 percent, so we would expect that the haircut should be higher because we are dealing with
+primary dealers rather than depository institutions as our counterparties. So we certainly accept
+the fact that there should be higher haircuts.
+CHAIRMAN BERNANKE. Other questions?
+MR. FISHER. Well, I had some other questions, Mr. Chairman, but I don’t want to bore
+the group. I would like to listen to the conversation. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. President Lockhart.
+MR. LOCKHART. Thank you, Mr. Chairman. The question relates to what President
+Fisher was pursuing, which, if I understand correctly, is our chance of actually incurring a loss in
+holding the less creditworthy paper. That would relate to a default on the part of a broker–dealer
+in unwinding the swap and then an ultimate loss in how we dispose of the paper over time if we
+were to hold it. So the question is, Are we aware of any primary dealers who are really in
+serious condition at this stage and constitute a “first way out” risk?
+
+March 10, 2008
+
+13 of 39
+
+MR. DUDLEY. We have the right to limit our exposure to primary dealers that we have
+less confidence in. In fact, that is what we would actually do in the implementation of this kind
+of program.
+CHAIRMAN BERNANKE. Any other questions? President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. If I could, I have basically three clarifying
+questions, a couple of them related to other comments. The first is on this issue of haircuts and
+discounts on the collateral. If I understand from looking at what we do for the TAF and for the
+discount window, the haircut that is given depends on the duration of the security, and it ranges
+from 8 percent to 3 percent. As I think Bill Dudley suggests, it is lowest for very short term
+duration buckets. But those haircuts apply, at least in my understanding, only to assets for which
+there are in fact market prices being quoted somewhere. For assets that are committed, even
+AAA assets, for those types of collateralized mortgages where there are no market prices, the
+haircut is 20 percent. So are we then accepting only collateral for which market prices in fact
+exist, or would we be following what we do at the discount window and take a substantially
+higher haircut for securities that we don’t observe market prices for? That is my first question.
+MR. DUDLEY. My understanding is that we are going to take only securities for which
+market prices exist.
+MR. PLOSSER. Okay. The second concern—I want to go back to President Fisher’s
+and President Hoenig’s comments—I am a bit nervous about the slippery slope here. Once we
+start taking assets of a particular class that is in distress, are we setting ourselves up for potential
+risks down the road, when all of a sudden some other asset class that is commonly used in both
+trading and securities, whether by mutual funds or banks, comes under greater duress and for
+which spreads widen significantly? Are we going down a path here in which we are going to
+
+March 10, 2008
+
+14 of 39
+
+implicitly provide support for a whole range of potential asset classes? I worry a bit about where
+this might lead us over a longer period of time. That is related to my question. Maybe I missed
+it reading the document or in the discussion. This facility is different from the traditional lending
+facilities that we have in place primarily because of the term, even for the non-schedule 1 assets.
+Are we going to bill this as something different, and if so, does that mean we can remove it at
+some point? How long do you anticipate this facility being in place, and how do you think about
+the magnitude of the operations that we want to open the door for?
+CHAIRMAN BERNANKE. President Plosser, I would make just a couple of comments,
+and Bill can follow. On the slippery slope, it requires an FOMC vote to add assets. So if we
+come to that point, you will have your opportunity to vote “no” or to object. Again, we don’t
+propose to do that—but, you know, time consistency. I’m sorry, what was the other thing? Oh,
+you asked about the duration. The section 13(3) legal basis for this operation requires an
+affirmation that market conditions are significantly impaired. If we couldn’t honestly make that
+affirmation, our legal basis would disappear. So I think we would have to remove it once
+conditions had normalized. Bill, do you have anything to add to that?
+MR. DUDLEY. I think you answered the question very well.
+CHAIRMAN BERNANKE. Gee, thanks. [Laughter] Charlie, did you have other
+questions? No? President Rosengren.
+MR. ROSENGREN. I just want to follow up on one of Bill Dudley’s comments. I
+noticed in the terms and conditions that it included that the New York Fed reserves the right to
+reject or declare ineligible any bid entirely at its own discretion. Under the TAF, we require that
+people be qualified under the primary credit program. Are we planning on using a credit
+
+March 10, 2008
+
+15 of 39
+
+standard equivalent to what is done for the TAF for the broker–dealer community? Do we
+currently have the capacity to make that determination?
+MR. DUDLEY. I think the answer to that question is that we are going to make a
+determination but we don’t have the same level of knowledge about the institution because we
+are not the primary consolidated supervisor.
+CHAIRMAN BERNANKE. President Pianalto, do you have a question?
+MS. PIANALTO. Yes. I just wanted to clarify that we are being asked to authorize the
+acceptance of different collateral. Who determines the size of the lending program on an
+ongoing basis? Is that determined by the Desk?
+MR. DUDLEY. We are proposing the rough size of the facility today. As we gain
+experience with the facility and examine market conditions, we will be keeping the FOMC
+apprised of the programs and certainly seeking the input of the Committee on how to take this
+going forward. I hope that we will get a lot of feedback as we go through this auction process.
+If the bidding is very strong and if the markets are under tremendous distress, then we would
+probably want to increase the size of the program. Conversely, if the bidding is weak and if the
+markets settle down, then we would want to wrap up this program pretty quickly.
+MR. ALVAREZ. The resolution that the FOMC will be asked to vote on today will have
+an outside limit of $200 billion as the total size of the term securities lending facility. If it were
+to go above that, it would have to come back to the FOMC.
+CHAIRMAN BERNANKE. President Evans.
+MR. EVANS. President Pianalto asked my question.
+CHAIRMAN BERNANKE. Okay. President Fisher, do you have another question?
+
+March 10, 2008
+
+16 of 39
+
+MR. FISHER. Yes, sir. I want to come back to President Rosengren’s question, just so I
+understand this. Bill, let’s take an example. What I think Eric is referring to is footnote 6 on
+page 9 of 10: “The Federal Reserve Bank of New York reserves the right to restrict individual
+primary dealer use of the program, even at the outset.” Do we have the capacity, for example,
+going back to your introductory comments on what happened in the markets, to evaluate Bear
+Stearns as a participant in this program and to say, “No, you can’t participate”? If we did that,
+what would that do to Bear Stearns?
+MR. DUDLEY. Well, the first thing is that almost all of these primary dealers have the
+SEC as their primary consolidated supervisor. So it is important to understand that it is not as
+though there isn’t an entity looking at the financial strength and stability of these institutions.
+We have the right not to accept collateral from any of the primary dealers, should we decide to
+do that. It is not going to be public. We are not going to be making a statement. This is just
+going to be a bilateral arrangement between us and the given primary dealer.
+MR. FISHER. I guess my concern is that the safety-and-soundness disciplines that we
+apply don’t appear to be applied to these broker–dealers. I guess the real question is that we can
+fly blind for a little time and we can try something—and I am for trying something—but if this
+doesn’t lead to some broader regulatory authority or some change in the nature of the regulatory
+authorities, if we are indeed going to have counterparties in this sense that are outside our realm
+of regulation, I just wonder what the end game here is. Mr. Chairman, I am saying that I think
+we need to really think that through. We can react to what we are seeing going on in the
+marketplace, but I would feel much more comfortable as we go through time if we could
+understand what the end game is and what we want to get in return long term for providing this
+hopefully short-term solution to the liquidity crisis—that is the point I am trying to make.
+
+March 10, 2008
+
+17 of 39
+
+VICE CHAIRMAN GEITHNER. Mr. Chairman, maybe I could say something in
+response to this. I agree with the concerns expressed about giving access to liquidity when we
+haven’t done it before without a full capacity to affect the supervisory constraints these guys
+operate under. We are not doing this for them, though. We are doing it because we think it is
+necessary to help improve market functioning more generally. We do not have the capacity in
+these circumstances to redesign the regulatory framework to give us, as a condition of access to
+something that we are doing for market functioning, the ability to affect and constrain the risktaking behavior of those institutions. All primary dealers, except for one, I believe, are subject to
+consolidated supervision in some form. Those primary supervisors, with which we have a very
+close-running relationship, often subject those institutions to a set of constraints, including in the
+investment banks a consolidated capital regime and a set of other constraints on liquidity.
+We will, of course, be in very close contact, as we have been with those primary
+supervisors, about the evolving financial conditions of those institutions. If we have evidence,
+directly or through the supervisors, of some material erosion in the financial business of those
+institutions from a solvency perspective, that will cause us to reflect on what we do with those
+institutions going forward. I wish it were the case that we could condition this step on a change
+in the regulatory regime that would give us that capacity. But we just don’t have that ability
+now. Are we protecting ourselves carefully against that risk? We are protecting ourselves
+carefully, but not perfectly, against that risk.
+One last comment. The Desk has a lot of experience in affecting the incentive that
+primary dealers have—how much they can actually bid for, particularly in circumstances where
+the condition of the primary dealer is eroding quickly. That is not perfect, but it gives us some
+experience and some chance to make sure that we don’t put ourselves in a position where we
+
+March 10, 2008
+
+18 of 39
+
+allow an institution that is deteriorating rapidly to take a progressively larger amount of a
+particular auction in that context. So although I agree with the concerns and I really am
+sympathetic to the objective, the reality today is that we can’t remake this messy system we have
+in this context to give us that additional comfort.
+MR. FISHER. Just a comment, Tim, if I may. You are right, and we can’t stuff this ugly
+genie back in the bottle. But I think we should be thinking longer term as much as we can as to
+how we can reshape things, taking advantage of our franchise. I am not arguing against the
+program. But we are taking a risk here, and we want to mitigate the risk as much as possible. I
+am just saying that (a) we need to use this as leverage somehow over the longer term, as we
+become more comfortable with this, to exert our authority, and (b) in the way you just explained
+this, we need to have a good way of explaining it to the public because we are going to get
+severe criticism. I can see the criticism of almost lending blind, taking substandard collateral.
+That kind of cogent explanation is going to be very, very important, Mr. Chairman. We need to
+be prepared to explain this to our critics because we are going to have a lot of criticism on this
+front. So I thank you, Tim, for your response.
+CHAIRMAN BERNANKE. I agree, President Fisher. We have deficiencies in our
+regulatory system. Even this change would take us short of what the ECB routinely already has
+because they don’t have this division of commercial and investment banks, and they have
+essentially a much broader ability to take collateral. There is a problem, and it is a long-term
+issue. But the Treasury, for example, is looking at some of these regulatory structure issues
+going forward. Are there other questions? President Evans.
+MR. EVANS. This discussion stimulated a question that I didn’t anticipate. If we decide
+that there is a broker–dealer that we can’t allow to enter into this program and then it ends up not
+
+March 10, 2008
+
+19 of 39
+
+doing very well and going under, is there some type of risk that we are taking on by hastening
+that in making that determination? Do we have the right information to take that action?
+VICE CHAIRMAN GEITHNER. I agree that we face that risk. As many of us have
+learned over the past six to nine months, even the primary supervisors of these institutions have
+limits around their capacity to understand in real time what is actually happening. So we face
+that vulnerability—I agree with you—and that will limit, realistically, how much protection we
+are going to be able to take for ourselves in this context. I think that is a necessary and
+uncomfortable risk in taking this next step. I am not sure it is dramatically different from the risk
+we face with the discount window generally and with the TAF. It is different, of course, because
+of our limited supervisory reach over at least five of the institutions. But I think that you stated
+the risk well and that it is important to recognize that risk.
+MR. EVANS. The interesting difference is that with the window and the TAF it is
+voluntary that you could come in. I suppose this is voluntary, but if we pick out somebody and
+say, “You can’t participate,” and if it’s wildly successful—
+VICE CHAIRMAN GEITHNER. But this is voluntary like the TAF. In that sense, it is
+equivalent. But you are right; it would be a consequential act for us to say to a primary dealer,
+“We are going to restrict you to X” or “We are not going to consider you eligible any more to
+bid.” It would not be, we would hope, a visible act. But, of course, in taking the action we
+would be responsible, in some sense, for contributing to the failure of that institution.
+CHAIRMAN BERNANKE. But not in a legal sense.
+MR. DUDLEY. However, if we did improve market function, we would be helping that
+dealer.
+
+March 10, 2008
+
+20 of 39
+
+CHAIRMAN BERNANKE. I think President Evans is asking if we would have liability
+in some legal sense, and I don’t think we would. We have the right to decline any counterparty.
+MR. EVANS. Okay. Thank you.
+CHAIRMAN BERNANKE. President Hoenig.
+MR. HOENIG. Just a comment. When I read this paper, I sensed that you have to get
+comfortable with the fact that we are extending the safety net to a group with the goal of settling
+the markets, which reflects, in fact, the reality that we now have with this very integrated, much
+more complicated marketplace. As we do this, I think moving back from it will be much more
+difficult than we are anticipating. That is why going into this we make a pretty clear decision
+that we have opened the safety net to a broader group for the purposes of managing this crisis
+and that we will probably revisit this again, depending on whether we stanch this now or whether
+it continues forward—the question that we have been asking ourselves for several months. I
+think this is the way that we will find ourselves continuing down, depending on how long this
+lasts—that we are going to extend the safety net.
+CHAIRMAN BERNANKE. I think we have moved into the commentary period.
+[Laughter] President Yellen, did you have a question?
+MS. YELLEN. No, I don’t have a question.
+CHAIRMAN BERNANKE. All right. Let’s start with President Lacker, then. President
+Lacker.
+MR. LACKER. Thank you, Mr. Chairman. As all of you know, throughout this episode
+I have opposed measures using our balance sheet to attempt to arrest credit market
+developments, and so it will come as no surprise that I oppose, respectfully, this measure as
+well—and for similar reasons. These measures are all aimed, one way or another, at altering the
+
+March 10, 2008
+
+21 of 39
+
+relative prices of some financial claims. I think the burden of proof ought to be on those who are
+advocating such measures to provide evidence of some sort of market failure. I have yet to see a
+plausible case for market failure that would warrant such intervention by a central bank here. In
+this case, I don’t think the concerns raised by the New York staff memo really come close, and it
+strikes me that they could equally well rationalize buying tech stocks in late 2000. More
+broadly, our efforts to ameliorate credit market conditions appear to be motivated by the notion
+that exogenous malfunctions internal to credit markets endanger the real economy. But it seems
+much more plausible to me now that the credit market phenomena we have been seeing over the
+past year are driven entirely by the evolution of expectations regarding the fundamental real
+return on mortgages and other primitives.
+I have a deep concern that is particular to this proposal. This proposal crosses a bright
+line that we drew for ourselves in the 1970s in order to limit our involvement in housing finance.
+Legislators at that time were proposing various schemes that would involve using our balance
+sheet to fund various housing initiatives of one sort or another. In the current climate, legislators
+seem to be casting about for funds to bail out mortgage borrowers. Given the extent to which we
+have been singled out far more than any other federal regulators as scapegoats for this episode, it
+would be natural for them to contemplate raiding our portfolio—not to mention, in fact, that our
+portfolio is larger than other regulators’ portfolios.
+Whatever one feels about the advisability of fiscal policy of that sort, I think the legal
+memo did a creative job of interpreting the Federal Reserve Act as allowing direct ownership of
+this form. But I think we should view opening up this sort of expansive interpretation of the act
+as a relatively irreversible step because it will be next to impossible to put this interpretation
+back in the bottle and argue that the act prevents us from holding particular mortgage-backed
+
+March 10, 2008
+
+22 of 39
+
+securities outright. Setting this precedent is going to measurably weaken our ability to resist
+congressional proposals to use us and our balance sheet for off-budget fiscal policy. So, again,
+Mr. Chairman, I respectfully oppose this term securities lending facility.
+CHAIRMAN BERNANKE. Thank you. Governor Kohn.
+MR. KOHN. Thank you, Mr. Chairman. I thought I would begin, if it is okay with you,
+Mr. Chairman, with talking a bit about what I heard in Basel this weekend. I just got back this
+afternoon from Basel. I think it is fair to say that Bill’s description of what is going on in U.S.
+financial markets is going on much more broadly. Liquidity has dried up in London and other
+European markets in particular, but elsewhere as well. There is really no price discovery. There
+is aggressive deleveraging and a flight to safety and soundness.
+Spreads have widened everywhere. It is true that the EURIBOR–OIS spreads haven’t
+widened very much in the one-month and three-month areas, unless something happened today.
+But the people from the ECB in Europe reported that they had widened beyond three months,
+suggesting that people expect this crisis to go on for quite a while. Even in European
+government bond markets, spreads have widened among different governments that are part of
+the ECB for the first time since the ECB was founded, reflecting probably liquidity rather than
+differences in perceived credit risk. Prices were perceived in European markets as well as in
+U.S. markets to be well out of alignment with any plausible path for economies. That is, the risk
+spreads were way out of whack with anything that might possibly happen to the economy. There
+was no price discovery. The prices that were out there were just being driven by fear.
+Liquidity and solvency were becoming intertwined. The dysfunction in the securities
+markets and the banking sector were intertwined, and there was just a very vicious spiral going
+on in many financial markets. “Dysfunctional” was the word that a lot of people used to describe
+
+March 10, 2008
+
+23 of 39
+
+their home markets. Even in the emerging market economies, which so far had been relatively
+“decoupled”—in the current vogue phrase— from the industrial economies, there at least the
+financial markets were becoming coupled to our markets. One emerging market economist—
+this is in my CGFS, my global financial system group—reported that locally owned banks in his
+market were refusing to advance funds through their New York affiliates and their London
+affiliates to U.S. and European banks. I think I will pause there for the irony to sink in for a
+second. Those economies that had multinational banks operating in them said that the multinational
+banks with headquarters in Europe or the United States were definitely selling assets in emerging
+market economies, not only their portfolios in order to raise funds and hoard liquidity but also
+subsidiaries were being shopped around in order to conserve their capital.
+It was broadly viewed that way by everybody, and my global financial system group
+probably has 35 countries—I don’t know the exact number, but every industrialized country and a
+half a dozen emerging-market economies are represented. When I summarized the meeting just as I
+did for you and I asked if anyone disagreed with that summary, no hands went up. In that context,
+the G-10 governors were very concerned about what was going on and about the turn that financial
+markets had taken over the last couple of months, but especially over the past week. Any number of
+them said that they had been getting calls on Thursday and Friday from lots of market participants
+reporting the same type of dynamic that I was just describing to you and being very, very worried.
+In that context, they suggested—it didn’t require any urging by me, I can assure you—that a
+coordinated announcement such as was undertaken in December would be an appropriate step to
+take. In addition to the swap actions, the United Kingdom and Canada are planning special auctions
+in their term funding markets much as they did in December, a similar combination. That will be
+announced tomorrow in conjunction with our stuff.
+
+March 10, 2008
+
+24 of 39
+
+Let me go on to the TSLF and the swap lines. I support these steps, but I agree with the
+thrust of the questions. This is not an easy decision. It hasn’t been easy for me in any regard. I
+think in many respects this is a logical next step. We are broadening the collateral. We’re
+expanding securities lending. We’re lengthening terms. We’re being more aggressive in the term
+funding markets. We’re holding auctions. This is an extension of what we’ve been doing all along
+in response to this crisis, and this is just the next step. Other central banks have been doing exactly
+the same thing, reaching out to counterparties, taking more collateral, and doing more at longer
+maturities. As you pointed out, Mr. Chairman, one very critical difference between us and the other
+central banks is that they are dealing with universal banks, so they don’t have this division between
+investment banks and commercial banks in the United Kingdom and Switzerland and in Europe.
+When they do an open market operation, it’s with the investment banks as well as the commercial
+banks because they are one and the same thing.
+I think this facility is aimed at the critical piece of the market, the mortgage markets. This is
+where the problems are most acute and from where they are radiating out into the rest of the market,
+where the liquidity, price, and solvency interactions are most intense in this downward spiral that
+Bill described. As Bill and Debby noted, this swap, which can be expanded rapidly, is a very
+efficient way to try to address this problem, and we don’t present the Desk with the issues of
+absorbing the reserves.
+But I also acknowledge, as many of you pointed out, that we are crossing a line because of
+the combination of the collateral and counterparty. It is not so much the asset class—that’s not the
+line we’re crossing because we already crossed that line at the discount window. We’ve taken
+many classes of assets at the discount window for a long time. The line we’re crossing is the
+combination of the collateral and the counterparty. That’s why this has to be a combination of
+
+March 10, 2008
+
+25 of 39
+
+sections 14 and 13 of the act. We are setting a precedent of a sort. I mean, I think we can step back
+when markets improve, but it is a precedent. There are moral hazards. There are risks. There are
+reputational risks. I agree with all of those things, and as Chairman Bernanke can tell you, I was
+resistant to this idea when it was raised a little while ago.
+But I have changed my mind, and I have changed my mind for a variety of reasons. The
+first and most important of them is the downward spiral that we’re in. I had changed my mind
+before I went to Europe, but certainly hearing the people in Europe describe the same thing
+happening on a global basis just reinforced it. That is the most important thing that has happened.
+We are in dysfunctional markets, and we have to try what we can to help them along.
+I think there are sensible steps here to limit the costs. The degree that the safety net is being
+extended is small, but the perception that it is being extended is there. I think we’ve limited it as
+best we can. If I thought that price discovery was occurring in these markets, I would be hesitant to
+do anything that might interfere with it. But there isn’t any real price discovery happening. So I
+don’t think this is a case that, if we could only get out of the way, the markets would find their
+prices, and then the prices would be low enough, and people would step in, and price and liquidity
+would be restored. That’s not what’s happening. The markets just aren’t operating.
+There are no guarantees that this will work. We’re not addressing the solvency issues that
+are to a certain extent at the heart of this. But I do think liquidity and solvency are interacting in a
+particularly difficult and vicious way right now. To the extent that we have even a chance of
+breaking that spiral by intervening on the liquidity side—which is what the central banks are here
+for—and can help at least stabilize the situation, it may encourage the dealers to make markets if
+they know that we’re behind there in terms of the AAA mortgage-backed securities tranche as well
+as the agencies and the agency mortgage-backed securities. I think it is well worth taking the
+
+March 10, 2008
+
+26 of 39
+
+chance in the current situation. One of the members of the CGFS said toward the end of our
+meeting on Saturday that “sometimes it’s time to think the unthinkable,” and I think that time is here
+for us right now, Mr. Chairman. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Yellen.
+MS. YELLEN. Thank you, Mr. Chairman. I strongly support the proposed term securities
+lending facility. I certainly agree that we face a situation in which systemic risk is large, and it’s
+escalating very quickly. A dangerous dynamic has set in. Bill, Don, and all the memos did a great
+job in describing it. I think financial stability is truly at stake here, and although there are financial
+and reputational risks in pursuing this approach, it is a creative and well-targeted approach, and it is
+worth taking these risks to try to arrest the downward spiral in market conditions. Our monetary
+policy efforts have been seriously thwarted by the spread-widening that’s taking place, and the rapid
+escalation we’re seeing in these spreads—large increases in a matter of just the past couple of days
+in the absence of significant news that relates to the real creditworthiness of borrowers—suggests to
+me that the spread increases are, indeed, related to deteriorating liquidity conditions and not
+primarily to higher underlying credit risk. I think it is absolutely right to worry that liquidity
+problems are escalating into solvency problems. So as with the TAF, I am not 100 percent
+convinced that this is going to work, but I definitely think it is a good idea to move ahead and to do
+so quickly.
+CHAIRMAN BERNANKE. Thank you. President Rosengren.
+MR. ROSENGREN. Market conditions have deteriorated and are likely getting worse. I
+strongly support both the swap and the TSLF to help mitigate those problems. In the longer run, I
+think we do need to consider how to better assess counterparty risk to primary dealers. Thank you,
+Mr. Chairman.
+
+March 10, 2008
+
+27 of 39
+
+CHAIRMAN BERNANKE. Other comments? President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. I have just a couple of observations and a
+question. I am not terribly confident that this will have the effect we desire. I thought I heard
+Governor Kohn saying that the ECB actually does take this sort of risk and collateral and it’s not
+working particularly well. So I’m not sure we ought to hold out a whole lot of hope that it will have
+the desired effect here. That doesn’t mean we shouldn’t try it, but I’m a little dubious. I am
+concerned with the comments that President Lacker and Governor Kohn made about crossing a line.
+However, having said that, I can go along with this proposal; but to be honest, I am concerned about
+the exit strategy here. Mr. Chairman, you said that we would stop when the markets were no longer
+impaired. I’m not exactly sure how we would define that at some point. I wonder whether it might
+be worthwhile thinking about putting this facility in place and doing it for a fixed period of time—I
+don’t know, three months or whatever—and then having it automatically expire or to be renewed by
+a conscious act of this Committee rather than having an ongoing process where there was some
+vague notion of how we would define when we would remove it. I just offer that as an idea for
+doing this. I guess that’s all I have to say. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Fisher.
+MR. FISHER. Well, Mr. Chairman, extraordinary circumstances require extraordinary
+responses. I am very worried about this vicious cycle or, as Governor Kohn put it, vicious spiral of
+liquidity constriction. I have a lot of questions about the program, and I have, like President Plosser,
+a sort of end game concern, but I would vote in favor of this program. I think it is something we
+have to take a risk with. I would like very much for us to think through collectively or under your
+leadership, again, how we can use this to strengthen our franchise and at least influence this odd
+regulatory structure we have, which I think is insufficient. I have the same concerns that President
+
+March 10, 2008
+
+28 of 39
+
+Rosengren has, which I expressed about having counterparties over which we don’t have great
+influence, even though we have communication with other regulators. I also think it would be
+worthwhile, once we have set up this thing and are moving forward, to have some kind of decision
+tree on all the risk parameters that were outlined in the memo. If we inappropriately affect the
+pricing of financing credit or if the scale is too small or all the other risks that we’re concerned
+about occur, what do we do under those circumstances? Where do we go next? What are the cutoff
+points?
+This is a fine piece of work that took an awful lot to put together, but it would be helpful at
+least to me and I think it would be helpful to the Committee if we knew where these different
+branches would go under different circumstances and what our responses are likely to be so that we
+can be prepared to go forward. Having said that, I support the program with the different concerns
+that I have, and I would vote for it. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. On exit strategies, we do get a lot of feedback
+from the auction itself, of course, in terms of demand and price, and we can monitor the market
+conditions. Obviously, we’ll keep you well apprised of developments in the markets and in the
+auction. I’m a little worried about having a firm cutoff date ex ante. If we want the dealers to make
+markets, we need them to feel that there will not be an arbitrary cutoff when the situation is still in a
+turbulent state. But that’s just a thought. President Evans.
+MR. EVANS. Thank you, Mr. Chairman. I support the extension of the swap and the term
+securities lending facility of up to the $200 billion amount that you’re talking about. This can
+improve market functioning, as I understand the discussion; and it targets action to markets with
+major liquidity shortfalls, so I think that it is effectively targeting policy to the right place. It has
+some risks definitely, but it is important to do something innovative like this. I hope that, after these
+
+March 10, 2008
+
+29 of 39
+
+actions, market conditions might improve somewhat so that ultimately fewer adjustments in the
+funds rate might be called for. If so, then it’s possible that the inflation risks that come with those
+adjustments might be more limited. That’s not obviously true because the stance of policy depends
+on overall accommodation, including in financial markets, but that could be the case. If this works,
+as you were alluding to, we will get a lot of information from the auctions and the market conditions
+themselves. Removing this might be a lot easier than actually removing the funds rate
+accommodation that we talked about as being so important. So targeting this could have another
+beneficial effect on policy. I would guess that we would review or at least have some assessment of
+how the policy is working at each of the upcoming FOMC meetings, and that would be a natural
+time for the Committee to talk about that further. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Lockhart.
+MR. LOCKHART. Thank you, Mr. Chairman. Just a couple of comments. I, too, am
+supportive. I think the escalating and lengthening crisis really justifies this, and I see the TSLF
+action really as a measured and incremental response. In that respect, I am somewhat concerned
+that it may be too small and that the market may react that it’s too little and not preemptive enough.
+Having said that, I do think it’s an appropriate step, and it has a chance of reversing the dangerous
+dynamic that Bill Dudley referred to because it helps housing finance and may have some positive
+effect on housing prices ultimately, and that’s critical to stabilization. So I support both the TSLF
+and the swap. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Other comments? If you’re prepared to take a vote—oh, I’m
+sorry. You know, it’s very late here in the East Coast. Governor Warsh.
+MR. WARSH. Thank you, Mr. Chairman. My comments will be short. I share the
+assessment that Bill Dudley and others made in terms of the market functioning, and I think the
+
+March 10, 2008
+
+30 of 39
+
+rolling capital call that we discussed at videoconferences appears to be accelerating, particularly in
+recent days. The most recent catalyst, as was pointed out, was counterparty weakness driven by
+large balance sheet exposures and a lack of term funding. Highly leveraged institutions are
+uncertain about a lot of things, but let me highlight two of them: first, the value of their collateral
+and, second, their ability to secure financing. I think today’s action is an attempt to hit the second
+and not hit the first, and in so doing hopes to respect a pretty important line.
+As I heard the discussion today and the discussion of the markets, it’s as though three horses
+are competing in a race. The deleveraging horse seems to have raced ahead. The policy reaction
+function horse is the one we’re working on now. The most important horse is the horse that
+represents fresh capital, and again, I think the goal of our policy is to get that third horse to go. I am
+trying to figure out what our objective function is here, and I think it is principally to help provide
+liquidity for high-quality assets held by a class of highly leveraged financial institutions so that we
+can do three things: buy time to facilitate price discovery, improve market functioning, and
+improve the efficacy of open market operations. We are not trying to establish asset values. We’re
+not trying to buy assets. Those aren’t our goals, and it strikes me that they shouldn’t be. The hard
+question that came up at the outset is whether these actions can stabilize some part of the capital
+structure of financial institutions to help us achieve those objectives. For me, as Governor Kohn
+said, this is a very difficult call, but in the end I do support the judgment. I think we’re going to
+have to continue to watch the extent to which the healing that might happen in the agency market
+and in the AAA MBS market moves down the quality spectrum, and we have to be alert to ensure
+that they don’t come to us seeking solutions there but that we get that third horse back into the race.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+
+March 10, 2008
+
+31 of 39
+
+MR. KROSZNER. Thanks. I, too, support this facility, but I share with Governor Kohn
+some of the struggles over it. Are we crossing certain lines? Are we going a bit further than we
+might feel comfortable doing? Those questions are very serious ones, and the questions that have
+been raised about the program are quite valid. But given the conditions in the market and, at least as
+far as I’m concerned, the clear connection between solvency issues and liquidity issues and the fact
+that the only way we have to get indirectly at the solvency issues is through these liquidity provision
+mechanisms, I think that we should go forward with something like this.
+It is crossing a line in terms of counterparty risk understanding and control. That’s
+something that I’m certainly concerned about. We have pretty good relations with the SEC, but it’s
+always different to be having good relations with the supervisor as opposed to actually being the
+supervisor or having the experience of supervising those institutions. So I think that is an important
+issue. There are concerns about the interpretation of what we are doing that could lead to moral
+hazard concerns. There are also concerns that this may be just another step along a path that we
+haven’t really defined well. That is very important, and I very much agree—actually, I have
+forgotten who made these comments earlier—that we really need to think about the full path of
+where we’re going because we did the TAF and that seemed to have a good effect initially but it
+doesn’t seem to be having quite the same effect as we had hoped.
+I don’t really understand why some of the risk spreads have blown out again in the last week
+or two. That doesn’t mean that we need to study it to death and that we can act only after we
+understand the origins of it. But I think we need to have a bigger-picture view to see what is going
+to go next and how to respond going forward to people who say, “Well, you’ve tried five different
+little things, and none has really worked, or they work as temporary palliatives.” So I think we
+really need to understand the origins of this better to better understand how we can respond. We
+
+March 10, 2008
+
+32 of 39
+
+may have to respond very boldly in ways that we haven’t done before, but trying to get that big
+picture of that direction could be helpful to the markets. We may not actually have to take some of
+those steps if they see that we could go there, but we would understand better what we will be
+needing to do down the line.
+I’m hopeful that this could stop some of the problems, but I fear that it may be like the TAF
+initially. We’ll do something that gets us in a good place for a short time, but then some of the bad
+dynamic between liquidity and solvency can come back, and we’ll be back at a similar place in the
+not-too-distant future. I am supportive of this, but I do think we have to think about the bigger
+picture. Thank you.
+CHAIRMAN BERNANKE. Any other comments? Vice Chairman Geithner.
+VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. Just a few final things. I
+support both of these steps, of course. I think monetary policy can’t bear the full burden of dealing
+with these kinds of pressures, dangerous dynamics, in markets that Bill and Don described so well.
+This proposal is the best of a bunch of bad options. It is very hard to know how much effect it is
+going to have. It is very possible it will get overwhelmed by the sheer magnitude of the selling
+pressure, risk reduction, and forced deleveraging still under way. It is very hard for us to know now
+how much of that is necessarily ahead of us, even in a world where there is less uncertainty about
+the macro outlook. I think all of you who said this are right. There’s some risk in doing this that
+we’ll just face much more pressure to do more. But I think that pressure will be with us anyway,
+and it would intensify even without action in this context. The important thing is that the Congress
+gave us the authority, although they may not fully have envisioned the world we live in today, to do
+a range of things to address these kinds of pressures. Not to use that authority in carefully designed,
+responsible ways because of the fear that we could not resist pressure to expand is not, in my view,
+
+March 10, 2008
+
+33 of 39
+
+a good argument not to do things that we think would be sensible in mitigating these pressures. I
+think we are a stronger institution than we were. Jeff, you invoked the 1970s. We’re a substantially
+stronger institution than then, and we have the ability to decide what we think is enough and what
+line we’re not prepared to cross, and we should be confident that we’re willing to draw that line and
+that we can sustain it.
+Where do we go from here? If only we knew. I would like nothing more than to be able to
+sit here today and say, “If X, then it’s obvious we would do Y, and if we do Y, then we could be
+confident we could contain it.” But I don’t think anybody can sit here and say that today. I think
+none of the options out there beyond this look good. The other options are much worse than this,
+and if we do not escalate now in this context, I think then we face much more risk that will get to
+much more uncomfortable options with much worse moral hazard concerns for us and the system as
+a whole.
+So let me just say that I completely agree with the concerns expressed about this. They were
+eloquently stated by all of you, but I think it’s very important that we continue to demonstrate
+through what we say and what we do that we are willing to do practical things that we think have
+some prospect of alleviating these pressures on market liquidity. So just to repeat, I support both the
+swap expansion and reauthorization and this new securities lending facility. Thank you, Mr.
+Chairman.
+CHAIRMAN BERNANKE. Thank you. So, there are different ways to look at this. We’re
+crossing certain lines. We’re doing things we haven’t done before. On the other hand, this financial
+crisis is now in its eighth month, and the economic outlook has worsened quite significantly. We
+are coming to the limits of our monetary policy capability. The Congress has passed a fiscal
+
+March 10, 2008
+
+34 of 39
+
+program. I do not know how much political capacity there is to do additional things, although I
+assure you that we will be thinking hard about it and I hope you will be, too.
+So I view this really as incremental, and I think we need to be flexible and creative in the
+face of what are really extraordinary challenges. This is a combination of circumstances—a deep
+and abiding financial crisis, a serious slowdown, and inflation pressures. This combination is really
+a very challenging and an almost unprecedented combination. I think we need to be flexible,
+creative, and thoughtful in going forward. I think this is a very creative idea. It’s well put together.
+We will have to do our very best to report regularly to the FOMC for your governance and your
+oversight of this process. It’s not without risks, but I do feel that this is the next step. Whether we
+will have to take additional steps, we’ll come back to you if we think we do or if you think we do.
+But right now I agree with Vice Chairman Geithner that this is probably the best option that we
+have, and it comes at a critical time in terms of where the markets are. If there are no other
+comments, I’d like to ask Scott to tell us what is required of us to move forward.
+MR. ALVAREZ. You’ll be asked to vote on three resolutions today—one that deals with
+the term securities lending facility and two that deal with the swaps. The Board is also voting
+separately to authorize part of the term securities lending facility. One matter I would note, because
+the rate on the TSLF must be set in the same way that other discount rates are set, we do need a
+recommendation on how to set the rates. However, because this facility involves just securities
+lending from the SOMA portfolio, it will be sufficient to receive a rate recommendation from just
+the New York Reserve Bank, and so the resolutions would not be needed from the boards of
+directors of the other Reserve Banks at this point. With that, I’ll read the resolution for the term
+securities lending facility, and I will ask for a vote on that.
+
+March 10, 2008
+
+35 of 39
+
+“In addition to the current authorization granted to the Federal Reserve Bank of New York
+to engage in overnight securities lending transactions, and in order to ensure the effective conduct of
+open market operations, the Federal Open Market Committee authorizes the Federal Reserve Bank
+of New York to lend up to $200 billion of U.S. government securities held in the System Open
+Market Account to primary dealers for a term that does not exceed thirty-five days at rates that shall
+be determined by competitive bidding.
+These lending transactions may be against pledges of U.S. government securities, other
+assets that the Reserve Bank is specifically authorized to buy and sell under section 14 of the
+Federal Reserve Act (including federal agency residential-mortgage-backed securities), and nonagency AAA-rated residential-mortgage-backed securities.
+The Federal Reserve Bank of New York shall set a minimum lending fee consistent with the
+objectives of the program and apply reasonable limitations on the total amount of a specific issue
+that may be auctioned and on the amount of securities that each dealer may borrow.
+The Federal Reserve Bank of New York may reject bids which could facilitate a dealer’s
+ability to control a single issue as determined solely by the Federal Reserve Bank of New York.
+This authority shall expire at such time as determined by the Federal Open Market
+Committee or the Board of Governors.”
+CHAIRMAN BERNANKE. President Lacker.
+MR. LACKER. Scott, I’d like you to elaborate a bit on this last part. This was a little
+confusing. This lending apparently is by the New York Bank. How does it relate to the System
+Open Market Account? Is it by the New York Bank out of the System Open Market Account?
+MR. ALVAREZ. That’s correct. This is securities lending by the New York Reserve Bank
+out of the SOMA.
+
+March 10, 2008
+
+36 of 39
+
+MR. LACKER. So while these securities we take in are on our books, they’re on the
+System Open Market Account’s books.
+MR. ALVAREZ. Correct.
+MR. LACKER. Okay. Thanks.
+CHAIRMAN BERNANKE. Any other questions? Debbie, could you call the roll?
+MS. DANKER.
+Chairman Bernanke
+Vice Chairman Geithner
+President Fisher
+Governor Kohn
+Governor Kroszner
+President Pianalto
+President Plosser
+Governor Warsh
+President Yellen
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+Thank you.
+CHAIRMAN BERNANKE. Thank you. We turn now to the swap authorization.
+MR. ALVAREZ. There are two swap resolutions. The first: “The Federal Open Market
+Committee directs the Federal Reserve Bank of New York to increase the amount available from
+the System Open Market Account under the existing reciprocal currency arrangement with the
+European Central Bank to an amount not to exceed $30 billion. Within that aggregate limit, draws
+of up to $15 billion are hereby authorized. The current swap arrangement shall be extended until
+September 30, 2008, unless further extended by the Federal Open Market Committee.”
+MS. DANKER.
+Chairman Bernanke
+Vice Chairman Geithner
+President Fisher
+Governor Kohn
+Governor Kroszner
+President Pianalto
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+March 10, 2008
+
+President Plosser
+Governor Warsh
+President Yellen
+
+37 of 39
+
+Yes
+Yes
+Yes
+
+Thank you.
+CHAIRMAN BERNANKE. Finally, the Swiss.
+MR. ALVAREZ. “The Federal Open Market Committee directs the Federal Reserve Bank
+of New York to increase the amount available from the System Open Market Account under the
+existing reciprocal currency arrangement with the Swiss National Bank to an amount not to exceed
+$6 billion. Draws are authorized up to the full amount of the swap. The current swap arrangement
+shall be extended until September 30, 2008, unless further extended by the Federal Open Market
+Committee.”
+MS. DANKER.
+Chairman Bernanke
+Vice Chairman Geithner
+President Fisher
+Governor Kohn
+Governor Kroszner
+President Pianalto
+President Plosser
+Governor Warsh
+President Yellen
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+Thank you.
+CHAIRMAN BERNANKE. Thank you. There will be an announcement at 8:30 a.m.
+Eastern time tomorrow simultaneously with four other central banks and supporting statements
+from Japan and Sweden, just like in December. Brian, why don’t you quickly read the
+announcement?
+MR. MADIGAN. Okay. “Since the coordinated actions taken in December 2007, the G-10
+central banks have continued to work together closely and to consult regularly on liquidity pressures
+
+March 10, 2008
+
+38 of 39
+
+in funding markets. Pressures in some of these markets have recently increased again. We all
+continue to work together and will take appropriate steps to address those liquidity pressures.
+To that end, today the Bank of Canada, the Bank of England, the European Central Bank,
+the Federal Reserve, and the Swiss National Bank are announcing specific measures.”
+There is a section called “Federal Reserve Actions.”
+“The Federal Reserve announced today an expansion of its securities lending program.
+Under this new term securities lending facility (TSLF), the Federal Reserve will lend up to
+$200 billion of Treasury securities to primary dealers secured for a term of 28 days (rather than
+overnight, as in the existing program) by a pledge of other securities, including federal agency debt,
+federal agency residential-mortgage-backed securities (MBS), and non-agency AAA-rated privatelabel residential MBS.
+The TSLF is intended to promote liquidity in the financing markets for Treasury and other
+collateral and thus to foster the functioning of financial markets more generally. As is the case with
+the current securities lending program, securities will be made available through an auction process.
+Auctions will be held on a weekly basis, beginning on March 27, 2008. The Federal Reserve will
+consult with primary dealers on technical design features of the TSLF.
+In addition, the Federal Open Market Committee has authorized increases in its existing
+temporary reciprocal currency arrangements (swap lines) with the European Central Bank and the
+Swiss National Bank. These arrangements will now provide dollars in amounts of up to $30 billion
+and $6 billion to the ECB and the SNB, respectively, representing increases of $10 billion and
+$2 billion. The FOMC extended the term of these swap lines through September 30, 2008.
+
+March 10, 2008
+
+39 of 39
+
+The actions announced today supplement the measures announced by the Federal Reserve
+on Friday to boost the size of the term auction facility to $100 billion and to undertake a series of
+term repurchase transactions that will cumulate to $100 billion.”
+Finally, there’s a section on related actions being taken by other central banks with links to
+the other central banks’ websites.
+CHAIRMAN BERNANKE. Okay. Thank you all. Again, thank you for the short-notice
+meeting. I apologize for that. We’ll see you next week in Washington. The meeting is adjourned.
+END OF MEETING
+
+

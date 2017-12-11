@@ -1,0 +1,3417 @@
+ March 18, 2008
+ 
+ 1 127
+ 
+ Meeting Federal Open Market Committee
+ March 18, 2008
+ meeting Federal Open Market Committee held offices Board
+ Governors Federal Reserve System Washington, D.C., Tuesday, March 18, 2008,
+ 8:30 a.m. present following:
+ Mr. Bernanke, Chairman
+ Mr. Geithner, Vice Chairman
+ Mr. Fisher
+ Mr. Kohn
+ Mr. Kroszner
+ Mr. Mishkin
+ Ms. Pianalto
+ Mr. Plosser
+ Mr. Stern
+ Mr. Warsh
+ Messrs. Evans, Lacker, Lockhart, Ms. Yellen, Alternate Members Federal
+ Open Market Committee
+ Messrs. Hoenig Rosengren, Presidents Federal Reserve Banks Kansas City
+ Boston, respectively
+ Mr. Sapenaro, First Vice President, Federal Reserve Bank St. Louis
+ Mr. Madigan, Secretary Economist
+ Ms. Danker, Deputy Secretary
+ Mr. Skidmore, Assistant Secretary
+ Ms. Smith, Assistant Secretary
+ Mr. Alvarez, General Counsel
+ Mr. Ashton, Assistant General Counsel
+ Mr. Sheets, Economist
+ Mr. Stockton, Economist
+ Messrs. Connors, English, Kamin, Ms. Mester, Messrs. Rolnick, Rosenblum,
+ Slifman, Sniderman, Wilcox, Associate Economists
+ Mr. Dudley, Manager, System Open Market Account
+ Mr. Parkinson, Deputy Director, Division Research Statistics, Board Governors
+ Ms. Bailey, Deputy Director, Division Banking Supervision Regulation, Board
+ Governors
+ Mr. Clouse, Deputy Director, Division Monetary Affairs, Board Governors
+ 
+ March 18, 2008
+ 
+ 2 127
+ 
+ Mr. Struckmeyer, Deputy Staff Director, Office Staff Director Management, Board
+ Governors
+ Ms. Liang Messrs. Reifschneider Wascher, Associate Directors, Division
+ Research Statistics, Board Governors
+ Mr. Gagnon, Visiting Associate Director, Division Monetary Affairs, Board
+ Governors
+ Mr. Blanchard, Assistant Board, Office Board Members, Board Governors
+ Mr. Carpenter, Assistant Director, Division Monetary Affairs, Board Governors
+ Mr. Small, Project Manager, Division Monetary Affairs, Board Governors
+ Mr. Luecke, Section Chief, Division Monetary Affairs, Board Governors
+ Ms. Low, Open Market Secretariat Specialist, Division Monetary Affairs, Board
+ Governors
+ Mr. Judd, Executive Vice President, Federal Reserve Bank San Francisco
+ Messrs. Altig, Rasche, Sellon, Sullivan, Senior Vice Presidents, Federal Reserve
+ Banks Atlanta, St. Louis, Kansas City, Chicago, respectively
+ Mr. Olivei, Vice President, Federal Reserve Bank Boston
+ Mr. Pesenti, Assistant Vice President, Federal Reserve Bank New York
+ Mr. Hetzel, Senior Economist, Federal Reserve Bank Richmond
+ 
+ March 18, 2008
+ 
+ 3 127
+ 
+ Transcript Federal Open Market Committee Meeting
+ March 18, 2008
+ CHAIRMAN BERNANKE. Good morning, everybody. Let extend welcome First
+ Vice President Sapenaro, sitting St. Louis morning. quick comment special
+ topics: I’m sure we’re disappointed won’t conversations
+ communications strategy, [laughter] case, opportunity special
+ topics again. April discussing interest reserves, mentioned before. asked
+ suggestions October, number Banks proposed look inflation modeling,
+ seems obviously good policy-relevant topic. propose October.
+ look forward Reserve Banks taking lead presentation research area,
+ meetings among research directors System Research Advisory Committee
+ figure go forward, obviously seven months get that. look
+ forward special topics. first item, Mr. Dudley, you’re ready.
+ MR. DUDLEY.1 Thank you, Mr. Chairman. start, want update people
+ happened overnight markets. Equities rebounded bit Asia
+ Europe, bond yields reversed decline saw Monday.
+ dollar slightly weaker yen euro still range
+ established. go back lows reached early Monday. would
+ say generally markets’ function okay. big issue bank funding
+ pressures Europe evident dollar funding. funds rate bid high
+ 3¾ percent, quite surprising eve meeting likely
+ reduce federal funds rate target. Term funding pressures, look onemonth three-month LIBOR–OIS spread, basically unchanged Monday,
+ quite sharply last Friday.
+ talking markets six weeks since last
+ FOMC meeting, I’m going talk bit Bear Stearns situation. view,
+ old-fashioned bank run really led Bear Stearns’s demise. case
+ wasn’t depositors lining make withdrawals; customers moving
+ business elsewhere investors’ unwillingness roll collateralized loans
+ Bear. rapidity Bear Stearns collapse significant contagion
+ effects major U.S. broker–dealers two reasons. First, firms also
+ dependent repo market finance significant portion balance
+ 1
+ 
+ materials used Mr. Dudley appended transcript (appendix 1).
+ 
+ March 18, 2008
+ 
+ 4 127
+ 
+ sheets. Second, $2 per share purchase price Bear Stearns shock given
+ firm’s $70 per share price week earlier stated book value $84 per
+ share end last fiscal year. disparity book value
+ purchase price caused investors question accuracy investment banks’
+ financial statements generally.
+ contrast behavior investment bank equity prices versus credit default
+ swap (CDS) spreads revealing. Share prices fell sharply, CDS spreads
+ narrowed bit, indicating lower risk default. example, Lehman’s stock price
+ fell 19 percent, CDS narrowed 20 basis points, 450 basis points,
+ yesterday. underscores difference $2 per share buyout price
+ Bear Stearns—less value people thought—and introduction Primary
+ Dealer Credit Facility (PDCF)—a reduction risk liquidity problem could
+ drive firm insolvency.
+ words PDCF, moving discussion market
+ developments since January FOMC meeting. PDCF help restore
+ confidence among repo investors. essentially creates tri-party repo customer
+ last resort—us. investors concerns ability dealer fund
+ itself, reluctant roll repo transactions. reason
+ fear clearing bank may send cash back next morning
+ overnight repos mature. fear may misplaced. clearing bank
+ worried whether investors stay put, clearing bank may decide keep
+ cash. case, investors would stuck securities
+ collateralize repo transactions. PDCF break chain worry
+ reassuring clearing bank Fed lender fund repo
+ transactions. repo investors reassured clearing bank send back
+ cash next day thus willing roll repo transactions.
+ least that’s theory. noted, PDCF provide comfort
+ counterparties firms firms will, fact, able fund
+ obligations. Yesterday, major money market mutual fund complexes roll
+ outstanding repos major investment banks. However, jury still
+ whether PDCF sufficient stabilize confidence.
+ High use PDCF would result large increase amount reserves
+ added banking system. think important go record because,
+ occur, short run New York Desk might able drain
+ reserves sufficiently quickly keep federal funds rate trading extremely soft
+ target. make efforts make “short run” short possible.
+ realistically, good chance federal funds rate could trade soft
+ relative target, especially end current reserve maintenance
+ period. fact, yesterday saw that, although started day quite firm, funds
+ rate crashed end day, effective fed funds rate day 2.69
+ percent. depends, large part, volume use PDCF.
+ 
+ March 18, 2008
+ 
+ 5 127
+ 
+ Stepping back developments past days, recent weeks
+ marked rapid and, times, disorderly deleveraging financial holdings within
+ global financial system. discussed last week, pernicious part
+ unwinding dynamic higher haircuts, missed margin calls, forced
+ selling, lower prices, higher volatility, still higher haircuts, dynamic
+ particularly evident mortgage-backed securities market.
+ I’ll referring handout here. past six weeks,
+ surveyed number hedge funds one REIT haircuts face
+ financing different types collateral. shown exhibit 1, rise haircuts
+ pronounced non-agency mortgage-backed securities. even agency
+ MBS seen significant widening haircuts recent weeks. collateral
+ funding pressures particularly evident residential-mortgage-backed
+ securities collateral. due several factors including unfavorable
+ fundamentals housing, high level uncertainty ultimate level
+ losses, overhang product sale, currently prospectively.
+ discussions market participants, unleveraged players unwilling step
+ buy “cheap” assets several reasons. First, signs housing
+ close bottom. Second, significant amount product sits weak hands and,
+ thus, could dumped market. Third, particular asset class
+ characteristics exacerbate price volatility and, therefore, risk. example,
+ spreads widen yields climb, prepayment speeds slow. extends duration.
+ yield curve upward sloping longer maturities, rise duration
+ generates increase yields. rise yields also reduces housing affordability,
+ puts downward pressure home prices, increasing prospective losses
+ mortgage loans underpin securities.
+ Signs distress market include following. First, sharp widening
+ option-adjusted mortgage spreads—as shown exhibit 2, option-adjusted spreads
+ conforming fixed-rate mortgages widened considerably since January 30-31
+ FOMC meeting, though come quite bit past couple days.
+ That’s good news. Second, jumbo mortgage spreads relative conforming
+ mortgages rates remain wide. shown exhibit 3, spread averaged
+ 100 basis points year. current yield prime jumbo loans
+ around 7 percent, margin 3½ percentage points ten-year Treasury note
+ yields. Third, mortgage securities prices continue fall. example, shown
+ exhibit 4, prices AAA-rated tranches ABX 07-01 vintage continue
+ decline. Fourth, Fannie Mae Freddie Mac reported large fourth-quarter losses,
+ stock prices CDS spreads performed accordingly (exhibit 5).
+ sharp decline equity prices made companies reluctant raise new
+ capital, despite prospects higher-margin new business, additional share
+ issuance current share prices would lead massive dilution existing
+ shareholders. Fifth, yield levels many mortgage-backed securities
+ climbed significantly yield underlying mortgages underpin
+ securities. opposite securitization supposed work.
+ 
+ March 18, 2008
+ 
+ 6 127
+ 
+ phenomenon reflects glut supply securities market added
+ risk premium attached assets typically held mark-to-market basis.
+ Although residential mortgage market epicenter crisis, distress
+ evident much broadly—with municipal market fully implicated
+ period since January meeting. deleveraging process evident among
+ financial intermediaries operating outside commercial banking system led
+ widespread repricing financial assets. available leverage drops, riskadjusted spreads rise leveraged investors earn targeted rate
+ return before. helps explain problems residential mortgage
+ market infected financial markets generally, leading wider credit
+ spreads (exhibits 6 7) lower equity prices (exhibit 8) United States
+ abroad. leverage reduced spreads widen, financial arbitrage implies
+ assets reprice. risk-adjusted returns holding different asset
+ types converge—recognizing degree leverage available
+ markets may differ across asset classes accordance divergences price
+ volatility, liquidity, transparency, characteristics.
+ course, notion convergence equivalent risk-adjusted returns
+ equilibrium concept, equilibrium. events past week
+ underscore point. plenty examples disequilibrium
+ work. example, mortgage-backed securities, losses implied prices
+ AAA-rated ABX index tranches appear high even relative darkest
+ macroeconomic scenarios. municipal bond market also good example
+ market valuations become unusually depressed supply increases
+ rapidly. value inherent securities becomes broadly known,
+ mobilizes new money, risk-adjusted returns come back relatively quickly.
+ Term funding spreads also indicate greater stress within financial system.
+ shown exhibits 9 10, spreads one-month three-month LIBOR–
+ OIS spreads widened sharply recent weeks, even Bear Stearns’s
+ demise. sitting today 56 basis points one-month LIBOR–OIS
+ spread 77 basis points three-month LIBOR–OIS spread,
+ yesterday morning.
+ aware, active responding growing market
+ illiquidity. Exhibit 11 illustrates results TAF auctions. Note
+ propositions number bidders increased recently spread
+ stop-out rate OIS rate risen past weeks. Even
+ Primary Dealer Credit Facility implemented weekend,
+ middle historic transformation Federal Reserve System’s balance sheet.
+ increasing supply Treasuries held public (either outright
+ borrowed) reducing supply more-illiquid collateral held private
+ sector. Even excluding uncertain impact PDCF borrowing, shift speed
+ noticeably next month two. current plans increase size
+ TAF $100 billion, scale single-tranche RP book $100 billion,
+ renew increase size foreign currency swaps ECB SNB
+ 
+ March 18, 2008
+ 
+ 7 127
+ 
+ $36 billion outstanding (if fully subscribed), implement $200 billion TSLF
+ program. Exhibit 12 shows programs likely change composition
+ Federal Reserve’s SOMA portfolio. seen, current
+ programs fully phased May, Treasury holdings shrunk
+ 45 percent total portfolio, 97 percent last July.
+ time financial markets severe stress
+ macroeconomic growth outlook deteriorated, inflation news also
+ disturbing. Several market-based indicators adding investors’ concerns
+ inflation outlook. First, commodity prices increased sharply. shown
+ exhibit 13, increases concentrated energy agricultural
+ prices. course, subsidies stimulate production ethanol corn
+ important factor. diverting corn production purpose, linkage
+ energy grain prices significantly strengthened. Second,
+ dollar, period stability lasted mid-December February,
+ begun weaken anew (exhibit 14). gotten considerable attention
+ press abroad dollar hit new lows euro fallen
+ 100 yen. now, decline generally orderly,
+ downward slope broad real trade-weighted dollar trajectory shown exhibit 14
+ changed much.
+ foreign exchange markets clearly skittish. particular,
+ considerable focus China Gulf Cooperation Council (GCC) countries
+ willingness maintain pegs dollar. China, investors
+ expect crawling peg move faster. shown exhibit 15, Chinese yuan
+ expected appreciate 11 percent dollar next year,
+ 8 percent pace beginning year. GCC countries,
+ speculation countries might decouple dollar. However,
+ one-year-forward basis, market participants currently building
+ couple percentage points expected appreciation.
+ Breakeven rates inflation continued widen. shown exhibit 16,
+ Board staff’s Barclays measures broken ranges
+ evident recent years. difficult differentiate much widening reflects
+ higher risk premium due greater uncertainty inflation outlook versus
+ higher expected inflation. either way, probably fair say inflation
+ expectations become less well anchored intermeeting period. say,
+ however, yesterday breakeven rates inflation came sharply—the
+ move 15 20 basis points. Today, back range in,
+ today. Short-term rate expectations continue move lower. shown
+ exhibit 17, federal funds rate futures anticipate trough yields bit
+ 1.5 percent. yields implied Eurodollar futures prices also shifted sharply
+ lower, shown exhibit 18. trough yields expected reached late
+ summer early fall.
+ 
+ March 18, 2008
+ 
+ 8 127
+ 
+ formal survey primary dealers, normally show you,
+ conducted week ago, clearly date (these exhibits
+ included appendix handout). let focus dealers’
+ expectations yesterday. changed quite bit past week.
+ dealers expect either cut 75 100 basis points: eight 100
+ basis points, ten 75 basis points, two 50 basis points. compares
+ slightly 100 basis points built April federal funds rate contract
+ (yesterday April fed funds contract implied 1.95 percent effective fed funds rate
+ month).
+ foreign operations period. request vote ratify
+ operations conducted System Open Market Account since January 30-31
+ FOMC meeting. course, happy take questions.
+ CHAIRMAN BERNANKE. questions Bill? Vice Chairman.
+ VICE CHAIRMAN GEITHNER. May say one thing, Mr. Chairman? want point
+ Bill, along whole range people New York Board staff,
+ working 24 hours day five days, write terrific statement
+ FOMC now, despite preoccupations, sat wife major
+ surgery Thursday Friday recovered. remarkable, terrific
+ performance. compliment note burden carrying considerable
+ even comparison burden many others.
+ CHAIRMAN BERNANKE. thank you. President Lacker.
+ MR. WARSH. You’re still going get questions apparently. [Laughter]
+ MR. LACKER. hope wife well.
+ MR. DUDLEY. well, thanks.
+ MR. LACKER. First, breakevens. Breakevens came lot yesterday,
+ understanding five-year, five-year forwards come nearly much. think
+ figures 3 basis points Board’s measure 11 New York’s measure.
+ right?
+ 
+ March 18, 2008
+ 
+ 9 127
+ 
+ MR. MADIGAN. Three right Board’s measure.
+ MR. DUDLEY. don’t number.
+ MR. LACKER. concerned late-day softening problem Primary
+ Dealer Credit Facility. Everything else done fairly straightforward sterilize,
+ quantity activated late day, funds going flow
+ market. know, you’re position predicting something huge variance, take-up
+ that. Now, could unravel. late-day softness becomes norm, arbitrage
+ that’s available banks within maintenance period holding reserves, could erode
+ ability hold target. Now, people really creative lending money,
+ wondering maybe could turn creative talents toward problem. thing comes
+ mind mechanism sucking funds end day automated basis.
+ natural thing would us sort opposite repos late day return next
+ morning. given thought? working that?
+ MR. DUDLEY. given thought, press business, frankly,
+ overwhelmed us short run. think good point. would say two things
+ Primary Dealer Credit Facility ability keep funds rate target. One,
+ works way hope works, going many people showing
+ Primary Dealer Credit Facility. hope, time, none—because reassure repo
+ investors roll repo, think dominate coming Primary Dealer
+ Credit Facility. works way imagine could work, Primary Dealer Credit
+ Facility use nominal, won’t issue. second thing would say that,
+ people come Primary Dealer Credit Facility leads softness federal
+ funds rate, definition make Primary Dealer Credit Facility less attractive because,
+ 
+ March 18, 2008
+ 
+ 10 127
+ 
+ remember, Primary Dealer Credit Facility cost tied target federal funds rate
+ federal funds rate actually trades market. also obviate issue.
+ look, haven’t done before. one day experience. We’re going
+ work issues raised, we’re going see goes, frankly.
+ VICE CHAIRMAN GEITHNER. Mr. Chairman, could add one thing this? think
+ delicacy whole tri-party repo thing hard overstate. better worse, mostly
+ worse, full tri-party repo market generally spread last years well beyond Fedeligible securities, get side this, lot risk stuff repo
+ goes eligible collateral quality spectrum. Even world confidence
+ comes back around primary dealers counterparties, thing there’s natural risk
+ stuff going financed form.
+ hardest thing balance try something doesn’t increase
+ incentives become counterparty everybody. We’re trying make sure it’s
+ backstop, backstop that’s attractive come, that’s going hard
+ line walk. say that, Bill, because, lower expectations, necessary cost choice
+ we’ve made we’re going take risk end funding bunch stuff like that,
+ commitment way helps. hard know. Again, even
+ confidence holds, reasonable probability stuff going
+ move different forms hands, could delicate transition, particularly
+ people read broader loss confidence stuff.
+ thing that’s important point realistic expect, even
+ force things announced Sunday night, don’t still wave
+ deleveraging ahead us. still huge part world knows really long
+ 
+ March 18, 2008
+ 
+ 11 127
+ 
+ risk fragile environment yet gotten point. everything that’s
+ happened markets, leverage going world goes them, they’re going
+ want keep bringing down. really going work effect things we’re
+ doing. prepared best circumstances sustained period substantial
+ fragility. underscore point, Jeff, agree point discussing
+ thought slightly calmer world past two weeks exactly mix things,
+ we’ll together consulting.
+ CHAIRMAN BERNANKE. President Lacker.
+ MR. LACKER. Yes, want emphasize done far
+ separability it, except brief period late August last year, threatened
+ ability manage federal funds rate way thought appropriate whole economy.
+ don’t cure problem soon, become visible; become well known; get
+ priced in, extent overtake Committee’s deliberations sense
+ rather target rate run fed funds rate. think would fairly dangerous
+ outcome, strikes incredibly urgent.
+ CHAIRMAN BERNANKE. make good point, President Lacker. President Fisher.
+ MR. FISHER. mundane questions, way, Bill, thank service.
+ Everybody agrees Vice Chairman said, hope took note it. I’ve
+ made feel better, simple question. TAF, portion foreign
+ participation gone down?
+ MR. DUDLEY. don’t think really shift. There’s meaningful shift.
+ MR. FISHER. it’s still pretty much was.
+ 
+ March 18, 2008
+ 
+ 12 127
+ 
+ MR. DUDLEY. It’s high. interesting reintroduction swap.
+ know, ECB essentially noncompetitive auction us coming Monday.
+ interesting see affects TAF auction results.
+ MR. FISHER. second question, Bill, raised phone. don’t
+ remember answer. correct German bunds traded Treasuries terms
+ default risk, meaningful all?
+ MR. DUDLEY. think day might happened, don’t really
+ know answer that. I’m sure really means.
+ MR. FISHER. That’s question. mean anything?
+ MR. DUDLEY. happen, I’m sure would make it. would
+ probably reflect what’s going different countries Europe anything
+ really us versus Germany. That’s would interpret it.
+ MR. FISHER. Thank you.
+ CHAIRMAN BERNANKE. President Rosengren.
+ MR. ROSENGREN. I’d like commend New York Fed staff know
+ difficult time past week. question almost opposite President Lacker’s.
+ raises interesting points, wonder. Given stigma issues involved what’s
+ happened Bear Stearns, would think borrowing kind penalty rate
+ investment bank, arguably susceptible runs typical commercial bank,
+ something one would take advantage concerns stigma.
+ evidence there’s stigma? primary dealers viewing this, raised
+ concerns confidentiality would disclosed?
+ 
+ March 18, 2008
+ 
+ 13 127
+ 
+ MR. DUDLEY. Yes, certainly gotten questions
+ disclosed. Now, disclosure. line item H.4.1 release,
+ show total dollar amounts extended facility. bid
+ New York District, total primary dealer borrowing shown release.
+ stigma issue legitimate issue, careful talk
+ take tremendous care disclose even type institution uses it.
+ end day, can’t fund repo choice come
+ PDCF, probably going do.
+ Now, come back Vice Chairman Geithner’s point, think exactly right,
+ though. fact extent stigma, going want come,
+ going reinforce deleveraging process clearly way, fact
+ saw Bear Stearns go troubled viable firm nonviable firm three days.
+ lesson lot firms going be, oh, need liquidity, need less
+ leveraged, lesson, happened Bear Stearns, isn’t going go away.
+ CHAIRMAN BERNANKE. Governor Warsh.
+ MR. WARSH. I’m impression—Bill, correct me—in earnings call
+ investment banks today tomorrow, four remaining going
+ destigmatize facility answers effect “we haven’t tapped facility yet,
+ would open right circumstances” provide comfort
+ stigmatizing minds. strongest firms say provide
+ halo rest. Bill’s point, think evaluate go.
+ CHAIRMAN BERNANKE. think incumbent upon point Board
+ staff also involved, mention Brian Madigan, Pat Parkinson, Scott Alvarez,
+ 
+ March 18, 2008
+ 
+ 14 127
+ 
+ Deborah Bailey, others well. much joint effort. questions Bill?
+ not, we’ll turn Dave Stockton. Oh, sorry, need vote ratify open market
+ operations.
+ MR. KOHN. move ratify open market operations.
+ MR. FISHER. Second.
+ CHAIRMAN BERNANKE. Without objection. Thank you. Dave Stockton.
+ MR. STOCKTON. Thank you, Mr. Chairman. know, made
+ large changes economic projection round—so large, fact,
+ adjust scale forecast evolution charts put back
+ Greenbook. Obviously, notable change adoption
+ view economy moving recession. thought would helpful
+ briefly review morning reasons making call time. addition,
+ lay rationale depth duration weakness real activity
+ projecting. Finally, explain why, much projected
+ slack resource utilization, inflation has, average, revised
+ January projection.
+ noted several occasions past months decision
+ stick forecast economy muddles current difficulties
+ without falling recession close call. Well, intermeeting period,
+ continued accumulate bleak array economic indicators. Consumer confidence
+ moved still lower and, case Reuters/Michigan measure, dropped levels
+ last registered early 1990s. Regional indexes business sentiment continued
+ deteriorate noticeably, steep drops measures reported New York,
+ Chicago, Philadelphia. Although weakness less pronounced
+ national ISM surveys, composite indexes manufacturing
+ nonmanufacturing 50 February. Small businesses—as reported
+ survey conducted National Federation Independent Businesses—and larger
+ businesses—as captured Duke University Survey Chief Financial Officers—
+ turned pessimistic. indicators taken alone, even limited
+ combination, might troubling. viewed whole especially
+ taken conjunction many financial indicators flashing
+ recession signals time, pattern recent readings disturbing.
+ Furthermore, recession signals longer limited surveys financial
+ indicators. Private payroll employment estimated dropped 101,000
+ February, sizable downward revisions earlier months left
+ employment showing declines December January. Industrial production
+ dropped 0.5 percent February, manufacturing IP fell 0.2 percent.
+ weakness industrial production occurred series use
+ 
+ March 18, 2008
+ 
+ 15 127
+ 
+ production worker hours estimate output also series measures
+ physical product. payroll employment industrial production,
+ diffusion indexes indicate weakness spread widely across industries.
+ morning’s data housing starts also suggest little end sight ongoing
+ recession housing. Single-family starts fell 6½ percent, 707,000
+ units, February, permits dropped similar amount. figures
+ close expectations. Multifamily starts moved 360,000 units,
+ figure follows low figures late last year, wouldn’t attach much signal
+ reading. Moreover, certainly going try predict
+ NBER ultimately do, number series consulted dating committee
+ appear peaked late last year early year—at least currently
+ published data. Real personal income, industrial production, payroll employment,
+ real manufacturing trade sales local peaks sometime
+ October January. told, evidence serious weakening economy
+ appears us palpable January.
+ one grants economy, time time, exhibits nonlinear behavior,
+ forecast need nonlinear changes avoid making outsized errors.
+ point, we’ve seen enough make us think recession likely
+ period weak growth, forecasting. made
+ discontinuous change projection, want impress upon Committee
+ much remains forecast recession; lot happen haven’t
+ seen yet confident call.
+ Indeed, several reasons skeptical transitioned
+ recession. One striking feature several surveys business sentiment
+ businesses appear pessimistic overall economic picture
+ prospects firms. Another cautionary reading comes
+ motor vehicle sector. Sales softened noticeably past couple months,
+ haven’t tumbled might economy already moved
+ recession. labor markets, initial claims unemployment insurance,
+ risen earlier year, leveled late, four-week average running
+ 360,000 recent weeks. level claims yet high enough clearly
+ signal declines private payrolls 150,000 175,000 expect
+ occurring spring. Finally, orders shipments nondefense capital
+ goods flattened late last year yet shown signs serious
+ deterioration, necessary shortly projected downturn capital
+ spending come pass. now, willing treat readings
+ suggesting upside risk forecast modest recession.
+ One key features past recessions, viewed lens
+ models, tendency observe large negative residuals correlated across
+ major spending equations. built feature projection.
+ also remains forecast pattern correlated negative residuals yet
+ clearly evident data. gain perspective forecast would
+ looked built recession effects, showed alternative scenario
+ 
+ March 18, 2008
+ 
+ 16 127
+ 
+ Greenbook effectively removed residuals. result forecast
+ similar to, though near term bit weaker than, one showed
+ January Greenbook largely higher oil prices weaker housing prices.
+ marked baseline forecast considerably would
+ suggested factors alone.
+ sure, may overreacted moving recession call.
+ possibility counterbalanced clear downside risks even relative
+ pessimistic forecast. recession forecasting relatively shallow.
+ forecast, depth downturn limited near term tax rebates,
+ provide substantial boost disposable income starting May.
+ help buffer drag spending anticipated result declining
+ employment, higher oil prices, weaker household net worth. Moreover, domestic
+ production benefits appreciably past prospective decline exchange
+ value dollar continued growth economies major trading
+ partners—factors help provide sizable boost net exports year next.
+ influences result small upturn real GDP second half,
+ unemployment rate rises 1¼ percentage points, 5¾ percent. small
+ increase unemployment even standards past two mild recessions.
+ I’ve noted, well-timed macro policies substantial support external sector
+ lead us expect time different unemployment rate
+ rise less usual. always wary forecasts expect time
+ different.
+ Another notable feature forecast that, although projected downturn
+ activity shallow, period weak aggregate demand lengthy, especially
+ given assumed low level real funds rate. inclined,
+ might good time check Blackberries e-mail get couple
+ games BrickBreaker assure offering much
+ way scientific insight issue. forecast, growth real GDP
+ picks next year several reasons. Housing demand finally bottoms out,
+ accordingly, construction activity begins arrest steep decline. addition, given
+ forecast flattening crude prices, drag higher oil prices
+ consumer spending expected wane next year. Importantly, also assume
+ gradual lifting restraint spending financial stress abates.
+ last influence assumed lift gradually previous forecast
+ and, along intensifying drag lower house prices, accounts much
+ lingering weakness projection. Correspondingly, unemployment rate
+ falls 5½ percent end 2009. previous forecast,
+ effects financial stress fading year, thought that, became
+ apparent economy would avoid recession housing bottoming
+ out, risk spreads would narrow, credit conditions would loosen up, spending
+ restraint would ease. Obviously, current forecast, economy experiences
+ recession year, housing doesn’t show much sign stabilizing next year.
+ consequence, don’t begin phase unusual restraint spending
+ resulting financial stress next year.
+ 
+ March 18, 2008
+ 
+ 17 127
+ 
+ aspect forecast, even others, largely guesswork.
+ don’t much way historical experience calibrate
+ projection. recognition uncertainty, included Greenbook two
+ alternative simulations. “faster recovery” alt sim, assume stabilization
+ housing later year reversal risk spreads middle next year.
+ assumptions, growth picks noticeably, tightening
+ monetary policy required next year. Alternatively, one cannot rule
+ deterioration financial conditions even longer period subpar
+ economic performance. “greater housing correction financial
+ fallout” scenario, steeper decline home prices results deeper contraction
+ construction activity, widening risk spreads, tighter lending conditions,
+ additional deterioration household business sentiment. Although
+ scenario might sound extreme, pushes outer edge 70 percent
+ confidence interval real GDP unemployment. also sobering recognize
+ simulation results nominal funds rate path skirts zero bound.
+ bottom line: know probability 1 baseline forecast
+ wrong. downward adjustments made forecast,
+ feel significant probability mass sides projection.
+ Despite marking forecast real activity substantially round,
+ projection consumer price inflation, headline core, revised
+ 2008 largely unchanged 2009. revisions reflect marginally worse
+ news incoming price data well deterioration key
+ determinants price inflation. news, reading recent price
+ figures core PCE prices probably rise rapidly January
+ currently published likely rose faster February might
+ suggested cursory examination last Friday’s CPI report. noted
+ Greenbook, barring offsetting influences, believe currently reported
+ increase core PCE prices 0.3 percent January revised 0.2
+ percent BEA incorporates low reading medical care services
+ shown January PPI. February, core CPI unchanged
+ favorable development. sizable fraction good news rents
+ medical care; rents receive much smaller weight PCE prices CPI and,
+ noted, PCE price index uses PPI, CPI, measuring medical
+ costs. Incorporating medical care prices morning’s PPI release suggests
+ us core PCE prices rose 0.15 February. told, projecting
+ increase core PCE prices 2.5 percent annual rate first quarter, 0.1
+ percentage point January.
+ also incorporated forecast jump cost crude
+ oil higher import prices associated weaker dollar more-rapid gains
+ commodity prices. Moreover, read survey measures TIPS spreads
+ suggesting may deterioration inflation expectations
+ late. Taken together, less favorable developments offset
+ projected emergence slack resource utilization. consequence,
+ 
+ March 18, 2008
+ 
+ 18 127
+ 
+ projecting core PCE prices rise 2.3 percent year, ¼ percentage point
+ January projection. Despite unemployment rate runs nearly
+ ½ percentage point previous forecast, left unrevised projection
+ core PCE prices 2009 1.9 percent. Higher food energy prices
+ resulted upward revision total PCE price inflation nearly
+ ¾ percentage point, 2.9 percent, 2008. Total PCE price inflation 2009
+ unrevised 1.7 percent.
+ turning floor Nathan, want let Committee know
+ three research divisions undertaking review structure policy
+ documents. Greenbook Bluebook grown length complexity
+ past decade. objective review improve focus flow
+ documents eliminate redundancy crept time
+ reduce burden reading documents burden staff
+ producing them. will, course, consult Committee
+ implementing substantive changes. Nathan continue presentation.
+ MR. SHEETS. global economy likewise seen extraordinary
+ developments intermeeting period. Notably, spot price WTI
+ surged 15 percent, briefly reaching $110 per barrel, many nonfuel
+ commodities prices moved similar magnitudes. exchange value
+ dollar, relatively stable since November, returned
+ depreciating path, falling 5 percent major currencies since midFebruary reaching post–Bretton Woods low. global financial stresses
+ began last summer intensified. Also, Dave outlined, recent data
+ suggest U.S. economy continued weaken. Nevertheless,
+ news foreign sector grim. Indeed, given shocks
+ materialized, foreign economies appear showing somewhat resilience
+ would expected.
+ Total foreign real GDP growth fourth quarter last year stepped
+ 3.2 percent rapid 4.5 percent rate prevailed previous
+ three quarters, pace activity slowed advanced economies
+ emerging market economies. fourth-quarter out-turn, however,
+ ½ percentage point stronger expected, reflecting upside surprise
+ emerging markets. Available indicators first-quarter activity paint mixed picture.
+ euro area, economic sentiment fell February ninth consecutive month,
+ purchasing managers index services sector German IFO index
+ business conditions picked up. addition, industrial production retail sales
+ posted stronger readings January. ECB’s bank-lending survey indicates
+ tightening lending standards, measures bank credit corporate sector
+ continued expand. Indicators activity United Kingdom also
+ mixed. Consumer confidence February slid five-year low, business
+ confidence conditions services sector upbeat. emerging
+ Asia, impetus external demand clearly diminishing, Chinese retail
+ sales continued grow robustly; industrial production Korea, Singapore,
+ 
+ March 18, 2008
+ 
+ 19 127
+ 
+ Taiwan moved January; domestic consumption ASEAN countries
+ remained solid. Taken together, data seem indicate growth abroad
+ cooled stalled.
+ forecast thus seeks balance several offsetting considerations. one
+ hand, projection U.S. growth year cut sizable 1½ percentage
+ points; particularly stark implications countries like Canada, Mexico,
+ emerging Asia close trade ties United States.
+ deterioration global financial conditions also weigh activity abroad.
+ hand, incoming data suggest foreign economies yet
+ following United States recession, red-hot commodities markets also
+ lead us believe activity holding corners world.
+ Weighing factors, cut forecast total foreign growth
+ 2008 2.3 percent, 2.9 percent last Greenbook, much
+ markdown reflecting softer growth Canada Mexico. projections
+ emerging Asia also reduced, see economies still expanding
+ moderate pace. Clearly, upside downside risks around
+ forecast. downside, adverse spillovers U.S. slowdown
+ continued financial stresses may severe broadly felt
+ envision. upside, apparent resilience foreign demand date suggests
+ possibility growth abroad may hold better expect. 2009,
+ foreign growth projected rebound 3½ percent, line expected easing
+ global financial stresses economic recovery United States.
+ commodities prices increasing sharply, foreign inflation continued
+ rise. Notably, euro area, 12-month headline consumer price inflation climbed
+ 3.3 percent February, well ECB’s 2 percent ceiling, driven food
+ energy prices. China, 12-month inflation February surged 8.7 percent,
+ least part reflecting sharp increases food prices due severe winter weather.
+ effort temper pressures, Chinese authorities introduced temporary
+ price controls basic necessities morning announced plans raise
+ reserve requirements another 50 basis points. see average foreign inflation
+ 2008 coming around 3¼ percent, ¾ percentage point last
+ Greenbook.
+ Central banks responded cocktail slowing growth higherthan-desired inflation divergent ways. date, ECB held policy rate
+ firm 4 percent, citing level headline inflation, possible second-round effects
+ commodity price increases, risks ongoing wage negotiations. Given
+ concerns, expect ECB remain hold longer but,
+ response projected slowing activity, cut rates 50 basis points later
+ year. Bank England, contrast, reduced policy rate 50 basis
+ points since fall—and expect another 75 basis points year-end—in effort
+ cushion economy financial headwinds slowing housing
+ commercial real estate sectors. Finally, Bank Canada reduced rates
+ 
+ March 18, 2008
+ 
+ 20 127
+ 
+ 100 basis points since autumn, response downdrafts United States
+ strong Canadian dollar, Bank indicated “further monetary
+ stimulus likely required.” Thus see another 50 basis points easing
+ second quarter.
+ noted earlier, dollar depreciated 5 percent
+ major currencies since mid-February widening divergence path
+ policy rates United States industrial countries, particularly euro
+ area, weighed dollar. related factor, tone recent U.S.
+ economic data much softer advanced economies.
+ broad real terms, path dollar current forecast 2½ percent
+ weaker January Greenbook. Going forward, forecast calls
+ broad real dollar decline 3 percent annual rate, depreciation expected
+ come disproportionately currencies emerging market economies.
+ conclude words regarding performance U.S. external
+ sector. January trade data showed exports continuing rise healthy pace
+ nonpetroleum imports contracted. Imports consumer goods
+ particularly soft. 2008 whole, expect external sector contribute
+ substantial 1.2 percentage points growth, twice much previous
+ forecast. sure, much larger arithmetic contribution net exports
+ reflects contraction imports caused slowdown U.S. demand. However,
+ part reduction imports also due decline dollar. Exports
+ year seen grow pace nearly 7 percent, touch less last
+ Greenbook, effects weaker dollar almost offset markdown foreign
+ growth. 2009, imports rebound U.S. economy recovers, positive
+ contribution net exports accordingly shrinks ⅓ percentage point.
+ Finally, yesterday BEA reported current account deficit narrowed
+ 4.9 percent GDP fourth quarter, smallest share GDP since 2004.
+ expected rise oil prices drive deficit, offset
+ marked improvement net investment income, partly earnings received
+ foreigners investments U.S. financial sector declined, reflecting
+ effects ongoing financial turmoil. happy take
+ questions.
+ CHAIRMAN BERNANKE. Thank you. Questions? President Fisher.
+ MR. FISHER. put two comments together, one messages receive
+ less confident linkage U.S. slowing growth rest-of-world slowing
+ growth conventional wisdom before. mentioned, discussion
+ international side, downside upside growth. also downside upside
+ inflation. want ask thoughts staff standpoint. Clearly,
+ 
+ March 18, 2008
+ 
+ 21 127
+ 
+ downside price pressures come housing crisis related issues and,
+ presume, building slack rising unemployment and, therefore, restrained wage
+ demands. domestic side. time, think hear saying
+ global side happening fashion elsewhere. emerging countries, particularly
+ China, still growing rapid pace. However, may become somewhat slower.
+ question is, feel much offset domestic disinflationary/
+ deflationary forces thought before? global demand-pull inflationary forces
+ basically mitigating expectations contractionary domestic forces?
+ opinion—the two you—changed intermeeting period? hope clear question,
+ think get point making.
+ MR. SHEETS. intermeeting period lived experience
+ manifests upside risk inflation forecast; would indicate that,
+ ¾ percentage point markup headline foreign inflation 2008 forecast, vast majority
+ reflection red-hot commodity markets, presses question us,
+ Well, going there? Certainly, case demand markets,
+ would expected seen attenuation bit softening. Really, seems
+ quite opposite. demand since first year accelerated. factors
+ work well—idiosyncratic supply stories, electrical outages made harder smelt
+ aluminum copper, on. supply factors well. demand side
+ seems important, extent demand remains strong, sure
+ commodity prices going top out. futures path reasonable guess sort
+ balance supply demand. also upward pressure prices
+ 
+ March 18, 2008
+ 
+ 22 127
+ 
+ depreciation dollar. extent commodity prices move up, would say
+ probably marking forecast foreign inflation next time.
+ broader comment linkages U.S. foreign economies—
+ again, surprised strength demand commodity markets. would
+ expected point seen marked evidence slowing foreign economies.
+ marked forecast 2008 line prospective developments,
+ slowing United States, financial stresses. didn’t mark
+ forecast much, tenth two, mainly Canada Q1; data
+ hand pointing dramatic slowing. expecting come
+ second third quarters.
+ MR. STOCKTON. President Fisher, basically reiterate said earlier
+ amplify many things Nathan said terms influences headline
+ forecast. revised ¾ percentage point well, really coming higher energy
+ prices, higher food prices, higher commodity prices, think already
+ showing extent expect continue show headline inflation.
+ Despite fact run much larger output gap forecast, haven’t revised
+ forecast 2009 lingering effects run-up commodity prices
+ expecting. indicated, think probably small deterioration
+ inflation expectations well.
+ MR. FISHER. Thank much. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. President Evans.
+ MR. EVANS. Dave, question basically influence financial stress
+ outlook. talking official Bank Canada last week,
+ 
+ March 18, 2008
+ 
+ 23 127
+ 
+ intriguing calibration said that, since last August, thought financial stress
+ Canada worth 25 basis points restraint outset thought
+ like 50 basis points economy, quite well. guess impossible
+ question is, thought type calculation influences way
+ think interest rates forecast? way thinking
+ President Lacker others thought trying separate effects
+ standard monetary policy innovative policies. separation affects financial
+ markets directly helps us think normal calibration policy. But, course,
+ financial stress add-on effects. think would interesting.
+ MR. STOCKTON. thought that, difficulty point trying
+ identify truly exogenous features current financial stress operating
+ beyond channels normally incorporated models. models, obviously,
+ asset prices, house prices stock prices, interest rates interest rate
+ spreads, things changed, able incorporate
+ forecast. then, that, think model doesn’t really capture lot
+ credit-availability channels. lot stress market beyond captured
+ interest rates models. taking grain salt, think roughly ¾
+ percentage point level GDP year—over beyond effects lower house
+ prices, weaker stock market, higher interest rate spreads—that basically lingers
+ next year begins gradually phase out. important factor
+ forecast based low real federal funds rate. Obviously, came different
+ conclusion either depth likely occurring next months
+ terms restraint—not financial stress conditions also call
+ 
+ March 18, 2008
+ 
+ 24 127
+ 
+ moving recession—or way restraint fades forecast,
+ would huge influence projected path funds rate. important
+ recognize forecast conditioned one effects linger quite significantly
+ next year.
+ MR. EVANS. Thank you.
+ CHAIRMAN BERNANKE. questions? not, begin economic goround. President Hoenig.
+ MR. HOENIG. Thank you, Mr. Chairman. thought would talk bit
+ events region think global implications—that say, talk bit
+ agriculture. heard others morning talk price movements,
+ think worth perhaps spending minutes effects. First all, agricultural
+ commodity prices surged record highs, driven obviously strong demand, lean
+ supplies, weak dollar. Since fall 2007, winter wheat prices doubled, corn
+ soybean prices risen 70 percent, record highs. Rising crop prices boosting
+ farm income. real terms, U.S. net farm income expected climb second highest
+ level record, trailing 1972, abrupt sales U.S. wheat Russia pushed farm
+ income.
+ emerging concern growing disarray futures markets agricultural
+ commodities caused surge investment index hedge funds going forward. Recent
+ reports indicate hedge index fund investment futures markets corn, soybeans,
+ wheat rose $10 billion January 2006 $45 billion past January. Early month,
+ index funds held 40 percent long positions wheat contracts Chicago
+ Board Trade. rapid pace investment—since beginning year averaging
+ 
+ March 18, 2008
+ 
+ 25 127
+ 
+ $1 billion per week—the funds would nation’s entire 2008 corn, wheat, soybean
+ crops early 2009. Now, obviously theoretical, much money going
+ market. resulting market disarray constraining traditional use commodity
+ futures hedge market risk. Grain elevators, use futures hedge contracts
+ purchase crops producers future delivery, facing much larger normal margin
+ calls futures positions. reports indicate lenders beginning restrict
+ funding elevator hedges. result, increasing number elevators limiting
+ contracts crop purchases sixty days advance delivery instead
+ normal one two years.
+ Now, surge crop prices farm income pushing farmland values.
+ According bank’s agricultural credit survey fourth quarter 2007, non-irrigated
+ cropland values jumped 20 percent 2006 levels, strong gains also reported irrigated
+ cropland ranchland. directors contacts report strong gain since
+ beginning year, reported much 20 percent increase first
+ quarter alone. Adjusted inflation, average price farmland across nation tops
+ early 1980s peak, immediately preceded plunge early mid 1980s.
+ date, crop production budgets suggest recent run-up farmland values
+ supported current revenues crop production. However, farm input costs also risen
+ sharply, driven higher energy costs, suggesting drop crop prices could quickly erode
+ farm cash flow undermine values. District bankers report surge farm capital
+ spending. February, sales four-wheeled major equipment rose 45 percent 2007
+ levels, combine harvester sales 13 percent. Farm equipment prices risen
+ sharply, directors contacts report equipment dealers rationing
+ 
+ March 18, 2008
+ 
+ 26 127
+ 
+ purchases among customers. past month, anecdotal reports District contacts
+ indicate nonfarm investors boosted farmland purchases. contacts
+ national farm management company based Omaha stated number inquiries
+ farmland purchases corporate interests jumped significantly recently. Similarly, one
+ directors reported hedge fund assets $7 billion expected invest
+ $500 million cropland Texas Nebraska. fund recently purchased nearly 25
+ square miles corn acreage western Nebraska.
+ Now, continue watch signs rising leverage, date farm debt levels
+ risen modestly only, agricultural banks seem remain healthy. Bankers report continued
+ use cash finance farmland purchases, would note leverage brought
+ picture, think accelerate opportunism greed way. Total farm
+ lending District banks increased modest 14 percent past four years,
+ growth farm real estate lending. District bank examiners
+ respondents surveys reported Farm Credit System aggressive
+ funding farm real estate transactions. Real estate mortgage loans held Farm Credit
+ System rose 12 percent 2007. Asset quality ag banks remains, point, solid.
+ Noncurrent assets—all assets, farm loans—at ag banks slightly year
+ ago remain well historical averages. Net loan losses still low. Earnings
+ remained solid primarily cost control low loss provisions.
+ pleased, tell that, going forward, terms surveys kinds pressure
+ price appreciation going on, think push leverage beginning.
+ 
+ March 18, 2008
+ 
+ 27 127
+ 
+ national level, terms Greenbook, every indication economy
+ slowing. Whether recession slow growth matter degree, think
+ projections direction Greenbook.
+ Turning inflation outlook, concerned, said before, upside
+ risk inflation. Though certainly agree others around table weaker economic
+ activity may put downward pressure goods price inflation, think also agree
+ number factors could push inflation higher, including rapidly rising commodity prices
+ worldwide weaker dollar. discussed Bluebook, indication
+ inflation expectations may moving higher well. indicated before,
+ increasingly concerned that, need respond signs economic weakness, risk
+ losing hard-won credibility inflation. past four years, core PCE inflation
+ averaged 2.1 percent, considerably numbers Committee put forward
+ long-term projections. Frankly, think many people outside room think
+ Committee deliver longer-run projections put forward. don’t
+ think keep inflation expectations anchored talk actual inflation rises
+ months ahead continue ease policy rising inflationary environment.
+ something need keep mind discuss policy options today. Thank
+ you.
+ CHAIRMAN BERNANKE. Thank you. President Rosengren.
+ MR. ROSENGREN. Thank you, Mr. Chairman. Since last meeting, economic
+ data continued indicate weak economy that, likelihood, entered
+ recession. Like Greenbook, outlook particularly influenced indications
+ significantly weaker labor markets housing market yet showing signs
+ 
+ March 18, 2008
+ 
+ 28 127
+ 
+ reaching bottom. Private payroll employment fell 101,000 February, sum
+ downward revisions December January magnitude.
+ three months declining private payroll employment, also decline
+ widespread across industries. Blue Chip economic forecast, Greenbook forecast,
+ forecast unemployment rate peaking somewhere 5½
+ 6 percent. analysts process downgrading forecasts skirting
+ actually mild recession, risk severe downturn uncomfortably high.
+ major determinant severity downturn housing market.
+ recent developments housing market different postwar history, remain
+ concerned effects substantial declines housing prices difficult
+ capture statistical models based historical data. Case-Shiller index indicates
+ housing prices fell approximately 10 percent 2007, decline similar magnitude
+ year would mean many homes purchased past several years negative equity
+ position. Elevated foreclosures large inventories unsold properties providing
+ abundant opportunities purchase homes heavily discounted prices financed low interest
+ rates historical standards. widespread concerns prices continue fall
+ resulted many prospective buyers deferring purchase decisions. date, housing market
+ quite weak, despite relatively low unemployment rates. forecasts right,
+ job losses year likely exert significant drag housing prices rising
+ unemployment rates force additional home sales foreclosures. Falling housing prices
+ likely collateral impact consumption. Perhaps reflecting risk, credit default
+ swap rates retailers rising, increasingly hearing retailers
+ closing stores postponing expansions. Retailers, like consumers, aware high oil
+ 
+ March 18, 2008
+ 
+ 29 127
+ 
+ prices, increasing job losses, losses wealth stock housing markets likely
+ conducive robust consumption.
+ Exacerbating negative economic news continued deterioration financial
+ markets. Credit spreads widened significantly past six weeks, many spreads
+ 50 basis points higher last meeting. Hedge fund money managers
+ talk acutely aware counterparty risk carefully managing
+ collateral. firms excess collateral process managing position down.
+ deleveraging going reduced willingness banks financial
+ intermediaries finance positions. addition, concerns liquidity rise,
+ seeing renewed pressure asset-backed commercial paper market. rise credit
+ default swaps companies like Washington Mutual Lehman Brothers indicates increased
+ concerns solvency large financial institutions large exposures mortgages.
+ potential episode financial market dysfunction runs additional
+ financial firms significant. primary concern time could suffer severe
+ recession. Falling collateral values impaired financial institutions significantly
+ exacerbate economic downturns.
+ indicators inflation higher want, previous recessions,
+ commodity prices inflation rates fell. Given forecast economic outlook, expect
+ substantial excess capacity significantly reduce inflationary pressures going forward, see
+ little evidence higher commodity prices causing upward pressures wages salaries.
+ CHAIRMAN BERNANKE. Thank you. President Yellen.
+ MS. YELLEN. Thank you, Mr. Chairman. Since met end January,
+ utter dearth good news concerning real financial sides
+ 
+ March 18, 2008
+ 
+ 30 127
+ 
+ economy. real side, can’t recall intermeeting period nearly every
+ single data point dismal. financial side, occasional good days,
+ net changes intermeeting period negative across board
+ equity credit markets, financial conditions unambiguously tightened.
+ developments familiar us, won’t take time review specifics.
+ overall sense point effects severe prolonged housing
+ downturn, financial market implosion, price increases oil commodities
+ spread corners economy, including major segments consumption
+ business fixed investment. Exports represent source strength,
+ welcome, must say economy pretty clearly trouble contribution
+ real GDP growth exports exceeds overall real GDP growth, may well happen year.
+ bottom line that, like nearly everyone else, downgraded economic outlook
+ substantially. Assuming stance policy eased substantially meeting
+ additionally midyear, see economy essentially recession first half
+ picking somewhat second effects monetary fiscal policy.
+ However, certainly see large downside risks forecast, think Greenbook’s
+ view recessionary nonlinearities already set seems within reasonable
+ range outcomes. fact, also looking monthly data coincident business
+ cycle indicators, examination suggests us NBER may well date beginning
+ recession last November.
+ prospect outcome made palpable rather sudden
+ increase frequency intensity pretty dire comments hearing contacts.
+ First, heard widespread reports reductions capital spending plans due caution
+ 
+ March 18, 2008
+ 
+ 31 127
+ 
+ pessimism regarding economic growth. example, large manufacturer retailer
+ outdoor sports equipment reported technology infrastructure spending cut
+ least third 2008. another example, large player commercial real estate San
+ Francisco Bay area described projects canceled financing spigot
+ shut. Indeed, nonresidential construction one sector think Greenbook may
+ optimistic. envision growing weakness there.
+ Second, retail contacts suggest spending softened wake
+ weak holiday season, expectations continued weakness least spring.
+ example, CEO large high-end national retail operation reports January
+ February seen declines sales haven’t experienced almost fifteen years.
+ declines created tremendous pressure inventory levels requiring large markdowns
+ negative effects profits. Vendors reeling cancellation orders, return
+ goods, sharp reductions new orders.
+ Third, number contacts provided comments reinforcing view
+ significant credit crunch way. Slightly half comments received
+ topic indicate credit standards tightened significantly recent months. one
+ example, CEO bank District reports several nation’s largest mortgage
+ lenders suspended withdrawals open home equity lines concern borrowers
+ could owe homes worth. final anecdote, banker District
+ lends wineries noted high-end boutique producers face distinctly softening market
+ products, although sales cheap wine soaring. [Laughter]
+ let turn inflation inflation expectations. course, much recent
+ data disappointing, pushed rising energy commodity
+ 
+ March 18, 2008
+ 
+ 32 127
+ 
+ prices. Though heartened Friday’s CPI report, one observation hasn’t changed
+ overall impression prospects core inflation year worsened bit since met
+ January, raised projection core PCE inflation ¼ percent 2008,
+ 2¼ percent. data raise issue whether cutting rates much needed fight
+ recession may risk persistently higher inflation inflation expectations. tend think
+ risk manageable.
+ First, said before, view inflation less persistent was,
+ tending revert fairly quickly longer-run trend. recently reviewed updated
+ econometric evidence found even convincing
+ couple years ago. course, important remember current lack persistence
+ presumably due enhanced credibility, careful maintain it. Recent
+ increases inflation compensation Treasury markets highlight risk attempts
+ deal problems real economy possibly could lead higher inflation expectations
+ erosion inflation credibility. inflation compensation one indicator
+ inflation expectations. much like Board staff’s approach, current
+ Bluebook, combining information wide variety indicators principalcomponent-type model. found reassuring resulting index inflation expectations
+ uncertainty still within range variation seen past decade so.
+ Second, tend think developments labor compensation important part
+ transmission process monetary policy inflation. get much trouble
+ inflation inflation expectations, would expect see labor compensation begin rise
+ rapidly. find reassuring broad measures compensation expanded
+ 
+ March 18, 2008
+ 
+ 33 127
+ 
+ quite moderately past year, productivity growth fairly robust.
+ incorporating effects, unit labor costs less 1 percent past four quarters.
+ Finally, pronounced slowdown expect economic activity likely
+ put somewhat greater downward pressure inflation going forward. Overall, expect core PCE
+ inflation fall 2 percent next year assumed leveling energy
+ commodity prices projected weakening labor product markets.
+ CHAIRMAN BERNANKE. Thank you. President Stern.
+ MR. STERN. Thank you, Mr. Chairman. Well, baseline forecast Greenbook
+ looked lot like 2001 recession experience—very brief mild. things turn
+ way, fortunate, frankly. forecast submitted last
+ meeting lower around table, bottom line think
+ recession that, in, confronting likely resemble 1990-91,
+ which, brief, wasn’t mild. couple quarters, recall,
+ economy contracted least 3 percent real terms. sure recession likely
+ brief previous two either. tried use 1990-91 experience
+ aftermath sort guide thinking today things might unfold
+ evolve significant similarities well significant differences
+ periods. also way start organize things think this.
+ let describe think relevant features experience
+ today’s circumstances either similar different.
+ compare circumstances today confronting back 1991,
+ positive side inflation inflation expectations lower today. unemployment
+ rate lower going recession. Nominal real interest rates appear
+ 
+ March 18, 2008
+ 
+ 34 127
+ 
+ lower today back then. think nonfinancial business balance sheets
+ better shape today average going 1990-91 experience, depository
+ institutions overall better shape today back then, although course
+ high profile problems. course, period saw
+ less virtual demise thrift industry problems major banks. also
+ significant correction housing activity, commenced 1987 ran 1990.
+ wasn’t sharp one experiencing, significant nevertheless.
+ also credit crunch back then, given lot responsibility
+ recession aftermath—that is, relatively sluggish recovery occurred
+ recession ended—because alleged financial institutions, nonfinancial businesses,
+ households trying strengthen balance sheets simultaneously,
+ good deal caution throughout financial sector. number similarities
+ well number differences.
+ think today’s circumstances, couple things come mind. One is,
+ President Yellen summarized, breadth negative news economy striking
+ me. top that, think today’s financial problems are, without question, severe
+ intense back then. engulfed many financial markets,
+ well aware. declines housing prices housing values markets
+ back then, decline experiencing today widespread likely,
+ done, good deal deeper. think least reasonable parallel kind thing
+ experienced back 1990-91.
+ Now, inflation side, let start policy. weren’t targeting federal
+ funds rate back then. still wedded monetary aggregates, less.
+ 
+ March 18, 2008
+ 
+ 35 127
+ 
+ funds rate, nevertheless, provides useful information. funds rate, early 1989,
+ around 9¾ percent. got 3 percent September 1992, stayed early 1994.
+ cite inflation, whether look core headline, actually diminished
+ period. people worried, perhaps justifiably, going
+ shape like late 1960s much 1970s far inflation concerned, would
+ say foregone conclusion look history. don’t know easy
+ distinguish likely play out, significant series policy moves
+ undertaken back then, inflation, nevertheless, diminished.
+ comment would add this—and going lift gloom right
+ away, certainly—is financial problems going persist. Even bottom
+ conditions start improve, would expect exert headwinds shape
+ recovery. view 2009 likely healthy Greenbook envisions, largely
+ consequence hangover financial problems. Thank you.
+ CHAIRMAN BERNANKE. Thank you. President Lockhart.
+ MR. LOCKHART. Thank you, Mr. Chairman. Reports directors business
+ contacts consistent others said morning—that overall economic growth
+ slowed appreciably since beginning year. Pessimism near-term outlook
+ increased. time, many troubled continued elevation prices
+ price level increases apparently becoming less convinced inflation moderate
+ time soon. view, deliberations morning decision make must about,
+ first, financial system stability—the threat broad economy severe financial instability—
+ and, second, inflation risk role rate policy response immediate problems. One
+ addition list concerns continuing dollar depreciation since met last role
+ 
+ March 18, 2008
+ 
+ 36 127
+ 
+ price pressures overall uncertainty. run-up meeting, heard little casts
+ doubt economy trending. assessment entered recession
+ territory. Previous forecasts premised improvement second half stabilization
+ house prices financial markets. Neither materialized, early encouraging
+ signs.
+ current circumstances, financial stability must priority one. said,
+ inflation picture become quite troubling. Headline inflation, perhaps excluding last month,
+ elevated since late summer, measures core inflation, though less so.
+ expected easing pressures hasn’t yet convincingly set in. longer view leads
+ conclusion inflation relatively high, average, since 2005. must mindful
+ address financial stability concerns.
+ mentioned dollar’s trajectory listed view relevant
+ considerations today. concerned perceive growing mention
+ possibility dollar currency crisis. Although one conversation, also heard mention
+ developing dollar carry trade fueled interest differentials, expected rate cuts, possibly
+ view recessionary conditions persist time.
+ Policy often balancing act, see current constraints tightening. real
+ side entered recession probability. increasing risk inflation objective.
+ Financial stability profoundly play, exacerbated trajectory dollar, although
+ measured this, think current round financial market problems yet thrown
+ economy irreparably balance.
+ intend support downward rate move today, reservations utility
+ continuing cuts addressing financial stability problems. Discussion policy round may
+ 
+ March 18, 2008
+ 
+ 37 127
+ 
+ address this, comment balancing policy objectives risk-laden
+ environment may require decoupling rate policy liquidity measures. Thank you, Mr.
+ Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Pianalto.
+ MS. PIANALTO. Thank you, Mr. Chairman. conversations people
+ Fourth District financial community, get clear impression credit channels
+ closing down. Given uncertainties financial markets, large banks
+ District finding challenging ascertain potential loss exposures certain asset categories,
+ especially residential real estate developers. Two large banks District seen
+ asset quality deteriorate quickly projected January. Clearly, banks
+ financial institutions getting squeezed sides balance sheets,
+ highly leveraged institutions getting squeezed hardest. Many large banks
+ District going considerable lengths stay liquid conserve capital. largest
+ complex institutions attempting raise capital.
+ deteriorating environment financial markets clearly affecting business
+ conditions. manufacturers District seen slowing business activity.
+ better helped stronger export
+ demand. Pessimism economic prospects prevalent among CEOs talked
+ with, many scaling back business plans 2008 considerable amount.
+ faltering business prospects making financial environment even uncertain—a
+ pattern conforms adverse feedback loop Governor Mishkin others
+ warning about. Like others, cut growth projections 2008 and, again,
+ relatively large margin. Greenbook, factored projection weaker
+ 
+ March 18, 2008
+ 
+ 38 127
+ 
+ previously expected estimates spending employment well sharp run-up
+ energy costs.
+ especially important element current thinking future path housing
+ values. Many contacts told don’t see financial market conditions
+ stabilize without confidence bottom housing market lies and,
+ corollary, bottom residential-mortgage-backed security prices might lie.
+ Unfortunately, haven’t seen evidence seeing leveling housing prices.
+ Greenbook baseline projection carries nominal house-price declines 5 percent
+ year next. month ago may seemed like reasonably good assumption me,
+ today fear projection may optimistic. Certainly, decline house values
+ one sees futures markets markets covered Case-Shiller index indicates
+ decline twice magnitude. baseline projection closer “greater housing
+ correction” alternative Greenbook’s baseline projection. Even “greater housing
+ correction financial fallout” alternative seems somewhat plausible me.
+ Turning inflation outlook, January meeting modal outlook one
+ inflation trend declined 2 percent 2010. time, one
+ participants said inflation risk shifted upside. still hold
+ views—that is, still expect trend inflation fall 2 percent 2010, still
+ worry going continue experience upside surprises inflation outlook.
+ Indeed, can’t recall single conversation business contacts recently
+ hasn’t touched increasing cost pressures facing. cases,
+ successfully passing along price increases customers.
+ 
+ March 18, 2008
+ 
+ 39 127
+ 
+ Nevertheless, assess economic environment morning relative
+ January, particularly given prospects yet larger wealth losses stemming real
+ estate market certainly chance even greater impairment functioning
+ credit markets, think downside risks economic growth continue outweigh upside
+ risks inflation. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Evans.
+ MR. EVANS. Thank you, Mr. Chairman. Clearly, incoming data activity
+ weaker expected. think point downturn GDP first half year
+ similar Greenbook. February CPI report welcome news, balance
+ think inflation picture continues troubling. noticed marked change sentiment
+ business contacts round. Many telling problems Wall Street
+ affecting financing. Credit availability issue. regard borrowing
+ banks, reports seem consistent Senior Loan Officer Opinion Survey. Credit
+ issue tapping nonbank sources well, comments President Yellen made.
+ example, back December major shopping center developer indicated that, even though
+ commercial-mortgage-backed security market dried up, still able obtain financing
+ reasonable terms sources, life insurance companies. Last week told
+ sources dried up, too. He’s trying raise equity funding, considers
+ costly unappealing alternative.
+ Many contacts also expressed increased nervousness economic situation
+ likely impact demand products. Manpower’s CEO told business
+ deteriorated recent weeks. clients trimming staff lower current
+ demand, many others cautious cutting back expectation future weakening.
+ 
+ March 18, 2008
+ 
+ 40 127
+ 
+ Still, even though restrictive financing heightened caution weighing households
+ businesses, sense contacts spending collapsing point,
+ exports capital equipment agricultural sector continue well, similar President
+ Hoenig’s comments.
+ Another common theme heard contacts that, Fed’s innovative
+ response helped, expect measures lot solve financial
+ sector’s fundamental problems. doubt us disagree that. one directors
+ put it, “Monetary policy enough. need solution subprime mess.
+ happens, contagion run reverse.” believe innovative policies helpful
+ facilitating market functioning, don’t address root problem. Markets want firmer
+ sense prices stressed assets bottom magnitude portfolio losses
+ taken major financial players. Unfortunately, take good deal time
+ uncertainties resolved, I’m sure speed process. all,
+ number losses going stem mortgage delinquencies yet occurred
+ perhaps homeowners even contemplated outcome. means
+ financial headwinds likely weighing real economy time, President Stern
+ said. agree comments there. substantial uncertainty length breadth
+ process adds uncertainty medium-term outlook growth. hopeful
+ economy begin recover second half year, I’m lot less confident
+ outcome I’d like be.
+ Turning inflation, Friday’s CPI report good news heard
+ intermeeting period (I think last time reports weren’t good either, President Yellen),
+ although Greenbook Supplement points out, less favorable translation PCE prices takes
+ 
+ March 18, 2008
+ 
+ 41 127
+ 
+ luster. It’s surprise many contacts pointed increasing pressures
+ higher costs food, energy, commodity inputs. also heard numerous reports
+ higher costs passed downstream. One notable case wallboard. Even though demand
+ weak industry plenty excess capacity, higher costs energy inputs resulting
+ first increase wallboard prices 20 months. director reported concerned
+ pricing behavior moving toward cost-plus mentality. is, all, industry. so,
+ would negative implications inflation expectations. However, see risk
+ base case scenario resource gaps opening economy bring inflation
+ down. Firms find difficult pass cost increases environment weak demand.
+ Businesses financial market participants aware difficulty passing
+ costs, help keep inflation expectations.
+ said, even weak economy, firms much room absorb costs,
+ pressures higher prices energy commodities imported goods pose risk
+ outlook. addition, expect inflation expectations contained, risks
+ front, too. see low fed funds rate path, assumed Greenbook,
+ indication lack resolve inflation. don’t agree assessment, it’s
+ increasing risk running, particularly inflation news breaks wrong way.
+ Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Lacker.
+ MR. LACKER. Thank you, Mr. Chairman. We’ve seen two striking macroeconomic
+ developments since last meeting. compelling evidence recession train.
+ compelling evidence erosion inflation credibility. Information
+ District corroborates recession call. Various survey indicators reports contacts point
+ 
+ March 18, 2008
+ 
+ 42 127
+ 
+ weakness manufacturing, commercial real estate, consumer spending. signs yet
+ emerged bottom housing. national reports employment retail sales February
+ sealed case recession. appears payroll employment peaked end ’07
+ along real income household spending, make matters worse, anecdotal reports
+ suggest January fall nonresidential construction beginning sustained
+ deterioration. I’m expecting period declining employment, declining nonresidential
+ construction, flat-to-sluggish consumption. Equipment software spending may decline
+ well. Past contractions suggest trough later year. severe scenarios seem unlikely me,
+ however. Great Depression, example, involved us keeping real rates well 5 percent
+ several years activity slowed price level declined 30 percent.
+ take time ultimate size mortgage foreclosure losses known well
+ enough substantially reduce uncertainty attached mortgage-backed security returns,
+ clear interest rate changes affect timetable much. meantime, would
+ expect see repeated bouts financial turmoil. particular markets entities come
+ stress, would also expect see even wider speculation calls new Fed lending. It’s
+ even possible fluctuations perceived prospects intervention add financial
+ market volatility, much way conjectures IMF programs seemed add market volatility
+ 1990s.
+ string adverse inflation reports, CPI came virtually flat February.
+ certainly helps many reasons, including Mr. Stockton cited, I’m inclined make
+ much one month’s report. overall CPI still 4 percent year year, given
+ recent behavior oil gasoline prices, inflation likely high March report.
+ event, think comforting way rationalize substantial rise five-year, five-
+ 
+ March 18, 2008
+ 
+ 43 127
+ 
+ year-ahead inflation compensation we’ve seen since beginning year. measure
+ inflation previously ratcheted upward similar amounts early 1999, early 2001, mid-2003,
+ early 2004. episodes, actions statements communicated increase
+ concern growth prospects, market participants seem inferred corresponding
+ reduction commitment price stability. net result period five-year, fiveyear-ahead inflation compensation drifted significantly past ten years,
+ 2 percent 3 percent. expectational drift likely overwhelm, view,
+ transitory effect increasing slack.
+ believe inflation expectations longer qualify well anchored. Moreover,
+ longer seem consistent credibility even 2 percent inflation objective. believe
+ substantial erosion credibility occurring aggressive policy moves
+ perception hierarchy macroeconomic priorities changed. wouldn’t surprise
+ recent credit market interventions bleeding skepticism general
+ approach time-consistency problems. cannot help allow credibility drift around.
+ think want regime long-run inflation expectations ratchet whenever growth
+ slows significantly. Ultimately forced act restore credibility. adds
+ needless volatility financial markets economy.
+ believe need adopt strategy easing much less aggressively going forward
+ date markets expect. President Stern cited 1990-91 recession fact
+ federal funds rate inflation came recession. surely pace
+ easing something fact inflation came down. Unless we’re willing
+ let inflation expectations continue drift, disappoint markets sometimes. Thank you,
+ Mr. Chairman.
+ 
+ March 18, 2008
+ 
+ 44 127
+ 
+ CHAIRMAN BERNANKE. Thank you. First Vice President Sapenaro.
+ MR. SAPENARO. Thank you, Mr. Chairman. Eighth District economic conditions
+ softened, considerable variability across industries local areas. outlook District
+ agriculture strong context high commodity prices. prospect reflected
+ prices agricultural land, areas within District risen rate 20 25 percent
+ past year active markets. Production agricultural equipment 2008 crop season
+ fully booked, prices used equipment close prices new equipment.
+ major activity District energy industry, significant construction projects
+ coal-fired generation facilities rapidly developing exploration production Fayetteville
+ Shale play Arkansas. Total natural gas production source roughly quadrupled
+ 2007. recently published study, estimated direct impact Arkansas output
+ exploration production average $2.5 billion per year next five years.
+ perspective, 2.8 percent 2006 Arkansas gross state product. Overall activity
+ Evansville, Indiana, metropolitan area particularly strong. unemployment rate
+ declined year year 4.6 4.2 percent, nonfarm employment grown 1.4 percent
+ January ’07 January ’08. major investment auto parts industry works
+ area.
+ Activity housing markets District soft, building permits four largest
+ metro areas average 16.8 percent 2007. Nevertheless, house prices District
+ held much better national experience. 21 District metropolitan areas, house
+ prices increased average 2.5 percent 2007, decreases house prices reported 3
+ metro areas. However, contrast parts nation, areas experience major
+ house-price inflation 2007. 2000:Q4 2006:Q4, average annual price
+ 
+ March 18, 2008
+ 
+ 45 127
+ 
+ inflation areas 5.3 percent. Foreclosures increased 2007 three
+ four largest District metro areas much lower rates nationally, 2007 foreclosure rates
+ national averages three four areas.
+ solicited information national economy number sources. Contacts
+ air ground cargo industry report significant cost pressures higher energy prices.
+ affect everything fuel costs cost snow removal. Respondents indicate cost
+ increases significantly completely passed prices. International cargo
+ traffic reported show strong growth, customers substituting sea air shipment
+ choosing less rapid delivery service reduce cost. Year-over-year traffic Asia
+ Europe North America grown double-digit rates. One contact indicated volume
+ appears bottomed first half 2007 slowly steadily improved since.
+ contrast, contact over-the-road trucking industry reported much change
+ past two months. view, industry recession since December 2006.
+ sees improvement firm going forward increased demand small
+ competitors exiting industry bankruptcy. Excluding fuel surcharges, freight prices
+ flat down.
+ contact major credit card bank reported credit card activity indicates
+ retail sales, excluding autos, flat February likely flat March.
+ February data confirmed advance retail sales report last week. also reported
+ smaller percentage customers making full payment credit cards larger
+ percentage making minimum required payment. sees delinquencies spreading
+ credit cards. contact major software producer indicates revenue growth robust prior
+ first quarter 2008 and, remaining strong, slackened since beginning
+ 
+ March 18, 2008
+ 
+ 46 127
+ 
+ year. reports strong retail sales, possibly influenced reductions prices.
+ sees business spending United States remaining strong deterioration
+ collection receivables. Nevertheless, less optimistic industry outlook
+ January. Finally, contact quick service restaurant industry, fast food, sees business
+ stable moment, getting worse getting better. notes historically
+ industry affected least economy slows down, particular time sees gasoline prices
+ significant factor, many consumers making fewer trips purchase low-ticket items.
+ also views financial markets closed largest highly rated nonfinancial
+ corporations. words, market deals.
+ national economy certainly appears headed weaker first half 2008 seemed
+ likely January meeting. model estimated staff economists forecasting recessions
+ suggests probability neighborhood 60 percent NBER dating committee label
+ current experience official recession. Unlike some, optimist effect
+ fiscal stimulus program consumer demand. Economic theory past experience oneoff stimulus programs provide basis assuming strong response. current
+ situation, many consumers heavily leveraged, likely stimulus consumption
+ less historical averages.
+ Notwithstanding February CPI report, inflation situation deteriorating appears
+ likely continue deteriorating. Beyond immediate issue containing systemic risk,
+ important issue subsequent economic recovery. eased aggressively already.
+ must lose focus lagged effect current policy actions recovery. must
+ preserve credibility commitment low stable inflation. greatest danger
+ relapse period higher inflation, promotes policy response could generate
+ 
+ March 18, 2008
+ 
+ 47 127
+ 
+ future recession start vicious cycle increasing inflation increasing unemployment.
+ Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Plosser.
+ MR. PLOSSER. Thank you, Mr. Chairman. anticipated, Third District business activity
+ showed continued weakness February March. Reports retailers, manufacturers,
+ bankers, business contacts remain somewhat downbeat. time,
+ little moderation price pressures facing firms consumers. little new
+ regional housing markets. rather dwell housing, let talk
+ information received since last meeting.
+ Banks Third District generally relatively unscathed toll
+ financial markets. Many subprime market instruments based
+ subprime. do, however, hold high proportion commercial real estate residential
+ mortgage loans portfolios. extent commercial real estate market slows
+ expect, banks likely feeling effects. Bankers, thus, become somewhat
+ pessimistic past six weeks so. don’t expect financial conditions improve
+ time soon, several noted signs declining business loan demand,
+ seeing earlier. Bankers also report deterioration personal-loan credit quality
+ expecting increases credit card delinquencies. Despite increases, delinquencies
+ default rates far remain well within historical norms.
+ Manufacturing outlook activity District remains weak. March business outlook
+ survey confidential release coming Thursday. show little improvement
+ February’s dismal readings. Since beginning year, general activity index
+ level typically associated either national recession substantial slowdown economic
+ 
+ March 18, 2008
+ 
+ 48 127
+ 
+ growth. despite modest improvement, doesn’t move us negative territory.
+ Responses special survey question February indicate majority firms considers
+ inventories appropriate level, firms unlikely substantially replenish
+ inventories midyear later. doesn’t seem though more-dramatic
+ reductions inventories—as, example, Greenbook’s basic story, there’s
+ large inventory correction, appears.
+ Despite weakness activity, little moderation price pressures
+ District. current prices-paid index business outlook survey continues accelerate,
+ prices-paid prices-received indexes past three months high levels
+ relative last twenty years. Firms various sectors, manufacturing, reporting
+ significant increases prices, particularly imported inputs. Although firms expecting
+ continued weak real activity, expect prices rise next six months. Indeed,
+ forward-looking price indexes survey elevated levels, future-prices-paid
+ index highest level since early 1980s. firms seem skeptical
+ arguments critical link inflation resource utilization.
+ Turning national outlook, struggled coming meeting growing level
+ discomfort. four dimensions concerns: first, outlook growth; second,
+ outlook inflation; third, calibration monetary policy given outlook; fourth,
+ turmoil financial markets. First, terms near-term economic growth, outlook
+ deteriorated somewhat since last meeting. expected weak growth first half year,
+ incoming data suggest growth probably somewhat weaker anticipated.
+ many private-sector forecasters, like Blue Chip survey summaries,
+ responded incoming data downward revisions forecast certainly first half
+ 
+ March 18, 2008
+ 
+ 49 127
+ 
+ 2008. changes considerably smaller revisions Greenbook’s forecast,
+ revised personal consumption 2008 2.3 percent January forecast
+ zero current forecast incorporating significantly monetary policy stimulus.
+ realize Board’s staff good track record, wholly comfortable
+ Greenbook’s forecast, think incorporates number judgmental adjustments
+ responsible taking pretty far away private-sector forecasts are.
+ Second, I’m less comfortable inflation outlook. I’ve said that,
+ inflation expectations become unhinged, face even difficult problem monetary
+ policy feed quickly directly higher inflation outcomes. ensuing loss
+ credibility costly regain. wish luxury waiting unambiguous evidence
+ expectations lost anchor. wait then, late. means
+ look early warning signs take appropriate action ensure
+ expectations remain anchored, concerned seeing warning signs. Despite
+ last Friday’s CPI numbers, headline core inflation trending up. Oil prices
+ record highs. Commodity prices continue trend up, dollar fallen sharply.
+ business consumer contacts consistently stressing price pressures concern.
+ developments concern partly research indicates inflation actually may
+ become less persistent since 1990s, think careful interpret lack
+ persistence independent monetary policy actions taken. Moreover, inflation
+ expectations measured surveys market-based measures risen last couple
+ months. Inflation risk premiums risen, could early warning signal waning
+ credibility commitment part Fed. National Association Business Economics
+ 
+ March 18, 2008
+ 
+ 50 127
+ 
+ survey early March shows third respondents think monetary policy
+ stimulative, less 10 percent months ago.
+ According special question November Survey Professional Forecasters—I
+ reported several meetings ago—half forecasters, 23 45, believe
+ FOMC inflation target. 23 forecasters, 20 believe long-run inflation
+ next ten years 50 basis points view inflation target is. might
+ able shrug one two these, predominance signals concerned
+ risk credibility. I’m also concerned public seems perceive Fed
+ effectively set aside one part mandate, price stability, all-out efforts promote
+ economic growth. Said differently, seems suggest incorporating new data
+ loss function forecasts change changing coefficients loss
+ function. don’t believe necessarily that, don’t believe that’s right way
+ make policy, believe ultimately it’s us make clear public best
+ can.
+ Third, calibrate appropriate level funds rate rate
+ change. easy task, especially current circumstances. reduced
+ targeted funds rate 225 basis points since August 125 basis points last six weeks.
+ simply soon economy felt full effects rate cuts. recent
+ deterioration outlook might suggest need easier policy, believe recent
+ increases inflation expectations mean real funds rate already fallen either zero
+ close zero depending measure it. example, real funds rate minus 1
+ percent, pessimistic Greenbook-consistent r* minus 0.5 percent given
+ Bluebook, measure real rate nominal funds rate minus Greenbook’s one-
+ 
+ March 18, 2008
+ 
+ 51 127
+ 
+ quarter-ahead forecasted headline PCE. Greenbook suggests real funds rate
+ negative next two years inflation continue decelerate upside inflation
+ pressure offset greater slack product labor markets. skeptical. outcome
+ predicated inflation expectations remaining well anchored despite aggressive persistent
+ easing sustained period time. Given current fragility inflation expectations,
+ seems unlikely me. alternative Greenbook scenario inflation pressure
+ oil imported goods suggests steeper policy path higher inflation 2010-12.
+ Fourth finally, like everyone else, concerned developments
+ financial markets. I’ve supportive steps we’ve taken enhance liquidity markets
+ TAF, TSLF, PDCF, whatever.
+ CHAIRMAN BERNANKE. AEIOU.
+ VICE CHAIRMAN GEITHNER. Don’t say IOU. [Laughter]
+ MR. PLOSSER. Well, I’ve supportive those, want compliment New
+ York Desk people worked think innovative. I’m
+ clear successful instruments be, without set risks
+ creating potentially dangerous expectations regarding future Fed behavior, eventually
+ must deal with. think worth trying long removed due course.
+ also support narrowing spread funds rate primary credit
+ rate, although would eventually like see review think spread ought
+ normal times exit strategy might like move toward that. Giving
+ thought road think would helpful.
+ believe appropriately reduced funds rate response
+ worsening economic outlook real economy, less convinced reducing funds rate
+ 
+ March 18, 2008
+ 
+ 52 127
+ 
+ much stem liquidity problems market lower risk premiums.
+ Uncertainty valuations seems root cause liquidity problems. price discovery
+ process needs continue, may take while. case, think Fed needs continue
+ job reassure markets act appropriate lender last resort, must
+ careful lower funds rate, path take, doesn’t become form forbearance
+ contributes delaying necessary writedowns price discovery process itself. Yes,
+ financial markets spillovers real economy Fed needs react
+ monetary policy, believe have. time, need keep focused parts
+ mandate. put credibility risk so, would cause severe
+ problems later may need act regain it. face fact point
+ disappoint markets ever-increasing forecast lower funds rate. Thank
+ you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Okay. Thank you. It’s 10:35. don’t take twenty
+ minutes coffee. Thank you.
+ [Coffee break]
+ CHAIRMAN BERNANKE. Okay. don’t reconvene. Let’s start President
+ Fisher.
+ MR. FISHER. Thank you, Mr. Chairman. Mr. Chairman, today 59th birthday,
+ can’t think better group people spend with—or less happy time it.
+ MR. KROSZNER. sure know take punch bowl away party.
+ [Laughter]
+ MR. FISHER. Well, listen, know suffering Deputy Secretary
+ sitting right, Mr. Chairman, gave candle blow cake
+ 
+ March 18, 2008
+ 
+ 53 127
+ 
+ attached. [Laughter] want use quickly four examples think going
+ economy. first 21 miles boxcars 89 feet measurement
+ usually carry lumber laid railroads. second there’s labor shortage
+ Yangtze River Basin, according one interlocutors. third Exxon rolling $39
+ billion cash overnight deposits. fourth is, keep listening, going
+ come back ninth birthday conclusion.
+ 21 miles boxcars, average length flatbed car carries lumber
+ 89 feet. Burlington Northern 21 miles laid up. mention because, according
+ contacts happy housing group talk builds significant portion homes
+ country, housing setback, put it, worse ’75, ’81, ’91 combined.
+ bear housing first time came table, agree everything
+ said downside pressure exerted housing. would add
+ couple points underscore that. One 21 miles flatbed cars laid end
+ end. concern interlocutors UPS past six weeks
+ seen downturn volume 2 percent. CEO describes unusual
+ swing 3 percent January something seen before, want
+ remind CFO many years. third point growth side, something
+ perhaps monitor going forward: Wal-Mart polls one million customers.
+ started last April. imperfections polling. find 67
+ percent concerned economic situation, particularly financial matters,
+ driven largely perceptions decreasing wealth homes also,
+ importantly, cost-of-living factors gas prices cost money.
+ 
+ March 18, 2008
+ 
+ 54 127
+ 
+ regard comment China, conference Paris recently, Governor Kohn,
+ Presidents Evans Yellen, pleasure listening Mr. Yi, Deputy
+ Governor People’s Bank China. made comment shortage labor
+ Yangtze River Basin, found quite startling. followed
+ conversation depth, that, surprised hear inflationary
+ forces spoken table. goes beyond energy, Mr. Chairman, goes
+ beyond food, although want make comments food. talked several food
+ producers, intending pass price increases somewhere
+ 5 15 percent. distressing Anheuser-Busch, since beer lover. cost
+ input hops barley gone 3½ percent. add aluminum, transportation
+ charges, things, totals almost 15 percent, expect retail level
+ price beer passed 5.7 percent. So, say, 5 6 percent. Combine
+ largest producer pizza crusts, expecting 20 percent increase price
+ sought product, get sense broader issue hand food. Let
+ summarize broader issue. want come back Wal-Mart. sell 10,000 food items.
+ expect average price increase across 10,000 items budgeting
+ year little 5 percent. According senior official, “We aggressive
+ pricing. lagging terms price increases price leader, working
+ aggressively catch up.” leads concern part. well aware fact
+ seen increasing demands labor, don’t consider labor domestic
+ phenomenon. consider global phenomenon, concerned hearing
+ reports areas producers offlaid certain manufacturing processes
+ sourcing inventory, including China. I, therefore, would suggest bear watching.
+ 
+ March 18, 2008
+ 
+ 55 127
+ 
+ regard comment Exxon’s rolling cash, gets heart
+ issue, don’t believe, Mr. Evans said, monetary policy addressing
+ root problem. root problem problem liquidity, solvency, trust.
+ sophisticated operation like rolling cash overnight bank deposits, raises significant
+ alarms indicates lack trust system might otherwise
+ conduct cash liquidity operations. liken situation, Mr. Chairman,
+ following—and forgive simplicity. I’ll use hydraulic rather medical example,
+ often wont do. water main, yet grass turning brown. water
+ getting grass piping clogged hair residue
+ ugly stuff building Rube Goldberg piping device allowed
+ happen long period time. don’t believe cutting fed funds rate addresses
+ issue. believe measures undertaken recently enhance liquidity,
+ improve functioning system, address solvency issues significant
+ import. Earlier mentioned Duke survey CFOs. Seventy-five percent CFOs
+ said fed funds rate cuts helping business operations. would expected
+ otherwise. last meeting, praying vote, hoped everything
+ hoped would go would go everything hoped would go would go
+ down—spreads et cetera. Yet look chart book—the Bluebook, example,
+ presentation earlier morning—almost every single graph hoped would go
+ went vice versa; think indicates limits efficacy
+ cutting fed funds rate.
+ said would conclude ninth birthday. nine years old, three-month
+ Treasury bills trading today. Thank you, Mr. Chairman.
+ 
+ March 18, 2008
+ 
+ 56 127
+ 
+ VICE CHAIRMAN GEITHNER. Mr. Chairman, may ask one clarifying question?
+ CHAIRMAN BERNANKE. Certainly.
+ VICE CHAIRMAN GEITHNER. President Fisher, say efficacy “any”
+ cut fed funds rate?
+ MR. FISHER. believe efficacy cuts undertaken
+ diminished virtue liquidity–solvency crisis.
+ VICE CHAIRMAN GEITHNER. completely agree that. make sure
+ didn’t misinterpret you, say efficacy “any” cut?
+ MR. FISHER. think pretty clear going vote cuts.
+ VICE CHAIRMAN GEITHNER. cuts.
+ MR. FISHER. juncture. Look, Tim, cut rates 50 basis points last time.
+ minority one, respect group around table respect myself.
+ point: Everything wanted go went up, everything wanted
+ go went down. wonder efficacy cuts opposed measures
+ undertaken.
+ VICE CHAIRMAN GEITHNER. wasn’t debating. clarifying question.
+ CHAIRMAN BERNANKE. Okay. Governor Kohn.
+ MR. KOHN. Thank Mr. Chairman. agree others around table
+ said prospects economic activity taken another sizable leg
+ intermeeting period. think been, time, adverse feedback loop
+ financial markets spending everybody—Governor Mishkin others—has talking
+ about. unusual kind loop soft economic period. think
+ probably characteristic lot slow growth recessionary periods. certainly
+ 
+ March 18, 2008
+ 
+ 57 127
+ 
+ intense time financial turmoil spread well beyond housing
+ intensified significantly intermeeting period.
+ incoming data spending, employment, production weaker expected.
+ House prices moving lower markets expected. data
+ accentuated concerns creditworthiness households businesses and, hence,
+ creditworthiness people lend them, especially lend mortgage
+ market. perceptions risk risk aversion rose, flight safety liquidity.
+ think see little growth M2 past couple months,
+ very, strong suggests households retreating money market funds, probably
+ ones hold government securities, insured deposits. wholesale markets
+ unwillingness take positions rising concerns array intermediaries. Bill
+ described process much better could—illiquid markets, extreme volatility,
+ deleveraging, margin calls, forced sales, especially mortgage-backed securities, wider spreads,
+ equity prices falling, lending funding tenors collapsing toward overnight, again.
+ financial conditions tightened everybody government—and
+ European governments seen tighten, guess. Mortgage rates risen, business
+ bond yields risen well, even Treasury rates going down. Tighter credit
+ declining equity house prices reducing wealth, weakens spending further.
+ Now, process, staff judged economy entered recessionary
+ state expect household business spending fall short normal levels,
+ given income interest rates. sure much weight put this. bit
+ uncomfortable constructs don’t clear story behind them. must say that,
+ looking sentiment indicators listening heard around table today
+ 
+ March 18, 2008
+ 
+ 58 127
+ 
+ almost every Federal Reserve District reporting, put credence Dave’s recessionary
+ state meeting started. Obviously, something going undermining
+ confidence making people much cautious would think, given exogenous
+ variables. think talking recessionary state underlines extraordinary uncertainty
+ dealing with. President Stern pointed 1990-91 precedent.
+ precedents aspects this, don’t many; think really difficult
+ know financial markets evolve feed variables
+ affect household business spending—the reaction households, businesses, state
+ local governments tighter credit conditions.
+ agree President Stern, President Evans, others said thought
+ financial stresses deeper last longer thought will, therefore, put
+ restraint spending. markets stabilize sustained basis, risk satisfactory
+ economic performance U.S. economy remain skewed much downside.
+ Now, Federal Reserve liquidity tools used necessary reduce odds even
+ more-intense, downward-spiral crises market liquidity feeding back onto spending.
+ think innovations useful reduce downside risks little thereby
+ promote spending. agree others say don’t directly deal
+ underlying macro risk, really story capital, solvency, wealth, prices.
+ think monetary policy easing necessary aspect addressing macroeconomic
+ risks. agree President Fisher, President Plosser, others going
+ monetary policy easing may sufficient way addressing risks.
+ think, long economy weakening way risks, easing
+ monetary policy helpful. help bolster asset prices. make cost capital
+ 
+ March 18, 2008
+ 
+ 59 127
+ 
+ lower otherwise would be. may sufficient turn thing around, think
+ without easing done— hope today—the situation
+ would far worse otherwise would be. need ease compensate
+ substantial headwinds facing.
+ Now, forecast inflation marked despite greater output gap.
+ others remarked, output gap offset, considerable extent, upward
+ pressure prices oil commodities import prices dollar fallen prices
+ risen exporting partners—China, example. confess don’t really
+ understand happening commodity prices recent months. don’t think
+ rise justified news underlying conditions supply demand.
+ much larger dollar weakness been, dollar–commodity price always
+ weak relationship. So, fact, commodity prices rising bunch currencies. isn’t
+ dollar weakness problem. believe speculative element here. Partly
+ consequence, comfortable forecast flattening commodity price picture
+ future—it might even decline, least flattening out.
+ think shift financial assets, especially dollar assets, commodities going
+ on, mostly triggered concerns U.S. economy financial
+ markets. sense, shift okay. driving dollar, helping
+ stabilize economy. decline saw oil prices yesterday suggests that,
+ people get confidence financial markets going,
+ commodity prices actually fall concerns U.S. economy alleviated.
+ sort upside-down relationship, think saw bit way. also sense
+ rise commodity prices fall dollar reflects concerns
+ 
+ March 18, 2008
+ 
+ 60 127
+ 
+ inflation outlook here. surprising me, volatile uncertain environment,
+ inflation expectations well anchored fluctuate lot response
+ new information. expect inflation come commodity prices level off;
+ output gap increase, turn keep inflation expectations down. Still, navigating
+ appreciably weaker economic outlook real economy threats financial
+ stability, one hand, tenderness inflation expectations, other, require
+ discussion next section meeting, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Governor Warsh.
+ MR. WARSH. Thank you, Mr. Chairman. join growing chorus discussion
+ today, would say significant policy challenges across five areas sides
+ mandate. First, real economy materially weaker. Second, inflation risks quite
+ discomforting. Third, genuine issues respect financial stability. Fourth,
+ real problems respect credit channel credit availability. Finally,
+ think couple others said, risks terms possible disorderly moves
+ dollar. terms markets believe believe big concerns, think rightly
+ understand worried downside risks economy. believe
+ focused financial stability risks; three new facilities announced recent
+ periods, coming believe finding effective means deal credit
+ intermediation system is, perhaps overstate little, broken. market participants
+ may yet believe concerned ought inflation risks
+ risks respect path exchange value dollar.
+ summary made, let talk, first, financial market
+ conditions. deterioration market functioning since last FOMC meeting, Bill
+ 
+ March 18, 2008
+ 
+ 61 127
+ 
+ spoke great detail. past couple weeks, episode Bear Stearns,
+ counterparty risk become dominant concern markets. pointed around
+ table, increasingly difficult separate liquidity issues solvency issues.
+ take deterioration counterparty risks? look range financial
+ institutions different degrees implied backstops government based
+ size regulatory structure, think GSEs implied government
+ guarantee even Ginnie Maes, full faith credit backing U.S.
+ government Board staff shared data yesterday us. spreads
+ look though widened substantially. seen real
+ deterioration. see happening Ginnie Maes, many
+ securities, suggests substantially, completely, liquidity risk
+ credit risk Ginnies ostensibly can’t called question.
+ Financial institutions, broadly financial markets, hard time finding
+ way. talked around table balance sheet problems,
+ recently talked income statement problems figuring core
+ business is. markets last couple days, broker–dealers
+ widening CDS spreads falling share prices, course, mortgage
+ exposure liquidity concerns. think, fundamentally, business model
+ investment banks threatened, suspect existing business model endure
+ period. result, current architecture regulation financial institutions
+ business model across ranges financial institutions—commercial banks, investment
+ banks, hedge funds—will change period. old model, least investment
+ 
+ March 18, 2008
+ 
+ 62 127
+ 
+ banking, high imputed leverage works incredibly well world high liquidity doesn’t
+ work well liquidity short supply.
+ think matters? matters suggests catalyst
+ improvement financial institutions feeding real economy rest 2008
+ even first half 2009 quite suspect. institutions spending time
+ attention business models, figuring survive period,
+ providing credit real economy. don’t look financial institutions good
+ shock absorbers good catalysts going forward. concern, broadly, financial
+ institutions highlighted think need, across institutions, raise
+ significant capital safety soundness purposes and, addition, credit availability
+ purposes. strikes broad class systematically undercapitalized, need
+ use tools persuade interest interest broad
+ economy raise capital.
+ finding capital, certainly next six months, real challenge.
+ capital markets strong position satisfy issuer needs present. obviously
+ improve next couple months, certainty. Sovereign wealth funds
+ sources investment talking time—and saw
+ real interest investing financial institutions end last year early year—
+ quite beaten down. talked to, sophisticated investors places
+ Asia Middle East, want appear though doormats
+ financial institutions. political structures make losses endure
+ front page news. think expectation sovereign wealth funds going continue
+ source funding period well overstated. Moreover, private equity—the case
+ 
+ March 18, 2008
+ 
+ 63 127
+ 
+ opportunistic capital—has little ability get leverage environment, don’t
+ reduce target hurdle rates, don’t expect able come rescue. that,
+ again, suggests real economy wait awhile improvement
+ repair slow certain next six nine months.
+ Obviously, implication real economy hard speculate about, think,
+ looking rough measures, maybe third credit availability real economy
+ taken period—maybe that. would say last week makes
+ hard us judge much credit channel capability balance sheet capacity
+ left real economy, suggests picture real economy worthy real
+ concern. Now, look real economy, would underscore comments
+ heard others. couple CEOs incredibly optimistic, least
+ discussions past couple years—these CEOs leading consumer product
+ companies—have thrown towel. given trying justify explain away
+ weakness. Across auto sector, couple new owners auto companies
+ focused scenario units 14.5 million range rather 15 million
+ 15.5 million range, largely weakness consumption terms consumer purchases.
+ really goes back credit, ways credit availability fund auto
+ purchases chance another stepdown next month.
+ think business cap-ex threatened represented today.
+ area sense probably negative Greenbook’s terms
+ weakness expect Europe United Kingdom. hard think, go
+ period, Europe United Kingdom would stay decoupled recent data
+ suggest. economies tied banking system concretely tied
+ 
+ March 18, 2008
+ 
+ 64 127
+ 
+ ours, suspect large financial institutions going suffer real problems
+ upcoming period. not, certainly risk factor.
+ Let turn last two issues—inflation currency. inflation front,
+ little reason confident inflation decline. reasons believe
+ inflation problems become pronounced and, fear, persistent. recent run-up
+ energy prices commodity prices context weaker global demand troubling.
+ doubt partly move real assets financial community—that is, hedge
+ certainly, Governor Kohn’s point, raising commodity prices. sure
+ catalyst change least next six months. Board staff noted,
+ rise inflation compensation inflation expectations. acceleration
+ fall exchange rate dollar, suggestive increasing import inflation. Moreover,
+ obvious slowing economy cycle, short term least,
+ work us inflation front.
+ Finally, let turn currency. Given particular confluence events,
+ accelerated depreciation dollar troubling, think risks disorderly move
+ dollar upcoming six weeks hard discount. catalyst could sudden
+ de-pegging certain countries Middle East. even come pass,
+ expectation market, traders looking bets believe
+ make money certitude, still free one-way bet dollar.
+ healthy currency movements, regardless one’s view dollar ultimately
+ trading currencies trading partners. time, particularly, given
+ concerns making sure U.S. economy remains open foreign direct investment—
+ others want invest capital—it strikes reasonably dangerous
+ 
+ March 18, 2008
+ 
+ 65 127
+ 
+ prospect view dollar continue accelerated path. Obviously, suggests
+ difficult judgments next round discussion, take monetary policy
+ context. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+ MR. KROSZNER. Thanks. I’ve talked many times slow burn
+ financial markets spreading elsewhere. Unfortunately, think fire bit hotter
+ expected earlier discussions, comes particularly capital pressures
+ financial institutions. we’re seeing simultaneity stress housing market
+ stress financial markets, cured together. think joined hip.
+ Whether tools address directly something continue discuss, think
+ direct connection potentially leads negative feedback loop discussed
+ quite bit. housing, course, direct negative wealth effects also lingering
+ uncertainty what’s going happen, many people mentioned. Part comes
+ change behavior. People acting differently housing cycle
+ past, difficult predict evolution foreclosures even given particular
+ macroeconomic outcome. There’s still uncertainty macroeconomic outcome, people
+ going delinquent much earlier—they going delinquent houses go
+ delinquent credit cards—and really different model consumer behavior,
+ makes valuing securities particularly problematic. is, course, addition uncharted
+ territory terms real nominal price declines. We’ll see exactly people respond
+ things. Obviously markets closed, banks keep books,
+ higher cost difficulty financing. changes came stimulus
+ package raise conforming limits Freddie Mac Fannie Mae done little bring
+ 
+ March 18, 2008
+ 
+ 66 127
+ 
+ spreads significantly increased cost guarantees given new
+ environment. It’s unreasonable that, potential benefit changes lower
+ might otherwise hoped for.
+ consequences credit cards. Even though first mortgages,
+ we’re starting see significant uptick delinquencies credit cards spending,
+ number people—President Rosengren, President Yellen, First Vice President Sapenaro—
+ mentioned things. want report bit conversations
+ major credit card companies, kind window real-time consumer spending.
+ seeing continuing flattening falloff growth. There’s collapse certainly
+ continued downtrend, I’ve reporting past months—a continuing slowing
+ payments continuing increase delinquencies. so-called roll rates people moving
+ 30 days behind 60 days behind 90 days behind continue go up. still going up,
+ although significantly. concerned that, spiking up. mainly
+ concerned roll rate gets 90 180 days. They’re getting money back.
+ Personal bankruptcies going up. cure rates much lower, recovery rates much
+ lower. seems group people getting extreme financial difficulty.
+ series I’ve quoted general averages. contacts said areas particular housing
+ stress basically numbers three times high. significantly stressful there,
+ showing clear link stress housing market stresses.
+ responding? Well, strong pressures may coming
+ directly us certainly Capitol Hill, credit card companies don’t respond
+ changing interest rates. respond reducing amount credit available, that’s exactly
+ they’ve doing. they’ve cutting credit lines lot people. Also, think
+ 
+ March 18, 2008
+ 
+ 67 127
+ 
+ President Yellen number people mentioned, they’re also cutting back HELOCs
+ concerned people taking money equity there,
+ really want pull back that. overall tightening credit conditions reflecting
+ continued stress balance sheets banks financial institutions generally; see
+ Bear Stearns example, it’s depository institutions broader set
+ institutions creating pressures asset side funding side.
+ lot SIVs lot assets coming board. Unplanned asset expansions may
+ continue, particularly economy go down. seem good credits
+ leveraged lending market may longer good credits. anecdotal evidence you’ve
+ mentioning around table could turn unplanned asset expansions things
+ start go south.
+ Consumer write-offs, obviously, another thing putting funding pressure. Also
+ think President Evans mentioned, interestingly actual losses
+ occurred many securities terms inability make payments, although
+ losses value markets quite spectacular cases.
+ broad evaluation uncertainty. liquidity. think
+ direct link liquidity macro stability uncertainties part
+ coming macro uncertainty housing markets evolve. Obviously said
+ before. factors come in, that’s big one.
+ something provide insurance help provide comfort
+ markets come back important there’s close link liquidity issues
+ seeing, unwillingness finance, capital issues coming
+ incompleteness markets. markets aren’t people trading in.
+ 
+ March 18, 2008
+ 
+ 68 127
+ 
+ valuing things index. index can’t arbitraged underlying markets
+ underlying markets aren’t there. index something else. It’s
+ somewhat liquid market that’s providing hedging. It’s driving down, people don’t
+ want buy underlying security they’ll take mark index rather
+ true value. take mark something think going
+ pushed artificially, they’re going buy security first place. kinds
+ continuing stress make feel little less optimistic bounce-back ’09 that’s
+ Greenbook, although don’t think it’s ruled out.
+ turning quickly inflation, bit paradox gone recently
+ everyone said—significantly slowing growth past four five months evidence
+ slowing pressure commodity, energy, agriculture prices. That’s despite
+ slowing elsewhere world expectations slower growth. PPI numbers came
+ today raised concerns good parts CPI flowing
+ PCE. Also, last year two, we’ve unemployment rate 5 percent
+ 4¾ percent, whatever favorite number is, would pressure wages, haven’t
+ seen much pressure wages. I’m sure that, unemployment rate goes significantly
+ 5 percent, we’ll see much side take pressure wages bring things
+ down. remain concerned there. think there’s final risk that, commodity, energy,
+ agriculture prices significantly move down, could major effect
+ emerging markets trading partners. there’s bit paradox that,
+ potential benefits slowdown reduce prices, could actually also
+ reduce export demand, which—as number people pointed out—is important forecast
+ keeping shallow recession. remain concerned growth front
+ 
+ March 18, 2008
+ 
+ 69 127
+ 
+ inflation front, think macro stability probably primary thing need
+ thinking right now. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Governor Mishkin.
+ MR. MISHKIN. Thank you, Mr. Chairman. Well, I’m quite depressed. That’s
+ usual personality trait, reality we’ve bad set shocks could
+ imagined, want talk set shocks. hit things making
+ policy environment complicated possibly could imagined. reality
+ worst financial crisis we’ve experienced post–World War II era. don’t think
+ shy saying it. financial crisis, worse experienced
+ episode financial “disruption,” word use. use “financial
+ crisis” public. “Financial disruption” still good phrase use public, really think
+ financial crisis. surely going called next edition textbook.
+ PARTICIPANT. coming out?
+ MR. MISHKIN. Wouldn’t like know! believe actually Greenbook forecast
+ mild recession reasonable, possibility could severe recession
+ uncomfortably high, find prospect pretty scary. reality adverse
+ feedback loop others talked about. think we’re deep it. credit markets
+ deteriorating. That’s led sharp weakening economy’s prospects. reflected
+ large change Greenbook forecast, strongly concur, don’t think
+ line put in. course, weakening feeding back
+ deteriorating financial conditions. think we’re really tough pickle, costs
+ terms economy. One result we’ve expanded safety net much wider
+ set institutions, brave new world here, disturbing.
+ 
+ March 18, 2008
+ 
+ 70 127
+ 
+ ramifications terms economy weakening adverse feedback loop go beyond
+ fact might unemployment. may major effects way markets work
+ future, that, think, something worried consideration
+ well. bottom line real activity prospects poor, find
+ downside risk plain scary. That’s first part depression.
+ second part depression it’s bad enough contractionary
+ aggregate demand shocks financial sector, also negative supply
+ shocks contractionary inflationary. getting hit double whammy.
+ news inflation generally good, even recent CPI numbers. then,
+ course, reversed PPI numbers today. don’t put much weight actual
+ current numbers because, know, take view primary drivers inflation
+ inflation dynamics inflation expectations expectations future output gaps. that’s
+ framework I’d like discuss happen inflation front.
+ two problems terms inflation expectations right now. One supply
+ shock, think effects inflation expectations, also view—although
+ believe it’s incorrect, think there’s problem view widely held outside,
+ President Plosser mentioned this—that FOMC focused growth
+ worried inflation. communication issue hard deal because, even
+ though I’ve advocating aggressive terms easing, worry much
+ issue also indicate that, necessary, we’ll get baseball bat keep
+ inflation control. easy thing do. look inflation expectations,
+ consider key driver inflation, think evidence data
+ big increase slight increase inflation expectations, order 10 basis
+ 
+ March 18, 2008
+ 
+ 71 127
+ 
+ points. There’s lot uncertainty that; could little that, don’t think
+ whole lot more.
+ Also disturbing certainly big increase long-run inflation uncertainty.
+ That’s reflected terms inflation compensation also fact people
+ buying inflation caps, TIPS becoming popular, forth on. fact, one
+ negative things happened result taking job entire TIAA-CREF
+ TIPS unfortunately divest government securities,
+ turned bad. that’s one minor costs position. [Laughter]
+ issue that, although don’t think inflation expectations gotten unhinged
+ point—and think say phrase “reasonably well contained” okay—there
+ greater risk could get unhinged. Now, want clear. I’m talking 1970s.
+ It’s “That ’70s Show.” particularly happy Allan Meltzer’s comments
+ bunch things. issue inflation expectations would go kind level,
+ could inflation expectations go 2½ maybe even little higher would
+ costly get down. That’s concern worry about.
+ let talk side because, think inflation dynamics, it’s
+ inflation expectations. believe deus ex machina view inflation process.
+ Something tie things down, ties current output gaps—which
+ think standard Phillips curves don’t predict well—but expectations future output
+ gaps. score, worry could lot downside risk inflation that.
+ really bad things happen, think unfortunately seriously possibility, inflation could fall.
+ key fact, way, look past recessions, find inflation falls 12
+ months recessions. couple cases supply shocks, rise inflation
+ 
+ March 18, 2008
+ 
+ 72 127
+ 
+ beginning recessions. Seven eight category. Particularly it’s severe
+ recession, it’s much likely inflation fall. it’s true there’s upside risk;
+ downside risk well, that’s one reason inflation uncertainty issue
+ potential upside. fact, 2003 episode President Lacker mentioned, reason
+ sharp rise inflation compensation people worried inflation going
+ worried inflation would go down. Nonetheless, there’s still cost fact longrun inflation expectations solidly grounded before. view general
+ facing incredibly unpleasant tradeoff. basically risk economy
+ turning sharply risk inflation getting somewhat unhinged. want discuss
+ later.
+ wasn’t going discuss this, really can’t react comments
+ made, President Fisher. There’s view media monetary policy
+ ineffective. statement think made, think plain wrong.
+ want discuss it’s actually really important thinking policy stance right now,
+ it’s important think economics this. nasty set
+ contractionary shocks financial sector, particularly widening credit spreads
+ restriction credit. want us think counterfactual. Let’s think situation
+ what’s happened lower interest rates. would
+ outcome? think credit spreads would lowered? think credit spreads would
+ risen. fact, think credit spreads driven by—I’ve argued
+ before—there’s valuation risk—the fact can’t value assets, that’s price discovery
+ problem really can’t much about. also macroeconomic risk,
+ lot what’s going right now, particularly terms housing market people don’t
+ 
+ March 18, 2008
+ 
+ 73 127
+ 
+ know housing prices going bottom out. view may keep going
+ down—and negative number housing prices recently—means even AAA
+ tranches look though they’re vulnerable, therefore, credit spreads go
+ whole lot. view monetary policy effective things would
+ much, much worse hadn’t eased. hand, incredibly nasty set
+ shocks result described problems sectors.
+ really think important. finish this, example Japan
+ constructive Bank Japan view similar one you’ve expressed,
+ problems banking sector, problems
+ fault. took view couldn’t anything it. Monetary policy
+ source weak economy, slow lower interest rates. Chairman
+ talked this. Every monetary economist went Bank Japan period—I
+ New York Fed mid-1990s—told monetary policy
+ tight. basically said, “Well, know, it’s tight, it’s fault
+ banks screwed poor regulation.” Well, result ended
+ deflation, lost ten years growth. I’m little blunt usual, think
+ economic arguments actually central discussion.
+ MR. FISHER. Mr. Chairman, may answer?
+ CHAIRMAN BERNANKE. Well, let finish. done?
+ MR. MISHKIN. done, yes.
+ CHAIRMAN BERNANKE. President Fisher.
+ MR. FISHER. quickly, said liquidity situation we’re diminishes
+ efficacy fed funds policy; I’m saying it’s worthwhile tool. Second, fully
+ 
+ March 18, 2008
+ 
+ 74 127
+ 
+ supportive got 3.5. went 3.5 3 percent. Everything wanted go
+ one way went opposite way. made observation didn’t seem
+ effective. Third, think spent even time Japan President Geithner, expert
+ Japan, cannot compare two economies. geared totally differently,
+ totally different efficiency. I’d happy debate later point. think it’s poor
+ analogy. Now, said that, respect enormous macroeconomic downside risk
+ have—and one pessimistic forecasts—but there’s price paid
+ we’re unless efficient, price reflected inflation expectations. That’s
+ point, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Vice Chairman.
+ VICE CHAIRMAN GEITHNER. Mr. Chairman, I’m going cede time you,
+ except acknowledge point there’s much agree said around
+ table, particularly people characterize growth outlook risks what’s
+ happening financial markets outlook. can’t say stuff better said.
+ there’s much disagree what’s said, particularly inflation side,
+ lack credibility.
+ want quickly say couple things talk stuff based
+ what’s said. First, table may believe losing credibility,
+ may losing confidence capacity Committee mitigate risk long-term
+ inflation objectives. say public, magnify problem,
+ believe make true. believe confidence commitment
+ Committee necessary keep expectations stable time. Second,
+ stuff capital financial system very, important. hard make
+ 
+ March 18, 2008
+ 
+ 75 127
+ 
+ judgment financial system whole banking system whole
+ undercapitalized. people saying that. states world, particularly
+ liquidity, financial system systematically insolvent. based
+ everything know today, look pessimistic estimates scale losses across
+ financial system, average relative capital, justify concern. important
+ make distinctions say that. different say distribution
+ uneven say institutions losses may large relative capital.
+ obviously case; already seen case. important make distinction
+ average distribution. Although average losses look relatively manageable
+ relative capital, system short capital relative would ideal, given we’ve
+ collapse large part nonbank financial system. Banks whole
+ large enough now, even capital cushions, compensate scale disintermediation
+ type nonbank finance. important distinctions make case.
+ nothing dangerous we’re facing people
+ knowledgeable stuff feed broad concerns credibility
+ basic core strength financial system. want underscore importance
+ exceptional care talk things, even private. lot people
+ know better—none us guilty this—are casting broad aspersions solvency
+ dangerous context. May get point concerns justified?
+ course may get point. systematically mismanage policy, may get point.
+ please careful context.
+ I’m sorry, Mr. Chairman. meant cede time you. [Laughter] Finally,
+ state record submit forecast. state obvious, it’s close enough
+ 
+ March 18, 2008
+ 
+ 76 127
+ 
+ Greenbook things, and, given range uncertainty, there’s material
+ view Greenbook’s.
+ CHAIRMAN BERNANKE. Thank much. Thank comments.
+ Let briefly summarize add points. summarize discussion, incoming data
+ weak, view economy entered recession. Housing demand
+ construction continued decline sharply, house-price declines somewhat
+ greater expected. Housing weakness implications employment, consumer spending,
+ credit conditions. also leads 21 miles empty boxcars. [Laughter]
+ Financial conditions worsened considerably, reflecting weakness housing prices,
+ credit markets particular highly stressed illiquid. Wider spreads offset
+ decline safe rates many credit products, credit conditions tighter
+ borrowers. Financial conditions likely significant drag economic growth.
+ noted risk continued financial turmoil could lead serious prolonged recession,
+ implying possibly large downside risk growth. respect households, consumption growth
+ flattened out, generally greater pessimism labor market economic
+ prospects. Consumer credit quality may worsening. Payroll employment growth turned
+ negative. little expectation expressed strong help fiscal stimulus package.
+ Firms generally pessimistic cautious also remain concerned cost pressures.
+ Inventories look balance. Exports continue important source final demand
+ continue contribute significantly growth, although it’s possible growth abroad may
+ slow.
+ Readings core inflation mixed. Increases energy commodity prices
+ important sources increased headline inflation, producers adopted cost-plus
+ 
+ March 18, 2008
+ 
+ 77 127
+ 
+ mentality. Agricultural prices, particular, good bit. Inflation breakevens
+ somewhat, especially five-by-five horizon. dollar depreciated, potentially adding
+ longer-term inflation pressures adding risks. However, nominal wage increases
+ moderate, unit labor costs, U.S. global economic weakness could moderate gains
+ commodity prices create domestic economic slack. Several members warned risk
+ losing inflation credibility. comments, thoughts?
+ Let make comments. Again, I’m sympathetic almost everyone
+ said around table, particular fact we’re facing three-front war, will,
+ makes extraordinarily difficult delicate. thought January recession.
+ view time, certainly believe now. Greenbook done good job
+ trying factor data types evidence. think I’m actually slightly darker
+ growth Greenbook is. reason don’t see recovery coming
+ beginning next year. particular, won’t recovery financial markets stabilize,
+ financial markets won’t stabilize house prices stabilize, simply
+ particular reason choose time happen. think downside risks quite
+ significant so-called adverse feedback loop currently full play. point,
+ course, either things stabilize kind massive governmental intervention,
+ don’t much confidence timing that.
+ would like say word. would agree Governor Mishkin efficacy
+ policy. think effect beneficial. obviously affect shortterm rates, including commercial paper rates like, implications financing
+ borrowing. affect dollar, mixed effects, growth side
+ positive effects. It’s true, President Fisher pointed out, medium-term long-term rates
+ 
+ March 18, 2008
+ 
+ 78 127
+ 
+ fallen lower Treasury rates offset higher spreads, again,
+ question counterfactual. would lowered rates? think lower
+ rates lowered safe rates offset extent rising concerns solvency,
+ caused credit spreads widen. think argument go either way.
+ say policy less effective and, therefore, it. two ways
+ looking that. addition, may benefits capital formation low financing
+ rates steep yield curve keeping bank share prices entirely collapsing.
+ inflation, agree much what’s said, I’m concerned it. Let
+ make one simple point, though, don’t think adequately discussed. Ninety-five
+ percent inflation we’re seeing either direct indirect effect globally traded
+ commodity prices—food, energy, commodities. happening
+ change relative price of, say, oil wage Ohio manufacturing worker. There’s
+ relative price change going on. happen one way other. happen either
+ overall increases nominal price oil, reflected overall increases headline CPI
+ inflation, lower negative growth nominal wages. Now, temporary movements
+ relative prices, think theory tells us best way let relative price change
+ happen let shock feed through; let prices energy, commodities, rise; accept
+ temporary increase headline inflation; focus making sure increase headline
+ inflation doesn’t feed domestic core inflation, say, wages domestic prices.
+ good response is, well, we’ve lot “temporary” shocks gone
+ long time. That’s certainly true. again, difficult anticipate prices
+ moved.
+ 
+ March 18, 2008
+ 
+ 79 127
+ 
+ Looking forward, futures markets wrong wrong, best
+ have. view, think likely slowdown U.S. economy global
+ economy, going forces prevent commodity prices continuing
+ rise way rising, ought take pressure inflation process.
+ said, fully recognize bit movement indicators. think
+ like use index measure. uses lots different indicators. don’t think
+ overemphasize inflation compensation. example, one-year inflation compensation three
+ four years moved less five-by-five, think good reasons. five-byfive could reflect, again, general uncertainty. could also reflect volatility relative price
+ changes oil, example. think there’s volatility that, it’s down, would
+ create uncertainty headline inflation would feed spread.
+ Frankly, thinking inflation, concerned inflation expectations
+ general psychology. I’m hopeful least moderate commodity prices moderate
+ although, course, one know sure. agree Governor Warsh that, financial
+ perspective inflation side, greater dangers currency area. Exchange rates
+ poorly tied fundamentals, except long periods time—I think Ken Rogoff
+ paper said maybe 600 years PPP finally works. [Laughter]
+ lot psychology there. think important issue. need think
+ Treasury say sorts things. concern, consider sense
+ greater risk point.
+ risks sides. think downside risks, including financial risks,
+ point greater—not belittle inflation risks, think quite significant.
+ obviously going make tradeoffs deal these. Using policy
+ 
+ March 18, 2008
+ 
+ 80 127
+ 
+ tools communication important. agree Vice Chairman Geithner need
+ need—and important role here—to maintain clarity communication
+ attention inflation, ignoring side mandate.
+ Finally, let say, said last night dinner presidents, think
+ getting point Federal Reserve’s tools, liquidity tools interest rate
+ tools, sufficient resolve troubles. help, activity,
+ Congress Administration address housing issues, example, would desirable.
+ certainly working issues Board, talking people
+ Washington might done try address fundamentally issues
+ housing market financial markets. comments. don’t turn
+ Brian introduction policy round.
+ MR. MADIGAN. 2 Thanks, Mr. Chairman. referring revised
+ version table 1 distributed earlier today package labeled “Material
+ FOMC Briefing Monetary Policy Alternatives.” revised table presents
+ basic set alternatives discussed Bluebook. However,
+ proposed changes language affect statements alternatives
+ B. discuss changes, shown blue, shortly.
+ Alternative D, presented right-hand column, would leave federal funds
+ rate unchanged meeting 3 percent. Committee members might inclined
+ favor alternative particularly concerned prospects
+ inflation believed that, due allowance lags, monetary
+ fiscal stimulus train would likely sufficient lead resumption moderate
+ growth time. wording alternative would acknowledge downside
+ risks growth. shown paragraph 3, statement would indicate
+ inflation elevated, cite several factors could put additional upward
+ pressure inflation, state upside risks inflation increased.
+ net assessment balance risks would included.
+ alternative C, stance policy would eased 25 basis points
+ today. modest easing policy might motivated judgments
+ economic outlook weakened, appreciably less Greenbook,
+ inflation outlook troubling. Members might see financial strains
+ concerning likely exert less restraint growth Greenbook forecast.
+ 2
+ 
+ materials used Mr. Madigan appended transcript (appendix 2).
+ 
+ March 18, 2008
+ 
+ 81 127
+ 
+ circumstances, Committee might want cautious policy
+ adjustments could add impetus inflation, particularly given substantial
+ easing monetary policy date lags effects policy. language
+ proposed alternative C would note tightening credit conditions
+ deepening housing correction likely continue weigh economic
+ growth. inflation paragraph alternative alternative
+ D. shown paragraph 4, Committee would make explicit judgment
+ downside risks growth outweigh upside risks inflation.
+ alternative B, Committee would reduce federal funds rate 50 basis
+ points today, 2½ percent. approach could seen consistent
+ Greenbook forecast. Indeed, forecast, Committee assumed ease
+ policy 50 basis points meeting another 75 basis points next three
+ months. motivation trajectory provided partly 1¼ percentage
+ point downward revision Greenbook-consistent measure short-run r*.
+ Committee might concur staff’s assumption regarding amount
+ cumulative easing eventually prove necessary find gradual shift
+ policy attractive, particularly view seems upward drift late
+ inflation expectations. path would also qualitatively consistent
+ optimal control simulations shown Bluebook 2 percent inflation target,
+ federal funds rate eventually eased around 1¼ percent. shown
+ paragraph 2, statement issued alternative would indicate
+ outlook weakened. suggested striking reference risks
+ thought picked risk assessment. statement would go mention
+ several factors could weigh economic growth, suggested adding
+ “over next quarters.”
+ regard inflation, Committee would note inflation
+ elevated. would also indicate expectation inflation moderate coming
+ months cite several factors could contribute moderation note
+ uncertainty inflation outlook increased. Notably, list
+ mention “reasonably well anchored inflation expectations” variant
+ phrase, used recently minutes policy
+ communications. Indeed, first sentence paragraph notes
+ indicators inflation expectations risen. Partly inflation compensation
+ includes premium inflation risk well inflation expectations, thought
+ “indicators” inflation expectations might better word “measures”
+ suggested substitution. past days, inflation compensation
+ read TIPS plunged; however, skeptical decline represents
+ primarily drop inflation expectations inflation risk. Rather, suspect
+ importantly result shifting liquidity premiums, yields nominal Treasury
+ securities fallen sharply partly increased demands safety
+ liquidity. final paragraph alternative B would repeat risk assessment
+ issued January meeting. would indicate downside risks remain
+ emphasize Committee act timely manner address risks.
+ 
+ March 18, 2008
+ 
+ 82 127
+ 
+ Finally, alternative Committee would lower funds rate 75 basis
+ points today. Given extent policy easing assumed staff forecast,
+ alternative could easily consistent outlook along lines
+ Greenbook. policy approach could also motivated concern
+ possible implications economic outlook worsening financial market
+ conditions five days since staff forecast finalized riskmanagement approach gave particular weight downside risks around
+ outlook.
+ language proposed rationale section, paragraphs 2 3,
+ alternative identical proposed alternative B. alternative B,
+ risk assessment paragraph says policy actions promote moderate growth
+ time mitigate downside risks, version also alludes measures
+ Federal Reserve implemented promote market liquidity. language
+ could also used alternative B. Rather providing assessment
+ balance risks, Bluebook version, alterative
+ suggested simply indicating downside risks growth remain. Given high
+ degree uncertainty, might prefer make overall risk assessment.
+ paragraph differs corresponding part January statement also
+ indicating Committee act timely manner needed promote
+ sustainable economic growth price stability. Thus, Committee eases
+ 75 basis points, language alternative would signal increase
+ Committee’s concern inflation several ways: indicating inflation
+ elevated; noting indicators inflation expectations risen;
+ incorporating traditional formulation dual objectives, including price
+ stability, final sentence.
+ Bill noted morning, market participants appear place substantial odds
+ 100 basis point policy move meeting. Thus, implementation
+ alternatives would involve least somewhat less easing expected. Given
+ would appear fragile market conditions highly skittish investor
+ sentiment, might see somewhat greater risks usual diverging market
+ expectations, obviously risks would larger greater gap
+ anticipation actions. time, might see good reasons
+ divergence. First obviously, might see smaller move
+ appropriately calibrated given outlook sense risks. Also,
+ indicators seem suggest inflation expectations become bit less firmly
+ moored. Even see gradual dollar depreciation likely appropriate given
+ weakness U.S. economy quite possibly necessary factor fostering
+ improved current account balance time, may concerned
+ downward lurch dollar recent days potential disorderly
+ conditions develop. may judge policy decision today implement
+ somewhat less easing markets expect statement implies somewhat
+ greater concern inflation could helpful leaning inflation
+ expectations sense markets indifferent downward pressure
+ dollar.
+ 
+ March 18, 2008
+ 
+ 83 127
+ 
+ Alternative would likely prompt increase shorter-term interest rates;
+ given risk assessment would point continued downside risks, market
+ participants would infer easing likely prospect, effects
+ financial asset prices financial conditions generally could
+ reasonably limited. 50 basis point easing alternative B, contrast, would
+ suggest market participants inclined considerably cautious
+ easing policy further, even downside risk assessment, short-
+ intermediate-term interest rates could ratchet considerably higher, equity prices
+ decline, credit conditions tighten—responses presumably would
+ amplified, perhaps nonlinearly, alternatives C D.
+ CHAIRMAN BERNANKE. Thank you. Bill.
+ MR. DUDLEY. want update dealer survey. got two responses. Two
+ people moved 75 100. right speak, ten 100 camp, eight
+ 75 camp, two 50 camp.
+ CHAIRMAN BERNANKE. Okay. Thank you. Questions? Vice Chairman.
+ VICE CHAIRMAN GEITHNER. Mr. Chairman, kind awkward ask
+ midst meeting, think important. think pretty big change morning
+ least risk perceptions today across bunch markets. tell fed funds curve
+ done morning?
+ MR. DUDLEY. think April fed funds futures contract earlier morning
+ priced 1.99, 4 basis points. don’t know moved subsequently.
+ MR. MADIGAN. Vice Chairman, moved somewhat least maybe
+ hour ago. looked though, least meeting, odds roughly evenly balanced
+ 75 100, terms priced in.
+ MR. DUDLEY. Stocks 2 percent. Lehman’s Goldman’s earnings
+ showed declines, less significant expected. share prices
+ 
+ March 18, 2008
+ 
+ 84 127
+ 
+ rallied lot. Lehman’s stock 19 percent last looked—I don’t know today.
+ lot reversals occurred yesterday terms investment banks.
+ VICE CHAIRMAN GEITHNER. Financial credit default swaps morning much,
+ much narrower. May raise conceptual question around this, though? Maybe really
+ you, Mr. Chairman. think tradeoff fed
+ funds rate whatever effect liquidity credit spreads, obviously
+ ways working reduction fed funds rate? doesn’t seem quite right say
+ perfect tradeoffs.
+ CHAIRMAN BERNANKE. No.
+ VICE CHAIRMAN GEITHNER. guess question is, Don’t independent
+ effects? mean, separate somewhat different terms think
+ mitigating risk overall economy.
+ CHAIRMAN BERNANKE. would think complementary—they strong
+ substitutes, obviously—in sense that, often pointed out, liquidity measures affect
+ credit solvency concerns.
+ VICE CHAIRMAN GEITHNER. maybe echo dialogue
+ Governor Mishkin, successful taking liquidity risk
+ markets generally got spreads maybe back to—I don’t know—50,
+ crude proxy sense, would good powerful would still left exceptionally
+ tight financial conditions relative given target fed funds rate. fair? mangled that.
+ MR. MISHKIN. Yes. I’m arguing lowering federal funds rate narrows
+ spreads whole lot. certainly works direction, big independent movement
+ fear markets liquidity concerns, think
+ 
+ March 18, 2008
+ 
+ 85 127
+ 
+ important us sets tools. tools work issue expectations
+ monetary policy stance, extent use tools, that’s also extremely
+ helpful. think solve problems, particularly shocks
+ large. one problem facing, disruption really big, big time.
+ question whether want use tools disposal can.
+ CHAIRMAN BERNANKE. Brian.
+ MR. MADIGAN. want make one point Vice Chairman’s question. way
+ think monetary policy tends move continuously. course, federal funds
+ rate essentially continuous, liquidity measures designed combat
+ nonlinearities extent they’re discontinuities, think different
+ qualitative feel. We’re attempting prevent breakdown markets allow monetary policy
+ thereby operate normally continuous way.
+ VICE CHAIRMAN GEITHNER. guess another way frame question is,
+ reasonably successful mitigating adverse feedback dynamic markets effects
+ financial conditions, would still need lower nominal fed funds rate
+ achieve forecast laid Board staff’s Greenbook?
+ MR. STOCKTON. answer would “yes.” layered significant
+ additional negative add-factors recession scenario, really weren’t directly tied
+ reading liquidity financial markets reading real economy.
+ CHAIRMAN BERNANKE. Governor Mishkin.
+ MR. MISHKIN. think issue relates whole question nongradualism
+ we’ve talking about. Clearly, got lucky financial markets turned around
+ major way, stance monetary policy would need change, actually rapidly.
+ 
+ March 18, 2008
+ 
+ 86 127
+ 
+ one issues facing us—a communication issue, indicate markets
+ public serious way really care keeping inflation control. I’m sure
+ answer is. one great challenges we’re facing particular
+ juncture. Clearly, part don’t want interest rates particularly low. fact,
+ higher interest rates could us, happier would would indication
+ financial conditions turned around lot. However, problem, course, inflation
+ expectations get unhinged.
+ CHAIRMAN BERNANKE. President Fisher.
+ MR. FISHER. Mr. Chairman, Vice Chairman Geithner asking elegant way
+ issue efficacy, trying touch less sophisticated way.
+ want make sure understand answer. achieve degree success
+ Tim roughly estimated, would lessen pressure. staff standpoint, degree
+ easing would advocate? Would lesser degree imputed the—
+ MR. STOCKTON. can’t really answer question. intermeeting period,
+ coping two important developments. One saw increase overall
+ measures financial stress. know, went forecast back September first
+ emerged started marking level GDP account that. little
+ forecast account perceived increase financial stress. bigger factor
+ marking forecasts significantly year reading switching
+ sense slow-growth scenario moving something like nonlinear downturn
+ economy. motivated significant portion downward movement
+ equilibrium real interest rate here.
+ CHAIRMAN BERNANKE. Okay. President Evans.
+ 
+ March 18, 2008
+ 
+ 87 127
+ 
+ MR. EVANS. Well, want clarify didn’t get answer
+ expecting. don’t think understood exactly question financial stress thought
+ question whether would funds rate achieve
+ Greenbook. mark outlook Greenbook? don’t think understood.
+ MR. STOCKTON. guess thinking along marginal change would
+ make factors successful we’re currently anticipating be.
+ would probably cause us edge path fed funds rate account that.
+ MR. EVANS. Okay. Got it. Thanks.
+ CHAIRMAN BERNANKE. questions Brian? indulgence,
+ volatile period lot changes views. We’re also little short time. think
+ might focused gave proposal people react it. President Plosser made
+ correct point need think level funds rate. be? think
+ needs lower, frankly. last meeting, 3 percent, many us viewed neutral
+ without much insurance. Since we’ve seen, believe, much stronger indication recession,
+ increase downside risks. spoke downside risks Congress
+ speeches, cited three categories risks: housing, finance, labor markets.
+ transpired direction. think respond effectively that.
+ reason would recommend 75 basis point reduction. recognize concerns people have,
+ myself, inflation dollar. would make two comments regarding
+ that. First, even disappointing market somewhat. aggressive ease
+ built in. Second, Brian already indicated, number places alternative A,
+ proposing, ratcheted language inflation, notably paragraph 3, talk
+ 
+ March 18, 2008
+ 
+ 88 127
+ 
+ elevated inflation expectations, last sentence, reinstitute price
+ stability clarify dual mandate is.
+ Minor comments: I’m open anything, point paragraph 3 added list
+ explanations inflation may moderate. didn’t last time. people
+ uncomfortable that, take out. thing added paragraph 4
+ comment market liquidity measures. think that’s useful. shows we’re
+ things. creates sense there’s going besides monetary policy. again, people
+ strong objections, strong feelings that. addition, recommendation would
+ include maintaining discount rate difference ¼ percentage point established
+ Sunday. that’s would be. don’t rapid go-round? President Hoenig.
+ MR. HOENIG. Mr. Chairman, think mistake. want take second.
+ understand we’ve lowering rate, trying keep problems spreading
+ real economy. I’ve reluctant practice go low create
+ new set circumstances deal although I’ve understood, given seriousness
+ financial crisis, we’ve go down. continue supportive
+ use TAF vehicles provide liquidity market help address
+ stanch panic. fact matter is, though, enormous amount loss.
+ Whether enough capital banking industry, know solvency issue
+ there, actions, provide liquidity, cannot solve problem. That’s fiscal
+ policy goes. I’m sure continuing lower rates isn’t allowing others
+ addressing look us solve problem solve, concerns
+ are.
+ 
+ March 18, 2008
+ 
+ 89 127
+ 
+ fed funds rate 3 percent nominal, think, stimulative rate terms
+ real fed funds rate is. environment move even lower that,
+ inviting speculative activities. Liquidity go somewhere, going fast.
+ think there’s danger that, 3 percent stimulate economy forward. Two
+ quarter stimulate economy forward introduce significant risks
+ speculative activity inflation, that’s think careful going
+ forward. Now, nothing shock market, I’ll tell market
+ shocked much new actions taken said, “Here 3 percent.”
+ lot people sidelines waiting us stop come take
+ advantage situation. lots reasons would much prefer hold
+ period, felt compelled express view. Thank you.
+ CHAIRMAN BERNANKE. Certainly. President Rosengren.
+ MR. ROSENGREN. News problems Bear Stearns fragile situation
+ financial markets complicate decision today. Federal funds futures indicate market
+ anticipating reduction least 75 basis points probably that. Normally
+ expectations financial market participants would factor heavily decisionmaking.
+ However, given fragility market expectation that, even move,
+ easing necessary, strongly prefer alternative A. view alternative B
+ significant action, would concerns likely market reaction given gravity
+ situation financial markets possibility recession may mild, given falling
+ collateral values financial difficulties many major financial institutions. 50 basis
+ point move would merely offset increase credit spreads seen since past
+ meeting. addition, Boston forecast Greenbook forecast 50 basis point ease
+ 
+ March 18, 2008
+ 
+ 90 127
+ 
+ leave unemployment rate well NAIRU inflation rates 2 percent
+ end 2009. Easing less 50 basis points meeting would seem entirely inconsistent
+ economic financial deterioration seen since last meeting.
+ CHAIRMAN BERNANKE. President Lacker.
+ MR. LACKER. Thank you, Mr. Chairman. We’ve spoken lot inflation
+ expectations today. Let outset emphasize I’m referring measures
+ expectations public. They’re necessarily expectations Governor
+ Mishkin’s, Vice Chairman Geithner’s, Committee’s, don’t necessarily correspond
+ reality distribution inflation realized five years, five years hence, us
+ druthers Committee whole lasted long together conducted policy way
+ best saw fit. trust member would deliberately encourage continued discrepancy
+ viewed objective reality public’s expectations. said, discrepancy
+ less commitment part. It’s certainly less credibility
+ commitment part. think trust members speaking public
+ inflation expectations would endeavor reduce discrepancy. Presumably, us
+ threshold acceptable inflation expectations that, crossed, would induce us willing
+ disappoint market expectations. Personally, threshold crossed, think that,
+ ease, ease much less aggressively markets expect.
+ broadly, think terms following question: strategy would
+ want people believe follow future episodes like this? pointed letter
+ Committee last week, thinking terms strategy different meeting-by-meeting
+ approach takes public’s current expectations, wherever are, given. ask,
+ believe, expectations would wanted behavior
+ 
+ March 18, 2008
+ 
+ 91 127
+ 
+ episodes like this. want people believe follow policy allows inflation
+ inflation expectations ratchet permanently whenever growth slows? don’t think so,
+ seems market believes we’re doing. Conceivably, could try use
+ statements minutes communicate intention bring inflation down, point,
+ sense statements inflation appear taken much less revealing
+ actions.
+ uniquely challenging episode history economy institution.
+ found useful remind time time limits central banking.
+ cannot prevent recession, it’s doubtful could even
+ perfect foresight. unlikely, said, much effect ultimate magnitude
+ mortgage losses point, don’t think much accelerate resolution
+ uncertainty losses. cannot resolve uncertainty fundamentals underlying
+ creditworthiness financial market counterparties, cannot enhance liquidity
+ financial instrument without altering relative price. do? control inflation,
+ limit extent uncertainty inflation intentions adds market
+ volatility. this, like idea clear strategy. take consistent
+ President Plosser advocating, concern level see
+ appropriate see likely appropriate later year. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Yellen.
+ MS. YELLEN. Thank you, Mr. Chairman. support proposal 75 basis point cut
+ language that’s proposed alternative A. said comments, I’m concerned
+ economic growth agree basically Greenbook perspective. think
+ adverse feedback loop, agree Bluebook assessment equilibrium real funds
+ 
+ March 18, 2008
+ 
+ 92 127
+ 
+ rate dropped substantially, maybe negative territory. don’t believe gradualism
+ circumstances like these. think argument more-aggressive action similar
+ inflation low face zero bound nominal interest rates. agree Governor
+ Mishkin’s comments lessons Japan. think sooner appropriate stimulus put
+ place, less likely policy end facing unpleasant consequences
+ essentially reaching zero bound case prolonged severe recession. I’d
+ like see funds rate moved needs go sooner rather later.
+ think appropriate level funds rate one would provide insurance
+ really bad outcomes economy, don’t see move taking us insurance
+ territory yet. understand constraints weighed decision
+ psychology inflation expectations dollar, probably far go
+ sensibly today, think important move much can.
+ moves prove unnecessary, think reverse stance policy quickly,
+ good chance avoiding inflationary problems. agree Governor Mishkin’s views riskmanagement policy face financial shocks. interesting discussion last time
+ possibility quick reversal might mean don’t much stimulative effect
+ spending may lower long-term interest rates enough, think good
+ food thought. spent time thinking it, think lower funds rate
+ actually lower long-term rates, part because, reducing probability financial crisis,
+ bring risk premiums down, lower long-term rates. lower funds rate also
+ stimulative good deal depends short- intermediate-term rates. think
+ also number ways short rates matter spending channels like raising
+ 
+ March 18, 2008
+ 
+ 93 127
+ 
+ firms’ profitability cash flow lowering stress ARM resets. strongly support
+ action recommend.
+ CHAIRMAN BERNANKE. Thank you. Governor Kohn.
+ MR. KOHN. Thank you, Mr. Chairman. also support proposal, action
+ language alternative A. think it’s appropriate response developing situation,
+ think language help us inflation front. Let elaborate bit.
+ We’ve marked deterioration outlook, everybody around table seen
+ agreed with. think, President Yellen others said, decline
+ federal funds rate helpful mitigating recessionary tendencies economy.
+ decline 75 basis points much Greenbook r* decline, think it’s appropriate
+ reasonable await evidence whether point need go further.
+ resulting real federal funds rate would approximately zero using core inflation, think that’s
+ reasonable place be, given weight constraining factors economic outlook,
+ particularly credit markets. use core thinking real funds rate
+ think even zero real funds rate circumstances, least time, consistent
+ inflation coming commodity prices level resource utilization goes down.
+ agree Brian could bit adverse reaction financial markets
+ it’s quite much they’re expecting, risk sentence paragraph 4,
+ shouldn’t bad. think it’s consistent heightened attention Committee
+ inflation inflation expectations reasons gave, Mr. Chairman. It’s less
+ market expects, paragraph 3 paragraph 4 increase attention inflation
+ inflation risk. Thank you.
+ CHAIRMAN BERNANKE. Thank you. President Evans.
+ 
+ March 18, 2008
+ 
+ 94 127
+ 
+ MR. EVANS. Thank you, Mr. Chairman. support recommendation. came
+ thinking preferred 50 basis points, also recognize expected would
+ go beyond meeting. fully support 75 language discussed.
+ want take minute give perspective discussion earlier 1970s
+ inflation expectations. certainly didn’t expect came onto Committee would
+ lowering rates much done, thought would concerned
+ inflation, are, think appropriate response. Inflation expectations
+ risk reminds Paul Volcker, hero Federal Reserve System. that? broke
+ inflation expectations. that? Well, talked colleague, Larry
+ Christiano, reminded wasn’t really reducing money growth. M1 growth increased
+ period, yet financial conditions restrictive. big recession.
+ lot resource slack, really important bringing inflation down.
+ agree. think we’re situation likely recession. expect
+ reduce pressures inflation. That’s forecast. think it’s consistent earlier period,
+ it’s hard know exactly much bring inflation down, think lower
+ inflation. Greenbook calling recession. could wrong, we’ve chasing
+ whole time, I’d surprised wrong.
+ would like know bottom funds rate cycle is. Like financial market
+ participants want know value mortgage securities is, I’d like know
+ bottom funds rate is. wholly unrealistic point. don’t know.
+ would hopeful eventually something like Greenbook path assumption. support
+ recommendation. Combined separate attempts relieve financial market stress,
+ two prongs going, helpful. Thank you.
+ 
+ March 18, 2008
+ 
+ 95 127
+ 
+ CHAIRMAN BERNANKE. Thank you. President Stern.
+ MR. STERN. Thank you, Mr. Chairman. Well, somebody said recently,
+ altogether good choices. strongly support recommendation language goes it.
+ couple weeks ago thought funds rate probably go 2½ percent. got
+ basically saying, well, given know current conditions, outlook, everything,
+ 3 percent bad level. lot things don’t know, it’s likely
+ events going occur next couple weeks sometime future may disturb
+ things, little insurance that, 2½ would good idea. Well, events—I’m talking
+ Bear Stearns disruptions—occurred sooner rather later, seems
+ need go 2½ ask whether want additional insurance.
+ answer “yes.” I’m perfectly comfortable taking funds rate ¾ percentage
+ point now. strike appropriate balance concerns financial conditions
+ outlook, inflation inflation expectations side? don’t know.
+ said outset this, don’t know altogether good choices. think
+ good circumstances.
+ CHAIRMAN BERNANKE. Thank you. President Fisher.
+ MR. FISHER. Well, Mr. Chairman, don’t like obtuse and, people person,
+ don’t like unpopular. I—
+ MR. MISHKIN. We’re always going love you, come on. [Laughter]
+ PARTICIPANT. don’t like unpopular either.
+ PARTICIPANT. Happy birthday! [Laughter]
+ MR. FISHER. can’t bring go far, Mr. Chairman. listened
+ carefully said table, implicit Tim’s question was, Would
+ 
+ March 18, 2008
+ 
+ 96 127
+ 
+ willing something? answer “yes,” much you’re suggesting. try hard
+ possible, even though I’ve made living financial markets, ignore reports
+ given started conversation we’re paid believe
+ duty obligation what’s right long-term interests economy.
+ bearish before, outlier bearish side economic
+ growth. I’ve lower end range, also believe significant
+ inflationary concerns. point add President Hoenig’s—I agree
+ intervention. think that, accommodative, encouraging others role
+ play here—you mentioned yourself, Mr. Chairman—to sit back let us job.
+ combination inflationary pressures, consider real, imputing much weaker
+ economic growth scenario, thought long time, means cannot job
+ alone. fact matter undertaken significant liquidity enhancement
+ initiatives, think we’re going more, I’ve fully supportive them,
+ think 75 basis points, Mr. Chairman, way much. thought encourages
+ financial markets. They’re going satisfied. said last time. It’s Jabba Hutt.
+ keep asking more. quit feeding them. I’m pizza mode,
+ way, conversation. suggestion, however.
+ MR. MISHKIN. mean Pizza Hutt, Jabba Hutt. [Laughter]
+ MR. FISHER. Pizza Hutt, that’s right. Vice Chairman Geithner made interesting
+ point, careful talk inflation even
+ saying think. worries going alternative A’s path, that’s
+ wisdom Committee, second paragraph says little much think.
+ really says we’re done. want say that, that’s fine; keeps hammering on, even
+ 
+ March 18, 2008
+ 
+ 97 127
+ 
+ 75 basis points, things soft, things soft, things soft. may disagree
+ that, would suggest take justification reflecting, paragraph 3, “a projected
+ leveling energy commodities.” that’s wing prayer,
+ suggested might willing take out. you, advocating 75 basis points, acting
+ think act, one dissent, would take wing prayer language
+ there.
+ would suggest one thing—in fact, would ask one thing.
+ last sentence—“The Committee act timely matter needed promote sustainable
+ economic growth without sacrificing long-term price stability”—that’s really we’re talking
+ upside downside. would ask change that’s really
+ we’re saying. You’re saying we’re worried downside. We’re worried that,
+ we’re going promote sustainable economic growth without sacrificing long-term price
+ stability. suggestions, Mr. Chairman, thank putting me.
+ CHAIRMAN BERNANKE. Always pleasure. [Laughter] President Lockhart.
+ MR. LOCKHART. Thank you, Mr. Chairman. came meeting preferring
+ alternative B—50 basis points. certainly bring support proposal—75 basis
+ points. don’t view fist pounder, let make case 50 basis points, least
+ think it. First, think movement acknowledges financial instability
+ growing real weakness. argued earlier remarks, may set scene decoupling rate
+ policy liquidity actions conditions allow. think action makes minimal
+ acknowledgement inflation risk, may signal view lower rates much
+ that, best case, market proceed sort market problems and, worst case,
+ fiscal authorities deal them. Although trained psychologist, let
+ 
+ March 18, 2008
+ 
+ 98 127
+ 
+ propose that, dealing market psychology, may value appearing firm
+ rate-movement policy set one element fluid situation greater fixity
+ recent weeks. might generate kind firming dynamic even help produce
+ turn psychology. That’s lot ask simply 50 basis points, also prefer language
+ alternative alternative B, think Brian said could conceivably apply
+ alternative language substantially 50 basis point cut. general like approach.
+ Thank you, Mr. Chairman
+ CHAIRMAN BERNANKE. Thank you. President Pianalto.
+ MS. PIANALTO. Thank you, Mr. Chairman. support recommendation. said
+ earlier, see risks Greenbook baseline skewed downside
+ absence signs bottoming housing market. others mentioned,
+ concerned risk protracted recession. time,
+ short-term inflation environment deteriorated. also concerned inflation
+ expectations becoming unanchored. Governor Mishkin others said today, face
+ unpleasant tradeoffs; end, support aggressive policy
+ actions today. hopeful that, others said, language added
+ paragraph 3 inflation risks reminder assessment-of-risk paragraph
+ dual mandate helpful keeping inflation expectations rising further. Thank you,
+ Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. First Vice President Sapenaro.
+ MR. SAPENARO. Mr. Chairman, excluding moment market’s expectations
+ significant downward policy move meeting, strong preference
+ alternative D, like President Hoenig. see widespread evidence upside risk inflation
+ 
+ March 18, 2008
+ 
+ 99 127
+ 
+ increased appreciably, evidenced rapid money growth, depreciating dollar, rising
+ prices energy commodities traded world markets, higher inflation
+ compensation bond markets. However, know, market expect significant
+ reduction funds rate meeting, partly state economy, partly
+ turbulence financial markets, partly past statements
+ communications Committee members. Consequently, conditions, believe
+ failure accommodate much expectation would produce additional, major market
+ turmoil. Hence, prepared accept 50 basis point reduction coming meeting and,
+ trepidation, accept 75 basis point reduction. view, however, would
+ desirable Committee’s communications going forward emphasize lost
+ zeal fight inflation rate cuts cannot solve solvency problems without
+ unacceptable future inflation. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Plosser.
+ MR. PLOSSER. Thank you, Mr. Chairman. mentioned first go-round,
+ like Rick, terribly depressed multiple dimensions going
+ struggled mightily trying think appropriate policy going forward and,
+ President Lacker suggested, strategy move forward. certainly believe
+ easing policy appropriate weaker economy, supported that.
+ alluded earlier—and, Mr. Chairman, said—I believe weaker economy
+ mean continue cut rates long economy weak. need calibrate
+ level funds rate; think important. think markets seem
+ expectation rate change, level, matters. concerns feeds
+ problems facing. won’t elaborate expectations,
+ 
+ March 18, 2008
+ 
+ 100 127
+ 
+ mentioned before. would prefer actions well language reinforced
+ commitment price stability pause today rate cuts. think language
+ alternative would accomplish that. also believe modest cut, combined
+ language alternative D, might accomplish thing. afraid
+ aggressive move combined language B feeds belief
+ placed aside commitment price stability expectation continue
+ cut rates foreseeable future bottom sight.
+ talked lot taking insurance around table. believe time
+ come buy insurance waning credibility restraining inflation.
+ mean couldn’t choose continue make rate cuts future date,
+ called for. Ultimately, wish inflation expectations well anchored, must act
+ way consistent outcome. Words simply enough. Reputational
+ capital, whether central bank, academic institution, brand capital firm,
+ hard build. us know, private sector sectors, capital
+ easily squandered. must let happen.
+ appreciate, Mr. Chairman, comments regarding idea may reaching
+ limits monetary policy central bank do. much agree that.
+ risk maybe sounding bit trite colleagues familiar this—I
+ don’t mean way expresses concerns—I would like remind
+ colleagues quotation Milton Friedman, made 1968, “we danger
+ assigning monetary policy larger role perform, danger asking
+ accomplish tasks cannot achieve, and, result, danger preventing making
+ contribution capable making.” Thank you, Mr. Chairman.
+ 
+ March 18, 2008
+ 
+ 101 127
+ 
+ CHAIRMAN BERNANKE. Thank you. Governor Warsh.
+ MR. WARSH. Thank you, Mr. Chairman. couple quick introductory points. First,
+ total confidence Fed FOMC, certainly course couple years
+ here, effectively handling challenges, key highlight outset
+ remarks. total confidence institution’s ability, particular, handle sides
+ dual mandate. Moreover, would say total confidence ability
+ really robust discussion recognize, President Geithner pointed out, fragility
+ financial markets. lot strength comes able open, tough
+ discussions recognize that, public square, could
+ misinterpreted destabilizing. think right need take account,
+ particularly next intermeeting period, hope lasts six weeks. Moreover,
+ think power tools, creativity, innovative abilities November,
+ December, recent weeks incredibly impressive. think work
+ concert monetary policy. would underscore point Chairman made,
+ taken huge burden burden matched
+ others Washington—and suspect get much second third
+ quarter others around world—which go long way toward helping us accomplish
+ objectives.
+ Second, total confidence U.S. financial institutions medium term
+ deal issues. come thing stronger, smarter, faster
+ huge net exporters services, going take while. view capitalraising good important. tail fat discussed, capital-raising
+ 
+ March 18, 2008
+ 
+ 102 127
+ 
+ institutions help stave safety soundness issues could arise.
+ think good prudential management us alike.
+ task hand monetary policy, support alternative A, Chairman
+ recommends, take particular comfort narrative language
+ important next step us guard risks currency front inflation front.
+ Now, words won’t ton short term, won’t
+ immediate effect, think important us take build
+ private public statements. gives comfort. decision 50 points
+ versus 75 points, would kidding thought 25 basis points
+ completely consequential. wouldn’t ascribe virtue vice sort bid-asked spread.
+ would say hard call. share view expressed markets going
+ need disappointed point here. way words express
+ properly understood taken account markets’ judgments, worry
+ going great opportunities disappoint course
+ upcoming meetings.
+ Finally, let say this. end started discussion, is, end
+ day, institution’s credibility paramount increasingly case
+ point cycle. strikes continue make case upcoming
+ months will, wisdom, tools tackle issues. extent
+ monetary policy perceived pundits Fed watchers working, important
+ rebut arguments explain tools work time looking
+ assistance Washington nations’ capitals. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+ 
+ March 18, 2008
+ 
+ 103 127
+ 
+ MR. KROSZNER. Thank you. Obviously, said before, uncertain
+ situation respect inflation. slowing economic growth, also
+ elevated prices. low unemployment rate low rate wage
+ inflation, worry little whether get benefits lower resource
+ utilization terms lower inflation. look back historically previous
+ slowdowns, President Stern mentioned 1990-91 discussed
+ 1998-99, didn’t actually formal slowdown, Committee cut rates,
+ didn’t burst inflation. Obviously, slowdown 2001, main challenge
+ concern inflation getting low rather getting high point. look
+ past cycles—and think markets aware those—we see cuts
+ federal funds rate don’t lead inflation getting control, economy
+ growing strongly economy quite weak. although think situation
+ uncertain, don’t think markets would read cut 75 basis points today lack
+ commitment inflation control. think lot historical evidence suggests
+ necessarily inconsistent way.
+ slight uptick seen surveys doesn’t suggest
+ inflation credibility lost. think difficult read markets
+ saying look volatility past days. TIPS spreads really
+ telling us dramatic changes market’s views credibility regarding
+ going fighting inflation? don’t find credible. lot things
+ going make difficult us read something that.
+ support alternative A. thinking actually much along lines
+ President Stern’s—that need take least little insurance going forward.
+ 
+ March 18, 2008
+ 
+ 104 127
+ 
+ statement alternative good job talking concerns
+ inflation. respect whether include explanation expect inflation
+ come coming quarters, one things changed version relative
+ earlier ones explicit mention inflation expectations, think right
+ uncertainty measure those. uncertainty
+ inflation outlook increased thing read markets telling us.
+ assessment risk paragraph 4, mentions policy actions also
+ measures foster liquidity, valuable people see complementary tools
+ understand work together. mention price stability end
+ differs statement last time good way signal that. really
+ don’t see evidence yet lost credibility. look back historically we’ve
+ done rate-cutting either financially stressed times actual economic downturns, least
+ past twenty-five years, turned inflationary challenges, don’t see
+ evidence markets think otherwise. support alternative A, is. Thank
+ CHAIRMAN BERNANKE. Governor Mishkin.
+ MR. MISHKIN. Thank you, Mr. Chairman. Obviously, facing difficult
+ policy problem, why, Charlie, go beer later, deal
+ depression.
+ MR. PLOSSER. two?
+ MR. MISHKIN. Yes, maybe two. Clearly, challenged fact
+ balance risks underlying inflation inflation expectations going up. that,
+ worry downside risks economy, financial sector could really
+ go south. really policy problem face.
+ 
+ March 18, 2008
+ 
+ 105 127
+ 
+ support alternative A, would like give perspective
+ may different take others this. thinking risk-management
+ viewpoint others talked about, want emphasize lowering federal
+ funds rate 75 basis points not—and want repeat, not—taking insurance. look
+ Greenbook projections, 75 basis points, decline
+ that. r* dropped 125 150—well, depends model, quite bit
+ 75. insurance perspective, actually 75 basis points.
+ going argue that. fact, would argue things,
+ negative supply shocks, hadn’t happening.
+ also concern phenomenon occurred, don’t fully
+ understand. Normally would worry dollar depreciation. gave speech recently
+ pass-through—it opportunity interact Nathan’s staff read
+ literature—and evidence whole lot terms pass-through.
+ lately seen something peculiar, that, every time
+ depreciation dollar, oil price gone up. makes much nervous
+ dollar depreciation would usually be. hope may coincidence, makes
+ little nervous.
+ Another problem face convinced markets
+ willing bring baseball bat inflation starts get control. really key
+ part risk-management approach, key part of—I think Vince Reinhart called postgradualism speech. gave interesting speech day called postgradualism. yet convinced people it, part problem
+ really haven’t operated way past. one reason worthwhile talking
+ 
+ March 18, 2008
+ 
+ 106 127
+ 
+ saying need think operating different way. suggests
+ that, actually aggressive 75 basis points, could negative
+ reactions markets commitment controlling inflation. So, one
+ reasons strongly support Chairman’s proposal. say, way, even so,
+ 75 basis point cut, don’t think takes enough insurance, pose risk
+ long-run inflation expectations rise. realize lot risk really
+ bad things happening could mean things really get control. discomfort
+ tough tradeoff. then, think tradeoff, willing say
+ take risk otherwise consequences could problematic.
+ mention one concern wording statement. usually
+ don’t make comments wording subtle enough get that.
+ worry bit, exactly reason Vice Chairman Geithner mentioned, issue
+ talking inflation expectations getting unhinged could actually dangerous.
+ first sentence alternative says, “Inflation elevated, indicators inflation
+ expectations risen.” Well, worry that. First all, evidence completely
+ clear that. true increase, said 10 basis points.
+ research, lot uncertainty measures.
+ wondering, put in, whether actually cause problem terms market reaction.
+ worries little. would probably comfortable
+ alternative C, inflation elevated reasons upward pressure.
+ sure would helpful. don’t feel super strongly it, comments
+ Vice Chairman Geithner made bit worried otherwise would been.
+ CHAIRMAN BERNANKE. Thank you. Vice Chairman.
+ 
+ March 18, 2008
+ 
+ 107 127
+ 
+ VICE CHAIRMAN GEITHNER. Let begin question think
+ really central. goes issue accommodative policy now. Fundamentally
+ must critical magnitude risks taking going get wrong
+ inflation future going high. Now, really part profession,
+ always found chart discouraging prism choices face.
+ CHAIRMAN BERNANKE. chart that?
+ VICE CHAIRMAN GEITHNER. Bluebook equilibrium real funds rate chart.
+ way look it, real fed funds rate closer best estimates equilibrium
+ downturn past two decades similar periods time. gap
+ estimated real rate today center estimate equilibrium is. look
+ back gap 1992, 2001-02, 2003, substantial gap,
+ judgments policy would suggest necessary. understand huge amount
+ uncertainty estimates equilibrium, can’t facing serious risk
+ financial crisis deep, prolonged recession 50, 30, 20 years time
+ risk substantial rise underlying inflation medium term. seems
+ going one other. choice face, course, risk
+ prepared take. mistake easier correct for? hard judgment
+ make.
+ think confident that, end successful averting risk
+ very, dangerous, damaging spiral financial markets consequences
+ deep recession deeper recession early 1990s, able deal
+ likely consequences inflation less moderation
+ anticipate. guess don’t understand would confident that. let say
+ 
+ March 18, 2008
+ 
+ 108 127
+ 
+ don’t think easy. Like many you, think would great got away
+ 50, think tenable—not even close context.
+ Even though would nice consensus United States set
+ fiscal measures think would good merits, can’t make monetary policy
+ framework condition actions actions Congress. environment like
+ this, possible. right thing, mean takes pressure them?
+ Maybe, probably much. can’t constrain us appropriate now.
+ one final thing: People know stuff quite well, reasonably calm
+ people, say, “This possibly worst financial crisis 50 years, challenging set
+ pressures facing central bank 20 30 years.” Think context. Okay?
+ surprise disagree; surprise range agreement see
+ going wide context. think carefully
+ signal sends world moment explicit public degree
+ dispersion views. think carefully special moment.
+ fully support language action alternative A. President Fisher, would
+ amend last sentence say “without sacrificing” partly think need project
+ confidence capacity manage long-term inflation outcomes. ambivalent,
+ know, Mr. Chairman, clause President Fisher suggested delete reflecting
+ projected leveling out. virtue explains underpins, therefore, basis
+ medium-term forecast. vice that, Chairman said, first part may
+ seem like thin reed base forecast, given happening. actually
+ think, Governor Mishkin, acknowledging indicators inflation expectations—it
+ really uncertainty increased—is helpful credibility. margin, helps,
+ 
+ March 18, 2008
+ 
+ 109 127
+ 
+ even though, sure, say really can’t know telling us
+ market.
+ MR. MISHKIN. May ask question back? think inflation expectations
+ concern. question markets—and good
+ people really follow markets—and press react phrase think
+ amount movement still small. know, kinds numbers talking
+ inflation expectations order 10 20 basis points. mention,
+ new, raise flag get attention concern than, fact,
+ justified? tricky problem here. acknowledge it, again, good
+ enough wordsmithing figure that. bit concern here. don’t
+ know anybody thoughts handle it.
+ CHAIRMAN BERNANKE. President Fisher, think agree last sentence.
+ would like keep something used frequently emphasizes, fact,
+ symmetry dual mandate. thoughts either indicators inflation
+ expectations list reasons anyone would prefer change are?
+ MR. KOHN. inflation expectations, haven’t risen much, agree
+ President Geithner. like fact tell people aware, could say “have
+ edged higher” something like instead “risen.”
+ MR. MISHKIN. could use “smidgen” word, “edged higher” better.
+ MR. KOHN. Went smidge.
+ CHAIRMAN BERNANKE. right. President Evans.
+ MR. EVANS. “Edged higher” unusual phrase.
+ MR. MISHKIN. “Have risen somewhat”?
+ 
+ March 18, 2008
+ 
+ 110 127
+ 
+ MR. MADIGAN. think issue “edged higher” really sound
+ though specific measures mind.
+ CHAIRMAN BERNANKE. Brian, thought “risen” versus “risen
+ somewhat” versus taking out?
+ MR. MADIGAN. think take much raises question
+ language red factors would push inflation down. would tough
+ drop inflation expectations thought inflation expectations mentioned
+ anywhere paragraph. would vacant space had, least previous
+ minutes, referred it.
+ CHAIRMAN BERNANKE. Anyone else? Bill.
+ MR. DUDLEY. Adding word “slightly”—“risen slightly”—gets point.
+ MR. MISHKIN. “Slightly” “somewhat” risen.
+ MR. WARSH. Brian, “somewhat” mitigate little, highlight it?
+ MR. MADIGAN. I’m sure. mean, mind mitigates it.
+ VICE CHAIRMAN GEITHNER. Somewhat.
+ MR. KROSZNER. “slightly” better “somewhat”?
+ MR. KOHN. “Somewhat” bigger “slightly.”
+ MR. EVANS. 50 versus 25 old days.
+ MR. LOCKHART. Mr. Chairman, understand discussion this,
+ say “some indicators risen somewhat,” getting territory seems sort
+ mealy-mouthed.
+ CHAIRMAN BERNANKE. Right.
+ MR. KOHN. “Risen little”?
+ 
+ March 18, 2008
+ 
+ 111 127
+ 
+ MR. KROSZNER. wrong “slightly”?
+ CHAIRMAN BERNANKE. right. President Hoenig?
+ MR. HOENIG. Mr. Chairman, don’t want prolong much, response
+ Vice Chairman’s comments, sure follow saying. think model
+ showed us, terms equilibrium rate is, short-term model. based
+ upon variety estimates output gaps, think plenty room disagreement
+ around model. fact different views Committee healthy.
+ Even world healthy lot people different view
+ wondering variance views within Committee. think
+ serve useful purpose uniformity without objection.
+ VICE CHAIRMAN GEITHNER. Let say record agree everything
+ said. point surprise disagree complicated
+ different view balance. anything, chart shows broad
+ range uncertainty around this. part point saying it. think
+ value public display dispersion different degree
+ confidence problem markets generally. thing suggesting. completely
+ agree value diversity view context. surprise disagree
+ period. suggestion terms think talking publicly, given
+ delicate moment.
+ MR. HOENIG. Vice Chairman, bubble developing parts area.
+ think aware that, think mindful discussion
+ broadly. think important differences necessarily able
+ to—and fact—acknowledge publicly.
+ 
+ March 18, 2008
+ 
+ 112 127
+ 
+ CHAIRMAN BERNANKE. Okay. thought this, think “some
+ indicators” tone bit. Perhaps could leave is? knows
+ reaction get. Again, sense trying ratchet least verbal
+ attention inflation. Let say everyone went alternatives
+ tried find one didn’t make intensely uncomfortable—and still going
+ them. very, difficult decisions. people working good faith,
+ best can. appreciate candor honest comments,
+ continue work together address very, difficult issues have.
+ ready, perhaps could take vote.
+ MS. DANKER. vote encompass directive I’ll read Bluebook
+ statement alternative chart front you.
+ “The Federal Open Market Committee seeks monetary financial conditions
+ foster price stability promote sustainable growth output. long-run
+ objectives, Committee immediate future seeks conditions reserve markets consistent
+ reducing federal funds rate average around 2¼ percent.”
+ Chairman Bernanke
+ Vice Chairman Geithner
+ President Fisher
+ Governor Kohn
+ Governor Kroszner
+ Governor Mishkin
+ President Pianalto
+ President Plosser
+ President Stern
+ Governor Warsh
+ 
+ Yes
+ Yes
+
+ Yes
+ Yes
+ Yes
+ Yes
+
+ Yes
+ Yes
+ 
+ CHAIRMAN BERNANKE. Thank you. going recess discount rate.
+ Unless objections, going maintain ¼ percentage point difference.
+ [Recess]
+ 
+ March 18, 2008
+ 
+ 113 127
+ 
+ CHAIRMAN BERNANKE. Okay. next meeting April 29 30, Tuesday
+ Wednesday, two-day meeting. talk interest reserves. meet
+ shortly upstairs lunch honor Bill Poole. meeting adjourned.
+ END MEETING
+ 
+ 

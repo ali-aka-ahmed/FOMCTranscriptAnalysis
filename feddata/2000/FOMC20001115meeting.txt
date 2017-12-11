@@ -1,0 +1,2623 @@
+Meeting of the Federal Open Market Committee
+November 15, 2000
+A meeting of the Federal Open Market Committee was held in the offices of the Board of
+Governors of the Federal Reserve System in Washington, D.C., on Wednesday, November 15,
+2000, at 9:00 a.m.
+PRESENT: Mr. Greenspan, Chairman
+Mr. McDonough, Vice Chairman
+Mr. Broaddus
+Mr. Ferguson
+Mr. Gramlich
+Mr. Guynn
+Mr. Kelley
+Mr. Meyer
+Mr. Parry
+Mr. Hoenig, Ms. Minehan, Messrs. Moskow and Poole, Alternate
+Members of the Federal Open Market Committee
+Messrs. McTeer, Stern, and Santomero, Presidents of the Federal Reserve
+Banks of Dallas, Minneapolis, and Philadelphia respectively
+Mr. Kohn, Secretary and Economist
+Mr. Bernard, Deputy Secretary
+Mr. Gillum, Assistant Secretary
+Ms. Fox, Assistant Secretary
+Mr. Mattingly, General Counsel
+Ms. Johnson, Economist
+Mr. Stockton, Economist
+Ms. Cumming, Messrs. Eisenbeis, Goodfriend, Howard, Lindsey,
+Reinhart, Simpson, and Sniderman, Associate Economists
+Mr. Fisher, Manager, System Open Market Account
+Mr. Winn, Assistant to the Board, Office of Board Members,
+Board of Governors
+Mr. Ettin, Deputy Director, Division of Research and Statistics,
+Board of Governors
+
+2
+Mr. Madigan, Associate Director, Division of Monetary Affairs,
+Board of Governors
+Messrs. Oliner, Slifman, and Struckmeyer, Associate Directors,
+Division of Research and Statistics, Board of Governors
+Mr. Whitesell, Assistant Director, Division of Monetary Affairs,
+Board of Governors
+Ms. Low, Open Market Secretariat Assistant, Division of Monetary
+Affairs, Board of Governors
+Mr. Barron and Ms. Pianalto, First Vice Presidents, Federal Reserve
+Banks of Atlanta and Cleveland respectively
+Messrs. Hakkio, Hunter, Ms. Mester, Messrs. Rasche, Rolnick,
+and Rosenblum, Senior Vice Presidents, Federal Reserve Banks
+of Kansas City, Chicago, Philadelphia, St. Louis, Minneapolis,
+and Dallas respectively
+Messrs. Fuhrer, Judd, and Ms. Perelmuter, Vice Presidents, Federal
+Reserve Banks of Boston, San Francisco, and New York
+respectively
+
+3
+Transcript of Federal Open Market Committee Meeting of
+November 15, 2000
+
+CHAIRMAN GREENSPAN. Good morning, everyone. Would someone like to
+move approval of the minutes of the October 3rd meeting?
+VICE CHAIRMAN MCDONOUGH. So move.
+CHAIRMAN GREENSPAN. Without objection. Peter Fisher.
+MR. FISHER. Thank you, Mr. Chairman. I will be referring to a
+package of colored charts that should be in front of you.1
+On the first page I have depicted all on one panel the forward deposit
+rates for the dollar, the euro, and the yen from May 1999 through November
+13th. To give some perspective on changes in these rates, I have also shown
+the sequence of rate moves that this Committee and the European Central
+Bank (ECB) have made over the last year and a half.
+The orange and red lines at the top of the page are the dollar forward
+rates, with the lighter color showing the 9-month forward rate. As you can
+see, the 9-month forward 3-month deposit rate has fallen by almost 100 basis
+points since its peak in May of this year, at the time of this Committee's last
+rate action, unwinding almost half of its total increase from May of 1999.
+The 9-month forward 3-month rate is now trading below the 3-month
+forward 3-month rate, which itself is trading below the current 3-month
+deposit rate. Still, the 9-month forward 3-month rate [Laughter]-MR. BROADDUS. Run that by me one more time!
+MR. FISHER. That’s the Chairman’s language! At any rate, the
+dollar’s 9-month forward 3-month rate is about 100 basis points above its
+euro counterpart. The ECB has raised their policy rates 100 basis points
+since May of this year, but their 9-month forward 3-month rate has not
+changed. It's essentially trading at the same level as it was in May. Taking a
+step back, the market has priced in a fair amount of easing by this Committee
+over the coming months but has been reluctant to price in much of the
+tightening that the ECB has put in place over the summer and into the fall.
+The green lines at the bottom of the page, which look like inchworms
+crawling along there, are the Japanese forward rates. They have bunched up
+1
+
+A copy of the charts used by Mr. Fisher is appended to this transcript. (Appendix 1)
+
+4
+a bit, as have the dollar and the euro rates, but on their rather suppressed
+scale.
+Turning to the second page, I have included two charts depicting
+exchange rates. In the top panel, going back to May of 1999 again, are
+changes in the foreign currency values of our four major trading partners-movements in the Japanese yen, the Mexican peso, the Canadian dollar, and
+the euro against the dollar. In the bottom panel are comparable changes in
+the currencies of five smaller countries.
+Looking at the top panel, you can see that the yen strengthened quite a
+bit against the dollar last year but is really very little changed this year. The
+peso and the Canadian dollar are down slightly over this period, but rather
+marginally so. And the euro has lost 20 percent of its value against the
+dollar, mostly this year.
+Of the five currencies shown in the bottom panel, all but the Korean
+won, which is certainly something of an exception, have declined quite a bit
+against the dollar, principally this year. Those currencies include the New
+Zealand dollar, the rand, the Australian dollar, and the Thai baht.
+Now, however we may feel about the dollar's movements and whatever
+our analytic framework, I think we should recognize that the movements of
+the euro and several currencies of smaller countries against the dollar are
+viewed by people elsewhere in the world as extreme or extraordinary. And
+they are seen by our counterparts in other countries as reflecting a drawing in
+of capital into the United States and safe haven flows that persist on the order
+of those experienced in 1997 and 1998. We may not see it that way. We
+think there is a distinction between what has been going on this year and
+what occurred in those prior years. But they see it as a continuation of those
+safe haven and capital flows into the United States.
+So, while one can point to significant differentiation in the pressure on
+different countries--for example, the Argentine peso is under pressure but the
+Hong Kong dollar is not--the dollar's strength is not seen by the rest of the
+world as a consequence of the fundamentals. Rather, the dollar’s strength is
+seen as a cause of their problems and the stress that besets their economies.
+That view is held much more firmly now, I think, than in 1997 and 1998
+when other nations tended to understand the nature of the safe haven flows.
+This continuation of capital movements into the United States now seems
+more mysterious to our counterparts in other countries.
+On page 3, I have provided four snapshots of three different yield
+curves. Those snapshots are for the following dates: May 3rd of 1999, before
+the Committee's recent tightening cycle began; January 10th of this year,
+
+5
+which was just prior to the Treasury’s buyback announcement and when the
+yield curve began to invert; May 16th, the last occasion the Committee
+changed rates; and November 13th, this past Monday. Each red diamond
+reflects a Treasury issue. The gap for the period between 10 and 14 years
+reflects the fact that for this exercise the callables have been located on their
+call date and not their maturity date. So we've shifted all those maturities
+down.
+I'd make four observations from looking at these comparisons. In the
+chart for November 13th, while the slope of the A-2 industrial corporate index
+is roughly the same now as it was in May of 1999, it is clear that the yield
+curve has shifted 100 basis points higher. So over that time horizon we see a
+certain tightening of financial conditions, at least for this credit grade.
+Secondly, however, the short end of the corporate curve is considerably
+lower now than it was in May or in January of this year. So, over that time
+horizon, for this credit grade you would see a certain easing of financial
+conditions. Third, the widening of the corporate spread to Treasuries of this
+index actually occurred between January and May--between the dates
+depicted at the upper right and the lower left. And there's really only a
+modest uptick in the widening of their spread to Treasuries from May to now
+for this higher grade. We know that lower grade credits have deteriorated
+over this period, but I found it quite significant to realize that the widening
+relative to this higher credit grade occurred in the first half of the year.
+Finally, the most noteworthy movement on these panels is the collapse
+of the short end of the Treasury curve, which occurs between May and
+November, with the hump out to two years completely inverting and coming
+down. Clearly, this reflects the anticipation of easing, which has increasingly
+been priced into the markets over the summer and into the fall, reflecting the
+markets’ reading of the data. You pay me in part to worry. I must say that I
+do have a small worry that we will never know what part of this collapse of
+the hump was caused by our change with respect to our outright operations.
+About $30 billion of the $37 billion of outrights we purchased this year have
+been in maturities of five years and under. Now, we’ll never know the
+counterfactual. But I believe had we continued to purchase evenly across the
+curve, that we might have had a more profound effect on the long end, where
+conditions were getting thinner and where the Treasury was buying back
+issues. So there was no free lunch here for us. I want to be clear that I think
+the predominant movement in the short end should be attributed to the
+markets’ pricing in the ease based on the fundamentals. But it's not without
+some anxiety that I note our own operations could have played a small part.
+Turning to the next page, let me just go over the current status of our
+operations. In the top portion of this table we show the changes in our
+forecast looking forward to the year-end. There has been relatively little
+
+6
+change in our forecast of reserve needs from late September to now. Things
+seem to be coming in pretty much as expected. I’ll actually come back to
+these in a minute; I have a better picture of our projections on the next page.
+In the middle of page 4 you can see details on our outright purchases.
+We had purchased a little more than $32 billion through early October and
+we have purchased another $5 billion since then. And you can see how much
+has been in the short end, following the guidelines we adopted in July.
+In the bottom panel you can see that the average level of our short-term
+RPs in the current November, shown in the right column, is running about $3
+billion. We’ve started to increase the longer-term book a little, anticipating a
+year-end average of almost $13 billion. In the bottom part of the table on
+RPs you can see that the mix of collateral we are taking now is still
+predominantly Treasury debt, at 64 percent. The rest is divided between
+agency debt and mortgage-backed securities.
+Turning to the last page, I’ve tried to give you a sense of how we plan
+to manage reserves around year-end. In the top panel we've depicted factors
+draining reserves from the system. The orange line shows the impact of
+changes in autonomous factors, principally currency. The green line shows
+the additional drain occurring as a consequence of our cumulative
+redemptions, here all based on changes from October 3rd. As you can see, we
+are expecting a drain of about $30 billion as we get into the year-end period.
+The bottom panel gives you a sense of how we’ve been managing this
+reserve need and how we plan to manage it. The dots represent actual
+operations and the solid lines give a sense of our forecast. Working up from
+the bottom of that page, we plan to buy another $5 billion outright between
+now and the year-end, meeting part of the reserve needs that way. We expect
+to increase our 28-day book of repos to a peak of $24 billion at year-end and
+then begin unwinding that. And on our current forecast we will have about
+$6 billion outstanding of temporary short-term RPs at year-end. I don't yet
+have any precise forecast, and I wouldn't pretend to, of how we will manage
+that on the other side of the year-end. But the 28-day book will start to
+unwind and we’ll see where we are. We’d then begin accumulating outrights,
+but I think I'll wait to see how things evolve before making a forecast for
+that.
+I’ve mentioned to the Committee that the Treasury was planning to
+announce a change in the bidding rules for our foreign accounts. They made
+that announcement yesterday. I think it went rather well. We’ve worked
+with the Japanese authorities and I think their comfort level with respect to
+this change is now much higher. We are in a position to help manage their
+participation in competitive auctions next year by working very closely with
+
+7
+them on this. Very few other countries are really affected by the rule change,
+but we have been talking to those countries that are affected. So, I wanted
+you to be aware that that announcement was made yesterday.
+There are no foreign operations to report, Mr. Chairman. I'll need the
+Committee's vote to ratify our domestic operations. I'd be happy to answer
+any questions.
+CHAIRMAN GREENSPAN. I'm not forecasting this, but suppose we had an
+unanticipated need for significant easing. Is the structure in the markets out there thick enough
+for us to be able to do it without creating some problems?
+MR. FISHER. I believe so. I can’t think of any problem that would-CHAIRMAN GREENSPAN. Are we anywhere near the point where you're getting
+concerned about the supply? Theoretically, as you know, we can get to a point where we could
+have significant disruptive effects in the markets if we stayed with our current procedures and
+had to introduce a dramatic amount of ease into the marketplace. But is it your judgment that
+we’re nowhere near that area for the time being?
+MR. FISHER. I can't think of a variable over the next six or eight months that would
+really press us in that way. If we had to add a lot of reserves, we could affect some spreads. But
+I don't think there would be a capacity limit.
+CHAIRMAN GREENSPAN. No, I’m not referring to spreads. I’m referring to the
+extent to which we create distortions in the marketplace that have adverse secondary effects.
+MR. FISHER. Our current level of operations is not trivial in size as we look to the
+year-end. I don’t think we’re disturbing spread relations now as we anticipate increasing the
+book to about $30 billion. I’m sure there are extreme scenarios under which we would have a
+temporary effect on spreads over the next six months if we had to inject a really large amount of
+reserves, which I assume we would do through aggressive repo operations. But I think our
+
+8
+methodology of pricing our three tiers of collateral separately and trying to reflect what’s in the
+market will mitigate, though obviously not eliminate, the impact that a significant increase in our
+operations would have on spreads.
+MR. KOHN. I would only add, Mr. Chairman, that if the Committee wanted to ease
+interest rates quite considerably, I think the extra reserves we would have to add would be very,
+very small, given the very low level of required reserves and the inelastic demand for reserves.
+Actually, we would have to buy very few extra securities in order to effect an easing.
+CHAIRMAN GREENSPAN. That’s an important part of the answer.
+MR. KOHN. It’s just not that much.
+CHAIRMAN GREENSPAN. That leads me to a related question on an issue you
+didn’t mention--the fairly significant opening up of spreads between A-2 industrial corporates
+and swap rates between May and now. Are we seeing strictly credit risk there?
+MR. FISHER. I worry that we don’t know enough to answer that with any certainty.
+Had I plotted the Fannie Mae or Freddie Mac yields on these four panels, on this scale they
+would have smothered the swap rates and not come through on the page.
+CHAIRMAN GREENSPAN. I’m sorry, what do you mean by smothered?
+MR. FISHER. You wouldn’t have been able to see the distinction on the chart. They
+would have been so close together that there would be no gap between them.
+CHAIRMAN GREENSPAN. Between Fannie and Freddie yields and the swaps?
+MR. FISHER. Yes. Those agency yields would have been right on top of the swap
+rates. The impression I have from talking to people at those agencies and in the market is that
+the agencies use the swap market very actively to manage their interest rate exposure. And I
+have a fair amount of concern about which is the tail and which is the dog with respect to the
+
+9
+swap market. Fannie Mae and Freddie Mac debt has performed well since their joint
+announcement relating to the issues raised by Congressman Baker. The spreads have come
+down and the swap rates have come down. I am increasingly uncomfortable about whether I
+know enough to interpret the spread relative to the swap rate movements.
+CHAIRMAN GREENSPAN. It’s as if Fannie and Freddie are co-opting the swap
+market-MR. FISHER. That’s a concern I have. I want to be clear that I can’t put a finger on
+it. But looking at financial conditions, I’m suspicious of the notion that the financial sector,
+whose credit stands behind the swap rates, is somehow improving so much more in these
+circumstances than A-2 industrial corporates. That seems to me to be something about which we
+don’t have any real evidence. So you caught me unprepared. I intentionally did not address the
+widening of the swap to A-2 spread because I didn’t have enough information to explain it. I
+worry that it’s in part the agency role and in part that swap rates tend to be drawn down perhaps
+more by Treasuries as a parallelism in how people trade them and use them.
+CHAIRMAN GREENSPAN. What happens to the benchmark debate under these
+conditions?
+MR. FISHER. That’s a concern I’ve had for some time, whether agencies or swaps
+are the right benchmark. If the two are moving in tandem, then neither one of them is going to
+be a very good benchmark under certain conditions of stress.
+MR. KOHN. We also have a sense, Mr. Chairman, that the spreads on marginal
+investment grade yields have widened, even aside from the special effects. I agree with Peter--I
+think he probably put his finger on what’s going on between the swaps and the agencies--that
+marginal investment grade yields probably have risen relative to risk-free rates, adjusted for
+
+10
+everything. So, the concerns about risk extend beyond the junk bond market into the lower end
+of the investment grade market. And that might be affecting these spreads.
+CHAIRMAN GREENSPAN. Finally, with respect to the notion that the strong dollar
+is creating real problems for our trading partners, are they recommending that we lower interest
+rates or intervene or what? I’m just asking, because I haven’t heard this. In other words, who is
+doing the drawing in, if I may put it that way? My understanding is that it is their citizens who
+are running from their financial markets to ours. And the problem is-MR. FISHER. I agree with you completely, Mr. Chairman. I was trying to give
+members of the Committee a flavor of the angst among some of our colleagues.
+CHAIRMAN GREENSPAN. They should be raising serious questions with their
+citizens.
+MR. FISHER. I don’t disagree with you, Mr. Chairman.
+CHAIRMAN GREENSPAN. So, they’re not talking about blocking the inflow of
+capital into this country by putting up barriers or imposing tariffs?
+MR. FISHER. No. I think you hear these voices as clearly as I do, and perhaps more
+so. But I thought the Committee should understand the level of anxiety about this in the central
+banks around the world.
+CHAIRMAN GREENSPAN. You understand my question is purely rhetorical.
+MR. FISHER. I’m making sure it’s fully reflected in the transcript!
+CHAIRMAN GREENSPAN. Further questions for Peter?
+MR. POOLE. Mr. Chairman, I have a question, but first I have an observation on that
+point. I don’t think it matters which way the exchange rate is moving. From the perspective of
+
+11
+the rest of the world, it’s always our fault if somebody else is having problems. That’s my
+reading of the history of that!
+On the yield curves on page 3, the most recent observation in the lower right corner is
+obviously very, very unusual, and I’d like to offer another observation about that. What strikes
+me is this pervasive sense developing in the market that there’s going to be a policy easing
+ahead. At the same time, the expectation is that it will happen but not yet. I asked a member of
+my staff to print out a chart of both the five-year and two-year Treasury yields in terms of their
+differential in relation to the three-month-ahead fed funds futures market. What you see on the
+chart is that there are two instances when that spread had become as large as it is now. One was
+in the fall of 1998. I think it’s clear that the issue then was the flight to quality in the two-year to
+five-year area; that involved more of a liquidity flight to quality than an expectational issue. The
+other case was back in the spring of 1989. So, what we have is the sense that there’s going to be
+a policy easing, but not yet. It’s off into the future quite a bit. And that, I think, is quite odd,
+based on our experience of the last 10 to 12 years anyway, or since we have had the fed funds
+futures market. I just offer that observation.
+CHAIRMAN GREENSPAN. I think it’s a good one. Further questions? If not,
+would somebody like to make a motion?
+VICE CHAIRMAN MCDONOUGH. Move approval of the domestic operations.
+SPEAKER(?). Second.
+CHAIRMAN GREENSPAN. We move to Dave Stockton and Vince Reinhart.
+MR. STOCKTON. Thank you, Mr. Chairman. We have received a
+considerable slug of data since we published the Greenbook last week. For
+the most part, those readings have had little effect on our outlook. We still
+estimate that real GDP rose about 2-1/2 percent at an annual rate in the third
+quarter and will rise about 3-1/2 percent in the current quarter.
+
+12
+
+Retail sales, released yesterday, rose 0.1 percent in October, held down
+by weak sales of motor vehicles. Excluding auto dealers and building
+materials supply stores, sales rose a relatively modest 0.3 percent last month
+after jumping 0.9 percent in September--both about in line with our
+expectations. As you know, auto sales fell about a million units at an annual
+rate in October, to a 16.7 million unit pace. There has been some real
+weakening here, and the carmakers have been holding up sales only with
+relatively generous incentives. Taken together, these few fragments of data
+leave us comfortable with our projected increase in real PCE of 3-1/2 percent
+in Q4.
+In a bit of ancient history, data on retail inventories for September were
+released this morning. Retail stocks excluding those at auto dealers were
+about unchanged for the month--close to the assumption made by the BEA.
+For the most part, stock-to-sales ratios remain low at retailers. However,
+inventory overhangs have cropped up in some areas of late, most notably in
+the motor vehicle sector. Assemblies have been trimmed considerably in
+order to limit any further rise in day’s supply, and these cutbacks are taking
+about 1/2 percentage point off GDP growth in the second half of this year. In
+addition, inventory problems in steel, construction materials, paper, and
+textiles appear to be prompting some production adjustments.
+Indeed, we have seen a perceptible slowing in factory output in recent
+months. Total industrial production, which we published this morning, is
+estimated to have been unchanged in October. Outside of motor vehicles,
+factory output rose 1/2 percent last month. Although high-tech production
+picked up a bit in October, activity in this sector has cooled since the Y2Krelated surge earlier this year.
+Investment spending for high-tech equipment, on net, has also slowed
+some of late. While outlays for computers and software have remained very
+strong, there has been a drop-off in spending for communications equipment.
+Order backlogs, though, continue to build, suggesting that the outright
+decline registered by communications equipment for the third quarter is
+likely to be short lived. The data we now have in hand for the tech sector are
+more consistent with a moderation than a slump. Elsewhere, growth of E&S
+spending has slowed, but only modestly and along with the growth of final
+sales.
+In contrast to equipment spending, nonresidential construction activity
+appears to have picked up recently. Low vacancy rates and rising rents
+appear to be providing support to this sector.
+
+13
+Despite some zigs and zags, activity in housing markets has basically
+moved sideways or down from the levels seen earlier in the year. Only sales
+of new homes, which soared in September, are signaling any serious
+rebound. But in the spirit of the times, I refuse to concede defeat here, and I
+shall await the results of a recount, which will come in the form of revised
+sales figures later this month. [Laughter]
+Summing up the near term, growth of real GDP appears to have slowed
+considerably in the second half of the year, but only by a bit more than we
+had expected at the time of the last meeting.
+Looking further ahead, these incoming data alone would not have
+warranted any more than a small adjustment to the outlook for 2001 and
+2002. However, financial conditions have tightened noticeably over the
+intermeeting period, and we expect this to persist and perhaps to intensify a
+bit over the projection interval. Interest rates have risen especially sharply
+for below-investment-grade borrowers. But even those at the lower end of
+the investment-grade spectrum have seen widening spreads and a less
+receptive market for new bond issues
+.
+In equity markets, companies’ stock prices have been hammered for
+failing to meet earnings expectations, with the tech sector especially hard hit.
+In response, we have knocked almost 4 percent off the level of stock prices
+going forward in this Greenbook. Moreover, banks have further tightened
+terms and standards on loans to business customers. Taken together, these
+developments have led us to mark down our forecast for the growth of real
+GDP by a bit more than 1/4 percentage point in each of the next two years.
+While we have trimmed a bit from our consumption forecast, reflecting
+the hit to wealth, the most significant downward adjustment was to our
+forecast of equipment spending, especially communications equipment. Both
+capital markets and banks appear to have become more concerned about this
+sector’s ability to generate the previously expected returns. But the
+tightening of financial conditions in recent weeks has extended beyond the
+communications sector, and we have lowered our projection for more
+traditional capital equipment as well.
+I should emphasize that these adjustments are as much judgment as
+science. As you probably know, standard econometric models have
+difficulty identifying significant interest rate effects on investment spending,
+let alone differential effects by the quality of the borrowers. That said, we
+are bowing in the direction of economic principles and are forecasting that
+capital spending will be squeezed by higher interest rates and tighter lending
+standards in the period ahead.
+
+14
+
+The revisions we have made to our outlook for investment also have
+implications for the supply side of our forecast. Because investment
+spending has been lowered, so too has the pace of capital deepening. This, in
+turn, reduces the growth of structural labor productivity and potential output.
+Consequently, even though we have marked down our forecast for the
+growth of real GDP, we are showing only a slightly higher unemployment
+rate and virtually no change in our inflation outlook.
+Obviously, we see our forecast as the most likely outcome for the next
+two years. But I think it is fair to say that the downside risks to the
+projection were easier for us to envision than the upside risks. In particular,
+the cyclical weakening in corporate earnings that we are projecting to occur
+over the next two years could prompt a more negative reaction in financial
+markets than we have allowed for in this forecast. If that is the case, there
+could be a more pronounced retrenchment of investment outlays and, through
+the wealth effect, consumer spending.
+We examined in the Greenbook a couple of variants of a tech-led
+weakening of investment spending. One of the messages of those
+simulations was that, although the growth of real output was weaker and the
+unemployment rate higher, inflation would be little changed to a bit above
+that in our baseline forecast. The reason, of course, is that slower growth of
+investment leads to less rapid gains in structural productivity and more
+pressure on unit labor costs. In essence, we experience the mirror image of
+the past few years, when faster productivity growth was accompanied by
+lower unemployment without accelerating prices.
+I won’t repeat any further the details of the simulations presented in the
+Greenbook. Instead, I thought I might take up the somewhat more
+challenging assignment of arguing the upside risks to the projection.
+Let me start with fiscal policy. A more evenly divided Congress could
+result in gridlock, calling into question even the modest stimulus in fiscal
+year 2002 that we have built into the projection. But it seems every bit as
+likely that the large on-budget surpluses that we have projected could serve
+as a powerful lubricant to overcome the partisan frictions that otherwise
+could prevent movement. This autumn’s scramble to spend might well be a
+precursor to more aggressive fiscal ease next year, and it demonstrates how
+rapidly the surplus could be dissipated by many small actions.
+A second risk is that we may be overreacting to the recent tightening of
+financial conditions. The economy weathered what seemed to be a bigger
+threat in 1998. To be sure, our policy actions provided considerable
+
+15
+reassurance, but the uncertainties about the global economy were
+undoubtedly much greater then than now. At that time, we also saw a
+weakening in our industrial sector. But on the whole, the expansion barely
+skipped a beat.
+Moreover, in the present circumstances, the upside risks to inflation
+that would accompany a reacceleration of activity are probably greater than a
+couple of years ago. Most broad measures of inflation--headline and core-bottomed out in 1998 or 1999 and have moved up since then. While the
+uncertainties remain very large, we have seen little in the recent wage and
+price data to contradict our view that the economy is operating beyond its
+potential.
+Of course, if a reacceleration of activity were to occur, our ability to
+absorb it without added inflation pressures would be influenced importantly
+by productivity developments. And that brings me to a final upside risk to
+our projection of activity. I recognize that some of you view our outlook for
+productivity and potential output as near the outside edge of plausibility. But
+we view the risks here as two-sided. A further sharp acceleration of
+productivity, such as we have experienced, could provide considerable
+support for corporate earnings and stock prices. This would likely be
+accompanied by an easing of the credit quality concerns that now appear to
+be weighing so heavily on lenders and investors. The faster productivity
+growth could help to limit or even reverse, at least for a time, any further
+upward movement in inflation. While it’s not our best guess, one would not
+need to stare too long at our forecast errors in recent years to recognize that
+this scenario is not without plausibility.
+With that, I’ll turn the floor over to Vince Reinhart.
+MR. REINHART. The outlook for foreign economies in the Greenbook
+should seem familiar. After all, it shares key properties with the past few
+projections prepared for the Committee this year.
+For one, the staff anticipates that economic growth in most major
+industrial economies and in the developing world will be solid over the next
+two years, albeit somewhat slower than the rapid pace recorded in the first
+half of 2000. This step-down in the rate of GDP growth owes both to the
+aging of the expansion as pent-up demands are increasingly satisfied and to
+monetary policy firming around the world as resource utilization rises. In
+Europe, 1/2 percentage point of policy tightening by the European Central
+Bank within the next year will work to offset the stimulus to net exports
+emanating from the earlier depreciation of the euro, holding growth to around
+
+16
+3-1/4 percent over the forecast period. In the developing countries, output
+ultimately settles at around a 5 percent pace.
+For another, Japan once again is an outlier. Our readings of incoming
+data lead us to believe Japanese real GDP will be virtually flat in the second
+half of 2000. The recently announced fiscal package merely keeps the level
+of the deficit about unchanged, implying no net impetus to growth from
+fiscal policy. With huge ongoing fiscal deficits and rapidly mounting debt,
+policymakers in Japan will be looking for any opportunity to begin to scale
+back government spending and raise taxes. Indeed, the mounting challenge
+to the current prime minister appears to hinge importantly on calls to scale
+back public works spending, which is increasingly seen in Japan as
+ineffective. Meanwhile, households appear reluctant to spend. In that
+environment, we see the Japanese economy as treading water for the next
+couple years, expanding 1 percent and 1-1/2 percent in 2001 and 2002,
+respectively. We think that slight pickup in growth, by the way, will provide
+the Bank of Japan enough rationale to tighten policy by a small amount
+toward the end of the forecast period.
+Taking our cue from oil futures markets, we again expect oil prices to
+decline going forward, essentially reversing almost one-half of the run-up
+witnessed since the end of 1998. Those futures prices align with our
+assessment of fundamentals. We anticipate that current pressures will lift as
+lean inventories are restocked in the near term and global capacity expands to
+fill the increases in demand associated with steady world economic growth in
+the intermediate run. Those lean inventories, of course, imply that there is
+currently less of a cushion to absorb unexpected fluctuations in supply or
+demand, placing a wide uncertainty band around our point forecast,
+particularly in the near term.
+And, we are sticking with our outlook that the dollar will depreciate
+going forward. The specific assumption in the November Greenbook is that
+the broad real foreign exchange value of the dollar will shed about 2-3/4
+percent next year and the year after. Again, this owes to our view that the
+step-down in economic growth and profitability in the United States and
+accumulating current account deficits will tax foreign investors’ willingness
+to continue to add U.S. obligations to their portfolios on net.
+While the basic structure of our projection does not differ much from
+those in the past few Greenbooks, we tried to convey a sense of a changed
+tone, in that the risks to the foreign outlook now seem better balanced. As
+you recall, for much of this year we’ve been in the position of catching up to
+surprisingly good incoming readings in most foreign economies. And our
+projections for economic growth have accordingly edged higher meeting
+
+17
+after meeting. This time, backward-looking readings on activity have
+unfolded in the past six weeks about as we had expected. And forwardlooking indicators of spending in Europe and Japan, including surveys of
+household and business confidence, have been a bit softer on balance,
+leading us to notch lower our second-half projection of real GDP growth.
+In addition, the funding difficulties in Argentina over the past few
+weeks serve as a reminder that old-style financial crises remain possible in a
+new world economy, further underscoring the notion of downside risks.
+With a fiscal deficit of around 2 percent of GDP and external debt amounting
+to about 50 percent of GDP, Argentina is overly reliant on the confidence of
+foreign investors. While officials there have done much to extend debt
+maturities and line up contingent funds, rolling over the bulge in debt
+maturing in the next two years looks to be a close-run thing. The news out of
+Buenos Aires and Washington over the weekend--including the promise of
+government efforts to trim the social security system and rein in the civil
+service compensation and provincial spending in return for funds from the
+IMF and the multilateral development banks--was generally favorable.
+However, reports of late suggest that it may be difficult to get the provincial
+governors on board a reform bandwagon. Our working assumption remains,
+as in the Greenbook, that Argentina will squeak through these funding
+problems and keep its currency-board arrangements intact. In any case, I
+would note that the alternative simulations in Part I of the Greenbook suggest
+that as long as any crisis is mostly contained to Latin American debt markets,
+the effects on the United States are quite limited.
+And recent movements in the dollar might indicate the return of twosided risks about the economy in the foreign exchange market. While it is
+true, once again, that the foreign exchange value of the dollar in terms of the
+major currency index rose over the intermeeting period on net, in the past
+couple of weeks it has moved lower on balance. The inflection point came
+on October 27, with the release of a third-quarter U.S. GDP figure that was
+weaker than expected. This market reaction to slower U.S. growth is an
+example of the mechanism that we expect will sap the dollar’s strength going
+forward. Increasingly, as investors come to realize that U.S. growth has
+stepped down, in effect trimming the tail on any “new-economy” premiums
+expected in U.S. returns, foreign obligations will look increasingly better.
+The resulting dollar depreciation--which we’ve smoothed through over the
+forecast period for lack of any precise notion of when investor sentiment will
+change--implies that the foreign sector will no longer be a force helping
+restrain domestic inflation. It also implies that foreign industrial economies
+will have to rely increasingly on the momentum of their own domestic
+markets to sustain economic growth as the stimulus from strong U.S. external
+demands wanes.
+
+18
+CHAIRMAN GREENSPAN. Thank you. Questions for our colleagues?
+MR. PARRY. Dave, over the past year the core CPI is up about 2-1/2 percent and the
+core PCE is up about 1.7 percent. Part II of the Greenbook suggests that the difference between
+these two indices is almost exclusively due to the imputed prices for non-price services like bank
+services. Given that, which index do you think is providing the best indication of core inflation?
+MR. STOCKTON. I don’t know whether that’s a leading question or not! [Laughter]
+Actually, as we have said in the past, I believe it would be a mistake to rely on any single index.
+So, what we have tried to do in our analyses is to present some of the pros and cons of the
+various indexes for you, as policymakers, to consider in order to reach some kind of a judgment.
+My judgment would be that there has been a pickup in underlying core inflation. But the core
+PCE has probably understated that pickup because of these imputed prices, which are more
+statistical constructions than actual measurements. It’s quite conceivable that the CPI has
+overstated that acceleration in part because, as we have noted, we have some doubts about the
+weighting structure of the CPI. Another source of discrepancy between the PCE and the CPI
+over the last year has been that the CPI is showing a much sharper acceleration in medical
+services prices than the PCE, which uses a PPI measure rather than the measure used in the
+consumer price index. I think there are some questions about the quality of the medical care
+prices as measured in the CPI. So if I can weave my way to an answer, I’d say that a rate
+somewhere in between those two measurements probably captures the right sense of what has
+been going on.
+
+19
+MR. PARRY. On medical care, of course, businesses tell us that they have seen huge
+increases over the last 12 months in terms of their costs. I’m not saying which one looks as
+though it’s-CHAIRMAN GREENSPAN. But you’re talking about cost, not price. What’s
+happening is that the physical volume of medical care is going up very dramatically.
+MR. PARRY. The usage has risen. But there’s no doubt that when we budget for
+premium increases that we charge our employees, the increases are huge across the board.
+CHAIRMAN GREENSPAN. But a good part of that is improved medical care
+because the technology is moving at a very rapid pace. And it’s pretty obvious that the actual
+health insurance premiums reflect far more than price.
+MR. PARRY. Sure.
+CHAIRMAN GREENSPAN. Indeed, there’s a very serious question among a number
+of analysts in this area as to whether medical prices actually have been going down, not up. But
+there’s no question that the dollar amounts are very large and very bothersome.
+MR. STOCKTON. And there is no doubt that, in some sense in our forecast, the
+increased costs associated with higher medical care insurance premiums being paid by employers
+do feed back through on the cost side of the equation into prices. Whether or not it’s prices or
+quantity-CHAIRMAN GREENSPAN. Through compensation?
+MR. STOCKTON. Yes, through compensation.
+MR. PARRY. Thank you.
+CHAIRMAN GREENSPAN. President Moskow.
+
+20
+MR. MOSKOW. David, I had a question for you about productivity. We all know
+that labor markets are very tight now by historical standards and that productivity is increasing at
+very high rates by historical standards. We’re in this slowing growth period now and
+anticipating some further slowing going forward. I wonder if you’ve given any thought to--or
+done any analysis on--whether the cyclical slowdown in productivity will be any different this
+time, given that we’re starting at such a low unemployment rate. Also, have you thought about
+whether this is going to affect the way we can separate out the structural productivity from
+cyclical productivity?
+MR. STOCKTON. I’d say we’ve given more thought than hard-core analysis to this
+question. Obviously, one could imagine that we would see a greater cyclical weakening in
+productivity in tight labor markets, as firms perhaps would be very reluctant to shed workers
+given how hard it was to get these people on their payrolls. So that would be one argument for
+an even sharper deceleration of cyclical productivity, perhaps, than we are showing in this
+forecast. That could, then, have consequences as well for corporate profits. On the other hand,
+we don’t know very much about how the cyclical behavior of the labor market might have
+changed in recent years as a result of structural changes in the labor force. Another factor is the
+ability of firms, in essence, not to pay the high fixed cost of workers by using more temporary
+workers to provide a cushion, making it easier for them to implement hours adjustments in
+response to a slowdown than they have in the past. It could very well be this time around that
+firms would just be calling up the temporary help agencies and saying, in effect, “Don’t send us
+as many workers this week as you gave us last week.” In that case, there would be less of a
+cyclical response. Now, what makes this so difficult to estimate at any aggregate level is that the
+
+21
+last time we had a cyclical occurrence was 10 years ago. And the previous cyclical occurrence
+was 10 years prior to that. In essence we have two observations since 1980 on this issue, a
+period in which there has been a lot of structural change. So we have very little confidence that
+we really have a good handle on this. We’re just trying to feel our way through as we watch
+what is happening. So, I think there’s a wide band of uncertainty, but you’re hitting on an
+important element in the forecast going forward from here.
+MR. MOSKOW. We talk to the people at Manpower on a regular basis, and a
+comment our contact made to me this time is that their forecast for job openings, which I’ll
+mention later, has set another record. There are a lot of openings that haven’t been filled; they
+are just sort of sitting there. This is speculating on his part, but he knows the data very well, and
+he’s saying that companies at the lower end may not be filling these openings because they are
+not trying that hard to fill them. The openings are there, and at the right wage these firms would
+fill them. But they are not raising wages enough to fill them. In fact, Manpower is not seeing
+any large increases in compensation. If that’s accurate, it probably would support the second
+part of what you’re saying here.
+MR. STOCKTON. Yes, indeed.
+CHAIRMAN GREENSPAN. President Poole.
+MR. POOLE. I have two questions. Around St. Louis we have some automobile
+plants that are shut down on temporary layoff. And I think we might want to be sure that we
+understand the shutdowns this week because this is the week of the employment survey. And if
+we have a substantial number of people on temporary layoff, that will show up in the
+
+22
+employment survey number that is reported at the beginning of next month. I think we should be
+aware of that. Do you have any idea what that number is likely to be?
+My second comment is on an entirely different subject. I think the discrepancy
+between your fed funds assumption and the assumptions in the market is the largest I’ve seen in
+the two and a half years I’ve been here. Perhaps you could comment on the significance of that.
+MR. STOCKTON. In terms of our forecast for November payrolls, we’re looking for
+private payroll employment gains of about 130,000 and no gain at all in the manufacturing
+sector. Now, we think the spike we saw last week in initial claims for unemployment insurance
+was probably in substantial part a reflection of these temporary layoffs in the automotive sector.
+So we’re expecting that to show through.
+In terms of the discrepancy between our forecast assumption for the fed funds rate and
+the markets’ forecast, obviously they’re looking for some combination of either greater
+economic weakness than we are expecting going forward or a more rapid response by the
+Committee. In essence, we are not trying to forecast what the Committee will do. We just try to
+lay out a useful baseline for your discussions. By our assessment, we need to hold the real
+federal funds rate at about its current level in order to cap inflation at roughly 2-1/4 percent for
+core PCE. Obviously, there’s a huge amount of guesswork involved in making an assessment
+like that. But in our forecast we still see considerable support for overall activity going forward,
+in part because we have an upbeat view as to what is going on with productivity. Moreover, I
+think we have made an important assumption that, as I indicated in my remarks, is certainly open
+to some question. And that assumption is that through a period in which there are likely to be
+some disappointments in terms of corporate earnings, investment is going to be relatively well
+
+23
+maintained. We think people are going to be looking further down the road, viewing this more
+as a cyclical slowing in earnings rather than a reflection of a more negative longer-term outlook
+for overall productivity and corporate earnings. And by our judgment we’ll have basically a
+stronger underlying economy. The risk that I tried to point to is that there could, in fact, be less
+patience in that regard, or more concern as the earnings growth slows about the underlying health
+of the economy, which could have feedback effects through financial markets. And that would
+depress activity more than we are currently forecasting.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. I have two technical comments about the simulation occasioned
+by the last discussion. I’ve had trouble since I’ve been here with the baseline assumption on the
+federal funds rate. It’s not quite a flat funds rate, though that simulation is presented. It’s not
+quite anything, and it is hard to know just exactly what it does mean. One thing Dave just said,
+which I probably should have thought of before now but hadn’t, is that this assumption may
+essentially be a flat real funds rate. It may not be far off from that. So one thing that might help
+us understand this could be an explanatory footnote--I’m not necessarily going to ask for another
+simulation because there are a lot already--on how the baseline funds rate assumption compares
+with a flat real funds rate. That might be helpful in just understanding what the monetary
+assumption is.
+My second comment is that I don’t know if you’ve ever actually done a funds rate
+assumption that features the market’s assessment. Have you? I don’t know.
+
+24
+MR. STOCKTON. We haven’t. That would be relatively straightforward to do.
+Obviously, what that would show, taking off from our baseline forecast, is a lot more growth and
+more inflation.
+MR. GRAMLICH. But again, maybe if you have an easier policy simulation, or
+something like that, there could be a footnote on just how this set of assumptions corresponds
+with the funds rate path from the futures market.
+MR. REINHART. When we think about trying to do those sorts of things, we also
+have the problem of what to assume about other asset market prices. If we adopt the path from
+the futures market curve, then what do we assume for stock prices or what should we do for the
+exchange value of the dollar?
+MR. GRAMLICH. But, of course, it’s the same market that is generating the futures
+market and the stock market. In a way that kind of problem makes it more difficult to interpret
+the present baseline.
+MR. REINHART. But we don’t have as clear a road map for, say, the exchange value
+of the dollar or equity prices as we do in the money market futures curve.
+CHAIRMAN GREENSPAN. There’s also a further conceptual problem as to whether
+the implicit model that’s in the market is the same as the one we have.
+MR. STOCKTON. In some sense clearly it is not.
+MR. MEYER. Yes, it’s like mixing apples and oranges here. You’re taking one
+forecast and another rate assumption that’s based on a different model and a different forecast. I
+think the comparison that is always worthwhile to make is to ask how your baseline federal funds
+
+25
+rate forecast relates to what’s in the futures market. But I don’t find particularly instructive a
+forecast that uses the futures market interest rates and otherwise the staff assumptions.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. Going back to Mike Moskow’s question, I was interested in your
+discussion of risks. On the up side there’s a risk that I don’t think you mentioned. You
+mentioned that productivity could grow at a greater rate than you expect. If there’s a cyclical
+downturn in productivity or if our estimate of structural productivity is higher than it actually is,
+isn’t there a potential, anyway, for some upside inflation risks? Isn’t it possible to see stable or
+declining rates of unemployment, more pressure on labor markets, and more pressure on
+inflation with a lower level of potential and some kind of reasonably solid demand? So, there is
+that risk on the up side, which you didn’t really talk much about. And then on the down side, is
+there any way of weighting the risk in terms of financial conditions? I’m told that not only have
+risks spreads increased, but also there have been more downgradings. So, there’s a greater
+number of companies in lower investment grades than, let’s say, a year or two ago, and it strikes
+me as reasonable that that’s actually going on. Is there a way of coming to any assessment of the
+overall pressure that development is putting on funding in general?
+MR. STOCKTON. The answer to that is yes, and my colleague Steve Oliner has
+undertaken such a calculation in terms of trying to weight where the various financing is taking
+place by the quality of the borrower.
+MS. MINEHAN. Did you come up with some assessment of relative financial
+tightness?
+
+26
+MR. OLINER. We have some rough estimates. I wouldn’t characterize them as
+anything more than that. What we actually did was to look at the movement in bond yields for
+investment grade borrowers and for speculative grade borrowers, looking at the whole group in
+each case. Then we tried to take a weighted average of those two that reflected the shares of
+investment spending that borrowers in each group did relative to one another. The investment
+grade group is by far the large majority. It’s on the order of roughly 80 percent, which tends to
+suggest that we should be putting more weight on what is happening in the investment grade part
+of the market where conditions don’t look nearly as adverse as in the speculative grade part.
+Nonetheless, there is a nontrivial weight on what is happening in that lower end of the market
+that should be taken into account.
+MS. MINEHAN. And there’s also some widening of the spreads within the
+investment grade, too.
+MR. OLINER. There is, which is taken account of in this calculation that I just
+mentioned. So if we take a weighted average of how bond yields have moved since the
+beginning of the year, they’re up about 70 basis points; and from the time of the last FOMC
+meeting, they’re up about 30 basis points. There’s wide variation around those increases,
+depending on whether you look at the speculative grade firms, where spreads have risen
+dramatically, or the higher grade firms in the investment grade category, where they haven’t
+risen much.
+MS. MINEHAN. Can you look back to, let’s say, 1998 and compare that kind of
+weighted average with the weighted average that applied then?
+
+27
+MR. OLINER. I can compare the weighted average that applied then versus where it
+stands now and it’s up about 200 basis points from 1998. I’m not sure what you-MS. MINEHAN. I’m trying to figure out the relative tightness in some analytical way
+as opposed to an anecdotal way. We hear plenty of anecdotes, but can we in some analytical
+way figure out whether the markets are as tight as they were during the credit crunch--or
+whatever we called it--after the crises of 1998? Or are they by some measure less tight than they
+were then?
+MR. OLINER. That’s a very hard question to answer. For the lower grade borrowers,
+the spreads now are as high and perhaps a little higher than they were in the fall of 1998.
+MS. MINEHAN. Right.
+MR. OLINER. But my sense is that the markets are not as disrupted now as they were
+in the fall of 1998.
+MS. MINEHAN. Right, that’s what we hear anecdotally, too. I just wondered if
+there’s a way to come to grips with that on an analytical basis.
+MR. OLINER. I haven’t, but -MR. STOCKTON. But as you know, in the economic literature on how these various
+credit channels affect spending, it’s still pretty murky even after the earlier 1990 episode and the
+one in 1998. There is considerable debate as to how much credit supply conditions actually
+impinge on spending. We think they do, and we have tried to make some allowance for that.
+But as I’ve indicated, it really is more a seat-of-the-pants type of judgment than one might
+normally feel comfortable doing.
+
+28
+MS. MINEHAN. I realize that. And you talked about the essence of the downside risk
+in a way that I completely agreed with. It certainly is one thing that has increased since the last
+meeting.
+CHAIRMAN GREENSPAN. President Poole.
+MR. POOLE. I want to go back to the point that Ned Gramlich was making. It’s true
+that with a different fed funds trajectory there would be issues about what to do with asset prices.
+But, of course, we have the same problem today because we have the market with this trajectory
+of expectations that are determining current asset prices, the takeoff point for the outlook. So I
+think it is a real conundrum. It’s a very, very difficult problem, and I understand that. But the
+policy significance for us is that we have perhaps an unusually large discrepancy between the
+view in the market and the view of our experts on this outlook. And that’s clearly something that
+we’re going to have to grapple with in thinking about where we go from here.
+CHAIRMAN GREENSPAN. Any further questions? If not, who would like to start
+the Committee discussion? President Hoenig.
+MR. HOENIG. Thank you, Mr. Chairman. Let me spend a little time on
+developments in our District. Growth across the Tenth District continues to moderate and some
+of the slowing appears to be the result of labor supply constraints. But there is also evidence that
+the pace of demand is slowing. Moreover, in talking with business leaders throughout our
+District at least, I've noticed a shift in sentiment about future activity. There is increasing
+concern about the possibility of a more significant slowdown coming. Having said that, private
+employment growth remains close to the national average in most District states. Colorado’s
+private employment growth, while still the highest in the District, has fallen considerably--from
+
+29
+about a 4-1/2 percent rate in mid-1999 to 2-1/2 percent now--and growth there clearly exceeds
+that in the rest of the District.
+Manufacturing activity was flat in October in our District, although capacity
+utilization remained relatively high. Looking forward, District manufacturers have been
+lowering their expectations. A manufacturing survey revealed the second consecutive downward
+revision in capital spending plans. This obviously raises some questions as to whether
+productivity gains will be sustained in that environment. It may also help to explain the shift in
+sentiment I mentioned a little earlier.
+Residential construction activity continues to cool in the District. Excluding
+Colorado, single-family housing permits have fallen for four consecutive quarters, leaving the
+level down about 20 percent since the fourth quarter of 1998. Indicative of the slowdown, our
+business contacts in Kansas City report that start times on housing have now declined from about
+90 days to around 15 days. In contrast, though, single-family permits in Colorado are up about
+10 percent and median prices in that area are up about 15 percent year over year. Nonresidential
+construction activity has fallen even more sharply in most of our District. For example, in the
+third quarter the value of nonresidential construction was down about a third everywhere in the
+District but in Colorado, where it was down about 10 percent.
+Energy activity, in contrast, continues of course to benefit from the higher energy
+prices. District counts of active oil and gas rigs have increased for about eight months in a row
+and are now the highest since December 1993. Drilling contractors have accumulated a sizable
+backlog of job commitments, but growth is constrained by a lack of skilled workers in that
+
+30
+industry. Many have left the oil industry and it is hard to get them to come back at the wage
+levels that are now prevailing.
+Labor markets overall have remained tight, but with very little change in wage
+pressures that we’ve noticed. The District's unemployment rate was about 3.2 percent in
+September, below the national average. Intel, for example, attributed a delay of several months
+in opening a new computer chip fabrication plant in Colorado Springs, originally scheduled for
+November, to difficulties in hiring--especially construction workers.
+Manufacturers are seeing higher input prices but they are not able to pass those costs
+through in prices. And our farm economy continues to see little change. Cotton crop production
+was very strong and, therefore, we continue to see obvious downward pressure on prices.
+Let me turn to the national economy. The incoming data confirm, as Dave already
+noted in his briefing, an ongoing process of moderation in the economic expansion. The lower
+rate of GDP growth in the third quarter helps to confirm that slowing. I realize the key question
+is, of course, whether the third-quarter results represent a respite or a new trend. To be sure, the
+third-quarter growth in consumption expenditures at an annual rate of better than 4 percent is
+unlikely to be sustained, but early indications for the fourth quarter suggest that consumers are
+following the rest of the economy toward a more moderate pace. And I think that's significant.
+Nevertheless, I remain satisfied with the outlook for economic activity. I expect the
+economy to grow near its sustainable rate, along the lines described by the staff in its projection.
+Despite a pickup in compensation costs and the acceleration in overall inflation this year, the
+underlying inflation rate remains relatively modest in my opinion. On balance, the unwinding of
+
+31
+the effects of higher energy prices in conjunction with the 6-1/2 percent fed funds rate should
+place some downward pressure on underlying inflation over the forecast horizon.
+Let me note quickly, though, the risks in the outlook. While inflation risks are still
+real, they have moderated to some degree for the reasons I’ve just described. In contrast--and I
+think this is consistent with what the staff said in its briefing today--my view is that the downside
+risks to economic activity have increased somewhat. I believe that growth slowing to trend is the
+most likely outcome. But I also believe there are greater downside risks stemming from recent
+developments, and I’d like to tick off some that I would highlight. First, financial conditions
+have tightened and the downturn in economic activity has softened corporate balance sheets.
+Also, we have the higher interest rate spreads that we've talked about today, tighter lending terms
+and standards, lower equity prices, an increase in the cost of capital to some degree, and
+increased aversion to the risks of more speculative investments. Junk bond default rates are up,
+rating downgrades are more prevalent, and profits are lower. Debt as a share of net worth has
+been rising more quickly in 2000, after leveling off in prior years, and debt service costs are
+increasing.
+These are factors that are on the horizon and they are affecting the balance of risks
+with which we need to deal. And while none of these developments means that growth will
+decelerate beyond our expectations, I think we are in a more risky period in terms of our
+economic projections and the outlook. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Guynn.
+MR. GUYNN. Thank you, Mr. Chairman. Economic growth in our Southeast region
+continues to be very healthy, although since our last meeting we have seen further evidence of
+
+32
+moderation. Retail sales did actually strengthen somewhat in October and we’ve been told that
+they now appear to be on plan to reach last season's levels. At the same time, most retailers
+remain nervous about holiday sales--a concern that is reflected in more frequent and earlier
+discounting and a cautious approach to inventories.
+As in the nation, residential real estate activity in our area clearly has slowed. It is
+now below year-ago levels. Until very recently that slowdown had not reached Florida,
+especially the booming southwest Florida coast. But that has now changed as well. A Nashville
+director reported that 270 homes are now listed for sale for $750,000 or more in that market
+compared with only 10 at this time last year. The nonresidential real estate market, especially for
+office structures--where vacancy rates have been low and declining--has been stronger than the
+residential market. Also, our important tourism industry is now anticipating a slightly slower
+season than a year ago due to the impact of the slowing pace of economic growth, higher
+gasoline prices, and the strong dollar.
+Areas of notable strength in our region include, not unexpectedly, the oil and gas
+sector but also some old-economy manufacturing industries like autos and shipbuilding. The
+auto industry and its suppliers continue to move south, and the backlog of orders for our
+shipbuilders includes high-speed passenger ferries, large multi-deck, double-hold barges, missile
+cruisers, destroyers, and even a cruise ship.
+Dave Stockton already commented on this at the national level, but I've been
+particularly struck by the reports from our field staff of bank examiners since our last meeting.
+They see a measurable slowdown in loan demand across most types of business loans and a
+further tightening in credit standards. Some banks tell us that commercial loan deals are
+
+33
+evaporating early in the underwriting process and that the loan pipeline is almost dry beyond 60
+days. There is reduced lending to problematic sectors, including textiles, health care,
+communications, and theaters, and higher pricing and a more selective granting of credit for real
+estate and to nonprime borrowers. I take this information as evidence that markets are working.
+On the price front, the pressure points remain the same, although we are hearing an
+occasional comment about the slightest--and I underscore both “occasional” and “slightest”-relief in some labor markets. The availability and quality of labor remain a major constraint.
+Labor costs, especially with the renewed pressure from rising health care expenses, are still
+widely perceived as a major threat to profits. We continue to get reports of new fuel and
+petroleum-related surcharges but we do not detect, as others have also said, any fundamental
+change in the ability of businesses to pass on most input cost increases. Profits are often the
+shock absorber.
+Turning to the national economy, I think the Greenbook has done a good job of laying
+out my own view of the likely path of the economy in the period ahead and of pinpointing the
+areas where we should get some moderation. It does seem more likely now that the moderation
+will persist, but our past experience reminds us that the expected pullback in investments and the
+constraint on government spending could easily be reversed. Although one could take some
+comfort in the recent inflation experience and the inflation outlook by focusing only on core
+measures, I do not think this is the time to let down our guard. In my view it is likely that unit
+labor costs will come under pressure as tight labor markets and rising health care costs intersect
+with productivity gains that may well fall off to at least more moderate levels as output growth
+slows. Until we have evidence in hand of the expected retreat in energy prices, I think we have
+
+34
+to watch for still more pass-throughs of direct and indirect energy costs as businesses feel the
+profits squeeze.
+Summing up, many of our own staff forecasts, as well as those of most commercial
+forecasters, suggest that inflation risks remain on the up side. Clearly, the path of oil prices and
+what happens to productivity will be critical. I now believe the risks to real GDP growth have
+shifted toward the down side, but there is considerable uncertainty about that. Several of us have
+suggested at recent meetings that our next key policy decision may be about when to ease or
+when to signal a more balanced view of the risks, but I don’t think we are yet at that point. I do
+sense, however, that we might soon be facing a situation where a policy shift may be called for at
+just the time when short-term indications of inflation may be on an uptrend and real growth is
+slowing. Explaining a policy shift at such a time will be our challenge. Thank you, Mr.
+Chairman.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. Mr. Chairman, employment in the Twelfth District has continued to
+expand at a solid pace in recent months, although growth has slowed slightly from earlier in the
+year. District payrolls expanded by 2-1/2 percent during the third quarter, down about 1/2
+percentage point from the pace recorded in the first half of the year. The most pronounced
+slowing occurred in the Pacific Northwest and Alaska, but growth also slowed in California and
+Idaho. However, with the exception of Alaska, each state added jobs at a faster pace than the
+nation. In the remaining District states--Arizona, Hawaii, Nevada, and Utah--growth remained
+robust or actually accelerated. Overall, the Twelfth District has continued to expand more
+rapidly than the rest of the nation in recent months, and as of September contained four of the
+
+35
+five fastest growing states in the nation. Solid overall job growth further reduced the District
+unemployment rate to just over 4-1/2 percent in September, down about 1/4 percentage point
+from August. Despite layoffs among dot-coms and in some areas of manufacturing, employers
+in most District states continue to report difficulty finding qualified workers. Many District
+firms are increasing investment in labor-saving technologies in response to persistently tight
+labor markets, rapid employee turnover, and rising wage and benefit costs. Consistent with low
+and declining unemployment, labor costs nevertheless picked up in the third quarter. Employers
+in the District report that while hiring and recruitment bonuses remain prevalent, recent stock
+market volatility has tempered the use of stock options by Internet-related firms.
+Construction and services have provided the main boost to the District economy in
+recent months. Collectively these two sectors created about 65 percent of net new jobs added
+during the third quarter. Job gains in construction were particularly rapid. Payrolls increased by
+nearly 7 percent in the third quarter. The services sector expanded by about 4 percent at an
+annual rate over the same period, as rapid growth in consumer services offset slowing in business
+services.
+District banks have tightened credit standards and terms for business borrowers.
+Although overall economic growth has been solid in the District, there is more uncertainty about
+the outlook and there have been problems with the quality of loans to some large borrowers. The
+small business and middle market portfolios are holding up so far. However, some of the firms
+are vulnerable, and credit standards also have been tightened for them. For example, small
+businesses that are highly dependent on energy, especially in the San Diego area, have been hit
+hard by the high cost of electricity. Also, the building of multiplex theaters has slowed and a
+
+36
+large number are expected to close, which could have ripple effects on the other tenants in the
+same shopping centers.
+Turning to the national economy, recent developments have been encouraging and I
+have become somewhat more optimistic that inflationary pressures can be contained without
+additional action on our part. We have hard evidence of a slowdown in economic activity, at
+least in the third quarter, and based on early readings for October the fourth quarter got off to a
+moderate start as well. Importantly, productivity growth held up remarkably well in the face of
+slower real GDP growth, supporting the view that the supply side of the economy is still
+expanding briskly. And core inflation remained moderate in September, even after having been
+boosted a bit by higher oil prices. Although the case for a sustained slowdown in the economy
+has been strengthened, it's still far too early to tell if demand will settle in at a low enough rate to
+prevent a significant rise in inflation. And, of course, energy prices remain a wild card.
+Our current forecast shows real GDP growth of 3-1/2 percent in the fourth quarter.
+Reflecting recent developments, that figure is down about 1/2 percentage point from our forecast
+in early October. We also have lowered our projection for the first half of next year by just
+under 1/2 percentage point, based largely on a modest tightening of financial conditions since we
+met in early October. Under the assumption of no further change in the federal funds rate, the
+broad stock market, or the dollar, we expect to see real GDP increase 3-1/2 percent in 2001.
+This is a bit weaker than in the Greenbook forecast, but the difference may be largely accounted
+for by the dollar's depreciation in that forecast. Despite the slowdown we are anticipating, labor
+markets would still be fairly tight by the end of next year and could be expected to put some
+upward pressure on core inflation, even assuming the favorable path for structural productivity
+
+37
+growth that is in the Greenbook. Assuming that oil prices will decline over the next several
+quarters, we expect core PCE to increase by about 2 percent next year. Overall, inflationary
+risks appear to be a bit lower than when we met in October, as it now seems more likely that the
+economy has really entered a slowing phase while productivity growth has remained robust. But
+to me, continuing tightness in labor markets leaves the balance of risks on the up side for
+inflation going forward. This risk is an especially serious concern because I’d like eventually to
+see inflation below recent levels. Thank you.
+CHAIRMAN GREENSPAN. President Moskow.
+MR. MOSKOW. Thank you, Mr. Chairman. News from the Seventh District is
+similar to what I reported last time. We’re continuing to get reports of slower activity from a
+large number of industries. Although the list of industries reporting a slowing in activity has not
+changed much since our early October meeting, economic activity in the Seventh District is still
+at high levels. Tight labor markets have not led to much pickup in wage gains, although rising
+health care costs remain a big concern and competition still prevents firms from passing along
+higher energy and higher labor costs.
+Retailers have been reporting moderating sales gains for several months, and that may
+be one reason many are apprehensive about the critical holiday shopping season ahead. Our
+latest survey of Michigan retailers, for example, showed that most merchants expect sales to be
+higher this season but both the number of retailers projecting sales gains and their expected sales
+growth were the lowest since we started this survey six years ago. Other reports indicate that
+promotional activity will be heavier and will start earlier in the holiday season than last year.
+
+38
+Light vehicle sales did slow in October, particularly for light trucks. And our auto
+industry contacts indicate that early November sales were relatively soft as well. Big Three
+contacts note a desire to pull back somewhat on costly incentive programs, although they are still
+being used, particularly on those models where inventories are excessive. Recently this means
+that incentives were being offered on light trucks, which for some models was unprecedented.
+High inventories were also a factor in automakers’ decisions to cut production schedules by
+temporarily closing plants, cutting third shifts, and/or reducing overtime.
+Unemployment insurance claims have risen lately in the Midwest, in part due to the
+temporary layoffs in the auto industry we discussed earlier as well as to claims being made by
+workers on indefinite layoffs from the Firestone plant in Decatur, Illinois. Despite rising claims
+and reports that truck drivers are now easier to find, our labor markets are still very tight. This
+anecdote from Iowa, where the unemployment rate is 2.3 percent, is one example: Circuit City,
+the retailer, decided to stop selling appliances. So Amana, one of their suppliers, announced the
+layoff of 260 workers. By the end of the day that announcement was made, however, their
+human resources people had found new jobs at other nearby firms for all 260 workers at the
+same wage rates. Elsewhere, retailers in the Chicago area were offering up to $13 an hour for
+holiday season help this year. And as I mentioned earlier, the Manpower survey to be released
+next Monday will once again show record high demand for labor throughout the nation. That's
+confidential until it is released.
+Turning to the national outlook, the recent data have been consistent with our
+expectations of moderate real growth. We see real GDP growth for next year that is slightly
+higher than that in the Greenbook forecast. Moreover, while we, like everyone else, have
+
+39
+increased our estimates of potential output growth over the last few years, our current estimate is
+not quite as optimistic as that in the Greenbook. Consequently, our outlook is for output growth
+to be only slightly below that of potential over the forecast horizon. Thus, we expect that labor
+markets will remain tight and that the cyclical slowing in productivity growth will likely put
+pressure on unit labor costs. Those pressures, along with continued uncertainty over oil prices
+and the likelihood of a weakening dollar, imply that the risks remain tilted somewhat more
+heavily toward inflation. Indeed, higher inflation is already more than a risk; as the Greenbook
+notes, both core CPI and core PCE inflation are running 1/2 point above their lows for the cycle.
+Of course, with the economy moving more definitely to a growth rate in the vicinity of
+potential, downside risks also necessarily become more pronounced. So we must be alert to the
+possibility that the slowing in the interest-sensitive sectors could become excessive. For now,
+however, I believe that risk remains less than that of further increases in inflation.
+CHAIRMAN GREENSPAN. President Stern.
+MR. STERN. Thank you, Mr. Chairman. Overall business conditions in the Ninth
+District are generally consistent with what we've seen for several years now, although there are a
+few changes on the margin. First, employment gains continue and labor markets remain very
+tight. That's a familiar story. I think it's fair to say that the natural resource industries, including
+agriculture, had a better year than was anticipated. In agriculture, that's due mainly to very large
+crops and favorable weather conditions and so forth. But a couple of the taconite mines in
+northern Minnesota, although they have been operating at capacity, have announced prospective
+cutbacks in output and employment and, of course, have attributed that to foreign competition in
+the steel industry.
+
+40
+Construction activity probably has leveled off, but lots of major projects are under
+way. I don't think we will see any change in resource utilization in that sector for some time
+because of the large number of projects in the pipeline. And as I commented last time, it does
+appear that consumer spending has slowed across a wide range of products and retailers, and that
+trend has continued as well. We’ve picked up a lot of anecdotes about a slowdown in consumer
+spending, certainly relative to expectations and relative to the performance earlier in the year.
+On a much more positive note, anecdotes from a variety of business contacts have
+been very positive about prospective productivity gains. Of course, this is not a scientific
+sample, but the people we've talked to recently seem very optimistic about their ability to extract
+further large gains in productivity through the application of a wide range of technologies. So,
+we may continue to see very favorable news on that front if that turns out to be an accurate
+assessment.
+As far as the national economy is concerned, we're looking for real growth over the
+next couple of years of about 3-1/2 percent. That will be accompanied, in our view at least, by
+continued tight labor markets. I agree with those who have indicated that the incoming data at
+the national level have clearly pointed to a slowing in the rate of economic growth. Presumably,
+all that involves is an economy adjusting from growth in excess of 5 percent over the first half of
+this year and something better than 4 percent in the three previous years to this more moderate
+pace.
+On the inflation side, as others have commented, there has been an uptick in both
+headline and core inflation. If energy prices cooperate, presumably headline inflation will be
+more favorable next year, but I'm not as optimistic that core inflation will be. Thank you.
+
+41
+CHAIRMAN GREENSPAN. President McTeer.
+MR. MCTEER. Like that for the nation, the economy in the Eleventh District has
+begun to show signs of slower growth during the past couple of months. Both the energy and
+high-tech sectors have been positive factors recently but growth in the computer, electronics, and
+communications equipment industries has tapered off in recent months. Labor shortages
+continue to restrain growth in many sectors. For example, in October the oil and gas rig count in
+Texas was 368, up 35 percent since the beginning of the year, but employment in that sector is
+up less than 2 percent over the same period. For months now, energy industry contacts have
+reported difficulty in hiring workers who have plenty of opportunity in other safer and more
+stable industries. To cite an anecdote that may be indicative of hiring pressures in the industry:
+More than 10 rigs were shut down in the Midland/Odessa area in recent raids by the Immigration
+and Naturalization Service. If the INS policy of benign neglect were to end, employment growth
+in Texas and many other regions could slow or reverse significantly, especially in construction,
+hotels, and restaurants.
+All sectors of the economy that are sensitive to interest rates, oil and gas prices, and
+tech stocks are showing signs of slowing. Moreover, we have noticed a fairly sharp mood shift
+to the down side. The mood has deteriorated much more than the economic data. That shift in
+mood was noticeable between our September and October board meetings and then again
+between our October and November meetings. Several directors mentioned that retailers are
+expecting a weak holiday season and thus have been holding back on inventory accumulation. It
+seems likely under these circumstances that weak December sales could become a self-fulfilling
+prophecy.
+
+42
+Signs of slowing at the national level are becoming more widespread. Pipeline
+inflation has cooled in recent months. The price of gold has fallen to the mid-260s; the prices of
+many key commodities have fallen. The dollar remains strong. And the PPI for crude and
+intermediate goods remains well below the PPI for finished goods. Tighter credit standards by
+banks and tighter conditions in the capital markets are reinforcing the already slower growth of
+demand. In these circumstances, the risks have shifted significantly and are at least as large, if
+not larger, on the down side as on the up side. It's getting to the time when we as a Committee
+need to recognize and prepare ourselves as well as the markets for the possibility that the
+downside risks in the economy have escalated and may need to be addressed in the near future. I
+say that for a lot of the reasons that Tom Hoenig put on his list. So, I favor moving to balance in
+the risk statement of the press release. And for the record, my guess is that our next move will
+be an easing move.
+CHAIRMAN GREENSPAN. President Broaddus.
+MR. BROADDUS. On balance, Mr. Chairman, our District economy is growing at a
+slower pace currently than at the time of our last meeting, although activity is still at a very high
+level. And labor markets in our region, as appears to be the case elsewhere in the country, are
+still very tight. According to retailers we survey each month by mail, sales were strong--very
+strong, actually--through early October but have weakened fairly markedly since then. Car
+dealers in particular have seen their sales drop off and customer traffic has diminished. That was
+in October, however; I should point out that in September their activity was very strong.
+Furniture dealers and home improvement stores also report somewhat slower sales. Looking
+ahead to the holiday season, most retailers tell us they expect a reasonably decent season, but
+
+43
+they certainly aren't looking for anything like the strong performance they had last year, and a
+number of them are pretty nervous.
+Elsewhere, manufacturing activity in the Carolinas, where it is concentrated in our
+District, has decelerated lately. Both factory shipments and orders were notably softer in
+October than earlier in the year. In contrast to the softening in manufacturing, though, generally
+demand in the services sector is still holding fairly steady and in some cases is even stronger,
+according to a majority of the services firms that we have talked to over the last several weeks.
+As far as labor markets are concerned, basically the story is the same as it has been. Qualified
+workers still are very hard to come by throughout our region. We are told that some retailers
+have actually had to cut back on the hours they are open because they can't find people to staff
+their stores. Also, a board member who runs a hospital in Charlottesville, Virginia, told us that
+they actually are delaying some non-emergency surgeries because of the shortage of nurses. We
+don't see any broad breakout in wages yet, but my sense is that wages are creeping upward on
+balance throughout our region and that the pattern is pretty pervasive across a broad array of
+industries and companies.
+On the national scene, the data that have come in since our October meeting indicate a
+national picture similar to the regional one I just summarized, and we’ve heard that assessment
+around the table today. Overall spending, housing activity, and business investment are all
+growing more slowly than in the first half of the year. And I think the perception of softer
+demand, as we’ve heard here this morning, has broadened and deepened. The October labor
+market report does provide some evidence that the slowing is continuing into the fourth quarter.
+Jobs grew in October at about the trend rate of growth of the labor force, but the index of
+
+44
+aggregate hours worked changed little from the third-quarter average, indicating for now at least
+that aggregate demand may be growing somewhat more slowly than potential output. So I would
+agree with others around the table who have said that for the first time in a couple of years there
+is now some significant downside risk as well as upside risk in the outlook for the real economy.
+And I would underline “real economy.”
+Now, focusing more on prices and wages, the moderation in demand might seem to
+suggest that the inflation threat is now abating. But I don't think it’s clear yet that that is the
+case, especially when one looks at labor costs and wage and benefit figures. Wage growth in
+October jumped to an annual rate of about 5 percent, well above the 3.6 percent average rate for
+the year to date. And with the persistent tightness in labor markets, the ECI was up 4.6 percent
+over the last four quarters. I believe that’s the biggest four-quarter increase in ten years; it
+compares to only 3.1 percent in the previous four quarters. Also, productivity growth in the
+nonfarm business sector did slow to 3.8 percent at an annual rate in the third quarter. I agree
+with Bob Parry that it could have been worse, but it was a drop from 6.1 percent in the second
+quarter and about 5 percent on average over the last year or so. As a result, unit labor costs rose
+at a 2-3/4 percent annual rate in the third quarter after remaining roughly flat for an extended
+period--in fact, over the four previous quarters. I think that’s worrisome, and in my view unit
+labor costs could increase further. The continuing labor market tightness could easily cause
+compensation growth to rise more and productivity growth might slow further. In that regard, I
+think it’s notable that for the first time in a long time, Dave, you have revised downward your
+structural productivity projections--not by a lot, but it's a change in direction. And I think we
+
+45
+could see a slowing in cyclical productivity growth along the lines suggested by Michael
+Moskow's questions.
+So, while aggregate demand appears to be growing more slowly--and I think that's
+clearly constructive from the standpoint of the longer-run health of the economy--the bottom line
+for me is that I believe we are still a long way from a soft landing. And I don't think we should
+take one for granted. Oil prices are high and core measures of inflation have risen 1/2 percentage
+point. I was struck, Dave, by your comment about your sense of the underlying direction of core
+inflation. Again, the labor market is still exceptionally tight. In this situation, I think an actual
+or anticipated further rise in the growth of unit labor costs could readily provoke an increase in
+inflation expectations. Like many others around the table--and I thought Jack Guynn said it
+especially well--I think the risks are clearly still on the up side. And I believe we need to be
+positioned to deal with those upside risks going forward. Thank you.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. Thank you, Mr. Chairman. New England remains on a relatively
+steady course of moderate expansion overall, but questions continue as to whether this
+moderation is a function of demand or supply factors. On the demand side some weakening is
+apparent in consumer buying, particularly of big-ticket items such as autos and high-end houses.
+Supply constraints, however, continue to dominate most conversations with regional businesses.
+Labor markets remain very tight and anecdotes abound about the lengths to which local
+businesses are going to attract and retain workers. Ski areas in Vermont are importing seasonal
+workers from unlikely places like Jamaica, Australia, and New Zealand and, in fact, are building
+housing for them because housing is another item that’s in quite short supply.
+
+46
+One company selling fire alarms and building security systems said its sales growth
+was below expectations because its customers lacked the labor to complete construction projects.
+One
+
+from New Hampshire actually bemoaned the fact that
+
+Cisco had chosen to locate a new plant employing 5,000 workers in the southern part of the state.
+He noted that existing employers believed the plant could be staffed only by stealing workers
+from them. And, if new workers in fact were imported, there wouldn't be enough houses to go
+around either. The recent increase in the H-1B visa cap was welcomed in the region, but
+concerns remain about the lack of skilled labor across many specific occupations.
+Beyond labor constraints, contacts also mentioned--actually for the first time--other
+supply factors. Several cited insufficient supplier production capacity in paper, chemicals, and
+electrical steels as a constraining factor. Others mentioned shortages of raw materials such as
+beryllium, copper, and plastic resins. Not surprisingly, in the face of both labor and raw
+materials constraints, more companies mentioned upward price pressures or actual price
+increases than at other points during this year. Labor costs are rising, as are benefits costs; and
+unplanned or accelerated pay increases reflect attempts to keep employees happy and retain them
+in the face of market pressures.
+There are factors at work to restrain costs as well. For one, the recent upheaval among
+the dot-coms has begun to make a few more high-tech workers available or at least to moderate
+their salary demands. Beyond that, many New England manufacturers are small businesses that
+are in the supply chain for large retail customers. They reported incredible downward pressures
+on selling prices by the big retail chains, as these customers continue to demand better and better
+deals.
+
+47
+Finally, we are seeing some aspects of what might be termed the destructive side of
+creative destruction. One firm said that textbook sales have weakened and noted that they were
+likely losing market share in the college market to online education materials. A maker of wood
+products used in home construction has been adding capacity to produce vinyl products because
+of the ongoing switch from wood to vinyl in construction. In fact, one of the few price
+reductions we have heard of this year has been in lumber prices, reportedly because of the
+growing substitution of alternative construction materials. Another area of restraint is likely
+coming from financial market volatility. Decreased financial wealth is likely to have a
+significant effect on spending by high-income workers in the region. Moreover, while small
+banks are as profitable and healthy as ever, larger ones are seeing some deterioration in
+syndicated and other credits granted in the flush days of 1997 and 1998. Credit standards are
+being tightened and, along with the rising spreads in bond markets, should act to restrain growth
+in the region and elsewhere looking forward.
+Turning to the nation, the basic outline of the Greenbook’s GDP forecast for the next
+couple of years or so is not terribly different from our own, at least as far as the components of
+demand are concerned. We see some near-term slowing, just as the Greenbook does, but we
+continue to be somewhat less optimistic about structural productivity--a view others have noted
+as well. That also makes us a bit less optimistic about where the potential growth rate is. We
+also have a little less feedback from productivity change to demand in our forecast. So, we see
+some risk of falling unemployment and rising inflation, somewhat more than the staff might have
+mentioned as an upside risk. In fact, in our simulation unemployment in Q4 2002 is a full
+percentage point below that in the Greenbook because the Greenbook's goes up and ours goes
+
+48
+down a bit. We have fairly similar GDP growth but inflation is a full ½ percentage point higher
+in our projection.
+Abstracting from the models, there does seem to be some reason to believe that
+underlying demand remains rather strong and that supply factors could be affecting growth
+elsewhere than in New England. Labor markets remain tight, import growth is solid, and real
+consumer expenditures bounced back in the third quarter. Growth in the latter may be
+moderating in the fourth quarter but that moderation would be from very high levels in the earlier
+part of the year. And real spending on computers and software has been strong even in the face
+of smaller declines in the price of computing power and an actual acceleration in software prices.
+Add some caution on the productivity side to this picture and one can see the potential for upside
+risks.
+The downside risks have increased as well since our last meeting. Financial markets
+are more volatile and funding is harder to come by, whether in the form of debt or equity.
+Venture capital remains plentiful but as one of our directors recently cautioned, there is a need
+for concern about too much money chasing too few bankable deals. The external picture also
+seems less optimistic, with the possibility of financial instability rising in Latin America and
+Japan and with non-Japan Asia experiencing a variety of problems.
+In sum, since our last meeting I think the risks have increased both on the inflation
+front and on the down side. Moreover, even in a much slower growth environment, cost
+pressures left from labor tightness, rising benefits costs, oil price increases, and the possibility of
+a declining dollar have the potential to nudge inflation up even if growth slows more than we
+expect. The Greenbook forecast may be the best bet right now, but in my view it's founded more
+
+49
+than ever on a great deal of uncertainty. There is still a good slug of upside risks but some
+increasing downside risks as well.
+CHAIRMAN GREENSPAN. President Santomero.
+MR. SANTOMERO. There has been little change in my view of the state of the
+economy since our meeting six weeks ago. We have more complete data since that time and
+those data ratify earlier indications that economic growth has slowed from its very robust pace at
+the beginning of the year and that core inflation is accelerating.
+On the District level, conditions in our region show a similar path. Economic activity
+continues to grow but at a slower pace than earlier in the year. Slowing is especially evident in
+the interest-sensitive sectors, as one would expect given the Committee’s earlier actions of
+tightening monetary policy. Manufacturing, auto sales, housing, and bank lending have eased
+off somewhat, but the declines are from relatively high levels of activity. For the first time this
+year October’s business outlook survey of manufacturers in our District showed declines in the
+general level of activity and in new orders and shipments. That was reversed somewhat in
+November, but the latest readings indicate weaker activity than earlier in the year. Housing
+permits remain on a downtrend in the three states in our District as they are elsewhere in the
+nation.
+The Third District’s retail picture is also similar to the national one. Dealers in our
+region report that auto sales fell in October from September’s levels but remained above the
+figures posted in these months last year. Retail sales are coming in below what firms expected
+earlier in the year but are up modestly from September to October compared to last year.
+
+50
+Retailers report that consumer confidence remains high, although there is some concern about oil
+prices and stock market volatility.
+Reflecting the softening of the housing sector, our banks reported fewer residential
+real estate loans in October. Consumer lending has slowed somewhat while business lending has
+remained fairly strong. Although the banks reported no general signs of deterioration in the
+credit quality of local customers, they did see some potential problems in larger shared credits.
+I would still characterize the labor market in our District as tight despite the fact that
+employment actually fell in the third quarter in all three states in our District. Some of that drop
+was due to the Verizon strike and reductions in Census employment. The unemployment rate
+has remained at 3.9 percent for the last two quarters, which is the lowest in 30 years in our area.
+We believe part of the labor market tightness reflects a problem of skill gaps as well as cyclical
+activity.
+It's important to keep in mind the distinction between levels and growth rates in this
+situation. Even though growth is slowing, it is slowing from a relatively high level. Our
+business contacts give us the first indication of a change and they are talking about a change in
+the tone of the economy. But we would be wise not to over-emphasize this anecdotal evidence
+while ignoring the level of economic activity. Businesses still see profits rising but not at the
+same robust pace as last year and earlier this year. Within this context the news that inflation is
+still moving up is troublesome.
+We conduct three surveys of the business community in our area: the Business
+Outlook Survey of manufacturers, the Pennsylvania Retail Survey of area retailers, and the South
+Jersey Business Survey, which includes businesses in both the manufacturing and the services
+
+51
+sectors. All three of the surveys had continued reports of rising input prices, with more increases
+than declines. While manufacturers have not found it easy to pass these higher costs on to their
+customers, other types of businesses report that they have been able to raise their own prices.
+Labor costs in our region continue to rise, although they don't appear to be accelerating. In the
+Northeast the employment cost index rose 4.3 percent for the 12 months ending in September,
+the same 12-month rate as that reported in June. Our Pennsylvania Retail Survey shows wage
+and benefit costs rising in the third quarter but at a somewhat lower pace than in the second
+quarter. Similarly, in South Jersey we're seeing record wage and benefit increases and they are
+moving to high levels. Anecdotally, firms indicated to us that they are seeing boosts in wages
+and salaries by larger amounts this year than in previous years. Firms are also reporting sharper
+increases in health insurance costs, as others around the table have reported for their Districts.
+Perhaps more troubling is that respondents to our Business Outlook Survey continue to expect
+their costs and prices to increase over the next six months.
+On the national level we are seeing pretty much what everyone is talking about here.
+Growth definitely has slowed in the third quarter--to a reported 2.7 percent pace, which is below
+estimates of potential--and there is an indication that this number might be revised downward.
+Business fixed investment, an important driver of the robust expansion, grew at half the secondquarter pace and well below the pace in the fourth quarter of last year and the first quarter of
+2000. Residential investment showed a significant decline in the third quarter. Still, this
+slowdown in economic growth is from a high level. Recall that growth in real GDP in the
+second half of 1999 and the first half of 2000 averaged a bit over 6 percent, significantly above
+what many would consider potential noninflationary growth. And even in the third quarter, the
+
+52
+consumer, another important driver of the expansion, continued to spend at a good pace. While I
+expect that the leveling off of the stock market will mean less impetus in consumption spending,
+past increases in permanent income will support spending, and I don't see a major drag on the
+consumer side. Labor markets remain tight nationally as they do in our own region. Income is
+expected to grow. Thus, while growth has slowed from its extraordinary pace at the beginning of
+the year, my feeling is that the economy is still robust.
+For next year, we looked at our survey of professional forecasters, which will be
+released on Monday, November 20th, and I can share the views here. The current outlook for
+real GDP and unemployment is about the same as it was three months ago. The forecasters
+expect real GDP to grow at an annual rate of 3.2 percent for the fourth quarter, which is the same
+as they reported last quarter. For next year they see the growth rate at 3.2 percent and
+unemployment moving to 4.2 percent on average. And the median probability that GDP will
+decline in any quarter over their forecast horizon is less than 20 percent. They are putting a
+slight increase on the probability of a decline, but it is still a relatively small number. One factor
+affecting their projection is oil prices. Forecasters were asked to predict these prices, and they
+assumed that oil prices will fall somewhat next year to about $29 a barrel rather than the $23 a
+barrel in the Greenbook. While they believe the run-up in oil prices in 1999 affected the
+economy’s growth rate, they argue that it was not substantial. In our forecasters’ view the
+increase in oil prices in 1999 cut only 0.1 percent from the real GDP growth rate in 2000, and
+they forecast that the effect for next year will be only 0.2 percent.
+I continue to be concerned about inflation. Measures of inflation continue to
+accelerate; and not all of the increase is due to oil prices, since the core measures also have been
+
+53
+moving up. Core CPI, the Cleveland Fed’s median CPI, and even core PCE inflation have
+moved up. This consistency across measures is troubling. And these measures are likely to
+continue to accelerate in the short run, as the rise in oil prices passes through to other prices and
+the expected depreciation of the dollar puts pressure on other prices in the index. Long-term
+inflation has remained steady in our forecasters’ view, but I still believe that the real concern is
+one of inflation rather than softness in the economy. So, as for the tilt we were talking about
+earlier, I tend to think that's where the tilt ought to be. Thank you.
+CHAIRMAN GREENSPAN. First Vice President Pianalto.
+MS. PIANALTO. Thank you, Mr. Chairman. With one exception regional economic
+conditions in the Fourth District have changed little since our Beigebook report. Growth rates in
+several industries, particularly manufacturing, appear to be moderating toward growth rates that
+are more typical of the average growth rates we have been seeing throughout this expansion.
+The one exception to our Beigebook report is retail sales, where the outlook has become notably
+more bearish. Retail sales figures for early November have been disappointing. Retailers tell us
+that sales of menswear are a leading indicator for retail sales in general, and they are concerned
+that a recent weak selling pace in this category foreshadows a softening in consumer demand
+during the critical upcoming holiday season.
+Now, according to the Beigebook national summary, economic activity in the Fourth
+District is slowing a bit faster than in the nation as a whole. And there is little doubt that some
+firms in our District are doing poorly. However, the reasons for the poor performance seem to
+be more peculiar to the industry and the firm rather than an economy-wide business slowing.
+For example, the heavy truck manufacturing industry has experienced a reduction in output of 40
+
+54
+percent from last year's record high levels. But it is not a lessening in demand for trucking
+services that has caused the drop; in fact, truck freight tonnage has grown to an all-time high.
+Rather, conditions peculiar to the truck manufacturing industry are responsible for the slowdown.
+First of all, the oil price shock has hit the trucking firms’ capital spending budgets especially
+hard. Second, trucking companies are having a more difficult time getting loans. In fact, our
+contact at banks singled out loans to trucking firms as their most dangerous ones because of past
+fixed price contracts that were made before diesel prices skyrocketed. Finally, because
+anticipated trade-in values have dropped, it's harder for truckers to justify buying new trucks. So
+while truck production has declined substantially, truck shipping has not.
+As a District that’s characterized by a larger concentration of manufacturing activity
+than the nation as a whole, we tend to hear from that group somewhat disproportionately. And
+manufacturers continue to tell us that they cannot raise their prices no matter how hard they try-and you've heard that from several others this morning--and they are becoming increasingly
+concerned about the competitive environment. In fact, they cite the very same intensifying cost
+pressures that the Greenbook notes: higher energy prices, higher health care costs, and higher
+labor costs because of the tight labor market, especially for skilled labor.
+The steel industry provides a very powerful example of what is going on. Inventories
+in steel are quite high and the industry is characterized by excess capacity around the world.
+Steel imports have been flooding into the United States. Conditions have become so bad for the
+integrated producers that plant shutdowns and/or layoffs within a year are likely and a couple of
+our directors point out that outright bankruptcies are not out of the question if conditions don't
+change. Competition has prevented prices of manufacturers from rising even in a situation
+
+55
+where prices of raw materials are increasing. Chemical firms, for example, report that even
+though higher oil prices have greatly increased their costs, they’ve been unable to raise their
+selling prices.
+Now, I take the reports from manufacturers seriously, but I also want to put them in
+perspective. On an ex food and energy basis, goods prices as measured by the CPI have been
+increasing at an annual rate of only 1/2 percent in each of the past three years. So it's no surprise
+that manufacturers do not see inflation lurking around the corner. Yet the overall core CPI
+continues to accelerate. The culprit is the services sector, which may be less susceptible to
+import competition, less prone to productivity increases and, of course, has a larger component
+of labor inputs than the goods-producing industries.
+This brings me to the national situation. The Greenbook says that the economy is
+essentially in balance--in the sense that the level of economic activity is roughly in line with that
+of potential. And I think the Greenbook does a good job of expressing the caution that has crept
+into the minds of businesspeople. But I am also mindful of the economy's extraordinary ability
+to grow faster than the Greenbook expects. In the baseline projection, to the extent that any
+policy adjustment is thought prudent, only a 50 basis point increase in the fed funds rate in the
+next two years is called for. Given all the uncertainties surrounding forecasts and policy
+prescriptions, we could almost regard that as no change in policy at all. I say “almost” because
+the staff still maintains in its baseline projection that the economy is at risk for more inflation
+rather than less over the forecast horizon.
+I share that concern, but perhaps for some reasons that are different from those
+underlying the Greenbook projection. I'm concerned that we will confuse people about our
+
+56
+definition of price stability and our willingness to pursue it. This year will mark the fifth
+consecutive year that the core PCE will have increased at a rate of less than 2 percent. Last
+year's rate was 1-1/2 percent and that result led many people to say that we had achieved price
+stability. But core inflation measures will be up this year from last year and if the Greenbook is
+correct, we'll see them creep up further in each of the next two years. A statistical test that we
+have run on the median CPI, a core measure that we developed at our Bank, indicates that the
+inflation trend has not changed at all during the expansion. Similar analyses that we’ve run on
+the core PCE lead us to the same conclusion. Once we’ve added in the Greenbook projection for
+PCE, there will have been no improvement in the inflation trend during the entire expansion
+period. So, I find it difficult to contemplate looking at a projection for core PCE that entails
+reverting to the inflation levels that we had in 1994 and 1995 without at least expressing some
+concern that the balance of risks is toward more inflation than is really acceptable. Thank you,
+Mr. Chairman.
+CHAIRMAN GREENSPAN. Vice Chair.
+VICE CHAIRMAN MCDONOUGH. Thank you, Mr. Chairman. The Second
+District’s economy has continued to expand at a moderate pace since the last report. Price
+pressures persist though they have become somewhat less pronounced recently. Private sector
+job growth accelerated slightly in the third quarter to a 2.1 percent annual rate while
+unemployment rates remained unchanged. Retail sales were reported to be on or close to plan
+but that's largely because steep price markdowns helped clear out excess inventories and also
+pulled overall retail prices down slightly.
+
+57
+On the national level, we think the economy could slow a bit more than projected in
+our own and the Greenbook's forecasts. That seems to be a definite possibility based on purely
+domestic considerations. But I will admit that that assessment is based more on anecdotal
+reports than on pure analysis.
+What does concern me considerably on the weakness side is what I feel is going on
+internationally and what might go on internationally. I think the forecast that Vince Reinhart
+presented for the international economy is probably the right forecast. But I feel very much as I
+did in the summer of 1998, before August--that there is a sort of eerie calm waiting for an
+accident to happen. And there are some places where I think an accident could easily happen.
+Just looking at the industrial world, Japan has a horrendously badly structured
+economy with much too much emphasis on a continuing push from fiscal policy. The business
+sector is investing somewhat strongly and really is the only push behind the small amount of
+growth that one sees in Japan. The consumer, however, is very, very wary. I think
+
+have finally decided that it is time to show their
+hand. The present leadership of the country is very much in the hands of the old economy--the
+construction industry, farmers, and heavy manufacturers. The aging of the population involves a
+fiscal problem that is dramatic even by Italian standards. What the reformers are seeing is that
+they are simply going to have to take political power and change rather radically the
+macroeconomic policy of the country. But even if they are successful at taking over, the forces
+against change are so great that I think their chances of success are not very high. And yet what
+
+58
+could happen because of this possible or even likely political change is that an already fragile
+situation could become more so with considerable effect on the rest of Asia.
+In Southeast Asia there are a few areas of strength, including Singapore, Hong Kong,
+and Taiwan. But the serious problem countries, such as Indonesia and Thailand, continue to be
+very weak and are very much dependent on strong exports. Moreover, the structural change that
+they very badly needed as of 1997-98 by and large has not taken place. The same is essentially
+true of Korea. Even though
+there still is a great reluctance to allow economic reality to be manifest. Instead, efforts are
+directed at trying to patch things together. That does not leave a situation in which any ripple
+effect coming from someplace else would be easily manageable.
+As for our friends in Europe, when we talk to them about the weakness of the euro,
+they understand that the main reason the euro is weak is because they have experienced
+substantial outflows of capital. That reflects the fact that their own citizens seem to think,
+correctly, that investing in the United States is better than investing at home, and they know the
+reason is that there’s a very significant productivity gap. Just as the productivity gap against the
+United States led to the long trend of the weakening dollar in the 1970s, it has been the main
+driver behind the strengthening trend of the dollar in the latter part of the 1990s. Add in the
+short-term effect of higher growth expectations in the United States than in Europe, and those
+two factors add up, I think, to a reasonably good explanation of why the euro is where it is.
+Now, when we talk to the Europeans in those sort of analytical terms, they nod their
+heads sagely and find the analysis acceptable. But they are desperately concerned about the
+political reaction within their countries to the weakness of the currency. They are particularly
+
+59
+concerned that the reaction is going to be more obvious in 2002 when the Deutschemark and the
+French franc disappear and the euro takes their place. At that time I believe the underlying and
+growing anti-Americanism, which is very clear in Europe, is going to become more manifest.
+And that is precisely the time when the industrial world should probably be working in
+cooperation. I think that will become increasingly difficult.
+We have a very serious problem in Argentina in my view. Argentina is a country in
+which a brilliant politician, President Menem, decided to put in a foreign exchange regime, not
+because of its
+
+but because
+
+That country has seemed incapable of imposing enough
+so he tied its currency on a one-to-one basis to the U.S. dollar and decided that he was
+going to import discipline. Twice--after the Tequila crisis of 1995 and the Brazilian devaluation
+more recently--there was a very difficult macroeconomic adjustment for the real economy. Now,
+with a much weaker political leadership and a much more difficult economic situation, there's a
+very real question of whether that exchange rate regime--which continues to be vital for the
+political stability of the country--can be maintained. Essentially, what the IMF is trying to do,
+and what the rest of us will eventually be called on to do, is to try to see what can be done to help
+maintain stability there. Can a country with a structurally overvalued exchange rate, which they
+don't want to change for political reasons, and with an economic growth of maybe 2 or 3 percent
+per year, which they also need to keep the nation together politically, make it? It's a very, very
+tough call as to whether it is going to work. The contagion effects on what I have described as
+the other problem spots in the world could be a lot greater than the size of the Argentine
+economy in the world would seem to suggest. It may well be that we will continue to muddle
+
+60
+along and the world economic situation will be more or less as we’ve described it, which
+probably is the right forecast. But I think we have to pray a lot and hope that God is very good
+for that to actually work out.
+As for our own situation, it seems to me that that danger outside our country calls for
+us to be even more prudent than usual in our own responsibilities for the management of the U.S.
+economy. I do think that we are moving more toward a balance of risks between inflation and
+insufficient growth. My own feeling is that we are heading in the direction of balance, but I
+don't think we are quite there yet. Thank you.
+CHAIRMAN GREENSPAN. President Poole.
+MR. POOLE. Within the Eighth District I think we have, as Bob McTeer put it for his
+District, a fairly pervasive change in mood. The view is not that things are going down the drain
+but there is a pervasive sense of slower growth. In a meeting we had with St. Louis area
+investment professionals, that was the unanimous view expressed around the table. Also, one of
+our directors reported a significant decline in industrial sales of electricity, which probably
+relates to the weakness in the manufacturing industry because that industry is a big user of
+electricity in the St. Louis area.
+I talked to both my UPS and FedEx contacts last week, and I will start with what they
+had to say about the international economy. My UPS contact had just returned from a trip to
+Asia, an area in which he sees tremendous growth in airfreight. He believes that Japan is starting
+to rebound and that Korea is picking up further. The airlines are all building a network in China
+and the expectation is that growth within China will explode in coming years. So they are very,
+very upbeat about Asia. He mentioned strong growth of his airfreight traffic between Europe
+
+61
+and Asia and within Europe but reported that traffic between Europe and the United States was a
+bit weak.
+My FedEx contact had similar views on the international economy. Imports into the
+United States from Europe and Asia are running at a 20 plus percent growth rate year over year
+and that, of course, would be consistent with what we are seeing in the macro data. FedEx
+reports that volume within Europe and Asia remains strong. They also see continuing strong
+growth in Latin America and are building a new hub in Miami to service that growth.
+On the domestic economy, my FedEx contact had an interesting observation. Just
+recently, in October, he noted a clear sign of slower growth in the United States. He said that the
+express packages they are shipping are of a lower average weight and that there is also more use
+of ground shipping and less resort to airfreight, suggesting a significant slowing. I think FedEx
+does a lot of business shipping automobile parts, so that would be consistent with what we see in
+the auto industry. But they are expecting continued strong growth in both their ground and
+overnight express business. They are anticipating a lower seasonal peak this year, a little less
+pressure in the November/December period.
+My UPS contact had some interesting things to say on the cost side. Their experts
+have calculated--I thought it was interesting how specific their calculation is--that
+
+So they obviously are looking very carefully
+at that. They are expecting the compensation terms of that settlement to spread across the
+industry, though I suppose other continuing issues are involved that are not all wrapped up in the
+
+62
+I think that is probably the major information I’ve been able to gather
+from poking around in our District.
+On the overall national picture, I believe the risks on the inflation front remain largely
+unchanged. We seem to have a continuing upcreep in inflation--not a breakout but continuing
+upward pressure, with the same risks that we’ve seen. I do think, though, that there is a much
+higher risk than we saw 6 weeks ago or 12 weeks ago of growth coming in slower than we would
+like. So if we do move to a balanced risks statement, in my view it would not be because there is
+any reduction in the inflation risk, but rather because we have an increased risk on the output and
+employment sides.
+I would also like to emphasize that there are lags in the inflation processes that are
+much, much longer than in the employment and output processes. So we should not be all that
+surprised if next year we were simultaneously to see increases in both reported inflation and
+unemployment.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. Thank you, Mr. Chairman. There are times when it is relatively
+easy to be a central banker and times when it is relatively hard. It is easy when there are positive
+supply shocks and we have the luxury of choosing between lower inflation and lower
+unemployment. It can also be easy when all the world knows what should be done and all we
+have to do is to follow through. Unfortunately, we seem to be approaching a time when neither
+condition is filled. First, as wages catch up with productivity, this source of positive supply
+shock could soon start to wane. To that is added the significant negative supply shock of the rise
+in oil prices. And while the dollar is high now, almost every logical consideration and every
+
+63
+other forecast has it going down. This means that while the earlier positive productivity shocks
+are petering out, the economy is forced to digest higher oil prices and could get hit with another
+negative supply shock in the form of a dropping dollar. That in turn leads to a set of
+unfavorable, or certainly less favorable, policy choices combined with considerable uncertainty
+about the underlying risks.
+On the one side, we are by no means out of the woods on inflation risk. The economy
+is still digesting the sharp rise in oil prices. And some combination of that, the wage response to
+productivity shocks, and tight labor markets is giving faint signals that inflation is worsening.
+The current-method core CPI has risen noticeably in the last year and the core PCE has picked
+up slightly. While some pickup in these indices might be expected since the rise in oil prices
+cannot be entirely purged, these developments are still worrisome.
+On the wage side, hourly compensation from the ECI has picked up and average
+hourly earnings have risen slightly. Some increase might be expected here as well because our
+more productive workers will at some point get paid more. But these developments are
+worrisome too. Thankfully, long-term measures of inflation expectations have not worsened, but
+short-term measures have to some degree. We might summarize all of this in medical terms by
+saying that with labor markets this tight there is a continuing chronic risk of higher inflation.
+But on the other side, the economy is slowing quite noticeably. The staff has cut its
+forecast growth of demand from last meeting, particularly investment demand, which has been a
+very important factor in the expansion. It is possible that the investment boom could soon be
+over. Consumption is holding up but the stock market has been flat or down for a while now, the
+personal saving rate is negative, and it would not take much for consumption to begin softening.
+
+64
+Moreover, stock prices could decline further, as earnings levels continue to fall short of
+expectations.
+Internationally, Argentina is a looming trouble spot, and Japan seems once again
+unable to escape its prolonged recession. As Bill McDonough pointed out, there are a lot of
+downside risks there as well.
+On the monetary side there has been a sharp rise in borrowing costs for low-rated
+borrowers, and the survey of senior loan officers reports a widening of credit spreads. The real
+federal funds rate continues at a high level.
+These downside risks are of a different character than the inflation risks. Most likely
+there is some probability that rising unemployment will become a problem, but there is a small
+chance that it will become a serious problem. It is my impression that most past recessions have
+arisen rather suddenly. We might summarize all of this in medical terms by saying that the small
+probability of an acute problem has increased.
+This sets up the kind of quandary we do not like and should not like. How should we
+balance the risk of a chronic problem against a slightly increased but small risk of an acute
+problem? How do we stay ahead of the curve when we can’t even see its basic direction? I’ve
+been changing my mind a lot on this in recent days. I don’t always feel this way, but this time
+around I am very happy that there are 16 others around to help make the decision! [Laughter] In
+the end, our best answer may be to expand our statement to say just what we are worried about.
+CHAIRMAN GREENSPAN. Governor Ferguson.
+
+65
+MR. FERGUSON. Thank you, Mr. Chairman. Let me start by reassuring all of you
+that I am always happy there are 16 others here! [Laughter] Ned and I joined the Board at about
+the same time and obviously we have always enjoyed the input of our colleagues.
+On a more serious note, I find myself very much in sympathy with exactly what my
+colleague Ned Gramlich just had to say. We started out in June 1999 trying to put in motion a
+series of efforts to slow the economy's growth to something that's more sustainable, and I think
+the incoming evidence suggests that in fact we have done that. And while the economy has
+evolved in a generally predictable and I think appropriate manner, a number of risks have
+emerged with greater clarity since the last meeting. It seems to me, as others have suggested,
+that the substance of this meeting is primarily about how we should respond to all that and
+acknowledge these new risks.
+On the one hand, as many of you have already said, we do continue to have high oil
+prices and continuing tight labor markets. Given that OPEC at its most recent meeting decided
+not to increase production and that the Middle East continues to be volatile, I think the near-term
+risks with respect to oil--in terms of both the supply not being disrupted and its price--continue to
+be primarily on the up side. After the most recent OPEC announcement, the spot price for West
+Texas Intermediate went from about $31 a barrel to about $34 a barrel, and that’s where it is
+today, I believe.
+CHAIRMAN GREENSPAN. It’s slightly higher.
+MR. FERGUSON. Slightly higher, okay. So, I think the risk related to uncertainty in
+the oil markets is showing through in the pricing. I would also say--as I understand the
+configuration of output with respect to oil plus inventories plus refinery capacity--that it's really
+
+66
+quite possible that once we get through the heating oil season in this country we could actually
+see a sharp break in oil prices toward the down side.
+As others have already noted, labor markets obviously remain tight. As all of you
+know, unemployment tends to be a lagging indicator, so I think we can expect labor markets to
+continue to be tight, perhaps for the labor-hoarding reasons that Dave Stockton suggested. Also,
+I agree with others who have said that the most recent data on compensation are at least
+somewhat troubling. Average hourly earnings for the 12 months ending in October increased
+about 3.8 percent, which is near the upper end of the range that measure has shown for some
+time. And Al Broaddus mentioned the most recent unit labor cost figures, which were certainly
+far from reassuring, even though they may have been driven by some special factors. If
+productivity growth is starting to top out, we can expect unit labor costs, if anything, to continue
+to rise. And, obviously, the questions with respect to benefit costs are not comforting either.
+The measures of inflation themselves also are in many ways quite disturbing, as others
+have mentioned. Moreover, it seems as though we are facing a gradual ongoing rise in inflation
+and inflationary pressures in most of these measures, with the baseline numbers already
+relatively high.
+The new developments since our last meeting do involve mostly the downside risks.
+The slowdown in profit growth, which was just showing through a little at the time of our last
+meeting, primarily in the telecom sector, has become much more widespread in the S&P 500.
+With interest expense rising and compensation per hour also likely to rise, a continuing
+slowdown in profit growth should not be unexpected. The current slowing and the expectation
+of a future slowing have led creditors to adopt a more cautious stance. As Steve Oliner said in
+
+67
+response to a question, the average corporate bond rate, using a weighted average as Steve
+described, has in fact gone up. That question managed to steal about three sentences of what I
+was going to say! Similarly, as others have pointed out, the senior loan officer surveys suggest
+that there is ongoing tightening. And for those who want to look at financial conditions overall,
+a declining stock market and continuing depreciation of the dollar have, if anything, contributed
+at the margin some extra tightening.
+This focus on financial and credit conditions is important because investment, as you
+know, has been a pillar of our recent growth. And recent investment has been heavily financed
+by external sources. Internal financing now accounts for only 75 percent of overall financing for
+investment, and that is I think the largest financing gap we have had in a decade. As I look at the
+data on net funds being raised, we are seeing some gradual drop-off, not only from quarter one to
+quarter two to quarter three of this year, but month over month as well. So businesses clearly
+appear less optimistic. They clearly are finding fewer reasons to raise funds. And banks and
+other lenders are being much tighter with respect to providing credit to businesses. So, I do
+sense that investment spending is on a bit more of a knife-edge now than it has been for some
+time.
+Finally, the other pillar of our expansion has been consumption, and that is also on a
+trajectory for slower growth. Again, perhaps the downside risk is great but it’s not as great as
+that for investment. Consumers remain optimistic, but the gap between the growth in real
+disposable income and personal consumption expenditures seems to be wide by historical
+standards just on the basis of the fact that the support coming from the stock market is waning.
+Given the high debt burdens of most households, any negative reassessment of future prospects
+
+68
+by the American consumer can potentially lead to an outsized contraction in consumer spending.
+So I sense that there are some real downside risks in that area.
+To sum up, I would describe the current picture as benign but I believe the future is as
+hazy as it has been in the period I’ve been here anyway. There are clearly good reasons to
+continue to focus on the upside risk with respect to inflation. But I too sense, as Ned Gramlich
+and others have indicated, that the balance of risks has shifted quite noticeably since the last
+meeting. Our biggest challenge, I think, is how to communicate that we have an eye on the
+upside risk but also recognize that some downside risks have emerged which are much more
+noticeable than they were at our last meeting.
+CHAIRMAN GREENSPAN. Governor Kelley.
+MR. KELLEY. Thank you, Mr. Chairman. It is now pretty well beyond question that
+the economy is in a slowdown, and this leaves us clearly facing new, quite different questions
+than those we have been grappling with over recent years. The fact that these new questions are
+precisely the ones we would have anticipated earlier this year when we thought ahead about
+dealing with an emerging slowing economy does not make them any easier to answer now that
+they are at hand. The two fundamental questions I see as operative today are first, how deep and
+long-lasting will this slowdown prove to be? And second, will inflation flatten in tight
+correlation with a slowing economy or will it continue to drift up, driven by the momentum of
+earlier conditions and/or perhaps by an economy that does not slow enough for long enough?
+Concerning the slowdown, there is evidence of it all around us. We have been
+examining it all morning and it is quite possible that weakness will foster further weakness.
+Governor Gramlich and Presidents McTeer and Hoenig listed factors that could cause that. But I
+
+69
+believe it may be a bit early to get overly concerned about the downside potential. There is still
+substantial strength out there.
+Let me cite a few factors. For openers, in my view the Greenbook forecast can hardly
+be considered weak. Consumer confidence remains very high and is perhaps rising again. And
+consumer spending in the weaker third quarter was considerably stronger than in the more robust
+second quarter. In general it seems to be holding up well. Job creation continues--slower but
+hardly anemic--and incomes continue to rise. The stock market has stalled, but except for the
+more egregiously overvalued stocks of a few months ago, it is still quite elevated by historical
+standards and holding up well so far despite having plenty of excuses to crater. Business
+investment is likely slowing from its earlier unsustainable pace but shows no sign of collapse.
+Fiscal policy is likely to become more stimulative under the new president, regardless of who he
+may be. The economies of our trading partners as a group are projected to continue to grow--at
+around 4 percent--which should cushion an incipient decline here. Certainly the potential exists
+for the situation to weaken quickly and perhaps even precipitously, but I'm not sure that that's the
+most likely scenario as of today.
+Concerning inflation, what I see happening is that from a low base it is now sluggishly
+but clearly moving up. Perhaps in today's high productivity environment this might be more
+easily reversed than in prior eras. But I feel that the longer this uptrend goes on, the harder it
+will be to stop. And should the economy reaccelerate soon, inflation may well accelerate with it.
+The interrelationship of compensation costs and productivity will continue to be key, as will
+energy prices. We will watch closely, of course. Fortunately we have time to watch and to
+evaluate. Between the easing of upside risks on the one hand and ongoing substantial
+
+70
+momentum in the economy on the other, there would seem to be no urgent need to change either
+rates or rhetoric at this time.
+CHAIRMAN GREENSPAN. Governor Meyer.
+MR. MEYER. There is in my view relatively little change in the outlook compared to
+the assessment at our last meeting. The data and developments we’ve seen since that meeting,
+however, do reinforce the expectation that we have transitioned into a period of below-trend
+growth. In addition they justify a small downward revision to the forecast of real GDP growth,
+at least over the next few quarters, in line with the adjustment in the Greenbook forecast. The
+two most important developments were highlighted in the staff presentation on the outlook this
+morning. First, there has been a deterioration in financial conditions, including the wider quality
+spreads, especially for below investment-grade bonds and tighter lending standards by banks
+and, second, a heightened anxiety about the financial conditions of some emerging market
+economies, especially Argentina.
+The deterioration in financial conditions in the United States reflects a response to the
+slowdown that is under way and reinforces the prospect of continued below-trend growth. Both
+developments add an element of downside risk to the forecast. The qualitative story nevertheless
+remains unchanged. We appear to be headed, in my view, to a period of below-trend growth and
+at the same time rising core inflation. If oil prices decline as projected in the Greenbook, overall
+inflation is likely to diminish and the rise in core inflation is likely to be significantly damped
+over the forecast period.
+The focus in our discussion this morning is clearly on assessing or reassessing the
+balance of risks in the forecast. In assessing the balance of risks, we have to look at both the
+
+71
+risks in the baseline forecast and the risks relative to the baseline forecast. The risks, for
+example, are balanced in the baseline Greenbook forecast between below-trend growth and a
+rising unemployment rate on the one hand and rising core inflation on the other hand. This is an
+uncomfortable mix but one that may be inevitable following the long period of above-trend
+growth and the decline in the unemployment rate to its current exceptionally low level. It is this
+balance that I presume encouraged the staff to maintain a constant nominal funds rate through
+the next year in the Greenbook forecast.
+Relative to the Greenbook baseline forecast, I'm slightly more concerned about weaker
+growth, especially next year. And if growth turns out to be in line with the Greenbook
+projection, I'm slightly more concerned that inflation might turn out to be higher than projected
+in the Greenbook. My assessment of the risks reflects my view that both the temporary demand
+and disinflationary effects of the productivity acceleration may now be dissipating.
+While the risks in and relative to the baseline forecast may now be more balanced-and I think that is the case--there are nevertheless a number of reasons for this Committee to
+delay a move from a statement that the risks are unbalanced toward higher inflation to one of
+balanced risks. First, we’ve had only a single quarter of below-trend growth after 4-1/2 years of
+persistent above-trend growth. We might want to be more confident that growth will remain
+below trend before we take such a step. Second, the unemployment rate today is at its cyclical
+low and significantly below the staff's estimate of the short-run NAIRU. We might not want to
+remove the disproportionate focus on inflation risks until we see labor market tightness unwind
+at least a little. And third, the benign inflation forecast depends importantly on the assumed
+
+72
+decline in the price of oil. We might want to wait until we see at least some confirmation of that
+trend.
+My greatest concern today is that a move to a balanced risk assessment would
+reinforce expectations of a near-term easing. I would have less of a problem if financial markets
+expected a balanced risk assessment and incorporated expectations of a stable funds rate going
+forward. Perhaps the issue is how to communicate our assessment that the risks have become
+more balanced without appearing to downgrade our concern about the risk of higher core
+inflation and without reinforcing expectations of a near-term policy easing.
+Finally, with core inflation at or above my long-run target and with a further increase
+in core inflation over the forecast horizon and beyond in the Greenbook and my own forecast, I
+would prefer that we be very cautious about removing an assessment that the risks are weighted
+mainly toward higher inflation. True, growth is also expected to be below trend, and we have to
+be alert to the downside risks. But below-trend growth when output is above potential, as I
+believe is the case, is desirable. That’s exactly what we need to mitigate the risks of rising core
+inflation. There is nothing, on the other hand, desirable about the projected rise in core inflation.
+Maintaining the statement of unbalanced risks would effectively reinforce the point that, given
+the prevailing tightness in the labor market and inflation already above our long-run objective,
+there is a higher than normal threshold before the Fed would consider easing. I believe that
+would be the right message to send.
+CHAIRMAN GREENSPAN. Before we break, Dave Stockton wanted to make a
+comment.
+
+73
+MR. STOCKTON. Yes, Mr. Chairman. It was an oversight on my part, in responding
+to President Poole’s question about the difference between the policy outlook of the staff and the
+markets, not to have noted that it's quite conceivable that the markets are viewing 4 percent
+unemployment as sustainable. If we were to take that assumption on board in our forecast, we
+would have unemployment rising above the natural rate and inflation moving down over the
+forecast projection. And both those factors would clearly push in the direction of lower nominal
+federal funds rates than we’re showing in our forecast.
+CHAIRMAN GREENSPAN. Shall we break for coffee?
+[Coffee break]
+CHAIRMAN GREENSPAN. Mr. Kohn.
+MR. KOHN. Thank you, Mr. Chairman. The information on hand since
+your last meeting indicates that growth has slowed more definitively to a pace
+below that of the economy’s potential. And tighter financial conditions along
+with greater uncertainty about the profitability of new investment going forward
+should provide greater assurance that the pace of economic expansion will not
+surge again any time soon. At the same time, however, labor markets remain
+tight, and incoming data continue to point to some upward pressures on costs and
+underlying price inflation. As Dave detailed, the staff has responded by marking
+down its forecasts of growth in aggregate demand by a little more than potential
+supply, while retaining the projected upcreep in core inflation over the next two
+years. On balance, the new information would not appear to be sufficiently at
+odds with your expectations or your desires to cause you to alter the stance of
+policy at this meeting. Instead, the question for the Committee would seem to be
+whether that information and changes in the outlook provide a basis for shifting
+from an assessment that the balance of risks going forward is weighted toward
+increased inflation pressures to one that risks are now balanced.
+The judgment that risks are balanced does not have to wait until the point
+where you are no longer concerned about inflation pressures. Rather, the balance
+of risks statement envisions weighing the risks to economic performance relative
+to both of the Committee’s long-term goals--price stability and sustainable
+economic growth, the latter being a translation into growth rates of the legislated
+objective of maximum employment. Because the statement is concerned with the
+
+74
+possibility of developments that might move the economy away from those goals,
+it is formulated in first differences--intensifying inflation pressures and economic
+weakness. In this context, economic weakness refers to output growth below that
+of the economy’s potential--in other words, declining resource utilization.
+In the circumstances in which the economy finds itself at this time, you can
+readily experience both intensifying inflation pressures and economic weakness,
+and be concerned about their extent in the future, in effect balancing the relative
+strengths of these two adverse outcomes. Such a configuration of economic
+developments is typically associated with an adverse supply shock, like the
+increase in the price of oil, which raises prices and depresses demand. Rising
+inflation and weak growth also would be characteristic of a situation like that
+embodied in the staff forecast in which the economy had overshot the level of its
+long-run potential so that prices were accelerating, but policy already had become
+sufficiently restrictive to return resource utilization to its sustainable level. In
+both cases, crosscurrents are playing on the appropriate stance of policy. The rise
+in the inflation rate by itself would tend to suggest that the federal funds rate
+might need to increase over time. But the shortfall in growth relative to the
+economy’s potential would tend to call for the federal funds rate to decrease as
+resource utilization fell. For example, a policy that was restraining an economy
+operating with excess demand should become less restrictive as the level of the
+economy’s long-run potential is reached.
+A balance of risks statement requires your judgment about whether one of
+these tendencies is likely to override the other in determining economic
+performance and affecting policy in the future. If the two tendencies were
+thought most likely to have roughly offsetting effects on policy, the risks still
+might not be balanced if you saw the possible outcomes around the modal
+forecast as skewed. In making these determinations, you need to be thinking not
+only about possible outcomes for prices and economic activity, but also about
+how much weight in your policy strategy you would place on each type of
+deviation from your objectives.
+In the current situation, the state of the labor market would seem to support a
+judgment that considerable risks of rising inflation persist. The unemployment
+rate has stayed at a level that at best you may consider to be around the lower end
+of the range of plausible values for a sustainable rate in the near term. Most of the
+recent compensation and price data have been broadly consistent with a mildly
+accelerating trend, like the one anticipated by a staff forecast that embeds a
+NAIRU above the current unemployment rate. Moreover, if productivity growth
+is leveling out as in the staff forecast, the economy is entering a period when unit
+labor costs will begin to come under added upward pressure as workers catch up
+
+75
+to previous increases in producitivity. And the longer energy prices
+remain elevated, the more they threaten to boost inflation expectations and
+foster added wage demands to offset the associated erosion of real income
+gains.
+The question then is whether these inflation risks have now become
+balanced by risks to sustainable economic growth. Several of you noted at
+the Committee’s last meeting that you found the choice between
+unbalanced and balanced risks a close call, and the evidence since that
+time would suggest that the risks of economic weakness have increased.
+Actual growth has come in a bit below staff expectations, with the
+shortfalls occurring in final demand, not inventory accumulation.
+Moreover, the decline in stock prices, firming in exchange rates,
+ratcheting up of terms and standards on bank credit to businesses, and rise
+in bond yields on marginal credits indicate an appreciable tightening of
+financial conditions at the existing federal funds rate, which will have
+restraining effects on demand. The staff response to these developments
+has been to reduce the assumed tightening and to postpone it until 2002-perhaps beyond the “foreseeable future” of the Committee’s statement.
+Over the next year, the gradual uptrend in both inflation and
+unemployment rates in the staff forecast would seem to have about
+offsetting effects on the desired funds rate, suggesting balanced risks over
+this period, unless you were placing much greater weight on containing
+inflation than on damping variability in output.
+Moreover, developments in recent months might also be read as
+suggesting that the risks of a shortfall in economic growth from the staff
+forecast have increased. One source of asymmetric risks might be
+financial markets, where investor skittishness and concerns about credit
+quality and earnings seem more likely to intensify than to ease, especially
+if the staff outlook for earnings turns out to be on target. Indeed, banks
+have already told us that they intend to firm loan terms and standards in
+the future. Growing financial market caution, by making credit less
+available and more expensive, would increase the odds on other downside
+possibilities identified in the Greenbook--a shortfall in investment
+spending and problems abroad. We may again be in a period in which the
+standard linear relationships in our models do not capture the likely
+market developments and their feedback to economic activity. To the
+extent weakness already evident in stock and bond markets reflects
+expectations of lower profitability or perceptions of increased risk for
+investment projects, the equilibrium real interest rate would be reduced.
+That would provide another reason why the current federal funds rate
+might be more restraining than it appeared to be only a few months ago. If
+the actual funds rate is above the equilibrium rate, conditions are in place
+to contain inflation before long, even if the economy is now producing
+beyond the level of its potential. And the case for balanced risks would be
+
+76
+stronger if the Committee saw better odds than the staff that an
+unemployment rate close to recent levels is sustainable, implying a smaller
+probability of an updrift in inflation than in the staff forecast.
+Finally, given the skittishness of financial markets with possible
+restraining effects on the economy, the Committee might be more
+comfortable being positioned at balanced risks going forward. In the
+event of a major identifiable downward shock, like a bond or equity
+market collapse, you could ease from any position, including a position of
+unbalanced risks toward rising inflation, and markets would not feel they
+had been misled. But easing from a position of unbalanced risks in
+response to more incremental changes in the outlook--say, a further
+firming of credit conditions--could be trickier. And the issue may not be
+easing per se, but moving to unbalanced risks toward economic weakness,
+which also might be more readily accomplished if the Committee already
+were at balanced risks. In short, the Committee might see a posture of
+balanced risks as providing a calming influence on markets and opening
+up a wider array of possible actions or announcements in December, in the
+event of further softening in demand or adverse market developments.
+Nonetheless, the Committee may still have sufficient doubts about the
+extent and persistence of the downshift in aggregate demand to justify a
+judgment that inflation risks continue to be the dominant threat to
+economic performance. To date, job growth has slowed only to the pace
+that would keep labor markets tight, not relieve pressure appreciably.
+Strong consumer confidence and continued high long-term returns on
+business capital investment should support solid growth going forward.
+Although the real federal funds rate is elevated, so too is trend
+productivity growth and the equilibrium real rate. The staff forecast sees
+real short-term interest rates now at levels that would tend to cap inflation
+and return the economy to potential, but this process is gradual, taking
+several years, suggesting that real rates may be only mildly restrictive.
+And, in that forecast, nominal rates need to rise to maintain the level of
+real rates as inflation itself picks up. So, as you know, the Greenbook
+anticipates that your next action--admittedly a long way off--is more likely
+to be a firming than an easing of policy, just to hold core inflation at a rate
+somewhat above recent experience. Moreover, after its uptick of recent
+years, the rate of core inflation might already be high enough that you
+would want to continue to put considerably more policy weight on
+possible increases in inflation than on potential shortfalls in economic
+growth.
+Finally, concerns about the effects on financial markets of moving to
+balanced risks might also weigh in favor of staying with your current
+assessment, at least for a while. Market participants are likely to take a
+change in this assessment as indicating that the Committee was no longer
+
+77
+keeping the door closed to near-term policy easing. The size of the
+resulting rally in financial markets is hard to predict. It might not be large;
+the Committee would be announcing balanced risks--not a dominant
+concern about economic weakness--so the Committee would still be
+lagging the market’s assessment of its likely behavior going forward. And
+an increasing number of observers--albeit still a minority--expect you to
+announce balanced risks after this meeting. Nonetheless, there is a chance
+that the reaction would be strong, and that against the background of the
+Committee’s shift, the markets would seize on weaker elements in
+inherently noisy data over the coming intermeeting period to build in
+considerably higher odds on near-term action than the Committee would
+find comfortable. By themselves, such reactions might turn a situation of
+barely balanced risks into one that returned to an imbalance toward
+heightened inflation pressures. And you might worry whether possibly
+being perceived as getting ready once again to cushion a downdraft in
+financial markets wouldn’t reduce incentives to reassess credit and
+earnings risks, truncating an ultimately healthy process before it had run
+its course and building in future over-confidence.
+.
+Holding the current assessment at this meeting would allow you to get
+additional evidence to judge whether--after taking account of any market
+reaction--the growth of demand was likely to be enough below the growth
+of the economy’s potential over time to relieve pressures on resource
+markets and counterbalance inflation risks. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. Questions for Don? Governor Meyer.
+MR. MEYER. Don, I have a question about the analytical framework you
+used in the earlier part of your discussion. I may have misunderstood you but it seemed
+to me that you were saying that maximum sustainable growth is the translation of the
+objective of maximum employment--sort of identical to that in some sense. My reaction
+is that that's not the way I ever thought about it. It seems to me that maximum
+employment is a utilization rate concept. And we have the problem here that this
+slowdown in growth may in fact be pushing the output level to our target--not away from
+our target, but to our target. And that's good.
+MR. KOHN. Right.
+
+78
+MR. MEYER. But inflation, given that we are perhaps already above where
+we’d like to be, is clearly pushing it away.
+MR. KOHN. The sustainable growth is intended, I think, to be consistent with
+changes in resource utilization. I agree that we can start, as perhaps we are now, with
+over-utilized resources. But suppose you already have in effect a restraining policy to
+bring resource utilization down. If you start from a position where you have adjusted to
+that situation--you have already tightened policy to bring resource utilization back down
+to its potential level--as resource utilization gets to that potential you'd better be easing
+that federal funds rate, other things equal, or you will overshoot the potential.
+MR. MEYER. That’s absolutely fair. The question is how far along we are
+and whether that's a situation that would really be useful in 2002 or 2003 or whether it’s
+relevant in the next several months.
+MR. KOHN. If you think of the “foreseeable future” as about a year, and you
+crank this through the staff forecast, I think you will find that inflation is creeping up and
+so is the unemployment rate. It depends on the weights you put on those two measures.
+But if you put roughly equal weight on them, taking account of the real funds rate, I think
+you'd find that they approximately offset going forward over the next year. I was trying
+to explain the situation where you had already tightened. Let’s say you were already
+somewhat restrictive in order to get resource utilization down to where it needs to be--and
+growth below the rate of growth of potential would be doing that--that slower growth just
+by itself, ignoring inflation, should be moving you to lowering interest rates. Now,
+inflation concerns may get you to raise the funds rate and unemployment to lower
+inflation, and then you would--
+
+79
+MR. MEYER. I take it that’s from a framework similar to the Greenbook and
+maybe that's my problem. But beginning with an unemployment rate of 3.9 percent,
+where the long-run NAIRU might be closer to 5-1/2 percent, it just seems a bit premature
+to be worrying about that. If we were at a different starting point, then I would agree that
+that could be relevant.
+CHAIRMAN GREENSPAN. President Hoenig.
+MR. HOENIG. Don, my question is similar to Governor Meyer’s. It strikes
+me that how you view the risk statement depends on how you view monetary policy right
+now. And this is what I think you were just saying: Suppose you view monetary policy
+right now as tight--that is, the funds rate is above the natural rate, whatever term you
+want to use--and the economy is slowing. If we still have the risk of inflation but we
+have a tight policy, which is addressing that, and now we see a slowing, that means the
+downside risks are increasing. We might then want a balanced risk statement because we
+have a tight policy to address the one concern and the economy is heading in this other
+direction. So, how one views the appropriateness of the risk statement depends on how
+one judges the tightness of current monetary policy.
+MR. KOHN. Suppose you started from the premise that the Committee had
+already acted over the past year and a half to tighten monetary policy, consistent with an
+outlook that the economy is operating beyond its potential and inflation is likely to go up.
+If that were the case, you might judge that the Committee had already put monetary
+policy in a restrictive stance. If you thought that the Committee had not tightened
+enough, I agree that easing in response to recent developments might not be appropriate,
+and you would be more comfortable with further tightening as resource utilization rose.
+
+80
+But I was starting from the premise that you probably thought you had done just about
+enough--maybe you had a little doubt--or you would have done more. So I was taking
+your actions as being indicative of a view that you weren't that far from where you
+thought you wanted to be. The real rate must be somewhere in the neighborhood of the
+natural rate, if not a little higher, or we wouldn't have a rising unemployment rate in the
+staff forecast. So you might judge that it's already restrictive. The other point in my
+briefing was this: That even if you had the view last time that policy might not be
+restrictive enough, certainly you would hold that view less strongly today, given what has
+happened over the intermeeting period--whether you wanted to move to a balanced risk
+statement or not.
+CHAIRMAN GREENSPAN. Further questions for Don? Let me start then.
+The forces that in my view have been most prominent since the last meeting
+are the still high level of oil and energy prices and the evident weakening of profit
+margins. In combination, those forces have interacted and exerted a significant effect on
+the capital goods markets where a lot of the recent weakness in the economy is coming
+from.
+I think the way to look at the capital goods markets is, first, to try to get a
+judgment as to whether in fact expectations of longer-term profitability in those markets
+have changed in any material way. The answer apparently is “no.” If we take the
+I/B/E/S data, which are really the best we have on profit expectations, real or crazy, those
+numbers have not changed. Indeed, including the data for October, long-term expected
+earnings per share in the high-tech sector are still at a very high level. Even for the socalled “old economy,” the thousand-plus security analysts in the I/B/E/S survey still
+
+81
+expect earnings to be quite strong. Now, as I have said before, one can argue whether
+these forecasts are realistic and whether they are biased, but the truth of the matter is that
+they have not deteriorated. And since they have not, one has to conclude that views with
+respect to potential productivity increases, not necessarily in terms of the structural
+numbers that we use but as reflected in underlying views regarding investment
+opportunities, continue quite strong.
+It's one thing, however, to make an argument that we may be, for example,
+only halfway up the S-curve in a long-term technological expansion and conclude that
+capital investment is going to continue very strong. But, if we get, as indeed we are
+beginning to get, an oversupply in some of the high-tech areas, we are going to see some
+weakening in the growth of capital goods expenditures. I think the poster child here is
+fiber optics. The rates of return on all types of investments related to fiber optics have
+been extraordinarily high, and the demand has been going up at an unbelievable pace.
+The problem is one of emerging oversupply. Those who got into the business early on are
+doing extraordinarily well. However, as in commercial real estate ventures where
+developers who are first to get in when vacancy rates are low make out like gangbusters,
+those who wait to get in may still see low vacancy rates, but if they do not take account of
+all the new buildings under construction, they may come off very poorly. That's what has
+happened in the bandwidth market. The amount of fiber optic capacity has gone up
+astronomically. In one sense, as someone mentioned, demand is tripling but supply is
+going up sevenfold. And what that means, of course, is that prospective long-term rates
+of return must start to fall.
+
+82
+We are beginning to see the same thing happen, obviously, with regard to the
+outlook for short-term profits, and we are beginning to observe a pullback in this
+particular type of investment. It’s not that five years from now the levels of both demand
+and capacity won’t be very significantly higher than they are today. What we have is a
+short-term glut, and there's some very considerable evidence that that is indeed the case
+in a lot of the high-tech areas. Clearly, that is not a long-term concern, but the markets
+don't know about long-term concerns. The stock price levels in a lot of the high-tech
+industries have been undercut by very weak output prices, and those industries are
+beginning to experience a squeeze on their profit margins.
+Another factor, for which Board staff has provided some numerical estimates,
+is the question of how large the increase in energy costs has been in the nonfinancial
+corporate sector. The staff estimates that total energy costs of nonfinancial, nonenergy
+corporations have gone up roughly $150 billion since early 1999. When we think of that
+in terms of pre-tax profits, it is a very large number, and it's very difficult to get around
+the conclusion that a significant part of the erosion in overall profitability is the result of
+the inability of business firms to pass through these increases in energy costs.
+Remember, the rise in energy costs involves not only petroleum. The increase in natural
+gas prices and its spillover to electric power account for a large portion of the higher
+energy costs. Even coal prices are up somewhat. So we are looking at a very major set
+of cost increases that are beginning to have an impact on profitability.
+Profitability decreases are also a factor moderating the growth of the capital
+goods market in the high-tech area. That growth is decelerating from 50 percent to 20
+percent, which is not altogether a disaster. But the high-tech area has constituted such a
+
+83
+large proportion of GDP growth that even a little deceleration triggers multiplier effects
+that are beginning to affect the consumer markets.
+We are indeed seeing some softening in consumer expenditures. The October
+retail sales figures were consistent with the Greenbook forecast of a 3-1/2 percent annual
+rate of growth in PCE for the fourth quarter. But November sales are a little softer. We
+obviously don't have very much information about motor vehicle sales this month, but we
+are getting the same impression you are, President Moskow--namely, that the sales of
+most of the major auto companies are running under their forecasts, which seasonally
+adjusted already had been set a shade below October levels. Now, that is not necessarily
+meaningful at this point because a very big portion of their forecasts is realized in the last
+ten days of the month. We all remember the time when they were providing us ten-day
+data. Now they say they don't have ten-day data. They have daily data, but they don't
+have a mechanism to add them up. [Laughter] At any rate, the tone in the motor vehicle
+markets is a little weaker. We are beginning to see that softening spill over into auto
+parts, and that is a fairly big portion of the industry. It's the reason why business
+conditions in the Cleveland and Chicago Districts, as I listened to the comments from
+those Districts, are described as somewhat softer.
+The big jump in initial claims a week ago, while largely stemming from the
+motor vehicle industry, is not something that we can immediately dismiss. The numbers
+that are coming out tomorrow on initial claims are down a bit, but they are still well
+above their recent lows. Insured unemployment clearly has moved up in contrast to the
+household survey numbers and the related unemployment rate. This dichotomy cannot
+go on for very much longer. In other words, we'll either get a fairly significant
+
+84
+downward spike in initial claims after we've passed through some of these layoffs, which
+would then return the claims data to consistency with a 4 percent unemployment rate.
+Or, in the alternative, we could see weaker household data and an unemployment rate that
+starts to move up. The outcome is not yet clear, and I don't think we are going to know
+what it is for a number of weeks.
+Whether the general slowing of the expansion is being reinforced by
+developments on the credit side is a very important issue. As Governor Ferguson pointed
+out, our estimates of overall nonfarm business credit are down quite significantly for the
+month of October. The tightening that is being reported anecdotally is really quite
+impressive, even though it's easy to exaggerate it. To be sure, this is not 1998, when for a
+few days it was impossible to get a bid on an investment-grade bond. Currently, it is just
+costs that are being affected, but it's fairly obvious that this economy is not about to
+accelerate rather quickly.
+On the inflation front, we have some very funny numbers. Inflation
+expectations, even granted the significant rise in energy costs, have not moved. The
+TIPS implied inflation rate on 10-year issues is about where it was two or three months
+ago, and if anything it is lower. The University of Michigan survey results, after a slight
+increase last month, have come back down. The current data are somewhat difficult to
+read. For example, leaving aside the issue of the PCE versus the CPI, if we estimate
+prices for the nonfarm business sector the way BEA calculates them, we find that the
+inflation rate in the nonfinancial corporate area is really quite benign and that the entire
+pickup that we are getting ends up in the noncorporate business residual. It is conceivable
+that the noncorporate business sector has experienced something close to a 5 percent
+
+85
+price increase in the last year, but I doubt it. I think what we have here is the same
+problem we have had all along, namely that there are biases in these data and it is very
+difficult to estimate the trend.
+That the core rate of inflation is rising is in my view unambiguous, no matter
+what price series we deal with. But estimates of the current level of the core inflation rate
+are, I think, open to quite serious questions. The unit labor cost data in the corporate area
+are slightly negative over the past four quarters. In the total nonfarm business area, they
+are up, I believe, 0.2 percent. The big third-quarter number is merely the noise that that
+series creates and if we look at it in terms of a moving average, there is very little
+evidence of any significant acceleration in labor costs. There is deterioration in the
+inflation rate stemming from interest costs and energy costs, and those are not trivial
+sources of deterioration. At the end of the day it doesn't have to be labor costs that are
+causing the overall inflation deterioration.
+The crucial issue, as Larry Meyer said, is where we put the NAIRU (“neighru”)--of course, he likes to say the NAIRU (“nigh-ru”). [Laughter] How that is going to
+end up in the transcript, I don't know! If you believe the NAIRU is at 5-1/2 percent, then
+we have a serious problem. If the number is 4 percent, as David Stockton says the
+market is presuming, then we don't have a problem. When this transcript is published
+five years from now, we will know the answer to that question, but at this point we do
+not.
+All in all, I think that we have, as all of you have said, a combination of the
+potential persistence of significant inflationary pressures and an unquestioned increase in
+overall signs of weakness. In other words, my judgment, and I guess I agree with almost
+
+86
+everybody else, is that it would be premature to move to a balanced risk statement. I say
+that for a couple of reasons. As Don Kohn has suggested, even if we believe that the
+risks are truly balanced as of today, the market doesn't believe that is our view. As a
+consequence, were we to go to balance today we would almost surely end up tomorrow
+with financial conditions that would be too easy in terms of the current outlook. In other
+words, we cannot act without affecting the balance of risks itself. It is necessary for us to
+incorporate in our judgment of what we should do how the markets are going to behave
+because a very crucial policy issue is the degree of financial tightness. If I were asked to
+identify what has changed the most significantly in the last several months, I would say it
+was the quite remarkable tightening not only of the junk bond markets but of all the
+investment-grade markets, and very particularly the banking markets. We are getting
+some serious restraint in the latter area, and it seems quite unlikely to me that we can get
+acceleration in economic activity from the current level.
+At the end of the day I would like to stay where we are, including retention of
+our statement that the balance of risks is toward higher inflation. At the same time, I
+would like to try to capture in the language of the announcement our recognition of the
+presence of weakening forces in the economy. I would not want to be in the position of
+adopting a hard asymmetric statement of the balance of risks toward rising inflation and
+then see the economy weaken from under us. That would make us look really
+unimaginative. [Laughter] Accordingly, I'd like to suggest that we stay with the balance
+of risks toward inflation statement, but I want to read to you a draft statement that would
+accompany it. In present circumstances, I don't think you can readily vote appropriately
+without having the full statement up front, because I think the statement is really what we
+
+87
+are arguing about at this point. I don't believe there is a really serious difference of
+opinion about where policy ought to be currently. But what we say in this case does
+matter. Let me read just the operative part of a proposed press release:
+The utilization of the pool of available workers remains at an
+unusually high level, and the increase in energy prices, though having
+limited effects on core measures of prices to date, still harbors the
+possibility of raising inflation expectations. The Committee accordingly
+continues to see a risk of heightened inflation pressures. However,
+softening in business and household demand, and tightening conditions
+in financial markets over recent months, suggest that the economy could
+expand for a time at a pace below the productivity-enhanced rate of
+growth of its potential to produce. Nonetheless, to date the easing of
+demand pressures has not been sufficient to warrant a change in the
+Committee's judgment that against the background of its long-run goals
+of price stability and sustainable economic growth, and of the
+information currently available, the risks continue to be weighted mainly
+toward conditions that may generate heightened inflation pressures in
+the foreseeable future.
+Accordingly, I would like to put on the table for your reactions the balance of
+risks toward inflation language and the associated draft press release that I have just read.
+Vice Chair.
+VICE CHAIRMAN MCDONOUGH. Mr. Chairman, I find myself exactly
+where you are. I believe that we have to stay with the balance of risks on the side of
+inflation but we also have to express our view that the real world has changed somewhat.
+The proposed verbiage certainly sounds like something a central bank would produce.
+[Laughter] Since we are a central bank, I think it says just the right thing and I believe
+that the language sets the right tone. So, I agree fully with your proposal.
+CHAIRMAN GREENSPAN. President Poole.
+
+88
+MR. POOLE. Mr. Chairman, first of all I agree that we should hold steady on
+the federal funds rate. But I would prefer a balanced risks statement, and let me give you
+the logic of my argument.
+It seems to me that the way monetary policy works today is that we maintain a
+firm medium-run and long-run commitment to low and stable inflation, so what we do
+has to be consistent with that. At the same time, a tremendous amount of short-run
+stabilization depends on the market changing interest rates in response to short-run
+developments. That being the case, it seems to me that we want the market to feel free to
+move rates in response to current developments in the direction that those developments
+demand. What I am concerned about is that we not set up an expectation in the market,
+which exists today, that there is no near-term easing in prospect. That's the expectation
+that's built into the federal funds rate futures. I would like to see a statement that’s more
+neutral with respect to that possibility so that the market could move more readily in
+either direction.
+I think we have to be careful about reading too much into the TIPS spread. In
+my view the TIPS spread is a measure of our credibility, which is extremely important. I
+don't think it necessarily means that we have policy tuned right. I could cite a contrary
+case--namely 1982, when policy had changed dramatically but the markets didn't believe
+that the Fed was going to stay with it. So inflation expectations were very slow to come
+down and it took a long time for the expectations to catch up with the reality of where
+policy was. And the same thing could happen today. I don’t think we want to assume
+that the TIPS spread shows that we've got policy just right.
+
+89
+I would prefer that in the statement we make it clear that the risks are now
+balanced, but not because the inflation risk has gone away. Indeed I think, if anything,
+the near-term inflation risk has gone up somewhat, which we could say. Rather, the risks
+are now balanced because the outlook on the output and employment side has changed. I
+agree that the critical issue is the combination of the statement itself and the balance of
+risks clause in the statement. But I would not like to leave the market with the message
+that we don't see any reasonable prospect of a policy easing in the next few meetings,
+which I think is going to be the tenor of the way the market will interpret that message.
+CHAIRMAN GREENSPAN. President Hoenig.
+MR. HOENIG. Mr. Chairman, I too would prefer a balanced risks statement,
+and my reasons are perhaps similar to Bill Poole’s. I think we do have upside risks for
+inflation, which we are addressing. That's why we have a fed funds rate at the level it is
+now, which I believe indicates a fairly tight policy. And I think by holding that position
+we have introduced new risks that bring the position more in balance in terms of the
+outlook. In my view what is happening with your additional statement is that we've come
+full circle. We're now finding ways to compromise on the risks statement; we are
+neutering its role and putting more emphasis on the rest of the press release. That may in
+fact be the option we end up with, which better describes the views of this Committee in
+terms of the risks that have now been introduced and the policy actions that might be
+taken in the future. But by having these two different statements, I think we are
+introducing a new potential for confusion in the marketplace as well. So I would go for a
+balanced statement now in the press release, but we’ll see how this works.
+CHAIRMAN GREENSPAN. Governor Ferguson.
+
+90
+MR. FERGUSON. I'm sorry you got to me so quickly! [Laughter]
+CHAIRMAN GREENSPAN. Do you want to pass?
+MR. FERGUSON. No, I don’t want to pass. The reason I said that is that I’m
+actually very sympathetic to the points that Presidents Hoenig and Poole just made. I
+think we've worked too hard to be as honest and transparent with the market as possible.
+So if we really think that the risks are balanced, we should say the risks are balanced.
+On the other hand, I have to say that I also am sympathetic to the notion that
+we don't want the markets to build in more of an expectation of a near-term easing than
+they currently have, and they do have some in there. So if I can put it this way, on
+balance [Laughter], in thinking through all of this--which obviously I did a bit before we
+came to the meeting--the statement that you have introduced strikes me as a very fair
+description of where we are. In some sense it's not quite where I am, but I believe it is a
+fair description of where we are as a Committee and I think it gets the message across
+without creating some uncertain risks. So, I'm supportive of the statement even though I
+understand some of the concerns that others have raised.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. Mr. Chairman, I certainly support your recommendation for an
+unchanged funds rate, and I also think it's important to retain the statement of prior
+meetings that the balance of risks is toward higher inflation. I believe it is important as
+well to explain this in terms of developments that have occurred since our last meeting.
+And in my view the statement that you read to us accomplishes that very well.
+CHAIRMAN GREENSPAN. President McTeer.
+
+91
+MR. MCTEER. I would strongly prefer a statement of balanced risks, not
+because I think the inflation risk has diminished, but because the risk on the down side
+has increased substantially. And as Bill Poole said, that assessment could be
+communicated in the press release so as not to give the market the wrong idea. I happen
+to believe that rapid growth in productivity and output has been holding inflation down in
+recent years. If I'm right about that, the unfortunate corollary is that less strength in those
+supply-side factors could lead to higher inflation even as demand weakens. A more
+extreme version of that used to be called stagflation. We need to be in a position to move
+in either direction and not be caught leaning in one direction and suddenly have to move
+in another. We have an oil price problem, which may be with us longer than we expect.
+Given that, along with the decline and volatility in the stock market, the increased strains
+in financial markets, the decline in profit growth, and the volatility in the Middle East and
+Florida [Laughter], I think a move to a balanced risk statement would reassure markets
+that we are living in the real world. Otherwise, I think we're going to appear to be out of
+touch with what's going on.
+CHAIRMAN GREENSPAN. Governor Kelley.
+MR. KELLEY. Thank you, Mr. Chairman. I strongly support your
+recommendation. I fear that if we went to neutral language, it would be read by the
+market as the first step in an easing cycle. Many in the market expect that and I think
+they would see a change of that sort as confirming their belief. And I believe that could
+prove to be very seriously and importantly misleading. The Greenbook and at least some
+of us here see a further tightening as the most likely next move. Obviously that could be
+wrong. It could even be wrong quite soon. But I do not see any need to make a change
+
+92
+now. Maybe we'll want to do that at the next meeting; maybe we won't. At any rate, I
+see no need to be preemptive based on the evidence that’s before us today.
+CHAIRMAN GREENSPAN. President Guynn.
+MR. GUYNN. Mr. Chairman, I'm comfortable with the proposition you’ve
+put on the table, subject to whatever editing of the press statement we decide to do. I’ve
+scribbled a whole page of notes in support of no change in the bias, thinking that we were
+going to have that level of discussion. But I’ll spare myself and everyone else the
+arguments.
+My concluding thought, though, was going to be that I believe the long-term
+consequences of a further deterioration in inflation would be a far more serious and more
+damaging economic outcome than any short-term loss of output. And in response to your
+comments, I hypothesized that inflation expectations haven’t moved because, according
+to surveys, people are expecting us and counting on us to cap inflation at the levels we’ve
+had or even move them lower. I would like to reserve the right to come back and make
+my longer arguments if, during the course of the next few minutes, the weight of opinion
+shifts toward the side of a balanced statement. I'm very comfortable with where you are
+and with the proposal you've put on the table.
+CHAIRMAN GREENSPAN. I'm sorry, did you say you want to make a
+different-MR. GUYNN. If it turns out in the course of the go-around-CHAIRMAN GREENSPAN. Oh, I see what you mean.
+MR. GUYNN. I'd like to come back and give you the rest of my arguments in
+favor of retaining the bias, if in fact it comes to that.
+
+93
+CHAIRMAN GREENSPAN. In other words, you want a vote recount?
+[Laughter]
+MR. MCDONOUGH. I think we just won the argument! [Laughter]
+MR. KELLEY. Machine or hand count?
+CHAIRMAN GREENSPAN. President Stern.
+MR. STERN. Thank you, Mr. Chairman. I support your recommendation.
+For some time I’ve believed that our policy is positioned about where it should be. That
+continues to be my view. We obviously haven't had to take any action in the last several
+months, and that's fine. I would have trouble changing the balance of risk statement
+because in my view not enough has changed in the past several weeks. I think we would
+have a real problem explaining and justifying the basis for such a change. Some of our
+discussion has been couched in terms of future growth of the economy below potential.
+Putting aside what we really know about potential with any confidence, obviously our
+ability to forecast the economy reasonably accurately is limited. One thing we do know
+is that the economy has tended to the very, very resilient in recent years. Thank you.
+CHAIRMAN GREENSPAN. President Moskow.
+MR. MOSKOW. Thank you, Mr. Chairman. I agree completely with your
+recommendation both on keeping the balance of risks toward higher inflation and the
+language that you read. I agree with President McDonough that it is central bankish type
+of language, and maybe I've been here too long, but I thought it was very well stated!
+[Laughter]
+Let me make just a couple of comments. I think your point that we can't act on
+the tilt without influencing the financial markets at this time is a very important one.
+
+94
+Those in the market obviously read our statements carefully; we’ve all seen how they
+interpreted our last few statements. We changed the verb, I think, in one sentence a little,
+and they read it very, very carefully, and they saw that as a gradual move. Just a bit of a
+counter to President Poole’s point, I think the market will read this proposed statement as
+a move toward easing, although obviously not as much as our removing the tilt entirely.
+Also, I want to associate myself with those around the table who earlier
+expressed concern about further fiscal stimulus from increased government spending as a
+result of gridlock. What has happened this fall is a clear indication to me that we could
+be going down that road, and that would lead to further fiscal stimulus.
+And finally, I just want to say that if there is going to be a recount, I would like
+to speak first because those of us in Chicago know how to handle recounts! [Laughter]
+CHAIRMAN GREENSPAN. I’ve heard that if you rig the numbers in the
+beginning, you won't have to do a recount.
+MR. MOSKOW. We have many different ways of accomplishing-CHAIRMAN GREENSPAN. I don't want to hear any more! [Laughter]
+President Santomero.
+MR. SANTOMERO. I support the proposed statement. I, too, came prepared
+with a long list of arguments on why we should remain where we were in terms of the
+tilt. I'll forgo those and forgo any request to come back and discuss them further.
+I find myself in complete agreement with both the wording and the logic
+behind it. I recognize that we may not have seen any long-term or major changes in
+inflation expectations, but the Fed must remain vigilant against that possibility and focus
+the markets on our continued concern over inflation. Given the tools at the Fed’s
+
+95
+disposal, the best way for us to ensure maximum sustainable growth is to stay focused on
+our goal of price stability. With due regard given to the current economic vulnerability, it
+is essential that the Fed maintain its credibility, and I believe the proposed statement does
+that. Thank you.
+CHAIRMAN GREENSPAN. First Vice President Pianalto.
+MS. PIANALTO. I also agree with your recommendation. Like others, I was
+prepared to make a longer statement in case the recommendation was to change the tilt.
+And my reason for that is that I am concerned about our objective of achieving price
+stability. But like others, I will also spare you from the statement.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. Thank you, Mr. Chairman. I also agree with both the
+direction of your policy recommendation, i.e., no change in the funds rate, and with the
+tilt recommendation. I think Gary Stern summed up my thoughts about these issues quite
+completely. We shouldn't overreact to the fact that the expansion is slowing. We wanted
+it to slow. We don’t know where potential is. The financial markets happen to be the
+means by which it is slowing. It's important to recognize that in our statement, but it’s
+also important to keep our focus on the still remaining inflationary risk and the fact that
+we need the economy to slow to address that risk.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. Thank you, Mr. Chairman. The last thing I want to do is
+to inspire a bunch of lectures from the other side of the table, [Laughter] so I will support
+the statement. It is indeed a close call for me.
+
+96
+At the same time, let me make two points. I think we are getting very close to
+the point where the risks are nearly balanced if not perfectly balanced. And I think there
+is an Occam’s razor principle with respect to these press statements. They get so
+thoroughly parsed by everybody that in my view there is a lot to be said for the simpler
+the better. You have come up with a nice approach that I'll call the downside/upside
+approach, and I think it will work. But I think we have to be pretty careful about this and
+at some point I'd like to go back to a strategy that if the risks really are balanced, we
+ought to say so. I have four friends in this argument—Bill (Poole), Tom (Hoenig), Roger
+(Ferguson), and Bob (McTeer)--and I would join that list, though supporting your
+statement.
+My other point is on the markets. I'm not sure we understand very well what
+the market reaction to all this will be. It is certainly possible that this would spark a rally
+and I don't think anybody wants to see that. But as Don said, there are a couple of
+scenarios that go the other way. One is that this could all be factored in, in which case a
+move to a balanced risk statement won't do too much to the markets. Another possibility
+is that markets may think that we see something that they don't, and markets could
+actually go down. I have no idea which of these scenarios is the most likely. So I think
+we have to be a little careful about being locked in irons, if you will, by the market
+reaction. At some point we just have to do what we think is the right thing to do and try
+to explain it, and I think the markets will come around.
+CHAIRMAN GREENSPAN. President Broaddus.
+MR. BROADDUS. Mr. Chairman, I strongly favor the policy position you’re
+recommending, the asymmetry. And I would just underline what Gary Stern said. I
+
+97
+thought he made an interesting observation, namely that it would be very difficult at this
+point to explain why we would change to a balanced statement. And I think that would
+just further encourage markets to expect that we are beginning a cycle of easing, which in
+my view would increase the upside risk.
+Also, I would go back to something that Governor Kelley said in the economic
+discussion, and I thought he put it quite well. It’s just too early to get overly concerned
+about downside risks. We have had many quarters in which there was a general
+consensus that aggregate demand was growing more rapidly than potential. We now
+have one quarter when it may be growing somewhat more slowly than potential. Frankly,
+I think that's healthy. And if I could follow on Ned Gramlich’s medical analogies, I
+wouldn't want to do anything at this point to undercut the therapy.
+As far as the statement is concerned, I think this one really gets it exactly right.
+I believe the nuances are exactly right. So, I’m a “yes” on both counts.
+CHAIRMAN GREENSPAN. Governor Meyer.
+MR. MEYER. Mr. Chairman, I support your recommendation in all respects.
+Specifically, I think we should retain the statement of unbalanced risks. And I thought
+the statement that you read was excellent.
+VICE CHAIRMAN MCDONOUGH. Time to vote.
+CHAIRMAN GREENSPAN. Thank you. It’s time to vote, indeed. Would
+you read the appropriate language?
+MR. BERNARD. The wording comes from page 12 in the Bluebook. “The
+Federal Open Market Committee seeks monetary and financial conditions that will foster
+price stability and promote sustainable growth in output. To further its long-run
+
+98
+objectives, the Committee in the immediate future seeks conditions in reserve markets
+consistent with maintaining the federal funds rate at an average of around 6-1/2 percent."
+As for the balance of risks sentence, you have heard the introductory words,
+but the rest of it would read as shown here: “Against the background of its long-run
+goals of price stability and sustainable economic growth, and of the information currently
+available, the Committee believes that the risks continue to be weighted mainly toward
+conditions that may generate heightened inflation pressures in the foreseeable future."
+CHAIRMAN GREENSPAN. Call the roll, please.
+MR. BERNARD.
+Chairman Greenspan
+Vice Chairman McDonough
+President Broaddus
+Governor Ferguson
+Governor Gramlich
+President Guynn
+Governor Kelley
+Governor Meyer
+President Moskow
+President Parry
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+MR. KOHN. Do you want Lynn Fox to pass out the draft statement? You
+already have read most of the statement.
+CHAIRMAN GREENSPAN. I’ve read the part of the statement relating to our
+assessment of the risks. Well, you can pass it around if anyone wants to take a look at it.
+Let me just read the first paragraph to you. “The Federal Open Market Committee at its
+meeting today decided to maintain the existing stance of monetary policy, keeping its
+target for the federal funds rate at 6-1/2 percent.” The rest just states what I read earlier.
+The next meeting is December 19th. Shall we go to lunch?
+END OF MEETING
+
+

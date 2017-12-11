@@ -1,0 +1,1448 @@
+January 9, 2008
+
+1 of 60
+
+Conference Call of the Federal Open Market Committee on
+January 9, 2008
+A conference call of the Federal Open Market Committee was held on Wednesday,
+January 9, 2008, at 5:00 p.m. Those present were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Mr. Evans
+Mr. Hoenig
+Mr. Kohn
+Mr. Kroszner
+Mr. Mishkin
+Mr. Poole
+Mr. Rosengren
+Mr. Warsh
+Ms. Cumming, Mr. Fisher, Ms. Pianalto, and Messrs. Plosser and Stern, Alternate
+Members of the Federal Open Market Committee
+Messrs. Lacker and Lockhart, and Ms. Yellen, Presidents of the Federal Reserve Banks
+of Richmond, Atlanta, and San Francisco, respectively
+Mr. Madigan, Secretary and Economist
+Ms. Danker, Deputy Secretary
+Ms. Smith, Assistant Secretary
+Mr. Skidmore, Assistant Secretary
+Mr. Alvarez, General Counsel
+Mr. Baxter, Deputy General Counsel
+Mr. Sheets, Economist
+Mr. Stockton, Economist
+Messrs. Connors, Fuhrer, Kamin, Rasche, Sellon, Slifman, Tracy, and Wilcox, Associate
+Economists
+Mr. Dudley, Manager, System Open Market Account
+Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors
+Mr. Struckmeyer, Deputy Staff Director, Office of Staff Director for Management, Board
+of Governors
+Mr. English, Senior Associate Director, Division of Monetary Affairs, Board of
+Governors
+Mr. Dale, Senior Adviser, Division of Monetary Affairs, Board of Governors
+
+January 9, 2008
+
+2 of 60
+
+Mr. Luecke, Senior Financial Analyst, Division of Monetary Affairs, Board of Governors
+Ms. Low, Open Market Secretariat Specialist, Division of Monetary Affairs, Board of
+Governors
+Messrs. Judd, Rosenblum, and Sniderman, Executive Vice Presidents, Federal Reserve
+Banks of San Francisco, Dallas, and Cleveland, respectively
+Mr. Altig, Mses. Mester and Mosser, and Mr. Weinberg, Senior Vice Presidents, Federal
+Reserve Banks of Atlanta, Philadelphia, New York, and Richmond, respectively
+Mr. Krane, Vice President, Federal Reserve Bank of Chicago
+Mr. Weber, Senior Research Officer, Federal Reserve Bank of Minneapolis
+
+January 9, 2008
+
+3 of 60
+
+Transcript of the Federal Open Market Committee Conference Call on
+January 9, 2008
+
+CHAIRMAN BERNANKE. Good afternoon, everybody. Thank you for coming, and I
+am sorry about the awkward time. I am also sorry I wasn’t able to talk to many of you in
+advance of the meeting. I just got back from Basel yesterday, and so I have been out of the
+country. Let me tell you why I called this meeting. I have become increasingly concerned that
+our policy rate is too high to fully address the downside risks to growth. We have cut 100 basis
+points since September, and I think that may possibly have roughly offset the credit factors and
+the housing factors, but I don’t think that we can claim that we have done anything in the way of
+taking out insurance against what I think are some potentially significant downside risks.
+Meanwhile, since our last meeting in December, the data have been on the whole negative. The
+fourth quarter looks all right, but since then we have seen a number of indicators that the
+economy is sliding. So I thought it would be worthwhile for us to have an intermeeting meeting,
+so to speak, just to get an update on the situation and to have some discussion of our policy
+strategy.
+As you know, we circulated a draft policy statement for the contingency that the
+Committee might want to act on rates today. After getting some feedback, and with some
+thought, unless the sentiment of the Committee to move today is especially strong, I am not
+going to propose a policy action at this meeting. What I would really like to do, instead, is get a
+sense of where the Committee is and a sense of your willingness to be somewhat more proactive
+in terms of addressing the downside risks that we are seeing in the growth situation. Part of the
+reason it is scheduled today is that tomorrow I have a sort of well-publicized speech on the
+outlook and next week I have a testimony. I would like to be able to give some signal of where
+
+January 9, 2008
+
+4 of 60
+
+the Committee is going forward toward the end of January. I think that would be very beneficial.
+The markets in part are suffering from just simple uncertainty about whether the Fed is willing to
+be proactive in addressing the downside risks, and I think if I am able to give some signal about
+our inclinations that would be quite helpful. So, in short, the purpose of the meeting today is not
+to take any action, but rather it is my attempt to consult with you, so that when I speak in public
+tomorrow and next week I will be representing the broad consensus of the Committee.
+With that, I would like to begin with some short briefings by Bill Dudley in New York on
+markets and by Dave Stockton in Washington on the forecast—I think you received materials
+today—and then give time for Q&A. Following that, I would like, because I called the meeting,
+to give you my own views on why we need to be somewhat more proactive in risk management.
+Following that, we will open the floor, take comments, and sort of see where we are at the end of
+the day. I hope that works for everybody. Okay. If there are no comments, let me call on Bill
+Dudley to discuss the market situation.
+MR. DUDLEY. 1 Thank you, Mr. Chairman. I’ll be referring to the chart package
+that I hope you have in front of you. Market function has improved somewhat since
+the December FOMC meeting. This can be seen most notably in the term funding,
+foreign-exchange swap, and asset-backed commercial paper markets. In addition,
+some of the risks of contagion—for example, from troubled SIVs and from financial
+guarantors to money market mutual funds or the municipal securities market—appear
+to have lessened slightly. However, while market function has improved and
+contagion risks have diminished somewhat, the underlying strains on financial
+markets remain severe and may even have intensified. This can be seen in a number
+of areas, including (1) the wide spread of jumbo mortgage rates relative to
+conforming mortgages, (2) the equity prices and credit default swap spreads of a
+broad range of financial institutions, (3) developments in the commercial mortgagebacked securities market, and (4) corporate credit spreads and credit default swap
+spreads. Put simply, market participants believe that the macroeconomic outlook has
+deteriorated significantly and financial asset price movements broadly reflect that
+shift in expectations.
+Turning first to the better news, term funding pressures have moderated
+considerably over the past few weeks. As can be seen on the first page of the handout
+1
+
+The materials used by Mr. Dudley are appended to this transcript (appendix 1).
+
+January 9, 2008
+
+in exhibits 1, 2, and 3, term funding spreads have fallen sharply for dollar, euro and
+sterling rates. For example, the one-month LIBOR–OIS spread is now 31 basis
+points, down from a peak of more than 100 basis points in December. However, the
+narrowing in three-month term spreads has been much more modest, and neither
+spread is back to where it was in late October or early November. Much of the recent
+improvement is undoubtedly due to the passage of year-end. But coordinated central
+bank term funding actions, including the term auction facility (TAF) and the dollar
+term funding auctions conducted by the ECB and the SNB, appear also to have been
+helpful. The first two TAF auctions went well, with bid-to-cover ratios of around 3 to
+1 and stop-out rates below the 4.75 percent primary credit rate. Interestingly, term
+funding spreads narrowed notably on the two days when these auctions settled. This
+supports the notion that the TAF auctions did contribute to a lessening of term
+funding pressures. Moreover, market participants have generally reacted favorably to
+the news that the TAF auctions would continue and that the size of the January
+auctions would increase to $30 billion per auction. As hoped and anticipated, stigma
+appears to have been less of a factor for the TAF compared with the primary credit
+facility. The stop-out rate rose slightly in the second auction relative to the first, and
+some less healthy institutions bid more aggressively in the second auction. This
+suggests that, as depository institutions gain experience with the TAF, that might lead
+to an even further diminution of stigma.
+As term funding markets have improved, the foreign exchange swap market has
+also improved in terms of function. Bid-asked spreads have narrowed, and
+transaction sizes have increased. The all-in cost of funding via foreign exchange
+swaps has fallen back down to approximate the cost of straight dollar LIBOR
+financing. Improvement in market tone is also visible in the interest rate swap
+market. As can be seen in exhibit 4, swap spreads have fallen notably from the peaks
+reached in the fourth quarter. Another positive development has been the
+improvement in the asset-backed commercial paper market. The volume of ABCP
+outstanding has stabilized, and the spread between the thirty-day ABCP rate and the
+one-month OIS rate has narrowed sharply. The spread relative to one-month LIBOR
+is about back to what it was before the financial market turbulence began in August
+(exhibit 5). Bank sponsors have generally stepped forward to take problem SIV
+assets back on their balance sheets, and this has reduced the risk of asset fire sales.
+Also, the roll-up of SIV assets onto bank balance sheets has reduced the risk of
+further contagion to the money market mutual fund industry. Finally on the positive
+side of the ledger, although the financial guarantors remain under significant stress
+(as shown in exhibits 6 and 7, there has been no recovery in the share prices or CDS
+spreads for the two major financial guarantors—MBIA and Ambac), this has had only
+a modest effect on the municipal securities market. Apparently, investors have
+decided that the quality of the underlying municipal securities is quite good—the
+historical default experience after all has been very low—and therefore have not been
+that troubled by the decline in the quality of the insurance on these instruments. That
+said, any actual downgrade of the financial guarantors’ credit ratings could still
+disturb the municipal market, in part, through its potential impact on insured
+
+5 of 60
+
+January 9, 2008
+
+municipal bond funds, which use the AAA ratings obtained from the insurance as a
+selling point to retail investors.
+Despite these positive developments in terms of market function, financial
+conditions have tightened as balance sheet pressures on commercial and investment
+banks remain intense and as the macroeconomic outlook has deteriorated. This can
+be seen in a number of respects. First, large writedowns and larger loan-loss
+provisions are cutting into bank and thrift capital and pushing down equity prices.
+For commercial and investment banks, the willingness of sovereign wealth funds and
+other investors to replenish capital has kept bank CDS spreads from widening back to
+the peaks reached a few months earlier. In contrast, major thrift institutions face
+greater difficulties in attracting new capital because their core business has soured.
+As a result, their CDS spreads have soared. The spread between fixed-rate jumbo
+mortgages and fixed-rate conforming mortgages has climbed again (see exhibit 8).
+This reflects the impairment of the mortgage securitization market and the lack of
+spare balance sheet capacity for commercial banks and thrift institutions.
+Second, corporate credit spreads and credit default indexes have widened sharply
+in the past few months, with a significant rise registered since year-end. As shown in
+exhibit 9, for investment-grade debt, the widening in spreads has roughly offset the
+fall in Treasury yields. As a result, investment-grade corporate bond yields have been
+relatively steady. In contrast, for non-investment-grade corporate debt, the widening
+in credit spreads has dwarfed the decline in Treasury yields. As a result, noninvestment-grade corporate debt yields have climbed sharply. Although actual
+corporate default rates have remained unusually low, forecasts of prospective default
+rates have become much more pessimistic. For example, Moody’s announced
+yesterday that it had raised its speculative corporate debt default estimate for 2008 to
+5.3 percent from 4.7 percent earlier. Exhibit 10 illustrates that, since mid-October,
+credit default swap spreads have been rising in both the United States and Europe.
+Third, equity markets are under pressure. For example, as illustrated in
+exhibit 11, the S&P 500 index declined in the fourth quarter and, up through
+yesterday, has fallen about 5 percent so far this year. Moreover, the equity market
+weakness has broadened out beyond the financial sector. For example, as of
+yesterday’s close, the Nasdaq index, which has little weight in financials, had fallen 8
+percent this year. Global stock market indexes have also generally weakened.
+Interestingly, the dollar has been relatively unaffected by the deterioration in the
+macroeconomic outlook. After rallying into year-end, the dollar has given back much
+of these gains over the past week. But over the past few months, the dollar has
+mainly been range-bound as opposed to being in the downward channel that applied
+for much of 2007 (exhibit 12 illustrates what the dollar has done lately against the yen
+and the euro).
+As the economic outlook has deteriorated, market participants’ expectations of
+monetary policy easing have increased markedly. As shown in exhibit 13, the federal
+
+6 of 60
+
+January 9, 2008
+
+7 of 60
+
+funds rate futures market now anticipates about 100 basis points of additional easing
+by midyear. As shown in exhibit 14, the Eurodollar futures market anticipates a bit
+more than 125 basis points of further easing by year-end 2008. Currently, as shown
+in exhibit 15, options prices on federal funds futures imply a probability of about
+50 percent of a 50 basis point move through the January 29-30 FOMC meeting.
+Interestingly, market expectations for an intermeeting move appear to be relatively
+low. Although it is difficult to be precise about this, my best guesstimate is that the
+market has priced in about a 1-in-4 chance of a 25 basis point intermeeting rate cut.
+Although that means that a rate cut today would be a big surprise to market
+participants, it probably would be well understood in hindsight. The sharp downward
+skew in rate cut expectations that has been evident in recent months persists. As
+shown in exhibit 16, which looks at the expected distribution of Eurodollar futures
+rates 300 days ahead, the mode is 3.25 percent, well above the mean of the
+distribution. This likely reflects market participants’ collective judgment that there
+are two distinct scenarios. The first (and more likely) scenario is one of an economic
+slowdown and a modest rise in the unemployment rate. This scenario is associated
+with perhaps 100 basis points of additional easing. The second scenario is a much
+darker one of a full-fledged recession. In this scenario, the unemployment rate would
+move up more sharply, and the magnitude of cumulative rate reductions would be
+much larger.
+Finally, despite the rise in headline consumer price inflation, the uptick in core
+consumer price inflation, and the atmospherics created by firmer gold and oil prices,
+market-based measures of inflation expectations remain very well behaved. As
+shown in exhibit 17, both the Barclays market-based measure of five-year, five-yearforward breakeven inflation and the Board’s measure have narrowed since early
+November. Thank you. Of course, I’m happy to take any questions now or after
+David’s presentation.
+CHAIRMAN BERNANKE. Thank you, Bill. Why don’t we take a few questions for
+Bill. Does anyone have questions for Bill? President Fisher.
+MR. FISHER. Bill, on the five-year, five-year-forward, doesn’t the Markets Group also
+have its own measurement, and is it as low as the Board measurement?
+MS. MOSSER. This is Trish Mosser talking. Yes, we do have our own measure. It is
+somewhat less noisy than the Barclays measure; but because it is based on market prices, it is
+closer to the Barclays measure than to the Board’s measure, which of course is based on the
+staff’s yield-curve model.
+
+January 9, 2008
+
+8 of 60
+
+MR. DUDLEY. I think the important thing is that all three of these measures are moving
+in the same direction. So I wouldn’t want to put a lot of weight on the level of these three
+measures, which differ because they adjust differently for liquidity and on-the-run/off-the-run
+comparisons, but they have all moved down pretty meaningfully since November.
+CHAIRMAN BERNANKE. Other questions for Bill?
+MR. FISHER. I agree that we shouldn’t place a whole lot of weight on this thing. We
+have been talking about this, Mr. Chairman, on the morning call. There may be some anomalies
+here, but I wouldn’t place a whole lot of weight on that. I just wanted to get a sense of how the
+Board’s measurement was different. It looks to me to be more range-bound, just to use your
+term, Bill, but that’s not a point worth spending much time on. Thank you.
+MR. DUDLEY. Well, as I have said in past briefings, I think the Board’s measure has a
+better analytical foundation. If I had to pick one measure, I would probably pick the Board’s
+measure because I think it is trying to do a more precise estimation of comparing apples with
+apples in terms of comparing TIPS with nominal Treasury securities. This comparison is
+difficult because you have to make assumptions about what the liquidity premium is on nominal
+Treasuries that are on-the-run versus off-the-run and versus TIPS. So I think that it is probably
+useful also to see if movements in the Board’s measure are or are not corroborated by
+movements in other measures.
+MR. FISHER. Thank you.
+CHAIRMAN BERNANKE. Other questions for Bill? All right. If there are no other
+questions for Bill, let’s turn to Dave Stockton for an update on the forecast.
+MR. STOCKTON. 2 Thank you, Mr. Chairman. Earlier today along with Bill
+Dudley’s materials we circulated a note describing some of the revisions that we have
+made in our projection since the December forecast. I should caution the Committee
+2
+
+The materials used by Mr. Stockton are appended to this transcript (appendix 2).
+
+January 9, 2008
+
+that this projection has not been the result of running the complete machinery that sits
+behind the staff’s forecast. Rather, we’ve done our usual, I hope, careful job of doing
+the near-term adding up, and then we’ve used the model simulations and rules of
+thumb to adjust our medium-term outlook to reflect changes in the data and changes
+in the conditioning assumptions that we’ve taken on board here. That said, I do feel
+reasonably comfortable that what we’re showing you here puts us in the right ballpark
+in terms of how the data and how changes in some of the major conditioning
+assumptions are likely to affect the forecast that we will be showing you in a few
+weeks.
+Several key features of note in this revised forecast: Growth in real GDP in the
+fourth quarter of last year has been revised up by a noticeable amount. However, we
+will revise down growth in real GDP in both 2008 and 2009 also by a noticeable
+amount. Unemployment runs higher throughout the projection period. Despite that
+higher level of the unemployment rate, total and core inflation are higher in 2008 than
+in our December forecast because of sharply higher oil prices incorporated in this
+forecast. Inflation is roughly unchanged in our 2009 projection. So let me touch
+briefly on each of these elements.
+As you can see in the table, we’ve revised up our estimate of GDP growth in the
+fourth quarter from a forecast that was basically flat at the time of the December
+meeting to an increase of about 1¼ percent at an annual rate. Much of that revision
+reflects the stronger retail sales data that we received shortly after the last FOMC
+meeting as well as the stronger consumption of services that we received in the
+personal income release late last month. In addition, the incoming data on
+construction put in place for November were much stronger than we anticipated for
+nonresidential structures and for state and local construction.
+Not all the data that we’ve received, however, have been on the positive side.
+Housing continues to outflank us on the low side. Both starts and permits for
+November came in well below our forecast, and sales of new homes were much
+weaker than we’d expected. We now think the trough in housing starts, which we
+still see as likely to occur in the first half of this year, will be deeper than our previous
+forecast and by a considerable amount—nearly 10 percent deeper is what we’ve built
+into this revised provisional forecast. The other major negative surprise was the
+employment report for December. Private payrolls contracted by 13,000 last month.
+We’d been expecting an increase of about 50,000. Moreover, the unemployment rate
+jumped 0.3 percentage point in December. That increase was certainly eye-catching
+from our perspective. As we noted in the handout, higher average hourly earnings
+offset the weaker employment so that the labor income actually is not too much
+different than we had expected at the time of the December forecast. Still the labor
+market appears to us to have softened noticeably last month, and we’ve taken signal
+from that and revised down expected employment growth going forward.
+Our forecast for economic growth in the first quarter is unrevised at an annual rate
+of ¾ percentage point. We do carry a little more momentum in consumer spending
+
+9 of 60
+
+January 9, 2008
+
+10 of 60
+
+and a little more momentum in nonresidential structures into the first quarter, but that
+is offset by the substantial downward revision that we’re making to the housing
+forecast. Beyond the near term, we’ve had a lot of negative influences to contend
+with. I’ve already noted that we’ve taken down our housing forecast. That revision
+alone was sufficient to knock another tenth off GDP growth in 2008, bringing the
+total subtraction of housing from GDP growth in this projection in 2008 to
+¾ percentage point. Oil prices are about $6 per barrel higher on average than was
+incorporated in our December forecast. The impact of those higher oil prices on
+purchasing power and consumption are large enough to reduce projected GDP growth
+in both 2008 and 2009 by a tenth each year. I should note that households are on the
+verge of experiencing another stiff increase in gasoline prices over the next couple of
+months, and households are probably not yet aware that that’s on the way, except for
+those that actually follow oil futures markets—I assume that’s a relatively small
+group.
+We’ve lowered the path for equity prices by 7 percent in this forecast. About half
+of that revision reflects the change that occurred since we put the December
+Greenbook to bed. The forecast that I circulated today doesn’t include yesterday’s
+decline or today’s increase. We basically used Monday’s close. The other half of the
+decline in equity prices that we’ve built into this baseline forecast currently reflects
+the fact that, for purposes of this provisional forecast, we made no change in our
+assumption about the path of the federal funds rate from our December Greenbook.
+Obviously, the December path assumed no change in the funds rate at the January
+meeting. That would come as a significant disappointment to the markets, and by our
+normal calibration, we estimate it would take about 3½ percent off the level of equity
+prices going forward. So that gets us to the 7 percent. House prices have come in a
+touch lower than we had forecast. We have also lowered our projection on the level
+of house prices about 1 percentage point in this forecast. Taken together, those lower
+equity prices and the lower house prices take 0.1 off growth in 2008 and 0.2 off GDP
+growth in 2009.
+Turning to the labor market, the jump in the unemployment rate in December in
+combination with our weaker outlook for growth in real GDP going forward has led
+us to raise our projected level of the unemployment rate to 5.2 percent at the end of
+2008 and 5.3 percent at the end of 2009.
+As for prices, the recent news on inflation has been disappointing. Total and core
+PCE prices came in above our expectations in November. As can be seen in our
+table, we’ve raised our estimate of total PCE price inflation in the fourth quarter to
+4 percent, and we’ve increased our estimate of core PCE price inflation to
+2.7 percent. Both those figures are ½ percentage point above our estimates in
+December. Some of the upward revision in the core price measure is due to higher
+figures for nonmarket prices, but market-based prices were higher than we had
+expected as well. Going forward, the higher oil prices that I referenced earlier also
+leave a clear imprint on projected inflation. We’ve raised our headline price inflation
+to 2.4 percent in 2008, up 0.4 percentage point from our previous projection. With
+
+January 9, 2008
+
+11 of 60
+
+energy prices expected to edge off in 2009, total PCE inflation recedes to 1.7 percent.
+For core inflation, we’ve added 0.1 percentage point to our projection this year,
+reflecting the indirect effects of higher energy prices. Our forecast for core inflation
+in 2009 is unchanged. Some lingering indirect effects from higher energy costs are
+offset in this forecast by a wider margin of slack in resource utilization.
+Let me just say a few words about how the risks to the forecast have changed. I
+believe that the adjustments that we have made to this provisional forecast actually
+are quite reasonable in light of the developments and the data that we have been
+contending with, but I’d have to admit that the downside risks to our projection have
+become more palpable to me. Despite a year of nearly continual downward revision,
+we just can’t seem to get in front of the contraction in housing. The steep descent in
+sales and construction of new homes has not let up, and there seems to me to be more
+downside risk than upside risk to our house-price projection. Another area of concern
+would be the recent readings on the labor market, which have been very soft.
+Although quite volatile on a week-to-week basis, initial claims for unemployment
+insurance and insured unemployment have been trending up. Moreover, both the
+payroll survey and the household survey deteriorated noticeably in December. As I
+noted earlier, private payrolls contracted last month, and a jump of 0.3 percentage
+point in the unemployment rate in a single month is rare, though not unprecedented,
+outside of recessions. The steep decline in the manufacturing ISM in December was
+both unexpected and of a magnitude well outside the normal volatility in the data.
+The drop in consumer confidence has pretty much matched our expectations, and it
+didn’t continue to worsen in December; but the total drop that we have seen in recent
+months is similar to drops seen before previous recessions. Any one of these
+indicators taken by itself would not be especially troubling; but taken together, they
+certainly deserve attention. We are not ready to make a recession call yet. The
+spending data still have exceeded our expectations by a noticeable margin, especially
+consumer spending. Motor vehicle sales at a 16.2 million unit rate in December
+certainly don’t look like a recessionary development, and business spending has
+slowed but certainly not slumped thus far. Furthermore, the anecdotes—at least my
+read of the anecdotes—still seem more consistent with the weak economic growth
+that we are projecting rather than outright contraction. But at this point we do feel as
+though we are on very high alert. I’d be happy to take any questions from members
+of the Committee.
+CHAIRMAN BERNANKE. Thank you, Dave. Are there questions for Dave? President
+Lacker.
+MR. LACKER. Yes, Dave. So there is a lot written about nonlinearity and
+macroeconomic dynamics. There are these regime-switching econometric models characterizing
+real data. There is the 0.3 thing—I think it is 0.3— that people talk about regarding the
+
+January 9, 2008
+
+12 of 60
+
+unemployment rate: It doesn’t go up by more than 0.3 without going up by a ton. You guys are
+surely aware of those econometric properties or those methods of characterizing the data, and
+while your econometric models may be strictly linear in some sense, what you give us is your
+best judgment, right? Am I to take your forecast as reflecting the probabilities of nonlinear
+dynamics or not? If it doesn’t, are nonlinear dynamics something you believe in, that you think
+we should internally adjust your forecast with, or not?
+MR. STOCKTON. I believe in nonlinear dynamics. [Laughter] I think I have even
+experienced them, and probably you have as well on occasion, in terms of the difficulty that we
+have in forecasting recessions. Our forecast isn’t just some sort of “push a button on a linear
+model and here is the result.” But I do think the current situation illustrates to me why it is, in
+fact, so hard for us and why we don’t forecast recessions very often. As I indicated, I think there
+is a configuration of a number of indicators that make it easy for me to imagine you looking back
+on next June and saying, “Indeed, what you saw back there in December—in terms of the jump
+in the unemployment rate, the drop in the manufacturing ISM, and the uptick in initial claims—
+were all precursors of a recession.” The point of my remarks is that I am pretty darn worried
+about that possibility. But it is hard at this point to make that call—we are coming off the data in
+the fourth quarter, which have exceeded our expectations considerably.
+As I noted, not all the things that you might expect to be highly sensitive to a business
+cycle downturn, such as motor vehicle sales, have moved in that direction. I know this is
+unfortunate, and we really cannot be as helpful to you as I would like. We are saying, in effect,
+“Yes, we’ll call the recession when we see the weak spending data.” But the weak spending data
+will already be lagged one or two months, and that is the reason that we will be looking back, if
+we’re lucky to be able to do it in March, saying, “The spending data indicate that a recession
+
+January 9, 2008
+
+13 of 60
+
+may have started in December.” The current forecast is our best judgment. But I think it
+wouldn’t take much more in the way of negative news for us at this point to regime-shift, as you
+said, into recession mode. We are not quite there yet, but we are certainly worried about that
+possibility at this point.
+CHAIRMAN BERNANKE. Other questions for Dave? President Fisher.
+MR. FISHER. Dave, you very eloquently summarized in your statement that downside
+risks are more palpable. Certainly they seem to be more palpable. But the bigger adjustments I
+see in your numbers, at least for the first quarter of 2008 and for the year 2008—even larger than
+the adjustments you made on economic growth—are those on inflation. I’m wondering if you
+could just comment on that, please, and give us a sense of that palpability, as it were.
+MR. STOCKTON. So, indeed, I think this combination of weaker economic growth and
+higher inflation is an unfortunate situation for you as policymakers. I do think there are some
+upside risks that you face on inflation, and the recent rise in oil prices probably intensifies those
+upside risks. We are taking some comfort from two other pieces of information in the
+constellation of the inflation data that the process isn’t slipping away to the upside on inflation.
+One is, as Bill noted, that we haven’t really seen any deterioration in the TIPS-based measures of
+inflation expectations. We have seen an uptick in the Reuters/Michigan survey of households in
+the last month or so, on both near-term and long-term inflation expectations. That does tend to
+happen in periods when gasoline prices are spiking up. I would hate to throw that observation
+out completely, but I guess as we look at this, we don’t really see as yet convincing evidence that
+there has been a deterioration in inflation expectations. The other thing is that we haven’t really
+seen anything in the way of serious deterioration on the labor cost side. So those two things
+combine, at least in my mind, not to eliminate but probably to limit some of the upside risks that
+
+January 9, 2008
+
+14 of 60
+
+you’re facing on the inflation side. But, clearly, anecdotes are there—not just the data but also
+anecdotes—that suggest that businesses are facing some considerable cost pressures associated
+with higher energy and other commodity prices.
+MR. FISHER. Thank you.
+CHAIRMAN BERNANKE. Are there other questions for Dave? If not, if I could kick
+off the general discussion, I will talk a bit about how I see the economy. I have two main points
+to make. First, I think the downside risks to the economy are quite significant and larger than
+they were. Speaking as a former member of the NBER Business Cycle Dating Committee, I
+think there are a lot of indications that we may soon be in a recession. I think a garden variety
+recession is an acceptable risk, but I am also concerned that such a downturn might morph into
+something more serious, and I will talk about that in a moment. My second point is that I think
+that 100 basis points of easing may or may not be a rough offset, in terms of expectations, to the
+decline in demand that we have seen, but I don’t think that we have done really very much at all
+in terms of taking out insurance against what I perceive to be the greater risk at this point.
+So let me address those questions just a bit. President Lacker already anticipated me in
+mentioning the regime-switching models of recession. Those suggest a nonlinear process: There
+are two states of the world—a growth state and a recession state—and the behavior of the
+economy is different in those two states. Those models fit pretty well, although, of course, like
+many econometric models they are mostly retrospective. But some of the indicators suggesting a
+switch are things like falling equity prices, slower manufacturing growth, rising credit spreads,
+and—an often very effective indicator—the fact that the federal funds rate is so far above twoyear interest rates at this point. Those would all be indications that the regime is about to switch,
+if it hasn’t already.
+
+January 9, 2008
+
+15 of 60
+
+President Lacker also mentioned the idea of a stall speed. I presented some figures on
+that in a meeting in 2006. There have been situations of a 0.3 percentage point increase in the
+unemployment rate in a month that have been reversed, but there has never been in our case a 0.6
+increase over a period of time that didn’t translate into a recession and a much greater increase in
+unemployment. Similarly, there has never been a sustained GDP growth rate below 2 percent—
+and we have a 1 percent forecast for 2008—that has not turned into a recession. Indicative of the
+kind of behavior that we have seen in the past, let me just refer to the last two recessions.
+Unemployment was 5.2 percent in June 1990, having been there for about two years. It jumped
+to 5.5 percent in July, by the next June it was 6.9, and the following June it was 7.8. In
+December 2000, unemployment was 3.9, it was 4.3 at the cyclical peak in March 2001, and
+ultimately it hit 6.3 in June 2003. So there is some tendency, once a stall speed is reached, for
+the economy to slow quite considerably. Again, like David, I don’t know if we’re there yet.
+Obviously, ex ante it’s extremely hard to tell, but I do think the risks are at least 50 percent at
+this point that we will see an NBER recession this year. Now, as I said, the concern I have is not
+just a slowdown but the possibility that it might become a much nastier episode. The main
+mechanism I have in mind—there are several possibilities, but I think the financial markets are
+the main risk.
+Let me talk a bit about banks, which are at the center of this set of issues. I’m going to
+talk a bit about the 21 large, complex banking organizations (LCBOs). I have had some data
+worked up for me by the supervisory staff. Since August these 21 LCBOs have announced $75
+billion in extraordinary markdowns associated with various credit issues. They have, on the
+other hand, either raised or plan to raise $50 billion in capital. Therefore, one might say, “Well,
+that looks pretty good.” I think, though, on net that there is really actually quite a fragility here.
+
+January 9, 2008
+
+16 of 60
+
+Several factors are going to put pressure on bank capital going forward. First, they have been
+taking assets on the balance sheet, as you know—about $250 billion so far of semi-voluntary
+additions coming from off-balance-sheet conduits and others. It is hard to say how much
+contingent additional exposure they have. There are a lot of different estimates. For these 21
+banks, the Board supervisory staff identified between $250 billion and $300 billion more of
+potential exposures to bring back on the balance sheet. The BIS, at the meeting I attended over
+the weekend, looking at the 20 largest international banks, estimated $600 billion. We don’t
+know how much it is going to be, but the banks themselves are somewhat unsure about potential
+exposures.
+Loan-loss reserves are quite low for this stage in the cycle, about 1.4 percent, compared
+with, say, 2.5 percent during the headwinds period of the early 1990s, and that is partly a result
+of the SEC regulations, which have forced banks to keep their reserves low. There is a lot of
+concern in banks about additional credit losses and downgrades, concern about financial
+guarantors, and, of course, macro concerns. Finally—and I think this is one of the most
+worrisome things to me—we are beginning to see some credit issues outside of housing and
+mortgages. Credit card delinquencies have jumped in a few banks’ home equity lines. There are
+concerns in commercial real estate, particularly in some regions like Florida and California. And
+with fair value accounting, as pricing goes down, even if you don’t yet see a cashflow effect, you
+get immediate effects on capitalization.
+The implications of this, even if the economy continues along, say, the Greenbook’s
+estimates, are that lending is going to be quite tight. Banks are reluctant to take loans onto their
+balance sheets because of the capital constraints. They are, in fact, raising their internal capital
+targets because of their concerns about credit losses and about additional off-balance-sheet
+
+January 9, 2008
+
+17 of 60
+
+responsibilities. We have seen contraction not only in the primary mortgage market but also in
+home equity lines of credit, and I suspect we will see tighter conditions for credit cards, CRE
+lending, and non-investment-grade corporates. A question is high-grade corporates. There has
+even been some deterioration in, say, A-rated corporations.
+I have had a lot of opportunities to talk to bankers. We had a meeting over the weekend
+in Basel between the central bankers and about 50 private-sector representatives. The thrust that
+I got was that things are going to be pretty tight. “We are going to meet our regular customers’
+needs, but all of this is conditioned on no recession.” As one banker put it in our meeting,
+“There is no Plan B.” So a concern that is evident is that, if economic conditions worsen
+notably, the effects on bank capital, on credit risk, and so on will create a more severe credit
+situation, which could turn a garden variety downturn into something more persistent.
+The other issue, of course, is housing. Credit markets and housing are interacting very
+closely. I think that residential construction is going to stop subtracting so much from GDP
+growth because there is a non-negativity constraint. Eventually, the declines in residential
+construction will have to stop, but we are pretty far from the non-negativity constraint on prices,
+and I think that is where the issue is. I have reviewed the staff’s analysis of house prices. They
+make perfectly reasonable guesses about what house prices will do. But it is inherently very
+difficult, and there is a very wide range of possible outcomes. If the housing market continues to
+be weak and if credit continues to be tight, then the possibility of a much more significant
+decline in house prices, particularly in some regions, is certainly there; and that, in turn, would
+have significant effects on credit markets and on the economy.
+So I have tried to be quick; I don’t want to take too much time; but I see a lot of
+indications that a recession may well happen. Given the additional considerations of credit
+
+January 9, 2008
+
+18 of 60
+
+markets and housing markets, I am concerned that we might get something worse than, say,
+2001.
+The other question I raised was, Have we done enough? We have done 100 basis points.
+Of course, it is hard to know. A few indicators: The Greenbook-consistent medium-term r*,
+which is an indicator of the real funds rate that leads to full employment in three years, was 3.3
+percent in August 2007. It is currently about 1.8 percent, so that is a decline of 150 basis points.
+That is just one rough indicator of the decline in aggregate demand. I have not redone the Taylor
+rules, but for December the estimated forecast- and outcome-based Taylor rules showed a rate of
+about 4.0 to 4.1. Again, that would not include any risk-management considerations. That is
+just sort of an average over periods of both inflation risk and growth risk. I guess I would also
+mention the 2001 pattern, the most recent episode. The FOMC—many of you were there, I was
+not—dropped the rate 250 basis points in a little over four months in early 2001. Obviously, that
+was a much more aggressive episode.
+What about inflation? The fact is that we are in a tough bind here, and we don’t have any
+easy, simple solution. We are going to have to balance risks against each other. We are going to
+have to do it in a forward-looking way, and we are going to have to try to make some judgments.
+I’ll make a couple of comments. First, even assuming no recession, as the staff does, the staff
+has core and total inflation back into a reasonable approximation of price stability by 2009. As
+they note, wage growth has slowed; that doesn’t seem to be incorporating any inflation pressures.
+The other thing I would say is that, if we do have a recession, inflation during recession periods
+does tend to fall fairly quickly. In the 1990 episode I mentioned before, between June 1990 and
+June 1993, core PCE inflation fell from 4.4 to 2.7 percent. Of course, in the 2001 episode,
+despite 550 basis points of easing, we went from 2.2 percent in the fall of 2001 to unwelcome
+
+January 9, 2008
+
+19 of 60
+
+disinflation in 2003. So should there be a recession, the inflation problem would probably take
+care of itself.
+Now, there is an argument—and Governor Mishkin’s speech on Friday makes the case
+pretty well—that, when you have these kinds of risks, the best way to balance the growth and
+inflation risks is to be aggressive in the short run but to take back the accommodation in a timely
+way when the economy begins to stabilize. I realize this is not easy to communicate, but I think
+if we attempt to do so we can make some progress on that front.
+So, to summarize, we have a very difficult situation, but I do think the downside risks
+have increased and are quite significant. I don’t think that our policy thus far has gotten ahead of
+the curve, so to speak, in terms of taking out insurance. Although, again, I’m not recommending
+any action today, I think we need to be cognizant of this issue as we go into the January and
+subsequent meetings. So let me stop there and open the floor for your reactions and comments.
+I’d like to know if you are comfortable not acting today—waiting until the January meeting. On
+the other hand, I am also interested in knowing if you share my assessments or if you don’t. Let
+me be clear: I am not asking now for a commitment to any particular action in January. I am not
+asking for carte blanche. I am simply trying to see if we are all on the same page, or more or less
+on the same page, so that we can collectively communicate more effectively and I hope take the
+right actions when the time comes. So let me stop there, and Debbie will call on members.
+President Lacker.
+MR. LACKER. Thank you, Mr. Chairman. On the threshold question about acting
+today, I don’t think we should act today. Intermeeting moves are relatively rare, they tend to be
+headline-grabbing, and in retrospect they turn out to mark—and are usually intended to signal—
+dramatic breaks from previous practice or reaction functions. From that point of view, I think in
+
+January 9, 2008
+
+20 of 60
+
+the current context a move at this call would inevitably be interpreted as a reaction to the
+increase in the unemployment rate, just given the timing of when the data have come out and
+when the move is. I don’t think that would be a good idea.
+I share the sense that recession is a definite risk now and that the risk has gone up. I
+think that is persuasive. We have gotten real growth numbers that are weaker now. I think the
+outlook has to be weaker now than it was several weeks ago. But I am worried about inflation,
+too, and I wonder what a more proactive approach means for our strategy for inflation. The staff
+forecast that David presented marked down the real GDP forecast for ’08 by 0.3 and marked up
+the overall inflation forecast by 0.4. The usual Taylor rule puts a bigger weight on the inflation
+part than on the GDP part, and it doesn’t suggest a knee-jerk aggressive move down. I’m not
+saying that’s not what is required now, but it suggests some questions. Would a more proactive
+approach bring our expectations about our reaction closer to the market’s view? Is that how you
+interpret what you are advocating here? Or is this to move us beyond what the market expects?
+Related to this, are you asking for some shift in our strategy on inflation? I mean, are you
+asking that we be willing to tolerate an increase in inflation or an increase in inflation
+expectations? In the current circumstances, and what looks likely for the next several months, it
+is hard to picture reversing course really rapidly. If things play out the way the staff forecasts, it
+is just hard to imagine us turning around and raising rates 50 or 100 basis points if inflation rises
+1 or 2 percentage points. It is heartening that inflation expectations numbers haven’t risen more
+than they have, and I take comfort from that. But they are around 2½ percent on the CPI. It is
+not clear that what they reflect isn’t that occasionally we get it down to 2 but most of the time it
+bounces around above that. Without our having a clear sense of what our strategy is about where
+we want to bring inflation, I just question what you are advocating means for inflation strategy.
+
+January 9, 2008
+
+21 of 60
+
+CHAIRMAN BERNANKE. Let me just respond quickly. Obviously, I am not
+advocating any change in our objectives. I just think that at this point we have not quite
+balanced the risks to our objectives appropriately, and you could think of it as a level adjustment,
+if you’d like, and not a change in path. I would just note the risk of having what could be a
+strictly inefficient outcome, in which the growth situation gets so far out ahead of us that
+inflation falls too much, as happened in 2003. I believe that we can make essentially a level
+adjustment and try to get a little ahead of the risks here. So long as the market expects the
+economy to slow—and I note that they are already expecting quite a bit of easing and inflation
+expectations aren’t moving—I think we can do that in a safe and reasonable way. I am not in
+any way advocating changing our objectives. I am suggesting that we are not quite calibrated
+properly to achieve our objectives. President Rosengren.
+MR. ROSENGREN. Thank you, Mr. Chairman. My views are actually very consistent
+with your own. I would support lowering the fed funds rate 50 basis points, and, if it were up to
+me, I would support doing it right now. The employment report last Friday was weaker than I
+expected. In conjunction with the likelihood of several quarters of economic growth below
+potential, the risk that the economy is in, or could be going into, a recession is too high.
+Continued declines in housing prices and stock prices raise my concern that deteriorating
+household wealth will constrain consumption more than we anticipate. I am also worried that
+weaker labor markets are likely to exacerbate problems in the housing market. Should housing
+prices fall further and foreclosures rise more rapidly as a result of weak labor markets, financial
+markets may experience even more turmoil than we have experienced to date. Commodity and
+oil prices have risen, but I expect that the weakening in labor markets will be sufficient to
+
+January 9, 2008
+
+22 of 60
+
+restrain inflation. The downside risks to the economy are significant, and I think we should take
+aggressive action to mitigate that risk. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Yellen.
+MS. YELLEN. Thank you, Mr. Chairman. I agree with both the concerns that you
+expressed and the analysis that you offered. Based on the data we now have in hand, I support a
+50 basis point reduction in the federal funds rate in the near future. I think a very good case can
+be made for moving down 25 basis points today, and it would be my preference. According to
+what Bill Dudley said, markets apparently do attach some probability to a move of that
+magnitude before the January meeting. I could also support a 50 basis point move today, but I
+am concerned that it might be taken as a sign of panic by the Committee and somehow wrongly
+indicate that we have inside information showing that things are even worse than markets already
+think or, alternatively, be seen as an overreaction to the employment report. But if we don’t
+move today, I do think we need to take decisive action in January, and I hope you will give a
+strong signal that we will do so in your speech.
+I agree with the staff’s assessment that the outlook for economic growth has weakened
+since December, and I also see the downside risks to the forecast as having increased since then.
+We have revised down our 2008 forecast also because of the sharp increase in energy prices and
+the deterioration we have seen in financial conditions just since December. It is good that
+conditions in money markets have improved somewhat, but equity prices have fallen very
+substantially—I guess around 6 percent since our last meeting. Credit spreads are up, and
+borrowing rates for many borrowers are higher in spite of a decline in Treasury yields. I also
+find the labor market developments worrisome. I try not to put too much weight on any single
+monthly observation, but I find it entirely believable and consistent with everything else we are
+
+January 9, 2008
+
+23 of 60
+
+seeing that we have entered, at best, a period of slow employment growth. It is something that
+we have been expecting all along. It helps to resolve some of the puzzles we have been
+discussing about why labor markets have been so strong relative to goods markets.
+It is true that consumer spending has been amazingly robust so far, but I find it
+unimaginable that it can continue when slow growth in disposable income is added to everything
+else that is weighing on households, particularly rising energy prices, accelerating declines in
+house prices, and falling stock prices. It seems to me that, with the stagnant or contracting labor
+market, the odds of a recession—and, as you argued, a potentially very nasty one—have risen. I
+am also very worried about the possibility of a credit crunch if higher job losses begins to make
+lenders pull back credit. It is true that on the inflation front the recent news hasn’t been
+particularly good. It certainly is true that there are upside risks. But I do take comfort from the
+fact that inflation compensation has remained well behaved and that we already have slack in the
+labor market and more seems likely to develop.
+I support a significant rate cut not only because of the downgrade to the economic
+forecast since December but also because I think the stance of policy even now with the actions
+we have taken—I agree with you—is still within the neutral range. Given current prospects and
+the asymmetric nature of the risks, particularly the high tail risk associated with the credit
+crunch, I believe that policy should be clearly accommodative. So having revised down my
+forecast, I would support a significant funds rate cut as a way to catch up with where policy
+should be.
+CHAIRMAN BERNANKE. Thank you. President Stern.
+MR. STERN. Thank you, Mr. Chairman. I largely share your assessment, so let me just
+make a few comments about the situation as I see it and about the timing of our action here. I
+
+January 9, 2008
+
+24 of 60
+
+have talked frequently, of course, about the resilience of the economy. But I need to remind
+myself that that resilience isn’t infinite, and it appears to me that the fundamental positive
+momentum of the economy is diminishing significantly at this point. This likely will affect not
+just the next quarter or two but the intermediate-term outlook as well. Moreover, we shouldn’t
+lose sight of the fact that at least some of the economy’s much-vaunted resilience is arguably the
+effect of appropriate policy responses in the past. At least we can’t dismiss that possibility, and
+so we need to bear that in mind as we consider our actions going forward.
+I think you made an effective case that resilience in this situation could be further
+inhibited by potentially serious problems in the banking system. I have been concerned for a
+long time, as you know, that we don’t have incentives right there. While certainly this isn’t
+proof of anything, I guess we can’t dismiss the possibility that some of the chickens are coming
+home to roost, and that could affect the outlook as well. Also, attitudes, at least in some quarters,
+seem quite sour today. In particular, the closer people are to Wall Street, the more negative the
+attitudes appear to be. So all of this suggests to me that the outlook at the moment is not very
+promising, and a significant policy response on our part is appropriate.
+As far as the timing of action is concerned, I do think on balance it is preferable to wait
+until the end of the month. Other things being equal, I’d like us to be seen as proceeding in an
+orderly way. Also, if we do that, I think it will provide the opportunity for a more thorough
+discussion of the economic and inflation outlook and a more comprehensive consideration of the
+state of the economy, the potential policy path going forward, and the production of a coherent
+statement at the end of the day. So for all those reasons, on balance, I would prefer waiting until
+the end of the month.
+
+January 9, 2008
+
+25 of 60
+
+One footnote, since you mentioned it—this is a discussion for another day—as you know,
+I viewed at the time and I continue to view the 2003 disinflation experience a bit differently than
+you do, and I think we may want to be careful about the lessons we draw from that experience.
+Thank you.
+CHAIRMAN BERNANKE. If one of the lessons is that we need to take the
+accommodation back, I agree with you on that one. President Fisher.
+MR. FISHER. Thank you, Mr. Chairman. Like you, I am increasingly concerned about
+the downside on the economic growth side of the equation. I would very much appreciate—
+perhaps all of us would appreciate—getting sort of a transcript of the numbers you gave us and
+perhaps some of the BIS data between now and the time we meet because it might be most
+helpful in our analyzing the situation. I just have a couple of comments.
+First, I agree with President Stern and President Lacker—this is not the time to make a
+decision that is of this import. I think it would frighten the markets, and it would perhaps add to
+the urgency of concern that you are concerned about. In other words, it would compound our
+problems rather than solve our problems. I am not sure where I stand as far as the upcoming
+meeting is concerned. I would like to get some more data. I think we will have a little more
+inflation data by that time. We will have a better sense other than just the employment numbers
+and, again, if we are able to study what you learned at the BIS, will be better informed. I don’t
+like the idea of making a decision of this nature outside normal channels. In fact, I think the
+impression that you, sir, have given directly to the markets is that you don’t feel comfortable
+either making a fed funds decision outside the normal channels.
+I am always concerned when we talk about what market expectations are because in this
+recent cycle, and the mood that the market is in, as one of my friends put it, we give the market a
+
+January 9, 2008
+
+26 of 60
+
+gift of a rate cut and then they burst into tears and run outside the room after they have
+unwrapped the package. I think we have to be very careful here about thinking that we are going
+to satisfy markets somehow. I don’t think the market is in that kind of mood, and my experience
+as a market operator indicates that, almost in any context, we are not going to get it just right
+with markets. I think we have to do what is right for the economy.
+The other point I would make is in terms of the 1990-93 experience and the 2001
+experience. This is something that we need to think through a bit further, at least here in Dallas.
+There is a difference in the sense that a lot of the inflationary pressures we are feeling are
+demand-pull inflationary forces that are coming from newly emergent economies that are at a
+point in their growth cycle where they are kicking in to caloric and BTU intake at a much faster
+rate than the rate that they are growing. If we were a closed economy, of course, the issue of
+labor prices and so on would bear an enormous amount of weight, and the concerns that have
+been expressed would be most consequential. They are still consequential, but I am not
+convinced at this point in the evolution of the global economy that we are likely to see as much
+mitigation as the staff is forecasting. It is just a question mark, but I think we should be aware of
+it. So, in summary, I don’t think we should decide at this meeting. I think it would be the wrong
+signal to send. It goes outside the norm, including the norm that I believe you yourself have
+expressed.
+On the questions you asked about signaling, we just received a memo from the
+representative from Nashville—that is, Governor Kohn—about being very careful what we
+signal in our speeches. I think that is a very delicate thing to do, Mr. Chairman, in terms of
+building expectations that may or may not be fulfilled or may be misinterpreted. So I have the
+same concerns that President Lacker expressed on being proactive.
+
+January 9, 2008
+
+27 of 60
+
+One last comment. No matter what you say, and in terms of representing our views and
+your views, it is very, very important to remind everyone that we have a dual mandate. The
+mandate is, of course, about employment growth, but we also have a mandate on the inflationary
+front. I still have concerns that we might be planting some seeds that could later germinate more
+rapidly than we would like to see them germinate if indeed we don’t have the kind of weakness
+that we are all afraid of currently. So I think it is constantly helpful, especially coming from you
+as our leader, to make sure that we reinforce the dual mandate without scaring the markets that
+we are not aware of the potential tail risk of severe economic weakness. Thank you, Mr.
+Chairman.
+CHAIRMAN BERNANKE. Thank you. I will certainly do that. President Evans.
+MR. EVANS. Thank you, Mr. Chairman. I would not have thought to call an
+intermeeting videoconference. I tend to think of the in-person meetings as those where we make
+the decisions and do the analysis. But since you made us think about it, I agree with your
+assessment of the economy. I think that things are noticeably softer. I don’t think there is much
+accommodation in place at a funds rate of 4¼ percent. To influence aggregate demand
+noticeably we probably need accommodation on the order of what you are talking about, which
+is about 100 basis points from a neutral federal funds rate. That range is probably on the order of
+4½ to 4¾, so that would put such accommodation at 3½ percent. We have to recognize that
+monetary policy, if it is going to have any influence on aggregate demand, is going to do so with
+a lag. That is what all our analysis assumes and suggests, and so if we want to influence
+aggregate demand to limit midyear weakness, I think we need to take action sooner rather than
+later.
+
+January 9, 2008
+
+28 of 60
+
+In terms of the data developments that you talked about, one thing that is taking place
+right now is that uncertainty is being resolved. The weakness that we are seeing I am currently
+interpreting tentatively as sort of an unraveling of things that we haven’t seen so far, not
+necessarily a deeper weakness. The December data have been weaker. The employment data
+were poor, and the unemployment rate was a lot higher. In constructing my outlook for the
+economy in 2008 and beyond, I had been more optimistic than many that consumer spending
+would hold up in part because of the positive labor market situation. Taken at face value, the
+December employment report puts a crack in that supporting foundation. It is now likely, it
+seems to me, that consumer spending will soften with these labor developments.
+Dave Stockton went through a bit of analysis of the indicators that might lead to a
+recession. President Lacker and you, Mr. Chairman, mentioned regime-switching as well. I just
+want to mention that in Chicago we have been publishing our Chicago Fed National Activity
+Index for a number of years. We started out right at the onset of the 2001 recession, as it turns
+out. As you know, Mr. Chairman, this index is very closely related to your data-rich
+environment analysis with Jean Boivin and Stock and Watson. If you do an analysis where you
+try to assess these regime-switching events, this indicator has done a fairly good job of picking
+that out when it goes below a threshold of, say, minus 0.7. That is some of the probabilistic
+analysis that I did with this back then. If you take some of the developments in the employment
+report at face value, I think that this is headed for a probability of recession this year that is
+higher than 50 percent. So we have to be a little concerned about that. Anyway, that is the
+economic situation that I worry about a good bit.
+What about inflation? Clearly there are risks, and the risks are evident. Core inflation
+rates are projected to be higher in the near term. Headline inflation has been significantly above
+
+January 9, 2008
+
+29 of 60
+
+core for long enough to make people wonder about underlying inflation, but inflation
+expectations have remained contained. With energy prices traversing high levels over a short
+time, the possibility of pass-through during a period of economic weakness cannot be dismissed.
+We also have to be concerned about the reputational cost of inflation going up. But, again, I
+agree with you, Mr. Chairman, that if we do end up with significantly weaker economic activity,
+it would limit the inflation risk.
+What is hard in this period is balancing the risks of going slowly on monetary policy if
+we really think that the risk of a recession is higher. I agree with what you said and Governor
+Mishkin’s thinking about being aggressive in the near term to respond to weakening aggregate
+demand and then making sure that we take back any excessive accommodation at the appropriate
+time. I know that’s hard, but I think that’s what we should do. I would actually favor action
+today on the order of 50 basis points because I think that’s about the only way to get to 3½ in a
+quick enough period of time by our next meeting. That’s what I would prefer. Anyway, those
+are my comments.
+CHAIRMAN BERNANKE. Thank you. President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. I agree with a lot of what I’ve heard around
+the table. I am certainly open to the idea that we will have to reduce rates at our next meeting at
+the end of the month. I am not necessarily opposed to that. Even if I were certain of that,
+though, I do agree with what a lot of people have said already—I don’t think an intermeeting cut
+is either wise or appropriate at this point. As a general proposition, I oppose the idea of
+intermeeting cuts unless a really immediate action is necessary to deal with some severe crisis
+such as September 11 or something of the like. I am not going to reiterate all the concerns that
+others have shared about the risk of an intermeeting cut; I don’t really want to belabor that. I do
+
+January 9, 2008
+
+30 of 60
+
+think, though, that I would just add one point. Even if we were aggressive now, it is not going to
+get us off the hook later. I am afraid that, if we took an aggressive cut today, an intermeeting
+cut, the markets would respond by just wanting even more going further out. I’m not sure that
+we want to put ourselves into that bind. Nor do I want us to be perceived as responding to nearterm numbers or other pressures from the market. So I am definitely open to further cuts at the
+end of the month. I share your concern about the economy. It certainly has taken on a sour note
+in recent data. But I also would note that we are going to get a lot more data between now and
+the end of the month that will help us sort through perhaps the severity or the dimensions of the
+slowdown. I would certainly like to have those in hand before I make a final decision.
+We are in a bind. I share the view, or at least I’m sympathetic to the view, that
+aggressive cuts in the context of declining demand are supportive. But I also share the view of
+President Lacker that, although we may want to take accommodation back quickly, the history of
+this institution is that it doesn’t do that very well. Given the forecast that the staff has provided
+us, I think that is going to be very difficult. I worry that, if such a scenario comes to pass and we
+need to take it back, we will not act promptly enough. Certainly, we all can say that now, as we
+are making the cuts and supplying the accommodation; but I worry that, when the time comes to
+remove it, we will be reluctant to do so. Having said that, I am sympathetic about the concerns.
+My outlook is certainly weaker than it was a few weeks ago, but I would not like to see us do
+something today. I will leave it at that. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Lockhart.
+MR. LOCKHART. Thank you, Mr. Chairman. Many of my thoughts have already been
+stated by others, so I think I can be relatively brief. I appreciate the approach that you are taking.
+I am inclined to be more proactive and would even support an intermeeting move if I felt that the
+
+January 9, 2008
+
+31 of 60
+
+market were better prepared. I supported—actually, I argued for—a 50 basis point cut on
+December 11, and the prevailing view at that time was that 50 basis points plus the TAF would
+spook the market. As I recall, in your summary you said something to the effect that, if it were
+0 or 50, you would probably go with 50 but, since we had the option of 25 plus the TAF, you
+supported that approach. I saw greater risks to the downside in December, and I still do. But
+like President Stern—I think President Plosser said essentially the same thing—I’d prefer that we
+preserve the appearance of being a bit more orderly. So I have some misgivings if we go
+forward with a 50 basis point cut today, and my concerns really relate principally to tactics.
+In my conversations with people over the holidays, I sensed a great deal of angst. I think
+I mentioned this to you in New Orleans the other day. They worry that there is no one in charge,
+and therefore I think the appearance of this move today would conceivably put our credibility at
+risk. You can argue that point perhaps either way. If we were to move today and it worked well,
+then it would preserve and enhance credibility. But let me just say that I am concerned that the
+sequence of actions from December through a possible move today would appear to be panicky
+and a bit incoherent. I think in many respects that is what President Stern said.
+So to summarize, I am very likely to support a 50 basis point rate move later in January
+or even intermeeting in a week or so after more preparation of the market. I think it’s important
+that we husband our credibility at this time, and obviously I agree that we have to watch inflation
+and indications of changing expectations very carefully. I am not unconcerned with that, but I
+see the risks as greater to the downside. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. President Pianalto.
+MS. PIANALTO. Thank you, Mr. Chairman. I, too, am troubled by the weakness in the
+real economy data that we are seeing. Our Beige Book contacts confirm the weakness, and my
+
+January 9, 2008
+
+32 of 60
+
+business contacts to whom I have been talking report more weakness than they did before our
+December meeting. However, they are not flashing signals about a recession. Next week we
+will learn more about just how weak the fourth quarter was through the retail sales and industrial
+production releases for December. Next week we are also going to get the December CPI report.
+In my view, the October and November reports were very disappointing. In November,
+60 percent of the CPI market basket prices increased at rates of 3 percent or greater.
+On learning of today’s meeting, I was concerned about making a large policy move ahead
+of the December CPI report for fear that we would be damaging some of our credibility on price
+stability, so I did not want to make a move at today’s meeting. However, I can support a
+50 basis point reduction at our meeting at the end of the month if we are regarding that
+reduction—and regarding our cumulative policy actions—as just offsetting the decline in the
+equilibrium real rate and we are not being aggressively accommodative. That would be, in my
+view, appropriate policy given my concerns about inflation. But the public could interpret our
+actions as being aggressively accommodative and that we are downplaying inflation risks. So I
+hope, Mr. Chairman, that you will be able to communicate your thinking on this, as you have
+with us today, in some of your upcoming public statements. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you very much. President Hoenig.
+MR. HOENIG. Thank you, Mr. Chairman. I recognize that the risks on the economy are
+elevated. I have recognized it for some time. My concern is that the risks are elevated as
+dangerously, if you will, for inflation as for the slowdown. We have at this point a situation in
+which we have revised up our inflation numbers and yet that is after we have cut 100 basis
+points, which we have not seen the full effect of. Those rate cuts are in process now, and they
+are not going to address the housing issue, given its circumstances, and they are going to work
+
+January 9, 2008
+
+33 of 60
+
+slowly through the rest of the economy as we move forward. We have revised up in our
+estimates the fourth-quarter real GDP numbers, and I think that is important to note even though
+I know our risks overall are elevated for growth, given some of the data coming in. Job growth
+came in disappointingly. It did so also in September, and it was revised up significantly after
+that. I don’t know if the numbers will be revised up, but I would like to go cautiously,
+recognizing that they have been revised up in the past. I think there are tail risks. There is an
+important risk of the economy slowing, perhaps going into recession. I think that there is an
+elevated risk of the inflation numbers continuing to creep up as they have over the past several
+months. If these inflation numbers continue to rise as we decrease interest rates, there is a very
+serious cost that will have a very significant detrimental effect on the economy in the long run,
+which we need to keep sight of.
+My concern—as others have expressed, but it is a very serious concern on my part—is
+that we say we can reverse the policy position or raise interest rates later. But it is extremely
+difficult, and understandably so, because the earlier actions will still be having an effect while
+the economy shows a slowing. When it starts to pick up, we won’t be sure, just as now, whether
+we really are going to accelerate and whether the economy is going to pick up. So we delay in
+reversing those actions, understandably so. So that is why I want to be very cautious about
+coming down with our interest rates because we will be very cautious going up with our interest
+rates on the other side of that.
+I am very pleased that you have not put an actual proposal on an action today. I would be
+very uncomfortable with that. I think we need to have a full discussion with more information
+before we commit to any kind of interest rate moves at our month-end meeting. I understand the
+
+January 9, 2008
+
+34 of 60
+
+risk, but I think it requires a lot of analysis as we look both at inflation and what that may mean
+to us if it’s rising and at the real danger of a recession. Thank you.
+CHAIRMAN BERNANKE. President Poole.
+MR. POOLE. Thank you, Mr. Chairman. I put a very high weight on policy regularity,
+and I believe that improved regularity has had a lot to do with policy success in the last quartercentury. But it is worth discussing this for just a minute because of some of the issues you will
+have to face in the context of signaling. If we were to cut rates today in an intermeeting action,
+immediately the market would be wondering what happens on January 30. Are they going to
+just stand pat on no change, then, on January 30, or will there be more? Those issues would be
+very difficult to resolve by any of us. We would not want to make a flat statement that we would
+rule out further action on January 30. On the other hand, it would be very uncomfortable in
+explaining what that would be. So we would increase volatility in the markets and increase
+questions about our policy strategy and policy direction. So I think it is wise not to act today. I
+think we should reserve those actions for days or conditions when immediate action is required
+that can’t wait three weeks until the next regular meeting.
+Now, in terms of the signaling issue—and I share all the concerns that have been
+expressed both about inflation and about the state of the real economy—next week we get
+important information on the real economy. We get retail sales and industrial production. We
+also get housing starts and permits and the PPI and the CPI. One reason for maintaining a policy
+strategy that focuses on reserving the decision to the time of the regularly scheduled meeting is
+that we can say that at that time we will incorporate all the information at hand and not try to
+make a judgment in advance of that information when we don’t really have to reach that
+judgment. If today were the regularly scheduled meeting, I could support 50 basis points for the
+
+January 9, 2008
+
+35 of 60
+
+reasons that people have been saying. But it’s not a regularly scheduled meeting, so you’re
+going to have the same problem in terms of signaling that we would have if we were to make an
+intermeeting decision. Now, you could avoid this issue by talking about baseball, I guess, or
+some other subject; but, in fact, that would be totally inappropriate, so you’re going to have to
+say something. You can’t be totally noncommittal. If you look at the options market, there is
+apparently a 0.6 probability of a 50 basis point cut on January 30, when we make that
+announcement. I would certainly not favor trying to nudge that dramatically one way or the
+other. It seems to me the most important thing to communicate is the overall strategy that we
+follow. If you were to quite deliberately nudge that a lot higher, trying to push that probability to
+1.0, then you could be—we don’t know, but you could be and we could be—in a very
+uncomfortable position if we got outsized increases much higher than anticipated in the inflation
+numbers that come next week. Indeed, you could have upside surprises in the real economy
+numbers as well. Then, having almost committed ourselves to the 50 basis points on January 30,
+we would be in the very uncomfortable position of how we take that away. So it seems to me
+that the signaling strategy should be to concentrate on the way in which we reach decisions by
+incorporating the best information that we can gather and the most thorough analysis that we can
+apply to the problem and by making the decision at the time that we have the regularly scheduled
+meeting.
+If the data on the real economy continue the trend that we have already seen and if the
+inflation numbers are more or less as expected, the market is going to bid up that probability of a
+50 basis point cut. If we then reach exactly the same conclusion, we will have a very good
+synchronization of our policy and market expectations. It seems to me that what we don’t want
+
+January 9, 2008
+
+36 of 60
+
+to do is produce a signal that then produces a risk of an immediate conflict between that signal
+and the incoming data. Thank you.
+CHAIRMAN BERNANKE. Thank you. Governor Kohn.
+MR. KOHN. Thank you, Mr. Chairman. I certainly share your concern that the current
+federal funds rate is too high. You said that you thought we had about offset the effects of
+tighter credit and declining house prices on demand. I’m not so sure that we have actually done
+enough to make that offset. Certainly, if you look at the staff forecast, we haven’t. They have
+the unemployment rate rising to 5¼ percent, half a point over the NAIRU, at the current funds
+rate, which suggests to me that the current funds rate is substantially above neutral, not at
+neutral. If you look at the market—and, President Fisher, I assure you I am not going to get
+pushed around by the market—I do think the market is telling you that there are a lot of people
+out there who think that the funds rate has to drop 100-plus basis points more, and they don’t
+think that will be consistent with a pick up in inflation. Now, they could be wrong. I’m sure
+they probably are and often are. But I think there is some signal there about the degree of
+pessimism out there about underlying demand that we shouldn’t throw away entirely just
+because it is coming from the market.
+So in my view, policy is probably still restrictive rather than neutral. I don’t think we
+fully adjusted to the deteriorating condition we saw in December. What we saw then was that
+the credit constriction had spread and would be bigger and more prolonged than we had thought
+previously. We saw a steeper, more intense housing decline, with multiplier–accelerator effects,
+and wealth effects on the decline in house prices. We saw the beginning of spillovers to other
+sectors, and I don’t think our 25 basis points really adjusted to all that new information.
+Moreover, the incoming information, although it hasn’t lowered the near-term GDP, does imply
+
+January 9, 2008
+
+37 of 60
+
+weaker growth going forward. With regard to the labor market, it is true that it is one month, but
+it is three different sources of data—the household survey, the establishment survey, and the
+initial claims—all telling us the same thing. Now, we will get more information over the next
+couple of weeks on at least the initial claims part of that and the continuing claims. I think we
+should treat the labor market information as more than just one series for one month. It’s three
+series for one month, and there is probably a little more weight there. In addition, the new orders
+and the ISM survey, housing, and stock market wealth have declined substantially since the
+meeting. So I would say, obviously, we have no insurance. I’m not even sure we’re at neutral,
+and I see the downside risks that you, Mr. Chairman, Dave Stockton, and many others have
+talked about, particularly from the credit markets and credit conditions.
+I agree that the inflation situation is somewhat concerning. Now, some people have cited
+the increase in the staff’s inflation forecast for 2008 of 0.4 percentage point; but of course that’s
+the energy price situation. I think so far through this cycle the feed-through of energy prices into
+core inflation has been pretty darn low. The staff has built in a little here. Inflation expectations
+do remain anchored. To be sure, the core inflation numbers came in a little higher, so they’re a
+little worrisome, too. I think there is going to be less pressure on resources than we thought.
+The unemployment rate is higher, capacity utilization will be lower, and I think the competitive
+pressures are going to constrain compensation and prices. As somebody pointed out, the fact
+that even at a 4½ percent unemployment rate we really have seen very little, if any, pickup in
+labor costs suggests that my concern about that occurring at a 5 and a 5¼ percent unemployment
+rate would be very, very low. If the staff is right—and, of course I just heard the Romers lecture
+me about how the staff was right and the Committee wasn’t—[laughter] then a 50 basis point
+
+January 9, 2008
+
+38 of 60
+
+decline would just about put interest rates at neutral. It wouldn’t be accommodative, and
+therefore, I don’t think would be particularly inflationary.
+I agree with everyone else. If I thought that a decline in rates would increase the most
+likely forecast for inflation—put it on an upward track—that would be unacceptable. Or if I
+thought a decrease in rates would increase inflation expectations, which would then give legs to
+an increase in inflation, that would not be acceptable either. But I think a decrease in rates at this
+time under these circumstances doesn’t really have that risk. It does shift the balance of risks a
+bit. If you take a little of the downside risk out of growth, you are presumably taking some of
+the downside risk out of inflation, maybe shifting that risk on inflation at the same time. But I
+think a substantial decrease in interest rates at this time would not shift those risks on inflation so
+that they would deviate from the general path over the next couple of years that most of us saw
+in our projections in October. So I’m not as concerned as President Lacker about that.
+In sum, I agree that we need to reduce rates substantially just to get close to buying
+insurance. I would do it sooner rather than later. I would have been prepared to support an
+intermeeting move today. I think the data are weak enough; we are far enough behind the curve.
+To me, looking at the equity market declines, what we have seen since the middle of December
+is a bit of a loss in confidence in the financial markets that we will do enough soon enough to
+keep the economy on an even keel. So I think there has been a palpable deterioration in
+confidence in the Federal Reserve out in the financial markets. I am concerned that we are going
+to get three weeks of bad news and that the erosion of confidence will just gather steam. But I
+see the issues and the negatives also. An orderly FOMC process is to be protected. We are at
+risk of scaring the markets or looking as though we are lurching. I think we are at risk, if we
+move, of creating market dynamics such that they would constantly be in volatility and on alert
+
+January 9, 2008
+
+39 of 60
+
+as to when the next intermeeting move is. So there are a bunch of negatives here; and I guess on
+balance the case for moving—especially if it’s not supported generally by the Committee
+because I think it has to be supported generally by the Committee—is not overwhelming.
+Obviously, I am prepared to wait and make a substantial move at the meeting, but I agree
+that you should signal something in your speech tomorrow that we are likely to move against the
+emerging economic weakness. I don’t think, President Fisher, that a speech that the Chairman
+makes after consulting with the whole FOMC is comparable to the speeches we make as
+individuals. He doesn’t have the risk of misleading the market when he has heard from all of us
+at the same time. This is a very different situation from the situation that many of us were in
+during the previous intermeeting period. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Governor Warsh.
+MR. WARSH. Thank you, Mr. Chairman. Just a few notes. First, on financial markets
+and financial market functioning, I think as Bill Dudley suggested that they are much improved
+from our last meeting. I take that as a very, very good sign, and I think that the improvement in
+financial market functioning will be useful to us to help calibrate the effects of changes in
+monetary policy. We spent some time even today talking about where we are on some range
+between neutral and accommodative and where we want to go. When the markets aren’t
+working, then any policy that we could conceive of would in effect be restrictive, if the markets
+weren’t willing to take our action and do something with it to provide credit. So I think we were
+right to focus on getting the markets back to work, which is a process that isn’t complete, but I
+think the trends are our friend there. Second, concerning financial intermediaries, I would
+underscore the point that the Chairman made at the outset. The problems among large financial
+institutions are very serious, and unlike financial market functioning, which has improved, I
+
+January 9, 2008
+
+40 of 60
+
+think the state of these institutions has not improved since we met last. While it is true that they
+have been raising capital, both in the form of equity and convertibles, the process of writedowns
+and capital-raising is far, far from being complete. I think we continue to have some headline
+risk, both in the United States and among non-U.S. institutions, between now and our meeting at
+the end of the month as well as throughout the first quarter.
+The good news is that the real economy data have superseded those data with respect to
+financial institutions. The bad news is that these top twenty or so institutions are still largely illequipped to facilitate credit or to be shock absorbers here to any great degree. If you think about
+that in terms of other shock absorbers that might be available, including fiscal policy, I think
+there is reason for the seventeen of us on this conference call to feel relatively lonely in thinking
+about policies that can be brought to bear, both from the private sector and the public sector.
+With respect to the real economy, even if one isn’t as pessimistic in terms of probabilities of a
+mild recession or as pessimistic on the chance of a really, really ugly scenario much more dire
+than that, I still think that risk management suggests going in the direction that the Chairman
+emphasized for reasons that have already been discussed by many others on this call.
+As I mentioned, I think there is more burden on monetary policy as I think about fiscal
+policy and some of these other measures. That gives me a view that perhaps we should be erring
+on the side of reaching for a little more by way of rate cuts than we would in a parallel universe
+where we had financial institutions and fiscal policy that were likely to be quite useful. I’m
+somewhat less certain that either of them will be able to stand here in the fray. With respect to
+tactics, I think the right course of action is, as Governor Kohn just referenced, for the Chairman
+to provide some direction to the markets in his speech. That direction will not be perfect. They
+will not understand exactly our posture, but I think they do need to hear from him a sense of
+
+January 9, 2008
+
+41 of 60
+
+where we are collectively, and tomorrow provides a really good opportunity to do that. It would
+be good for them not to be surprised to any great degree when we meet in a few weeks, and I
+think the Chairman will rightly focus them on the real economic data. So as the data change,
+their own expectations of policy could change as well. Governor Kohn talked about the possible
+erosion in confidence in our ability to put policy in place, and I think that by meeting today and
+hearing one another’s views, having the Chairman go tomorrow, and then meeting to finalize our
+judgments on policy action, given all our constraints, is the best course of conduct. Thank you,
+Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+MR. KROSZNER. Thank you very much. I, too, as everyone around the table has said,
+think that there is significant heightening of the downside risks over the last few weeks. As I
+mentioned at the last FOMC meeting, in talking with a contact at a large credit card company, I
+saw a very sharp deterioration in consumer behavior. I subsequently spoke with another credit
+card company that focuses more on the higher-end consumers and found exactly the same issues
+there of slowing payments—even taking into account the seasonals—more delinquencies, et
+cetera. So it wasn’t just a middle market phenomenon; it was also happening on the higher end.
+The quick change between October and December–January, unfortunately, seems to be
+consistent—or is potentially consistent—with the regime-shift model that we have been talking
+about. Also, the sharp rise in the unemployment rate could be consistent with that. I just
+returned from Europe, where concern is growing and there are some especially sharp changes.
+Spain is seeing some very sharp changes in their housing sector as well as in consumption, and
+consumption is going down in the United Kingdom. From discussions there, I also had the
+feeling that they are going to be relatively slow to react to the challenges. So I think we will be
+
+January 9, 2008
+
+42 of 60
+
+getting less support than we have been getting from exports. Also, given that a lot of rate resets
+are coming, we know that there are going to be more delinquencies and foreclosures. That is
+kind of baked into the cake. So we know that there are going to be more challenges in the
+financial system, regardless of everything else, over the next nine months. It does make a lot of
+sense to think about taking out some insurance against those kinds of risks.
+I very much agree with the Chairman’s characterization of the challenges that we will
+have in the banking and financial system because I think it is not a traditional credit crunch,
+when there is a sharp contraction, because so much has been brought onto financial institutions’
+balance sheets. Not only has a lot been brought on but also there is a really dramatically reduced
+ability to get things off the balance sheets. Basically, over the last five years or so, the reason
+that financial institutions could provide so much intermediation and so much support is that
+things didn’t stay on the balance sheets. Now, because there is an impaired ability to get things
+off the balance sheets, it requires much more capital to support the same amount of funding that
+had occurred in the past. Just to try to keep funding at the same old levels is going to require
+dramatically more capital. They will get more capital, but they are not going to get dramatically
+more, so that will mean that it will be more and more difficult for them to support funding of
+operations going forward. So it is very important to think about taking out insurance now.
+With respect to inflation, as a number of people have mentioned, there are some
+disturbing readings recently. But something that is heartening, and for me is really the most
+important thing, is that I don’t see much evidence so far of a significant change in expectations,
+because that is really where the long-term costs of our policy moves come in. If there is a
+temporary slight movement up in inflation, if inflation expectations don’t become unanchored,
+then the cost is relatively low, particularly given the very large downside cost of a regime-shift to
+
+January 9, 2008
+
+43 of 60
+
+a recessionary scenario. Although I am certainly supportive of a fairly bold move at this point, I
+do think it would be better to wait a few weeks. I think we achieve some of that by clarifying
+where we stand through our public discussions. But as a number of people have said, I really
+think we have done a very good job, despite a lot of pressure with respect to our reaction
+functions, in how we react to data, forecasts, and such. I think we would lose some of that if we
+were to move today. That doesn’t mean that we should never move, but I do think it would be a
+bit of a loss because people could misinterpret what we’ve been doing and, exactly as Governor
+Kohn said, set up a bad dynamic. After our FOMC meeting at the end of this month, however,
+we actually have an enormous amount of data that come out because GDP comes out just as
+we’re finishing up our meeting. Then the details come out after that. We get another GDP
+report. We’re going to get two employment reports. So I certainly, in some sense, want to keep
+my powder dry with the possibility of an intermeeting move in the future, but I think that’s a
+time when we’re going to be getting a lot more data about which we may want to say it’s the
+time to move. It would be better from our broader communications policy standpoint to say that
+there have been enough data showing that we really do need to make a move. Thanks.
+CHAIRMAN BERNANKE. Thank you. Governor Mishkin.
+MR. MISHKIN. Thank you, Mr. Chairman. I agree with the Chairman’s general
+assessment of the risks to growth, and I think that currently we are well behind the curve and that
+we need to act much more aggressively in terms of monetary policy. However, I want to say
+that, even though I take the view that we need to be much more aggressive, I do not think that
+today is the day to do it. There are really three reasons that I am not in favor of doing a move
+today. The first is that it is very important to keep moving in the direction that I have hoped we
+are moving in, which is to be much more systematic in terms of thinking about monetary policy
+
+January 9, 2008
+
+44 of 60
+
+and actually communicating that to the markets and the public. Moving today would have the
+potential to indicate that we are being much more discretionary than I think would be
+appropriate, and that could be very problematic. I also would be concerned that it might give an
+impression that we would be overreacting to one piece of information—the employment report—
+and I think that would also be dangerous. There is serious potential for this to be viewed by the
+markets as our panicking, and that would, again, be very harmful in the current environment.
+In terms of where I think we should be heading with monetary policy, I definitely think
+that given the information we have today, though things clearly may change in the next couple of
+weeks, we would need to move at least 50 basis points at the next meeting. Actually, I don’t
+want to rule out the possibility of doing even more at the next meeting or talking about having a
+contingent move, for which we’d prepare the markets, so that it would be more systematic in
+terms of a possible intermeeting move afterwards because there is important information—
+another employment report, retail sales, and so forth—that will come out shortly after the next
+FOMC meeting.
+As I talked about at the last meeting—and I will go into this in more detail in a speech on
+Friday—I think it is very important to be ahead of the curve and react aggressively to financial
+market disruptions. There is an issue of very strong nonlinearity that makes the normal response,
+which we think about in terms of doing optimal policy—the standard linear quadratic framework
+we often work in—not the correct one. In a situation such as the one we are dealing with now,
+with a lot of potential for nonlinearity, it is extremely important to get ahead of the curve. This
+argues for quite aggressive action at this point—as I said, not particularly today but in the near
+future.
+
+January 9, 2008
+
+45 of 60
+
+One concern that people have raised is the potential upside risks to inflation. I am less
+worried about that than some other members of the FOMC for the following reasons. Very
+importantly, inflation expectations seem very solidly grounded. We have had no indication of
+any deterioration in terms of inflation expectations, despite our previous easing moves and the
+very high increases in energy prices. Second, when I think about what drives inflation and what
+are the dynamics of the inflation process, what is important are expectations not only with
+respect to inflation but also with respect to the future path of output gaps. In particular, I do not
+see at this juncture that people are worried that we are going to allow the economy to get
+overheated. In fact, it is the opposite right now. We are more worried about the downside risks,
+where there will be increased economic slack in the economy, and of course, that is consistent
+with the forecast coming from the Board staff. So when I think about the inflation process, I
+think in terms of underlying inflation, which is inflation not over the next year but over the
+longer run, which is appropriate for monetary policy and when we can have an effect. I do not
+see that the upside risk is huge there; in fact, this is very important in terms of allowing us to be
+aggressive in this situation of financial disruption.
+One issue that I think is very important, which other participants here have raised, is that
+there is a fear that we might overshoot if we ease aggressively. In fact, two things could indicate
+that we may have gone too far. One is that we frequently see financial disruptions dissipate very
+quickly. That is what I hope happens, so it is not something that I would be depressed about. I
+would be very pleased about it because, if things start going the right way, just as you can get an
+adverse or a negative feedback loop when these financial disruptions occur, you can actually get
+a virtuous feedback loop, and that can happen fairly quickly. If that occurs, we should be very
+ready to take away some of the insurance that we have provided by aggressive easing. The
+
+January 9, 2008
+
+46 of 60
+
+second is, of course, inflation expectations. If aggressive easing led to the unhinging of inflation
+expectations, that would be a terrible thing. The most important thing that I think we do is to
+ground inflation expectations; it is a key part of our success and of central banks throughout the
+world in recent years. So I think we have to monitor very carefully what is happening to
+inflation expectations. If our easing looks as though it’s causing a problem in terms of inflation
+expectations, then we have to act accordingly.
+I would argue that the way we have to think about policy is that we need to think about it
+being less inertial but maybe more systematic. When we talk about risk management, I think in
+the past there was some element of thinking that risk management was just discretion. We have
+to think about risk management in terms of being more systematic and to think about how we
+might react to changes in conditions so that we would not be inertial. By so doing and indicating
+to the market that we were thinking that way, we could alleviate some of these fears.
+So the bottom line is that I think that we have to be ahead of the curve. I am actually
+very sympathetic to President Evans’s view that we are going to have to move more than
+50 basis points, certainly, over a longer period than just the next meeting. I also think that we
+have to think about that hard and about doing this in a systematic way and prepare the markets to
+understand why we are reacting the way we are, so that we are not seen as being discretionary
+but as operating very much consistently with our dual mandate. Thank you.
+CHAIRMAN BERNANKE. Thank you. Vice Chairman.
+VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. Let me just say briefly that
+I completely support the basic framework that you laid out at the beginning, and I think you gave
+an excellent description of the risks that are ahead for us, the challenges we face, and the basic
+strategy we have to adopt. The dominant imperative for monetary policy now is to get rates
+
+January 9, 2008
+
+47 of 60
+
+down to the point at which we are providing a substantial degree of insurance against the risk of
+a very adverse growth outcome and a more damaging financial crisis. This is going to require
+substantial further policy action, and we are better off getting there sooner. I think there is more
+risk to us now in gradualism than in force. Of course, inflation has accelerated, but I think it is
+very important that inflation expectations have moved down since December, despite the move
+in headline and core and despite a very substantial downward move in the expected path of the
+fed funds rate. Other than that, I would just reinforce the basic framework you presented. I
+would take a fair amount of comfort from the fact that I hear a lot of agreement around the room
+both on your diagnosis of what is happening and in a general recognition of the extent of
+deterioration in the outlook and the extent of the increase in terms of the risks to the outlook.
+That gives us a better basis for a pretty solid consensus in the Committee on the outlook ahead.
+Thanks.
+CHAIRMAN BERNANKE. Thank you. Well, in this less than two hours, we have
+covered intermeeting moves, policy strategy, assessment of the economy, and inflation
+dynamics. I think it has been pretty productive. Seriously, I very much appreciate it. I promise
+to try not to do this too often, but getting this intermeeting update has been very useful for me. I
+very much appreciate it. I think we are a little better prepared for the next meeting when it
+comes, although obviously, as President Poole pointed out, we will be seeing a lot of data and
+certainly there is no pre-commitment to any specific action. But I do think there is at least a
+reasonable amount of support for the idea that some insurance is worthwhile, and we should keep
+that in mind as we go forward. Are there any other comments? President Hoenig.
+MR. HOENIG. Mr. Chairman, just a question. Will you let the world know we had this
+meeting? I ask only because I have a directors’ program tonight and a directors’ meeting
+
+January 9, 2008
+
+48 of 60
+
+tomorrow morning, and I don’t know what the circumstances are about acknowledging this
+meeting or anything else. So I would appreciate some information.
+CHAIRMAN BERNANKE. It will be described, I assume, in the minutes, which will be
+three weeks after the next meeting, so it will be six weeks before this is reported. It will be
+reported, I assume, as a consultation and discussion of the economy. I would advise you not to
+discuss this with your directors. If it gets into the market, it could cause confusion and
+uncertainty. So if possible, I would not discuss it.
+MR. HOENIG. I appreciate knowing that. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Lacker, do you have a point or a
+comment?
+MR. LACKER. Yes. At the outset, in your discussion you said you were doing this in
+part to seek our views before you made a speech and testified and wanted our views before you
+engaged in overt signaling to the market. Someone else mentioned this, but I wanted to support
+this as a practice. I don’t expect you to consult us before every public utterance you make but I
+would just compliment you on this innovation in Federal Open Market Committee practice. So
+thank you very much.
+CHAIRMAN BERNANKE. Thank you. Any other comments? If not, have a good
+dinner. Thank you very much, and we will see you in Washington at the end of January, if not
+sooner. Thank you.
+END OF MEETING
+
+

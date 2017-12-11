@@ -1,0 +1,888 @@
+April 16, 2003
+
+1 of 47
+
+Telephone Conference Meeting of the Federal Open Market Committee on
+April 16, 2003
+A telephone conference of the Federal Open Market Committee was held on Tuesday,
+April 16, 2003, at noon. Those present were the following:
+Mr. Greenspan, Chairman
+Mr. McDonough, Vice Chairman
+Mr. Bernanke
+Ms. Bies
+Mr. Broaddus
+Mr. Ferguson
+Mr. Gramlich
+Mr. Guynn
+Mr. Kohn
+Mr. Moskow
+Mr. Olson
+Mr. Parry
+Mr. Hoenig, Mses. Minehan and Pianalto, Messrs. Poole and Stewart,
+Alternate Members of the Federal Open Market Committee
+Messrs. McTeer, Santomero, and Stern, Presidents of the Federal Reserve
+Banks of Dallas, Philadelphia, and Minneapolis respectively
+Mr. Reinhart, Secretary and Economist
+Mr. Bernard, Deputy Secretary
+Mr. Gillum, Assistant Secretary
+Ms. Smith, Assistant Secretary
+Mr. Mattingly, General Counsel
+Mr. Baxter, Deputy General Counsel
+Ms. K. Johnson, Economist
+Mr. Connors, Ms. Cumming, Messrs. Eisenbeis, Goodfriend, Howard,
+Hunter, Judd, Lindsey, Struckmeyer, and Wilcox, Associate Economists
+Mr. Kos, Manager, System Open Market Account
+Ms. J. Johnson, Secretary, Office of the Secretary, Board of Governors
+Messrs. Ettin and Madigan, Deputy Directors, Divisions of Research and Statistics
+and Monetary Affairs respectively, Board of Governors
+Mr. Slifman, Associate Director, Division of Research and Statistics,
+Board of Governors
+
+April 16, 2003
+
+2 of 47
+
+Mr. Whitesell, Deputy Associate Director, Division of Monetary Affairs,
+Board of Governors
+Mr. Skidmore, Special Assistant to the Board, Office of Board Members,
+Board of Governors
+Ms. Low, Open Market Secretariat Assistant, Division of Monetary Affairs,
+Board of Governors
+Ms. Holcomb, First Vice President, Federal Reserve Bank of Dallas
+Messrs. Fuhrer and Hakkio, Ms. Mester, Messrs. Rasche, Rolnick, and Rosenblum,
+Senior Vice Presidents, Federal Reserve Banks of Boston, Kansas City, Philadelphia, St.
+Louis, Minneapolis, and Dallas respectively
+Messrs. Altig and Rudebusch, Vice Presidents, Federal Reserve Banks of Cleveland and
+San Francisco respectively
+Mr. Weber, Senior Research Officer, Federal Reserve Bank of Minneapolis
+
+April 16, 2003
+
+3 of 47
+
+Transcript of the Federal Open Market Committee Conference Call on
+April 16, 2003
+MR. BERNARD. Let me just note that all Board members are present here in
+Washington except for Governor Kohn who is at the Minneapolis Reserve Bank and Governor
+Gramlich who is also out of town and calling in. All Reserve Bank Presidents but President
+Minehan are on the line, and we are trying to establish a connection with the Boston Reserve
+Bank.
+CHAIRMAN GREENSPAN. Let’s move ahead and start off with the most important
+business of the day by calling on William J. McDonough to tell us about his new venture.
+VICE CHAIRMAN MCDONOUGH. Thank you, Mr. Chairman. When I discussed this
+with you before it became public, I asked you whether you thought I was taking leave of my
+senses to accept this position, and it’s true that I may be. But when Bill Donaldson started to talk
+to me about it, he was able to invoke two of my character traits—my puritanism on some issues
+and my patriotism streak. So I decided, rather than take it easy or make lots of money
+somewhere, that I would respond to the call of public service again. And I must say that I’m
+looking forward to the challenge and to continuing to work with all of you, if not as a member of
+the Fed team anymore.
+CHAIRMAN GREENSPAN. As you know, Bill, we’re going to miss you. But because
+of your new venture, we may very well see more of you than we would have otherwise. So
+congratulations, though I don’t know whether it’s a promotion or demotion! [Laughter] It
+certainly is going to be interesting because a lot hangs on the numbers that come out of our
+financial reporting systems, as you know probably better than anyone else. Dino Kos, would you
+start us off?
+
+April 16, 2003
+
+4 of 47
+
+MR. KOS. Thank you, Mr. Chairman. The markets have slowly shifted their
+focus from headlines about Iraq to headlines about the economy. But the data the
+markets are getting currently are viewed as contaminated by the effects of the war,
+and therefore, market participants are really looking ahead toward the clean data that
+they expect to get in coming weeks. So with that setting and a rather wide range of
+expectations about how the economy will be performing, the markets have tended to
+churn in fairly well defined ranges. The Dow Jones, to take just one example on the
+equity side, has fluctuated between 8200 and 8400 for most of April, and the ten-year
+Treasury yield has traded in a range between 3.9 and 4 percent or thereabouts. The
+dollar also has traded in a relatively narrowly defined corridor against both the euro
+and the yen. So with that kind of “range” trading, implied volatilities have trended
+downward. The VIX, for example, has moved down to the middle to high 20s from
+the mid-30s that had been typical for most of the spring and late winter. Spreads,
+both high yield and investment grade, have been narrowing slowly. The interesting
+point, at least for me, is that cash levels are fairly high and there is demand among
+investors. But issuance has trended downward, especially in the last few weeks.
+Whereas in January and February issuance of investment-grade bonds was at or
+slightly above year-ago levels, March issuance was $36 billion compared with
+$66 billion a year ago, and in April for the month to date it has been $19 billion
+versus $41 billion last year. That just may suggest that there is less demand for
+funding—that corporations either are funding through internal cash sources or are not
+seeing investment opportunities. Let me stop there, Mr. Chairman.
+CHAIRMAN GREENSPAN. Questions for Dino?
+MS. MINEHAN. I don’t have a question, but I just want to report that Boston finally got
+on the call.
+CHAIRMAN GREENSPAN. Cathy, when did you get on the line?
+MS. MINEHAN. At the end of Dino’s presentation.
+CHAIRMAN GREENSPAN. He left the more important information until the end for
+you! Vincent Reinhart.
+MR. REINHART. 1 Thank you, Mr. Chairman. Given that Dino has run down
+market developments of late, I’d like to review very briefly the net changes since the
+staff forecast for the March meeting was put to bed and then focus on the current
+configuration of expectations about monetary policy. In doing that I’ll be referring to
+the material on financial markets that was distributed to you earlier.
+As can be seen in the top panel of your first exhibit, Treasury yields have marched
+unsteadily higher over the past month to post net increases, as presented in the bottom
+1
+
+The materials used by Mr. Reinhart are appended to this transcript (appendix 1).
+
+April 16, 2003
+
+5 of 47
+
+panel, of 24 to 38 basis points. Note that indexed debt yields moved up even more,
+suggesting a shift in expectations about the prospects for the real economy. But this
+is probably more manifest in the review of equity markets in exhibit 2. Major equity
+indexes are currently about 10 percent higher than when the Greenbook was closed,
+and a forward-looking measure of share price volatility (shown in the middle panel)
+has moved noticeably lower.
+As shown in the top panel of exhibit 3, near-term money market futures rates have
+extended their rise from their low point at the end of March. On net, the path of
+expected futures rates (in the middle left panel) has shifted up about 25 basis points
+fairly evenly across the maturity structure. The shifting up of the very front end of
+the expected path of rates appears consistent with an unwinding of any expectation of
+an intermeeting move, a notion that had gained some currency among market
+participants in the previous two weeks. More-recent market commentary appears
+consistent with the belief that policy easing, if it comes at all, will be deferred.
+Indeed, the May futures contracts can be read as implying that much less weight is
+now being placed on policy ease, with the probability of a ¼ point easing move at the
+May 6 meeting (shown in the bottom panel) having fallen to 1 in 4.
+As for private markets, in exhibit 4 you’ll see that swap spreads on balance have
+declined just a touch over the month since March 12. Also, share prices for key
+intermediaries (shown in the middle panel) are up more than the general market, and
+their credit default swap premiums have come in some. That’s all I have, Mr.
+Chairman.
+CHAIRMAN GREENSPAN. Is there anything special in the implied volatility numbers,
+especially in the stock market?
+MR. REINHART. The middle panel of exhibit 2 shows equity volatility.
+CHAIRMAN GREENSPAN. That indicates a downward draft from March 9 through
+March 15.
+MR. REINHART. Yes. That importantly is related to the increase in the level of equity
+prices. We often observe that inverse correlation.
+CHAIRMAN GREENSPAN. So it’s really not telling us anything different from the
+S&P 100 itself?
+
+April 16, 2003
+
+6 of 47
+
+MR. REINHART. I think one could probably say that about nearly every figure in this
+presentation. Share prices are higher on balance, and that has been associated with increases in
+yields and declines in volatilities.
+CHAIRMAN GREENSPAN. Further questions for Vincent? If not, Karen Johnson.
+MS. JOHNSON. 2 Thank you, Mr. Chairman. I will be referring to the charts
+entitled “International Financial Markets” that we sent out to you. I would agree with
+Dino’s characterization that the changes we’ve seen in global financial markets and in
+the information we get from market chitchat reflect a swing back to a focus on
+economic news from war news. Economic developments, such as they are, are the
+factors that are moving these markets. Over the past week since your previous
+conference call, there has been no really dramatic trend that these markets have
+shared in common. In some sense the moves are sideways or only slightly up or
+down across these markets.
+Chart 1 depicts selected exchange rates. In the eight days since your previous
+conference call last Tuesday, the dollar has moved down just a bit on a weightedaverage nominal basis against the major foreign currencies—that’s the dotted blue
+line in the bottom chart. In particular, the dollar has been moving down in most
+recent days against the euro and the Canadian dollar. The Bank of Canada raised its
+official lending rate 25 basis points this week. Bank officials cited inflation and the
+implications for activity of capacity utilization of resources as reasons for the increase
+and referred as well to what they perceived to be a better balance with respect to
+factors coming from outside the Canadian economy. The yen versus the dollar has
+moved largely sideways. We have been tracking commercial bank deposits with the
+Bank of Japan as carried on the balance sheet of the Bank of Japan. Those deposits
+grossed 35 trillion yen at the end of the fiscal year on March 31 and presumably are
+heading back down toward the target of 22 trillion yen. But they have been in the
+vicinity of 27 trillion to 28 trillion yen for some time now, and the Bank of Japan
+clearly is in no hurry, at least, to move them all the way back down to 22 trillion. If
+anything, the level at which the BOJ is maintaining those liquid balances has been
+relatively narrow recently.
+Chart 2 depicts short-term interest rates as measured by three-month
+Eurocurrency futures rates on the left; there’s a longer-term look on the right in
+calculated one-year forward rates derived from swaps. Short-term interest rates have
+changed only slightly, and the direction is somewhat mixed. They are up for the euro
+and sterling, consistent with what we interpret as a further lessening of expectations
+of policy ease by the ECB or by the Bank of England. In market terms, there is still
+an expectation that the ECB is going to ease by perhaps another 25 basis points some
+time during this year, but there is no high probability built into such a move any time
+soon. In yen rates we’ve seen downward moves in the longer-term area to new record
+2
+
+The materials used by Ms. Johnson are appended to this transcript (appendix 2).
+
+April 16, 2003
+
+7 of 47
+
+lows; and Japanese ten-year and twenty-year rates are falling further, having reached
+remarkably low levels earlier this week.
+Chart 3 shows stock markets, which have already been characterized a bit. I
+would point out that there is a difference between what is happening in Europe versus
+Japan. European indexes are still well off their lows of March 12, and they have
+moved up further over the past week in line with U.S. markets, which Vincent was
+talking about just a minute ago. In Japan, stock prices are down on balance since last
+Tuesday, although they have moved up just a bit in the last two days. Generally they
+moved sideways in March and to date in April rather than having the clear upward
+trend displayed in the other panels of the chart. There is an issue being talked about
+with respect to Japanese share prices that we do not know exactly how to quantify. It
+has to do with an incentive now in effect for private pension plans to give back to the
+government management of the public portion of what in fact are shared pension
+plans. Allegedly that is triggering sales of equities, but there’s really no way to
+establish how important that is in explaining why Japanese share prices are not rising
+while those elsewhere generally are rising. As for countries not shown on the chart,
+share prices have been moving down in Hong Kong and Singapore—which we are
+attributing in part to the consequences of SARS on those economies—and have been
+moving up in Korea and Taiwan.
+Finally, chart 4 reports the latest developments in oil prices. Oil prices have
+edged up most recently. Today spot is trading around $29, and the May contract is at
+that level, too. As you can see in the top panel, the June contract actually is slightly
+lower, reflecting the fact that the near-term portion of the futures curve still has a
+slightly downward slope. So futures prices fall a bit from May and June, but as I
+mentioned last week, the curve has flattened and is pretty much flat after mid-2004 or
+so. I can report, as you probably already know, that the oil fields in northern Iraq are
+now secure, so that source of risk to oil prices seems to have abated. OPEC is
+planning a meeting on April 24 to address issues with respect to price, including
+concerns that oil markets are in fact oversupplied—which they have at least
+suggested—and that further downward pressure on prices is a risk. As for Nigeria, no
+new element is threatening in events there, but the unfolding of the election process is
+ongoing. Parliamentary elections have been held, and the presidential elections are to
+be held shortly. We have seen some violence as a consequence of elections being
+conducted, which suggests that there’s some risk of further disruption. The country is
+at the point where about half of the shut-in capacity has been restored. So of the
+800,000 that was shut-in, 300,000 to 400,000 is thought to be back in operation. That
+concludes my remarks.
+CHAIRMAN GREENSPAN. Questions for Karen?
+MR. FERGUSON. Karen, you passed by the SARS issue. Do you see any risk that that
+could become a broader macroeconomic issue? It has had an impact on a few airlines, and I
+
+April 16, 2003
+
+8 of 47
+
+understand that the trade show now going on in China has very low participation. How much
+risk, if any, should we ascribe to SARS as an impact on Asia in a macroeconomic sense?
+MS. JOHNSON. We think it will be visible in the data in some sense for Hong Kong and
+Singapore most especially and perhaps a tiny bit for China. Based on what we now know, we
+think the effects will be enough to show through but not be a major source of pressure. There
+really is no way of knowing if SARS is about to be contained and recede or whether it’s going to
+continue to surprise us. And if it continues to surprise us, it’s unclear whether it will be as a
+nagging but still small factor or if it will grow. So in all honesty I really can’t answer the
+question. Our thinking now is that this will be a major factor only in the places where it has
+already been very evident as such. But that judgment is based on the lack of any reason for
+making a more aggressive assumption. We’re just in a wait-and-see mode.
+MS. MINEHAN. Roger?
+MR. FERGUSON. Yes.
+MS. MINEHAN. This is Cathy. I had some conversations with contacts at high-tech
+firms here in Boston, and I was surprised by the degree to which SARS was mentioned. One
+anecdote is from a company that makes very big pieces of equipment that go on a production line
+and test the quality of chips as the chips are being manufactured. The firm supports its
+equipment with staff from here in the United States, using very high tech procedures to install it
+and so forth. Instead of that being three days of work on the production lines—particularly in
+China but throughout Asia as well—their people now have to go through a ten-day quarantine
+period, do the three-day job, and then be quarantined for ten days afterwards. So it has really
+played havoc with the businesses of companies that try to support operations in Asia from here.
+Other companies—for example, a major manufacturer of consumer goods in our District that has
+
+April 16, 2003
+
+9 of 47
+
+plants in China—don’t see SARS as much of a threat because their Chinese operations are very
+self contained and don’t need to be supported much from here. But for anybody who has an
+airline connection or for any firm that provides support or other interaction that requires travel, it
+has become very difficult.
+CHAIRMAN GREENSPAN. Any further questions for Karen? If not, David Wilcox.
+MR. WILCOX. 3 Thank you, Mr. Chairman. I will be referring to the package of
+charts labeled “Nonfinancial Developments.” Since last week, when Dave Stockton
+summarized the nonfinancial outlook for you, three major releases have been
+published—industrial production, the consumer price index, and housing starts. As
+shown on line 1 of our first chart, total IP currently is estimated to have declined
+½ percent in March. In part this reflected a sharp decline in the output of utilities
+(line 8) owing to warmer-than-normal weather. But even leaving that aside,
+manufacturing output (line 3) declined 0.2 percent. Moreover, previous estimates for
+December and February were revised down noticeably, as newly available and
+revised source data were brought on board. As shown on line 5, high-tech output
+moved up in March, but elsewhere in manufacturing the situation remains
+discouraging. As shown in the middle right panel, manufacturing output excluding
+the motor vehicle and high-tech industries has been flat over the last three months.
+Unfortunately, none of the available indicators—including the orders data from the
+Census Bureau and the various purchasing manager series—gives us reason to think
+that the next three months will be any better. Overall, the picture in the industrial
+sector looks somewhat softer in the recent past than we had previously estimated and
+somewhat softer in the next few months as well.
+As indicated in line 1 of your next chart, the consumer price index increased
+0.3 percent in March, pushed up by another sizable increase in energy prices (line 2).
+As shown on line 4, the CPI excluding food and energy was unchanged in March,
+reflecting another small decline in core commodity prices and a second consecutive
+low reading on inflation in non-energy services prices. The middle panel depicts two
+workhorse measures of core consumer inflation, which continued to edge down.
+Over the past twelve months, the core CPI has decelerated 0.7 percentage point. Core
+PCE price inflation, shown as the red line, appears to have decelerated only
+0.1 percentage point through March, based on our translation of the CPI data released
+this morning. But the market-based subset of this index has decelerated an estimated
+0.5 percentage point, more in line with the contour of the core CPI. The bottom left
+panel displays this morning’s data on housing starts and permits. As shown in line 2,
+single-family starts rebounded in March, and preliminary inspection of the data
+suggests that the bounceback was of about the magnitude we had been expecting on
+the basis of the adverse weather conditions in February. However, the permits
+number came in softer than we had been anticipating, and mortgage rates have edged
+3
+
+The materials used by Mr. Wilcox are appended to this transcript (appendix 3).
+
+April 16, 2003
+
+10 of 47
+
+up since the time of the March Greenbook. So we will likely be trimming our
+forecast a bit for housing construction in the upcoming Greenbook projection.
+As shown in the top left panel of your next chart, the four-week moving average
+of initial claims for unemployment insurance has remained in the neighborhood of
+420,000, consistent with a further decline in payroll employment in the labor market
+report for April. In the motor vehicle sector, the subject of your middle two panels,
+the key factor is that inventories have remained on the high side. In response,
+General Motors is now offering zero percent financing on sixty-month loans, and the
+PIN data show a sizable step-up in incentives at the beginning of April on an industry
+average basis. As can be seen in the middle left panel, our contacts on the whole
+seem extraordinarily uncertain about how much of an effect the higher incentives will
+have, but they are reasonably optimistic overall. As shown in the middle right panel,
+the motor vehicle manufacturers also have responded by scheduling production at a
+distinctly lower level in the second quarter than in the first. We currently are
+guessing that motor vehicle production will take about ¾ percentage point off the
+growth of real GDP in the second quarter. The bottom left panel shows that sales at
+chain stores improved in the most recent week, but sales are still essentially trendless
+since the beginning of the year. As shown to the right, consumer sentiment, as
+measured in the University of Michigan’s index, inched up a bit further in early April
+from its late March reading.
+On balance, the information we’ve received since the March Greenbook points to
+slightly weaker activity in the second quarter than we had expected. Our current
+estimate of GDP growth in the second quarter is down only a hair but the composition
+is now noticeably different, with defense spending providing a good deal more thrust
+than we had earlier anticipated and private domestic final sales looking a bit more
+anemic. Our projection for the growth of manufacturing IP in the second quarter has
+been revised down about 2½ percentage points at an annual rate. And the labor
+market looks a little more sluggish than was implicit in our March outlook, with
+claims hanging up higher and longer than we had been anticipating and with surveys
+of both business and household sentiment remaining very soft.
+Looking to the second half, as Dave Stockton indicated last week, we will be
+inclined to tamp down our projection for growth, partly reflecting our somewhat more
+subdued assessment of the labor markets and also the absence thus far of any
+reassuring harbingers of increased vigor on the investment front. Another factor
+reflects simply the arithmetic of defense spending having built a higher base in the
+second quarter and, therefore, given what we know about appropriations, having less
+room to contribute to growth in the second half. That said, the stock market is up, as
+others have noted, in the neighborhood of 10 percent relative to our expectation in the
+March Greenbook, and oil prices have fallen faster than we had assumed. So we
+wouldn’t want to mark down our projection very far. In the end, I suspect that we’ll
+be left with an economy displaying roughly the same gap in resource utilization by
+the end of 2004 as in the previous forecast and an inflation rate that may be just a
+shade lower than in the March Greenbook. That concludes my remarks.
+
+April 16, 2003
+
+11 of 47
+
+CHAIRMAN GREENSPAN. Questions for David?
+MR. PARRY. David, this is Bob Parry. I was wondering if it’s possible at this point to
+quantify the second half of the year and 2004 a bit. At the time of the Greenbook, of course, you
+had a little over 4 percent growth in the second half of 2003 and a little over 4½ percent in 2004.
+Are you talking about a tenth or two or—
+MR. WILCOX. My guess would be, Bob, that our forecast for the second half of this
+year might be in the neighborhood of ¼ percentage point softer and that perhaps the bulk of that
+will be made up next year on the strength of equity market developments.
+MR. PARRY. Okay, thank you.
+CHAIRMAN GREENSPAN. Further questions for David? If not, as I indicated a couple
+of weeks ago, I thought it might be worthwhile to do a somewhat truncated roundtable today.
+So, for those of you who have remarks you’d like to make, what I plan to do is to go sequentially
+through the Banks, starting with the First District, and then turn to the Board members. Cathy,
+as President of the Boston Bank, do you have any comments to make now that you’re on the
+line?
+MS. MINEHAN. Yes. Let me very quickly summarize a whole range of conversations
+we’ve had with various contacts. Some of these conversations occurred in the normal course of
+business—in the Beige Book calls and in meetings that had been scheduled—and some involved
+discussions I’ve had with CEOs in the region representing a wide range of industries.
+In general, while the Iraqi war situation seems to be getting a bit clearer, almost all of the
+contacts we talked to continue to see a great deal of uncertainty as they look ahead. No one had
+a sense of confidence in projections for later this year or for 2004. The most common
+characteristic of their attitude, as they expressed it, was extreme caution. They don’t see the
+
+April 16, 2003
+
+12 of 47
+
+economy moving into negative territory, but they don’t see it growing much either; and they
+talked about the risks almost to the exclusion of the opportunities.
+I mentioned SARS before and noted that I was surprised by how much that issue was
+raised. The slow-to-flat activity in Europe and Japan was rated as a key risk factor by a couple
+of major manufacturers with global consumer or capital markets. At least one of them
+characterized the situation in Latin America as a “return to the ’50s,” with economies,
+particularly consumer demand, collapsing. Firms are affected to some extent, as you can
+imagine, by the decline in the dollar—particularly when a significant amount of production and
+revenue is generated abroad. Finally, several software companies told us that to actually make a
+sale they have to prove that the period of time necessary to generate a return on investment is
+ever shorter. A year or so ago they had to show that the software was going to provide a return
+in twelve months, and that has shifted down to three months now. They think that is used as an
+excuse by most of their customers, who just are not willing to spend any money or to buy
+anything at this time.
+There are some bright spots. If you’re a small biotech software company here in New
+England—and by “small” I mean in the $10 million to $50 million range in revenue—you’re
+probably hiring and growing. We’re also seeing a bit of a flattening out in the declines in
+working capital borrowing by companies across a number of industries. That kind of borrowing
+isn’t growing much, if at all, but the bankers generally think it has stopped declining. One hightech manufacturer pointed to low inventory levels as a reason to expect that, when capital
+spending starts, it might start with a bang. He believes the long supply chains combined with
+low inventories, both driven by cost-cutting initiatives, suggest that a lot of companies may not
+be able to handle even a small surge in demand. He is betting that capacity might have to be
+
+April 16, 2003
+
+13 of 47
+
+added quickly and at a high cost, if demand grows at all. In sum, the words “cautious,”
+“uncertain,” and “flat” were used repeatedly by our contacts. Companies want a lot more
+evidence of a rebound in economic activity before they are going to hire or spend on much of
+anything that doesn’t help them cut costs. That’s about it.
+CHAIRMAN GREENSPAN. Thank you. Vice Chair.
+VICE CHAIRMAN MCDONOUGH. Mr. Chairman, I’ll be very brief. The mood in the
+Second District is very much related to what is going on in financial markets and financial firms.
+Usually reliable sources say that the global settlements with the financial firms regarding their
+research conflicts of interest may occur very soon and that the global settlement on Enron will
+take place perhaps a week later. That will remove the fog of uncertainty very substantially in
+this District, and I think the attitude of the investment houses and the commercial banks will be,
+Let’s get this behind us and go back to doing our business with a more optimistic mood. That
+certainly will help the District and probably will help the national mood as well.
+CHAIRMAN GREENSPAN. President Santomero.
+MR. SANTOMERO. Thank you, Mr. Chairman. I have two observations to report. The
+first is the information from our April business outlook survey, which will be released tomorrow
+at noon. It shows somewhat weaker activity in the manufacturing sector but I think less of a
+softening than is now being anticipated. The index of general activity goes from minus 8.0 in
+March to minus 8.8 in April. The indexes of new orders and shipments and employment all fell
+this month as well, and negative indexes for delivery times and unfilled orders are consistent
+with the weakness in manufacturing. In this survey we asked some questions about how much of
+the decline was associated with the war and how much was associated with the general decline in
+demand. About one-quarter of these firms indicated that the decline was associated with the war,
+
+April 16, 2003
+
+14 of 47
+
+with most indicating that the effect was slight or moderate. However, 14 percent reported that
+their war-related declines were fairly significant. There was a general sense that business was
+clearly not improving and was deteriorating slightly on the manufacturing side and that at least
+some of that was war driven.
+Second, we went back to our Beige Book contacts to ask them for some notion of how
+things stand, and they are reporting some softening in conditions in early April. Retail sales in
+the District were running below year-ago levels in all lines of merchandise. Auto sales were
+down compared with March and April of last year, and store executives attributed weak sales to
+a combination of both cold weather and the war in Iraq. Our retailers have mixed views about
+the future. Some expect improvement as soon as the weather improves and the war winds down.
+Others are more cautious.
+In summary, I would say that the situation is best described by the words of one of our
+board members. He said that we have been going through a period of several months in which
+the order books were meandering and falling into somewhat of a malaise and now the question is
+whether we will get out of it after the war is at least somewhat settled. That’s all I have to report.
+CHAIRMAN GREENSPAN. Thank you. President Pianalto.
+MS. PIANALTO. Thank you, Mr. Chairman. The economic information that I’ve
+gathered from my directors and other business contacts in the past few weeks really hasn’t
+altered my view of the economy. The economy is still expanding, but growth remains subdued.
+With the exception of steel manufacturers and a few durable goods manufacturers, most of the
+people I’ve talked to say that they expect conditions to improve in the next six months. Very
+few of my contacts reported any noticeable change in their business due to the war in Iraq. The
+exception was retailers, who did notice a slowdown in traffic but only during the first few days
+
+April 16, 2003
+
+15 of 47
+
+of the war. One of my directors called it the “CNN effect,” people staying home to watch the
+war on TV. Although consumer spending reports were generally weak in April, retailers that I
+talked to are optimistic that sales will bounce back, in part because of improved weather, but
+they also are hoping that the longer Easter buying season will improve sales.
+Most manufacturers that I talked to noted that production and sales were flat or slightly
+improving. In general, growth was stronger in the nondurables sector than it was in the durable
+goods sector. Nondurable goods producers reported steady or even increasing employment as
+well as some significant overtime at their plants; durable goods manufacturers, on the other hand,
+reported some layoffs and staff reductions as well as shortened overtime schedules. Most
+durables manufacturers expected conditions to remain flat in the near future, but some did have a
+degree of optimism regarding increased sales and production during the latter half of 2003.
+The bankers in our District continue to see strong mortgage refinancings. For the first
+time, though, I also heard more of our banking contacts say that commercial borrowers were
+taking advantage of the lower interest rates by refinancing their outstanding loans. Bankers are
+reporting that they are flush with deposits and that net interest margins are being squeezed.
+In summary, I haven’t seen much change in the economy over the past few weeks—no
+deterioration but also no improvement. That concludes my comments, Mr. Chairman.
+CHAIRMAN GREENSPAN. Thank you. President Broaddus.
+MR. BROADDUS. Thank you, Mr. Chairman. Our District’s economy is still fairly
+sluggish overall, and the manufacturing sector is clearly the weakest part. We do a monthly
+survey, which showed shipments and orders both down in the most recent report, and the
+weakness in autos was especially pronounced. One bright spot is textiles, which have benefited
+to some degree from the military buildup.
+
+April 16, 2003
+
+16 of 47
+
+In the services sector, conditions are not much better. Sales are flat, but again there are a
+couple of bright spots. For one, bookings for tourist activity along the Carolina coast are
+significantly stronger than had been anticipated not too many weeks ago. Also, a fairly sizable
+trucking operation that I hear from every month had reported to me that their activity was quite
+weak early in the year, in January and February. But their activity picked up a lot in March and
+is continuing to pick up so far in April.
+Capital spending is still weak, obviously, and in trying to look forward it’s a little hard to
+read business attitudes. Some people that I talk to think that the end of the war and the related
+reduction in uncertainty is going to make some difference in that regard. Others think that the
+economy will remain weak. One piece of information, though, is that a lot of companies
+reportedly have projects on the shelf that are ready to go if firms get some sense that business is
+going to pick up.
+Housing activity is still rather strong; though the pace may be slackening a bit, the level
+is still very high. As far as labor markets are concerned, they are soft, as is the case elsewhere in
+the country, but my sense is that currently they are not softening significantly further. We
+actually had a drop in unemployment rates in a couple of our District states recently, although
+that was in February, so it’s not particularly recent information. In sum, it’s still a pretty mixed
+bag in our District. That’s all I have to contribute.
+CHAIRMAN GREENSPAN. Thank you. President Guynn.
+MR. GUYNN. Thank you, Mr. Chairman. I, too, can be brief. My views overall
+haven’t changed a great deal since we last were around the table together. We haven’t gotten the
+happy positive surprises that we all might have hoped for; on the other hand, things have played
+
+April 16, 2003
+
+17 of 47
+
+out pretty much as I think we expected. We’ve avoided some of the worst case scenarios with
+regard to both the length of the war and oil prices, and I think that’s at least a small positive.
+One regional contact that is new for us and has become a regular source is a large
+temporary talent agency—I think it may be the third largest in the country. In our discussions
+this past week, I picked up a couple of interesting tidbits. They reported that they had revised
+down their expectations with regard to the demand for temporary talent. One thing they’ve
+noticed in the last few weeks is that companies are requesting fewer workers but that those
+employing new temporary workers are working those people slightly longer hours. My contact
+interprets that as less confidence on the part of businesses that they’re eventually going to want
+to employ more labor.
+When I combine that observation with the other developments we’ve already had on our
+list—productivity growth and reports about the ability to function with fewer workers that we
+hear from firms such as those in the new southern auto industry—I think we might expect
+subdued growth in employment. Another comment we’ve heard several times is that the burden
+associated with a new hire is even higher now because of escalating health care costs and the
+need to begin to fund pensions for each new worker. All in all, those developments have
+tempered my own expectations at least about how quickly and how robust job growth might be.
+But putting that aside, I’d say again that in my view things have played out about as most of us
+expected. I don’t think there’s much else I’d add. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. Thank you. President Moskow.
+MR. MOSKOW. Thank you, Mr. Chairman. Economic activity in our District does not
+appear to have changed much in recent weeks, a situation that is similar to what my colleagues
+have said about their Districts. A few of our contacts saw some further softening when the war
+
+April 16, 2003
+
+18 of 47
+
+began, but no one noted a significant deterioration in activity. Neither do they expect sharp
+increases with the conclusion of the war. Many of our contacts continue to be pessimistic about
+the outlook for investment. They do not see enough projects that are far enough along in the
+planning process to produce a major increase in capital spending in the second half of the year.
+Labor demand is still soft but does not appear to be eroding further. For example, both of
+the large temporary help supply companies headquartered in our District reported that year-overyear growth rates in billable hours had been falling since the beginning of the year but had
+stabilized in recent weeks. One firm reported that some big customers currently are making
+plans for projects that would require hiring a significant number of temporary workers, but those
+firms are waiting to see how the economy evolves before committing to the deals. He thought
+they would be sitting on the fence for another two to six weeks.
+Consumer spending still seems to be moving forward, though at a relatively sluggish
+pace. Sales figures for March generally were in line with expectations according to our retail
+contacts. Similar to what David Wilcox said, we also are receiving mixed signals about
+consumers’ responses to the latest rounds of auto sales incentives, though it’s too early to judge
+on that.
+Overall, our information since the last meeting is consistent with the economy still
+moving forward, albeit at a disappointing pace. Looking ahead, even though our contacts do not
+see any underlying catalysts that will rekindle robust growth, the collective mindset seems to be
+that the economy will grind on through these rough times. This attitude suggests that even if we
+saw a few more bad numbers or were hit by some modest adverse shock, business confidence
+would be resilient enough to absorb them. That concludes my comments, Mr. Chairman.
+CHAIRMAN GREENSPAN. Thank you. President Poole.
+
+April 16, 2003
+
+19 of 47
+
+MR. POOLE. Thank you, Mr. Chairman. I met last week with our directors at our
+regular board meeting, we had a luncheon here at the Bank with local retailers, and I made a
+number of phone calls. Overall conditions are flat. The standard comment from many of our
+contacts, as it has been for several months now, is that they are “just muddling along.” I spoke
+with my contact at Wal-Mart early in the week and at that time he said that Wal-Mart was
+projecting April to be up 8 percent year over year. March was up only about ½ percent. Since
+that time I saw newspaper reports that Wal-Mart had a 7 percent projection for April. That was
+greeted in the papers as being optimistic. But I think most of the increase in sales is a
+consequence of the fact that Easter is late compared with last year. My contact said that it’s
+rather difficult to sort out from their data how much of what is occurring in the retail sector is a
+consequence of the war, the rotten weather over a good part of the country, or the late Easter. He
+did report that SARS is affecting Wal-Mart not in terms of the flow of goods from Asia but with
+regard to buying trips. They have cancelled all of their buyers’ trips to Asia. That is certainly a
+new issue that we had not anticipated. My FedEx contact also mentioned SARS, noting that
+their operations had not been affected but that they have curtailed unnecessary travel to Asia. I
+don’t think there’s any question that SARS is an unexpected and very unpleasant development at
+this point. That summarizes the story in my District. Thank you.
+CHAIRMAN GREENSPAN. Thank you. President Stern.
+MR. STERN. Thank you, Mr. Chairman. The one comment I would make is that, in my
+conversations with a variety of business people over the last several weeks, I’ve found a
+conviction among them that the war, both its prospect and its conduct, was not a major restraint
+on their activity or their plans. As a consequence they felt that when the war ended, that would
+not lead to any particular pickup in activity. The one caveat I would add to that is that I don’t
+
+April 16, 2003
+
+20 of 47
+
+know what they were anticipating about oil prices. As David Wilcox indicated, those prices
+probably have come down a bit more quickly and sharply than might have been anticipated.
+That’s all I have.
+CHAIRMAN GREENSPAN. Governor Kohn I gather is with you, is he not?
+MR. STERN. He’s here, and I think he’s ready to participate if you’d like.
+CHAIRMAN GREENSPAN. Why don’t we put him on the program now.
+MR. STERN. Okay.
+MR. KOHN. Thank you, Mr. Chairman. It’s evident from what we’ve been hearing that
+the general sense of a very sluggish economic expansion hasn’t left us yet, but it’s probably a
+little early to expect a rebound triggered by the end of the war, the decline in oil prices, and the
+rise in equity prices. Still, I suppose it’s a little discouraging to hear that attitudes don’t seem to
+have changed. Given the low level of resource utilization and low inflation, I think it will be
+important to look for some early signs that the economy is going to break out of this 2 percent
+growth rut that the staff has penciled in for the first half of the year. Hopefully, we’ll have some
+more clues in that regard when we get together on May 6.
+CHAIRMAN GREENSPAN. President Hoenig.
+MR. HOENIG. Yes, Mr. Chairman. Our District economy continues to show a mixed
+but overall sluggish performance, as I noted at the last FOMC meeting. Retail sales in our region
+have been relatively lackluster. Manufacturing was down slightly in March according to our
+survey, but manufacturers are still fairly optimistic as they look six months out. Also, we
+contacted a couple of our manufacturers again very recently, and they are more optimistic than
+they were at the time of the survey. They are at least getting more inquiries, and that gives them
+some optimism, although the inquiries have not been converted into orders at this point. As for
+
+April 16, 2003
+
+21 of 47
+
+our labor market, layoff announcements still continue, but they have slowed and noticeably so.
+Let me mention the energy sector. We drill primarily for natural gas in our region, and activity is
+currently very strong and is picking up as well. I want to piggyback on a comment that was
+made earlier. In our talking to and surveying some of our businesses they, too, are saying that
+the effect of the war is not causing them to delay or accelerate decisions. They are, in a sense,
+putting that aside for the moment. Our banks are interesting in that there is some steady loan
+growth but loan demand is not strong at all. So they have good liquidity as they look forward.
+Finally, I’ll just mention that residential activity remains generally good; there has been some
+downturn in Denver, but we think that was mostly weather-related. I think I’ll stop there, Mr.
+Chairman.
+CHAIRMAN GREENSPAN. Thank you. President McTeer.
+MR. MCTEER. The Eleventh District economy appears to remain somewhat weaker
+than the national average overall. There are a couple of isolated encouraging signs, however.
+One of them is that drilling activity for natural gas, as Tom indicated for his District, has picked
+up lately. Our interpretation is that people are finally beginning to think that the higher prices
+may be around for a while. Of course, what prompted that pickup in drilling for natural gas will
+be a negative for the nation as a whole while it’s a positive for Texas. The high-tech sector
+seems to be showing a little life in computers and in the wireless telecom industry. Although
+activity in those two areas has picked up somewhat, generally speaking we see weakness in our
+high-tech sector. There is a lot of anecdotal evidence indicating that, to the extent that workers
+are being reemployed in high-tech industries, they are being hired at much lower wages than they
+earned before they were laid off.
+
+April 16, 2003
+
+22 of 47
+
+The big question in our part of the country is the fate of American Airlines, but it’s a
+question of whether it will be bad versus worse. As you know from the newspapers, two of the
+three unions have voted for substantial concessions to keep the company from having to file for
+bankruptcy. The third union, the flight attendants’ union, did not vote; there were some glitches
+in their voting software, which gave everybody an excuse for a revote today. It’s uncertain how
+that vote is going to come out. Either way, whether the airline avoids bankruptcy or not,
+substantial layoffs are expected—though the layoffs will be somewhat greater if they do file for
+bankruptcy than otherwise.
+Our Beige Book reports have been characterized as mixed and confusing. That’s
+probably a little improvement from the uniformly negative reports we’ve had the last couple of
+times. We had our board meeting last Thursday—it was a joint meeting with directors from
+Branches throughout the District—and the views of our directors were pretty negative. But there
+was zero sentiment for easing monetary policy. No one thought that easing policy would do any
+good, and some thought that it might send out the wrong signal. I guess at the margin I tend to
+agree with that. That’s all.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. Thank you, Mr. Chairman. Indications are that economic growth in the
+West is still sluggish, with the situation in Iraq having little discernible effect on spending in
+most sectors. Uncertainty continues to hamper business spending. Capital investment that can
+be postponed still is being postponed. Moreover, some businesses are revising down their
+estimates for sales in coming quarters. For example, some department stores are concerned
+about spring and summer sales and have canceled some apparel orders for the quarter. Also,
+we’re still getting reports of layoffs, and firms appear reluctant to add to their payrolls. The
+
+April 16, 2003
+
+23 of 47
+
+continuing sense of caution is confirmed by our banker contacts, who report that business
+spending is still quite weak, although some strength exists in southern California and in Hawaii.
+Residential real estate except for high-end houses was doing well in the weeks before the
+war started. Since then, however, new home sales appear to have remained strong, but the resale
+market may have started to slip to some extent. Consumer spending can be described as fragile.
+Tourism, especially from abroad, is one area that has weakened noticeably over the past few
+weeks, reflecting the effects perhaps of the conflict in Iraq but certainly concern over SARS.
+Passenger loads are down for international flights at all the major airports, and some airlines
+have cancelled international flights. Hotel occupancy rates are down, and sales are down at
+restaurants and at retailers dependent on tourism.
+Finally, turning to the national economy, like the Greenbook authors, we have lowered
+our near-term forecast in response to incoming data. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. Thank you. Governor Ferguson.
+MR. FERGUSON. Thank you, Mr. Chairman. My read of the data, which is that they
+mostly suggest only sluggish growth at best, is not inconsistent with what I’ve heard thus far. I
+would say that the forward-looking indicators are very much mixed but certainly do not convey
+any sense of being a harbinger of higher growth. As I’ve reviewed our forecast here at the Board
+and also the consensus forecast, I would tend to agree with what Bob Parry just said. Almost all
+the forecasts seem to show what I would describe as continuing erosion over the most recent
+short period in response to weaker-than-expected data. As a result of that erosion I would say
+that the forecasts all have tended to push out the point at which a rebound—a pickup with some
+element of strength—is expected. Therefore, I think it will be very important and constructive to
+
+April 16, 2003
+
+24 of 47
+
+keep a close eye on the data between now and the next meeting. At that point we can decide
+whether or not the stance of policy is consistent with our two primary objectives.
+CHAIRMAN GREENSPAN. Governor Bernanke.
+MR. BERNANKE. Thank you, Mr. Chairman. Everyone has talked about the real side of
+the economy, so let me say a word about the other objective, which relates to inflation. The
+twelve-month inflation rate as measured by the core PCE deflator is currently 1.4 percent. As
+measured by the core chain weighted CPI, it’s 1.2 percent; by the so-called market-based core PCE
+deflator, it’s 0.9 percent. All of these inflation measures have been falling in the last year. If the
+U.S. economy grows 3 percent in 2003 and 4 percent in 2004 as projected, there will still be
+considerable economic slack going into 2005 and, of course, there are downside risks to that
+growth forecast. So there seems to be a reasonable likelihood of further disinflation.
+I personally am uncomfortable with measured inflation in the range of 1 percent or
+below, so I think such an outcome is worth preempting if possible. In short, I think a weak
+economy with a background inflation of 1 percent is a very different situation from a weak
+economy with background inflation of 3 or 4 percent. For that reason I hope that we will keep
+potential further easing on the table as we go forward. I believe we could justify that as taking
+out insurance, providing support for a developing recovery, or even with a specific reference to
+stabilizing inflation at a desirable level. Thank you.
+CHAIRMAN GREENSPAN. Governor Bies.
+MS. BIES. Thank you, Mr. Chairman. I have just a couple of comments. We’re at the
+beginning of the earnings season, and so far it looks as if corporate earnings are coming in at the
+expected levels, even though they are lower than what was expected at the beginning of the
+quarter. I had a conversation with a consultant who helps companies develop business in China,
+
+April 16, 2003
+
+25 of 47
+
+and she said that when the news of SARS came out, several of her clients actually went into
+crisis-management mode. They started contacting the CDC and other health services to
+determine if the virus could be transmitted in the containers used for exports out of China into
+the United States. These companies were concerned that they would be selling contaminated
+products. At this point the CDC is saying that SARS can’t be transmitted in a dry environment;
+it needs moisture. But that issue was a concern for several days and it did affect some
+companies. They are continuing to monitor the situation as the medical community looks at how
+the disease can be transmitted. She also commented that, if SARS is a short-run problem, it
+shouldn’t have material effects but that we may see some effects if the problem goes on for
+several months. That’s because the development of new investments really requires face-to-face
+contact in China and many firms are deferring trips that they would need to make to get new
+products or projects initiated. So SARS is something that her clients are very concerned about,
+and they won’t know to what extent it will affect their business until they fully understand the
+risks going forward.
+CHAIRMAN GREENSPAN. Governor Olson.
+MR. OLSON. On a fiscal policy note, the Congress did pass a budget resolution last
+week, which ordinarily would provide some clarity on fiscal policy. However, the joint
+resolution that was passed allows, at least initially, for a different tax cut figure in the Senate
+than in the House. The President yesterday signaled that he might be willing to accept
+significantly less of a tax cut than his initial request. It seems that the two-week congressional
+recess period now will be used in part to test public sentiment as to whether or not the
+President’s popularity in Iraq can roll over to influence his domestic agenda, most notably the tax
+cut. So even though we’ve seen a budget resolution, the fact that there is that disparity between
+
+April 16, 2003
+
+26 of 47
+
+the House and the Senate versions means that we are still in a period of uncertainty with respect
+to that portion of fiscal policy.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. Yes. I’m one of Al Broaddus’s visitors down on the Carolina coast
+this week, and life is a bit less frenetic here. But I have a few things to say. First off, I’d say to
+Bob McTeer that I want everybody in Dallas to know that American Airlines never applied for a
+loan guarantee. Second, as I have read the papers and heard what all of you have said, the good
+news seems to be an absence of bad news, and the bad news seems to be an absence of good
+news. In other words, we’re sitting here right in the middle just the way we were at the March
+meeting. I think, as Ben was suggesting, that we may well need to have a big discussion about
+the outlook and what we ought to do in May, but it doesn’t seem sensible to do anything today;
+and I’m not so sure that we need to continue these weekly phone calls. I think we know enough
+about what will be coming up between now and our May meeting that we can wait and debate
+the issues at that time. So I’d sit tight for now, but in my view we ought to have a heart-to-heart
+talk in May. Thank you.
+CHAIRMAN GREENSPAN. Well, thank you very much, Ned. You saved me a number
+of sentences! I agree that the most positive development in recent weeks is that things that could
+have gone wrong did not. However, I didn’t think of the other side of that, which you put very
+succinctly. It is certainly the case that the reason the financial markets have been behaving so
+well recently is not the evidence of good news but the significant diminution of the tail ends of
+the probability distributions of various events. Merely eliminating those tail ends—granted that
+risk aversion is the general state of affairs—would tend to buoy markets, as indeed occurred just
+before the war started. One can’t argue that anything changed fundamentally at that point with
+
+April 16, 2003
+
+27 of 47
+
+respect to the probability of the torching of the oil fields, of considerable distress in the Middle
+East, and a number of other concerns that would arise as a consequence of the war. One can’t
+argue that between the day that the President put out the ultimatum and the day the war started
+any significant news came out. But what did happen is that the probability that the war would
+end sooner created a positive force for financial markets, and the markets all moved very
+substantially as you remember.
+In listening to the roundtable and looking at the data we’ve received, I, too, would say
+that really very little of a positive nature has happened in the economy as a consequence of the
+end of the war, if that is indeed what it is. But it’s probably too soon to get anything definitive in
+the data. The information we are getting, obviously, is that consumer confidence went up. Is it
+the ABC/Time survey that—
+MR. WILCOX. Money.
+CHAIRMAN GREENSPAN. I’m sorry, it’s Money magazine. Are they still owned by
+Time? According to ABC/Money—which is probably not the best of the three surveys on
+consumer sentiment but it’s the only weekly one—confidence went up sharply last week. In any
+case, I think we’re at least in a position where our concerns about a very adverse event—one that
+would affect the economic outlook significantly—occurring between our previous meeting and
+May 6 have diminished very materially. Those concerns have not been replaced, however, with
+any set of positive forces. It’s really quite remarkable that almost across the board everybody
+who is forecasting is projecting an acceleration of economic activity in the third quarter. Nobody
+has any evidence that the acceleration has started. So it’s a very unusual situation. I also would
+agree with Ned that we can dispense with our weekly calls, unless there is significant dissent to
+the contrary, and wait until our May 6 meeting to review the situation. Let me just put that on
+
+April 16, 2003
+
+28 of 47
+
+the table for your general reaction. I think Ned’s position of holding off—not taking any action
+now but leaving open the possibility that we may want to do something on May 6—is
+reasonable. Certainly in the context of what we’ve been seeing I would not make a policy move
+before then. Would anyone like to comment?
+VICE CHAIRMAN MCDONOUGH. Mr. Chairman, Bill McDonough here. I think that
+is very wise. The likelihood of our needing to have meetings for the next two weeks is very low,
+and I believe we ought to go into May 6 with our eyes very wide open to our responsibilities
+then.
+MR. MOSKOW. Mr. Chairman, this is Michael Moskow. I agree completely. I don’t
+see any reason to have weekly phone calls. I certainly think the current stance of monetary
+policy is fine until May 6, and we can reconsider it at that point.
+MR. SANTOMERO. This is Tony Santomero in Philadelphia. I agree with the
+sentiments that have already been expressed.
+MR. STERN. The contingent at the Minneapolis Fed agrees with you, too, Mr.
+Chairman.
+CHAIRMAN GREENSPAN. That’s pretty heavy weight!
+MR. KOHN. Heavier than it ought to be, I think!
+CHAIRMAN GREENPSAN. Does anybody else want to comment?
+MS. MINEHAN. We agree in Boston, too, Mr. Chairman.
+MR. BROADDUS. This is Al Broaddus, Mr. Chairman. I agree with your position.
+MR. POOLE. St. Louis agrees.
+CHAIRMAN GREENSPAN. If no one else wishes to comment, I presume there is
+unanimity on that insight and recommendation.
+
+April 16, 2003
+
+29 of 47
+
+MR. HOENIG. Excellent presumption.
+CHAIRMAN GREENSPAN. In that case, we’ll see you all on May 6.
+END OF MEETING
+
+

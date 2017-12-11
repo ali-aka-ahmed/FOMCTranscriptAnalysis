@@ -1,0 +1,3337 @@
+ May 9, 2007
+ 
+ 1 130
+ 
+ Meeting Federal Open Market Committee
+ May 9, 2007
+ meeting Federal Open Market Committee held offices Board
+ Governors Federal Reserve System Washington, D.C., Wednesday, May 9, 2007,
+ 8:30 a.m. present following:
+ Mr. Bernanke, Chairman
+ Mr. Geithner, Vice Chairman
+ Mr. Hoenig
+ Mr. Kohn
+ Mr. Kroszner
+ Ms. Minehan
+ Mr. Mishkin
+ Mr. Moskow
+ Mr. Poole
+ Mr. Warsh
+ Mr. Fisher, Ms. Pianalto, Messrs. Plosser Stern, Alternate Members
+ Federal Open Market Committee
+ Messrs. Lacker Lockhart, Ms. Yellen, Presidents Federal Reserve Banks
+ Richmond, Atlanta, San Francisco, respectively
+ Mr. Reinhart, Secretary Economist
+ Ms. Danker, Deputy Secretary
+ Ms. Smith, Assistant Secretary
+ Mr. Skidmore, Assistant Secretary
+ Mr. Alvarez, General Counsel
+ Mr. Baxter, Deputy General Counsel
+ Ms. Johnson, Economist
+ Mr. Stockton, Economist
+ Messrs. Connors, Evans, Kamin, Madigan, Rasche, Slifman, Tracy, Wilcox,
+ Associate Economists
+ Mr. Dudley, Manager, System Open Market Account
+ Messrs. Clouse English, Associate Directors, Division Monetary Affairs, Board
+ Governors
+ Ms. Liang Mr. Struckmeyer, Associate Directors, Division Research Statistics,
+ Board Governors
+ Messrs. Leahy Wascher, Deputy Associate Directors, Divisions International
+ Finance Research Statistics, respectively, Board Governors
+ 
+ May 9, 2007
+ 
+ 2 130
+ 
+ Mr. Dale, Senior Adviser, Division Monetary Affairs
+ Mr. Blanchard, Assistant Board, Office Board Members, Board Governors
+ Mr. Small, Project Manager, Division Monetary Affairs, Board Governors
+ Mr. Luecke, Senior Financial Analyst, Division Monetary Affairs, Board Governors
+ Mr. Carlson, Economist, Division Monetary Affairs, Board Governors
+ Ms. Low, Open Market Secretariat Specialist, Division Monetary Affairs, Board
+ Governors
+ Ms. Green, First Vice President, Federal Reserve Bank Richmond
+ Mr. Rosenblum, Executive Vice President, Federal Reserve Bank Dallas
+ Mr. Hakkio, Ms. Perelmuter, Messrs. Rolnick, Rudebusch, Sniderman, Weinberg,
+ Senior Vice Presidents, Federal Reserve Banks Kansas City, New York, Minneapolis,
+ San Francisco, Cleveland, Richmond, respectively
+ Messrs. Dotsey, Tallman, Tootell, Vice Presidents, Federal Reserve Banks
+ Philadelphia, Atlanta, Boston, respectively
+ 
+ May 9, 2007
+ 
+ 3 130
+ 
+ Transcript Federal Open Market Committee Meeting
+ May 9, 2007
+ 
+ CHAIRMAN BERNANKE. Good morning, everybody. start Desk
+ operations, Bill.
+ MR. DUDLEY. 1 Thank you, Mr. Chairman. I’ll referring handout
+ blue front. market turbulence began earnest February 27
+ distant memory. Risk appetites recovered, volatility fixed income
+ equity markets declined, U.S. equity market climbed new
+ high. Exhibits 1, 2, 3 show correlation matrices daily price yield
+ movements fixed income, equity, currency markets. blue-shaded
+ boxes indicate correlations absolute value greater 0.5. shown
+ exhibit 1, February 27, correlations across asset pairs
+ low. However, beginning February 27 mid late March, correlations
+ rose sharply risk-reduction efforts dominated financial markets. shift
+ seen exhibit 2, one boxes shaded blue. Since March
+ FOMC meeting, calm returned, asset-price movements becoming
+ mostly uncorrelated. matrix shown exhibit 3, shows correlations
+ since March FOMC meeting, looks similar exhibit 1.
+ mentioned briefing March meeting, although turmoil
+ markets related mostly risk-reduction efforts, certain areas—the subprime
+ mortgage market best example—the deterioration performance related
+ mostly fundamental developments. seen exhibits 4 5, plot
+ delinquencies losses notorious 2006 subprime vintage, deterioration
+ performance continued apace. Exhibit 4 shows delinquencies
+ sixty days 2006 vintage even higher 2001 vintage.
+ noteworthy 2001 U.S. economy experienced mild recession
+ payroll employment declining. Even noteworthy trend losses
+ 2006 vintage. shown exhibit 5, losses 2006 vintage running
+ triple rate 2001 vintage. poor loss experience appears due
+ deterioration underwriting standards less-favorable underlying
+ conditions—for example, softening trend home prices many local markets.
+ fundamental deterioration subprime mortgage sector also seen
+ measures performance. example, exhibit 6 illustrates behavior
+ BBB-rated spreads ABX, CDS, cash markets. ABX represents
+ index twenty credit default swaps twenty BBB-rated asset-backed securities,
+ BBB cash index represents yield spread BBB-rated tranches
+ asset-backed securities. Thus, ABX index references, via credit default swap
+ market, underlying asset-backed securities market. seen exhibit,
+ although three spreads recovered somewhat past weeks, spreads
+ 1
+ 
+ Material used Mr. Dudley appended transcript (appendix 1).
+ 
+ May 9, 2007
+ 
+ 4 130
+ 
+ remain much wider earlier year. Also, note ABX spreads remain
+ considerably wider CDS cash spreads reference. situation
+ underscores illiquidity ABX market may partially reflect lack
+ natural constituency investors might wish take long side index,
+ especially subprime market stress. problems subprime
+ mortgages spilled collateralized debt obligation (CDO) market.
+ may recall, many CDOs substantial proportion assets lowerrated subprime asset-backed security tranches. widening sharply late
+ February, yield spreads mezzanine structured-finance CDOs shown
+ recovery. fact, shown exhibit 7, spreads CDOs continued
+ widen.
+ last FOMC meeting, argued selloff equity market
+ began late February least one fundamental component—the reduction
+ earnings expectations 2007. Yet equity market recovered quite strongly.
+ think explained three factors. First, earnings first quarter
+ stronger expected. Board staff estimates first-quarter earnings
+ S&P 500 increased 9 percent year-over-year basis. Second,
+ perhaps result, earnings expectations stabilized. shown exhibit 8,
+ median bottom-up equity analyst forecast S&P 500 earnings growth 2007
+ stopped falling remains 6 percent. Third, buyout buyback activity
+ continues unabated. Exhibit 9 shows flow funds data net equity issuance.
+ seen, outstanding supply U.S. equities shrinking rapidly,
+ contrast increase net supply occurred 2000-04 period. Buyouts
+ buybacks may also factor explaining recent behavior corporate credit
+ spreads. shown exhibit 10, high-yield emerging-market debt spreads
+ mostly recovered since late February widening. However, investment-grade debt
+ spreads remain wider early 2007. Investment-grade debt performance may
+ lagging investors fear credit quality debt undermined
+ buyouts buybacks result increased leverage.
+ Turning currency markets, emerging story weakness
+ U.S. dollar. shown exhibit 11, dollar fallen 3 percent
+ euro since start year virtually flat yen period.
+ weakness euro appears reflect mostly changing interest rate
+ expectations. Exhibit 12 plots spread June 2008 Eurodollar contract
+ euribor contract. seen exhibit, expected interest rate
+ differential fallen 40 basis points year. occurred, euro
+ strengthened. date, dollar’s weakness much concern
+ market participants. decline gradual, investors perceive global
+ imbalances unwinding smoothly. Nevertheless, subprime debacle points
+ another source risk dollar. recent years, net acquisition dollardenominated financial assets foreign investors shifted private flows
+ public flows corporate bonds, including asset-backed securities CDO
+ obligations, Treasury agency debt. shift shown exhibit 13.
+ worry problems subprime alt-A mortgage market could
+ 
+ May 9, 2007
+ 
+ 5 130
+ 
+ ultimately affect foreign investors’ appetites U.S. asset-backed securities
+ CDOs. example, particularly poor performance lower-rated ABS CDO
+ tranches, coupled widespread corporate rating downgrades might
+ associated poor performance, could cause foreign investors lose
+ confidence investing dollar-denominated debt.
+ terms U.S. interest rate expectations, investors expect near-term change
+ policy. However, market participants continue expect significant easing late
+ year 2008. Interest rate expectations remainder 2007 back
+ time January FOMC meeting. Looking federal funds
+ rate futures market exhibit 14, see one 25 basis point rate
+ cut expected 2007. contrast, expectations 2008 closely resemble
+ expectations time December March FOMC meetings, January
+ meeting. seen exhibit 15, plots Eurodollar futures contract yields,
+ investors expect substantial monetary policy easing 2008. delayed
+ pattern easing? three potential explanations. First, noted
+ before, futures market yields reflect mean, modal, forecast. extent
+ investors perceive moderate risk significant economic weakness could
+ lead pronounced monetary policy easing, yields futures market
+ could well modal forecasts investors. Second, investors may
+ disagree FOMC outlook. case, might anticipate
+ take time FOMC come around way thinking—leading rate
+ cuts occur later. Third, investors may anticipate inflation
+ moderate. happens, FOMC might gradually reduce nominal federal
+ funds rate target following lower inflation—essentially keeping real federal funds
+ rate constant.
+ Finally, survey primary dealers shows little change interest rate
+ expectations since last FOMC meeting. Exhibits 16 17 compare dealer
+ expectations market expectations March FOMC meeting
+ meeting. horizontal bold lines represent market expectations. blue
+ circles represent different dealer forecasts, size circle represents
+ many dealers forecast. green circles represent average dealer
+ forecast period. average primary dealer forecasts consistent
+ slightly 25 basis points easing end year—
+ much different priced federal funds futures market.
+ seen, dispersion dealer forecasts next quarters narrowed
+ bit. However, considerable disagreement remains whether short-term rates
+ higher lower year ahead. Also, average dealer forecasts
+ 2008 remains considerably market expectations. presumably reflects
+ mainly “downside risks” notion, cause modal forecasts
+ dealers higher mean expectations represented futures prices. I’ll
+ happy take questions.
+ 
+ May 9, 2007
+ 
+ 6 130
+ 
+ need approval domestic operations; foreign operations.
+ Also, circulated memo asking vote approve renewal swap lines
+ Canada Mexico.
+ CHAIRMAN BERNANKE. Okay. Questions? President Fisher.
+ MR. FISHER. two questions. page 2, talk subprime paper,
+ data tell us anything stress alt-A markets specifically?
+ MR. DUDLEY. definitely spillover alt-A, alt-A delinquencies
+ losses fraction subprime. compare characteristics alt-A loans
+ subprime loans, you’ll see easing underwriting standards alt-A market
+ occurred subprime market almost identical characteristics underwriting
+ standards except one difference—the FICO score. FICO score alt-A much higher.
+ Apparently, FICO score pretty important losses alt-A fraction
+ subprimes. data show spillover.
+ MR. FISHER. second question regards S&P earnings. way split
+ comes rest world comes United States? know would
+ analytically difficult, I’m wondering disparity two
+ drops bottom line.
+ MR. DUDLEY. I’m sure disparity two. know way
+ break clearly. One factor—the weakness dollar versus euro—is definitely
+ helping boost corporate earnings. disproportionate share U.S. foreign activity Europeoriented, it’s bigger share would suggested European share global GDP.
+ factor definitely helping support earnings. never seen data that.
+ We’ll look see there’s anything, I’m hopeful.
+ MR. FISHER. Thanks, Bill.
+ 
+ May 9, 2007
+ 
+ 7 130
+ 
+ CHAIRMAN BERNANKE. questions? need vote ratify
+ domestic open operations.
+ MR. KOHN. moved.
+ CHAIRMAN BERNANKE. Passed without objection. also need vote swap
+ lines.
+ MS. MINEHAN. moved.
+ CHAIRMAN BERNANKE. We’ve discussed past. swap lines serve
+ partly diplomatic function, relevance potential financial crises, they’re
+ needed dollar liquidity either Canada Mexico. However, bring
+ Secretary Paulson point make sure Treasury aware we’re
+ doing—whether need expand reduce them. we’ve motion without
+ objection. Okay, swap lines approved. Let’s turn economic situation.
+ Dave?
+ MR. STOCKTON. Thank you, Mr. Chairman. forecast round, you,
+ policymakers, faced identification problem similar we,
+ econometricians, often confront. Although Greenbook forecast essentially
+ March, several observationally equivalent hypotheses could
+ explain outcome. First, abject laziness part staff; second, brilliant
+ prescience part; third, assume working null hypothesis—
+ dumb luck. [Laughter] Well, assure abject laziness ruled out.
+ took much agonizing, endless meetings, lot hard work nothing.
+ are, all, still part federal government. [Laughter] prescience
+ luck, combine leave outlook pretty much time
+ last Greenbook. still believe economy growing pace less
+ potential, held ongoing slump housing activity. drag
+ residential investment abates, growth real output expected pick up.
+ reacceleration activity limited diminishing impetus consumer
+ spending housing wealth reasonably restrictive monetary policy.
+ Let begin citing areas forecast developments
+ unfolded much anticipated. I’ll move areas
+ notable surprise luckily offsetting effects outlook. First, BEA’s
+ advance estimate real GDP first quarter showed increase 1¼ percent
+ 
+ May 9, 2007
+ 
+ 8 130
+ 
+ close forecast total particulars. expected,
+ decline residential investment took significant bite first-quarter growth,
+ net exports defense spending. Outlays equipment also quite soft.
+ view meager gain real GDP posted first quarter exaggerating
+ weakness early year. particular, anticipating defense spending
+ bounce back second quarter level consistent appropriations,
+ expect net exports largely reverse first-quarter drop. consequence,
+ projecting real GDP advance pace bit 2½ percent
+ second quarter. Smoothing temporary ups downs, believe
+ economy probably expanding pace 2 percent first half
+ year, rate projected March Greenbook.
+ second major piece story appears receiving support
+ incoming data forecast consumption growth would slow noticeably.
+ projected step-down growth consumption important reason
+ forecast, even housing contraction eventually wanes, growth real GDP
+ remains pace potential. Although far early claim victory,
+ consumer spending goods flattened recent months sharp increases
+ turn year. shallow trajectory spending move
+ second quarter, lower level real disposable income, sluggish chain store sales
+ suggest forecast 2 percent growth real PCE current quarter
+ within comfortable reach. However, would like noted record
+ characterizing “slam dunk.” [Laughter]
+ third key element story last Greenbook that, even though
+ equipment outlays weakened past quarters, believe
+ weakness front edge serious retrenchment capital spending.
+ regard, received bit reassurance upturn shipments
+ nondefense capital goods March even larger jump new orders
+ goods. data suggest high-tech investment remains solid uptrend,
+ whereas investment outside high tech transportation seems poised modest
+ upturn second quarter sizable declines preceding six months.
+ expected, purchases heavy trucks remain area notable weakness.
+ Needless say, data investment volatile remain cautious
+ concluding downside risk capital spending abated much. given
+ recent track record area, might consider good news staff
+ reports news.
+ fourth element story that, least now, seems panning
+ inventory overhangs emerged second half last year would
+ worked relatively smoothly, rather cumulating something serious.
+ motor vehicle sector, steep production cuts second half last year
+ early year, coupled moderate pace sales, brought days’ supply
+ light vehicles comfortable levels. Indeed, automakers scheduled
+ increases production current quarter. Outside motor vehicles,
+ manufacturers appear adjusted production reasonably promptly
+ 
+ May 9, 2007
+ 
+ 9 130
+ 
+ unintended buildup stocks. Indeed, manufacturing IP excluding motor vehicles
+ declined annual rate 1½ percent fourth quarter increased
+ paltry 2 percent first quarter. book-value measures inventory-sales
+ ratios remain elevated, measures days’ supply flow-of-goods system
+ shown improvement parallels reports purchasing managers fewer
+ inventory problems among customers. Moreover, factory output increased
+ sharply March, available physical product data readings
+ labor market report point another sizable increase April. evidence seems
+ suggest inventory correction abating. note yesterday’s
+ figures wholesale inventories March came assumed
+ BEA advance estimate GDP. else equal, data suggest
+ downward revision first-quarter real GDP growth ¼ percentage point.
+ response, we’d probably add similar amount second-quarter estimate real
+ GDP.
+ Finally, another central element forecast labor demand would
+ slow lagged response downshift growth overall activity.
+ counseling patience face data area persistently surprised us
+ upside. Last week’s labor market report provides least shred evidence
+ support story. Private payrolls increased 63,000 April,
+ downward revision 24,000 February—leaving level employment
+ incorporated May Greenbook. Gains private payrolls averaged
+ 90,000 per month past three months, expect pace
+ maintained remainder quarter. unemployment rate increased
+ 4.5 percent last month, also line projection.
+ Putting pieces together, feeling bit confident story
+ activity increasing subpar 2 percent pace first half year.
+ also bit less worried upside risks posed labor demand consumption
+ downside risks posed investment spending inventories—but
+ bit less worried.
+ longer-term outlook changed little well. revised
+ forecast growth real GDP year 0.1 percentage point, 2 percent,
+ revised forecast 2008 similar amount, 2.4 percent. would like
+ argue small adjustments testament prescience, I’ll
+ admit seem benefited dumb luck. brief,
+ negative consequences weaker outlook housing activity higher projected
+ oil prices offset positive effects higher equity prices
+ lower foreign exchange value dollar.
+ Turning first housing market, surprise actual
+ construction activity, starts exceeded expectations bit. Rather,
+ real news home sales—in particular, sales new homes.
+ new-home sales drop March level expectations, sales
+ revised preceding months well. consequence, months’ supply
+ 
+ May 9, 2007
+ 
+ 10 130
+ 
+ unsold new homes moved sharply recent months instead
+ tipping earlier expected. Moreover, sales cancellations,
+ appeared heading down, turned back March.
+ weakening may reflect continuing fallout pullback subprime lending.
+ also think housing demand generally continued soften.
+ sales projected flatten lower level previously thought
+ months’ supply unsold homes higher level, anticipate
+ production adjustment deeper longer incorporated March
+ forecast. Moreover, developments also led us trim bit house-price
+ forecast. Another source downward revision outlook real activity
+ $6 per barrel increase price imported oil intermeeting period.
+ Karen discuss shortly, oil prices backed since completion
+ Greenbook, still running March forecast. effect
+ higher crude prices amplified jump gasoline margins. margins
+ soared planned unplanned refinery outages resulted
+ substantial drop gasoline inventories. else equal, higher consumer
+ energy prices likely put noticeable dent household incomes consumer
+ spending coming months.
+ course, else equal. Stock prices 7 percent
+ March Greenbook assumption, forecast, associated higher level
+ household net worth provides greater support consumer spending largely
+ offsets effects lower real incomes. Another positive offset weaker housing
+ higher oil prices lower projected path dollar. dollar dropped
+ 2 percent intermeeting period expected remain
+ previous projection amount. lower dollar accompanying
+ higher prices imports provide added impetus domestic production foreign
+ domestic demands shifted toward domestic producers. near-term
+ developments unfolding expected longer-term projection
+ benefiting powerful crosscurrents, continue present
+ reasonably benign outlook. Growth slows doesn’t falter actual output moves
+ alignment potential.
+ contrast forecast real activity, made notable changes
+ projection overall price inflation near term. particular, recent runup gasoline prices leaving clear imprint headline inflation. steep jump
+ consumer energy prices projected boost overall PCE price inflation, ran
+ 3¼ percent pace first quarter, rate 4¼ percent current quarter—
+ upward revision 1½ percentage points March forecast. Meanwhile,
+ core inflation has, net, come right line expectations. core
+ measure February 0.1 percentage point higher expected
+ March 0.1 percentage point lower. first quarter whole, core PCE
+ prices increased pace 2¼ percent, pace projected
+ last Greenbook. anticipating similar-sized increase current quarter.
+ 
+ May 9, 2007
+ 
+ 11 130
+ 
+ Looking ahead, guess luck offsetting errors ran came
+ inflation forecast. accumulated number small changes key
+ determinants inflation projection, part, pointed
+ direction. Higher energy costs, higher import prices, bit tighter labor
+ product markets, slightly lower estimate growth structural productivity
+ suggest somewhat greater upward pressure price inflation.
+ influences small, taken together, caused us revise forecast
+ core PCE inflation 0.1 percent 2007 2008. Despite revisions,
+ continue expect core price inflation edge next year, 2.3 percent
+ year 2.1 percent next year, effects higher energy import prices wane,
+ resource utilization eases bit, inflation expectations hold roughly steady.
+ Karen continue presentation.
+ MS. JOHNSON. basic message rest global economy
+ economic conditions favorable appear likely remain end
+ next year. Although small variations basically optimistic outlook present,
+ real GDP growth foreign economies seems poised continue average
+ annual rate 3½ percent throughout forecast period. Inflation risks
+ present slack reduced several foreign economies. However,
+ anticipate central banks abroad respond needed inflation
+ abroad edge slightly end 2008. forecast round,
+ staff contend move back global crude oil prices
+ increases nonfuel commodities prices—shocks common whole global
+ economy. addition, U.S. outlook, needed take account
+ depreciation approximately 2 percent foreign exchange value dollar
+ intermeeting period, Dave discussed.
+ recently revisited question whether could improve upon
+ forecast crude oil prices embedded market futures prices convinced
+ based empirical evidence cannot. result, projections
+ future WTI spot oil prices average oil import price shifted
+ time fluctuations spot futures oil prices. “up”
+ forecast round. reaching peak around August last year, global oil prices
+ fell early year reversed trend back up, smoothly.
+ upward move oil prices intermeeting period apparently
+ response surprising degree continued production restraint OPEC
+ heightened concerns supply Iran, Iraq, Nigeria. strength global
+ demand energy, too, doubt provided support continued elevated prices.
+ forecast also take account deviation usual price spread
+ West Texas intermediate grades oil. Reduced refinery activity
+ led unusually large accumulation crude oil stocks Midwest,
+ delivery area WTI, depressed price relative grades.
+ finalizing baseline forecast, spot futures prices implied
+ increase projection WTI crude oil current quarter $4.50 per
+ barrel relative projection March Greenbook; however, change
+ 
+ May 9, 2007
+ 
+ 12 130
+ 
+ understates bit upward shift overall oil prices change
+ spreads. considerations led us revise upward average oil import price
+ Greenbook current quarter $6.50 per barrel. expect
+ forecast period relative prices WTI grades gradually move back
+ toward normal, upward revision narrows somewhat future quarters,
+ particularly second half 2008. baseline forecast reflects
+ consequences higher oil prices U.S. economy rest
+ world. Turning points ups downs oil prices uncanny way
+ happening time finishing Greenbooks, turning point
+ might happened again. Since Greenbook path set, crude oil prices
+ moved back noticeably. concluding forecast today based
+ yesterday’s futures prices, would show upward revision near term
+ half Greenbook. 2008, upward shift would
+ two-thirds Greenbook. effects benign level oil
+ prices would slightly positive real GDP growth United States
+ abroad. lower projected path oil prices would also slightly lessen
+ pressures headline inflation rates feature baseline forecast.
+ Another element forecast worth brief mention upward revision
+ core import price inflation core export price inflation second quarter,
+ annual rates 4.5 percent 5.5 percent, respectively. Prices core imports
+ core exports accelerated first quarter prices food industrial
+ supplies, particularly fuels metals, surged. Metals prices continued rise
+ recent weeks, increase, along recent depreciation dollar, led us
+ revise current-quarter projections. constructing forecast
+ trade prices, base projection commodity-price component market
+ futures prices. Again, done recent work see better alternative
+ available, concluded none is. Despite rapid increases prices
+ various traded commodities past years, futures markets implying
+ path end 2008 flat index nonfuel commodities.
+ combination projection modest real dollar depreciation
+ major changes overall inflation rates abroad, outlook
+ commodity prices yields deceleration core import prices core export
+ prices. forecast increase prices 2008 remains low, 1.3
+ percent.
+ Although oil prices revised time, projected path flattens
+ mid-2007. outlook flat projected paths commodity prices
+ dollar imply waning upward push consumer prices resulted
+ rising oil commodity prices. Consequently, Greenbook forecast,
+ limited tightening foreign central banks required contain
+ inflation. events markets may surprise futures traders us yet
+ another year additional commodity-price increases major risk outlook
+ inflation. David happy take questions.
+ CHAIRMAN BERNANKE. Thank you. questions? President Moskow.
+ 
+ May 9, 2007
+ 
+ 13 130
+ 
+ MR. MOSKOW. Dave, talked slowdown structural productivity
+ report. marked estimates structural multifactor productivity
+ second half decade before. Even decline
+ first half decade second half. wonder could expand bit
+ comments.
+ MR. STOCKTON. Certainly. reported recent meetings,
+ surprised extent actual productivity slowed past six eight months.
+ resisting downward revision estimate structural productivity
+ expectation would imminently see significant weakening labor demand would,
+ essence, suggest slowing cyclical appeared case.
+ tension seemed growing greater time. think Bill Wascher reported
+ chart show back January, Kalman filter models suggesting substantial
+ downward revision structural productivity made even forecast. tension
+ remains, thought needed get little better balance. time,
+ surprised upside strength labor force participation—in particular,
+ participation workers 55 years old older. felt though needed make
+ minor adjustments get little better balance risk labor force forecast
+ productivity forecast.
+ Now, August, get annual revisions, we’re going better idea
+ much tension income side product side past year gets
+ resolved favor income side. case, maybe overreacted making
+ adjustment, felt point though shortfall productivity relative
+ structural productivity much greater could explain normal cyclical behavior
+ 
+ May 9, 2007
+ 
+ 14 130
+ 
+ give least nod direction maybe telling us something
+ slightly weaker structural productivity. really wanted wait received figures
+ August, seemed though enough evidence forecast accumulated
+ needed least, said, nod direction.
+ MR. MOSKOW. work done trying isolate whether changes
+ high-tech area areas across economy people getting much
+ improvement use new high technology past. shed light
+ question?
+ MR. STOCKTON. I’ll let Bill jump in, particular observations that.
+ don’t think technology alone explains surprise we’ve past year
+ productivity—I don’t know work others done would allow us parse
+ much surprise might related high-tech issue. bigger
+ sectoral question minds related behavior construction employment—a
+ decidedly non-high-tech area—where seen falloff one might thought
+ would follow decline residential investment. turns work we’ve
+ doing, partly direction Chairman, suggests that, although it’s little hard
+ understand, construction industry appears exhibit labor hoarding would
+ think. real surprise since turn year construction employment hasn’t
+ fallen has. one could look back say maybe weakness
+ actual productivity reflects bigger cyclical effect coming element. Again, one put
+ heavy weight that, one might less inclined revise one’s estimate structural
+ productivity.
+ CHAIRMAN BERNANKE. Okay. President Poole.
+ 
+ May 9, 2007
+ 
+ 15 130
+ 
+ MR. POOLE. Thank you, Mr. Chairman. commenting President Moskow’s
+ question mentioned disconnect employment GDP, particularly
+ construction area. Somehow lag argument doesn’t ring true one, given
+ residential construction long time think lot smaller
+ companies hard pressed probably going bankruptcy. could
+ elaborate aspect employment puzzle here?
+ MR. STOCKTON. raise white flag. [Laughter] thought
+ area would fewer costs shedding acquiring labor, construction would
+ probably right top list. empirical evidence suggests otherwise. Again,
+ something started working on, don’t necessarily want buy
+ 100 percent. effect appears data, that’s say. exactly
+ reaction first saw results. be? it—though don’t think
+ major part—could measurement. is, may adjustment labor
+ margin isn’t getting picked establishment survey. Part could
+ firms been, example, residential investment shifting
+ nonresidential investment; run regressions total construction, total
+ construction employment still find puzzling results.
+ MR. POOLE. GDP number residential construction put together primarily
+ distributed lag starts?
+ MR. STOCKTON. several major components. Indeed, one—the residential
+ construction component—is based lag starts, relatively short lag single-family
+ starts longer lag multifamily starts. Another significant component additions
+ alterations, based survey information. component well measured;
+ 
+ May 9, 2007
+ 
+ 16 130
+ 
+ subject substantial revision. Conceivably, more-complete counts occurred,
+ may find perhaps adjustment going there, maybe bigger increase,
+ therefore employment fact occurring adds alts currently
+ recognize. significant chunk overall residential investment.
+ CHAIRMAN BERNANKE. President Moskow, two-handed intervention.
+ MR. MOSKOW. footnote. large group people working industry
+ self-employed. know extent could separate out; it, too, important
+ piece puzzle.
+ MR. STOCKTON. Yes, certainly could factor well.
+ CHAIRMAN BERNANKE. President Stern.
+ MR. STERN. One surprises noted Greenbook, Dave, ECI
+ compensation first quarter—the increases large anticipated. know
+ numbers bounce around lot quarter quarter, impression overall
+ coming somewhat lower anticipated while, especially given
+ estimate NAIRU. know whether right; do, think
+ going there?
+ MR. STOCKTON. Let answer first-quarter surprise longer-term
+ surprise pointing to. were, indeed, surprised small increase ECI
+ hourly compensation first quarter. almost surprise occurred one
+ component—a huge drop contributions pension plans. checked folks
+ particular area, looks though estimated decline construction probably reflected
+ something happened real world. is, combination fact corporations
+ previously raised contributions high levels improvement financial markets,
+ 
+ May 9, 2007
+ 
+ 17 130
+ 
+ stock market real estate market preceding years, suggests plans
+ better financial shape. decline 30 percent annual rate particular
+ component. see decline necessarily ongoing reduction payments
+ indication lower marginal cost production, taking big price signal
+ component labor compensation.
+ excuse first quarter. Looking back slightly longer haul,
+ compensation per hour running models, could suggesting little
+ slack labor markets writing down. adjusted measures slack
+ partly surprises price side anywhere near large
+ wages; been, anything, quite small necessarily suggesting economy
+ lot room. compensation data taken alone suggest less tightness overall
+ economy product markets would.
+ CHAIRMAN BERNANKE. intervention President Minehan.
+ MS. MINEHAN. intervention. question.
+ CHAIRMAN BERNANKE. Oh, I’m sorry. Let go President Plosser.
+ MR. PLOSSER. Thank you, Mr. Chairman. want follow bit tail end
+ conversation President Poole residential investment. One big changes
+ forecast additional markdown pushing recovery residential investment
+ sustaining negative effect forecast. sense fairly significant
+ impact going forward. curious extent outcome really model driven
+ actual estimation fundamentals changed, judgmental? resulted
+ fundamentals predicted model, pieces evidence
+ 
+ May 9, 2007
+ 
+ 18 130
+ 
+ driving change, judgmental thing saying take longer?
+ elaborate little came from?
+ MR. STOCKTON. came principally fact gauging
+ construction forecast expectation builders would try adjust production reduce
+ months’ supply unsold homes toward normal level next couple years.
+ March forecast forecast surprised (1) weakness level
+ home sales (2) substantial increase months’ supply unsold homes.
+ get inventory unsold homes back normal relationship—and even
+ getting back March forecast terms months’ supply unsold
+ homes—we saw bigger production adjustment necessary. Now, awkwardness
+ relation question fundamentals actually think overhang
+ unsold homes fundamental, even though really models residential construction.
+ models special component inventory unsold homes, part
+ factor much episodic normal sort right-hand-side variable. view
+ fundamental. think learned bigger problem there, bigger
+ overhang, work off. Therefore, takes longer work deeper
+ production cuts.
+ MR. PLOSSER. overhang measured absolute number unsold homes
+ ratio unsold homes current monthly sales?
+ MR. STOCKTON. Well, could either way. take, example, last
+ month’s incredible weakness new-home sales face value. take six-month moving
+ average, calculate think months’ supply based that, months’ supply
+ come back normal level time. like inventory-sales ratio. production
+ 
+ May 9, 2007
+ 
+ 19 130
+ 
+ adjustments incorporated forecast basically bring inventory-sales ratio
+ way back toward normal end 2008, way.
+ MR. PLOSSER. drives demand new homes? inventory-sales
+ ratio, also making implicit statement forecast demand.
+ MR. STOCKTON. Absolutely. mild upturn home sales overall
+ activity income recover soft period, get normal kind pop
+ housing. unusual, part, cycle that, past cycles, monetary policy partly
+ responsible driving decline demand much easier monetary policy drove
+ significant upturn sales, important element bringing balance.
+ part adjustment coming lower production part driven much faster
+ increases demand interest rates fell. forecast, mortgage rates drifting little
+ here, really see conditions generate substantial turnaround sales
+ might work margin unsold homes demand side. obviously
+ could still happen.
+ CHAIRMAN BERNANKE. President Minehan.
+ MS. MINEHAN. works intervention well question exactly
+ along lines President Plosser’s questions. First, assumption inventory
+ normal—the past ten years housing boom created normality, will,
+ low inventories, compared longer-run inventories. question is, normal,
+ builders want normal be? much get back level
+ past ten years versus level could figure twenty-year
+ thirty-year period? talked group builders couple months ago get
+ whole lot feedback thought might like be, although
+ 
+ May 9, 2007
+ 
+ 20 130
+ 
+ them, sure, making calculation one way another business
+ day-to-day basis. think hard say given level inventory—seeing
+ much changed past ten years ten twenty that—is “normal”
+ confidence. Second, taking bit confidence, maybe wrong, fact
+ that, smooth sales existing homes, course much bigger volume
+ sales new homes, three-month six-month moving average, see dip
+ beginning year see come back little environment reasonably low
+ interest rates prime borrowers decent interest terms mortgage originations forth,
+ obviously high was. thinking maybe says something demand
+ side, maybe cockeyed optimism part.
+ MR. STOCKTON. certainly would say that. [Laughter] glad hear
+ builders talked giving clear answers question talking
+ well received clear answers. think open unresolved question
+ forecast. predicating forecast gauging basically expectation that, fact,
+ builders would try drive months’ supply back close average past ten
+ years, persisted long enough reflect desired equilibrium. big “if,”
+ note, one wanted take twenty-year thirty-year average, desired months’
+ supply figure would higher. upside risk housing would big
+ overhang worked currently gauging forecast.
+ sales existing homes, guess we, too, taken comfort fact
+ stabilized bit. recently dropback existing-home sales decline
+ index pending home sales, predictive content existing homes going forward.
+ picture little murkier, think data might suggest that, although looks like
+ 
+ May 9, 2007
+ 
+ 21 130
+ 
+ complete free fall new-home sales, need factor possibility overall housing
+ demand quite weak figures new-home sales.
+ MS. MINEHAN. Anecdotally, getting feedback—in New England
+ anyway—that things starting heat up. That’s relative terms, high-end side
+ anyway. knows?
+ CHAIRMAN BERNANKE. questions? had, know, trial run
+ participants submitted projections. interest illuminating conversation
+ moment, thought I’d ask Vincent say words projections.
+ MR. REINHART.2 Yesterday afternoon, posted secure document server
+ summary economic projections submitted. material
+ front cover memo Debbie Danker. use table directly
+ behind cover review briefly key features projections,
+ outline schedule trial run going forward.
+ shown table 1, central tendency projections suggests
+ anticipate GDP growth somewhat soft year pick bit
+ 2008 2009. Participants generally anticipate core PCE inflation
+ edge little lower forecast period unemployment rate inch
+ vicinity 4¾ percent. federal funds rate path associated
+ projection economy (not shown) fairly flat year next
+ moves slightly lower 2009.
+ width 70 percent confidence bands economic variables suggests
+ wide range outcomes growth, inflation, unemployment rate
+ forecast period. noted memo lines, central tendency forecasts prepared
+ May meeting, relative forecast prepared January FOMC meeting,
+ indicate somewhat weaker path economic growth near term
+ somewhat higher trajectory unemployment rate. central tendency core
+ PCE inflation changed little.
+ accompanying description key forces shaping economic
+ outlook, cited continued weakness housing sector—with
+ residential construction viewed likely remain drag growth time
+ softness home prices noted factor damping rise wealth
+ consumer spending. backdrop, GDP growth expected remain
+ somewhat trend while, resulting small rise unemployment rate.
+ also noted labor hoarding industries recent months likely
+ 2
+ 
+ Material used Mr. Reinhart appended transcript (appendix 2).
+ 
+ May 9, 2007
+ 
+ 22 130
+ 
+ masked underlying easing labor market conditions would become
+ apparent remainder year. Generally accommodative financial
+ conditions solid growth abroad seen supporting GDP growth.
+ participants looked core PCE inflation edge lower, related
+ rise energy prices import prices, coupled recent sluggish productivity
+ readings, would put upward pressure prices near term.
+ group, tended bit optimistic prospects
+ aggregate supply staff. Several participants noted forecasts
+ premised higher rate potential output growth projected Greenbook,
+ owing part assessments (relative staff outlook) labor force
+ participation rates would decline much structural productivity growth
+ would stronger. participants also pointed forecasts
+ incorporated lower NAIRU staff outlook.
+ process on, would like change forecast light
+ discussion meeting data received since prepared projection,
+ ask submit revision Secretariat opening business
+ tomorrow. staff draft minutes-style narrative description economic
+ projections. standalone document circulate draft
+ minutes regular schedule. means see first draft May 17,
+ second one May 22, final version May 24. ask comment
+ drafts final version published—but won’t be,
+ asked vote document.
+ CHAIRMAN BERNANKE. Thank you, Vincent. penciled time
+ policy decision discussion comments process head
+ subcommittee talk little communication discussions going
+ forward. interest time, would ask people questions Vincent try
+ restrict primarily projections economic outlook, okay.
+ anyone questions Vincent? not, begin go-round. President Yellen.
+ MS. YELLEN. Thank you, Mr. Chairman. assessment economic outlook
+ risks largely unchanged since last meeting. data since meeting mixed.
+ one hand, sluggish real GDP growth first quarter gives pause concerning
+ potential downside risks. Much first-quarter weakness, course, due housing,
+ really don’t see sector starting turn around point. homebuilder banking
+ 
+ May 9, 2007
+ 
+ 23 130
+ 
+ contacts report stricter underwriting standards mortgages, subprime ones,
+ residential investment could remain significant drag economy near term
+ Greenbook envisions. Indeed, whereas Greenbook assumes national house prices
+ flat going forward, worried may actually fall. hand, improved
+ picture auto inventories along positive glimmers manufacturing business
+ investment suggests sectors may prove less drag economy going
+ forward. respect inflation, recent news also somewhat mixed lower-thanexpected readings core consumer prices labor compensation offset higher prices
+ energy, commodities, imports.
+ Taking longer view, anticipate real GDP growth next two half years
+ 2.6 percent, bit assessment potential. forecasts actual
+ potential growth tenth two stronger Greenbook forecasts; basic story
+ similar, underlying assumptions, including path nominal funds rate,
+ essentially same. view stance monetary policy remaining somewhat restrictive
+ throughout entire forecast period. key factors shaping longer-term outlook include
+ continued fallout housing sector, housing wealth projected roughly flat
+ 2008. Given reduced impetus housing wealth, household spending advance
+ moderate pace going forward past years.
+ slowdown consumption reinforced more-moderate gains personal income,
+ unemployment rate gradually rises, reaching 5 percent 2009. Although anticipate
+ labor market remain fairly tight next year, expect faster compensation growth
+ exert significant upward pressure prices. expect instead restrain profits, given
+ labor’s share income exceptionally low level. also anticipate various
+ 
+ May 9, 2007
+ 
+ 24 130
+ 
+ temporary factors boosting inflation, run-up owners’ equivalent rent
+ pass-through energy prices, dissipate, inflation expectations remain well
+ anchored. Overall, I’m optimistic regarding inflation Greenbook anticipate
+ core PCE price inflation edge 2 percent next year.
+ One interesting questions outlook, David noted questions
+ him, reconcile strong labor market performance weak growth output or,
+ equivalently, much recent slowdown productivity growth likely persist.
+ something thinking about, too. four quarters 2006, nonfarm
+ business productivity rose 1.6 percent, half fast average pace set 2000
+ 2005. Whether recent lower numbers reflect transitory drop growth downshift
+ trend rate important issue. lot excellent research done topic staff
+ Board elsewhere System. reading evidence point recent
+ decline productivity growth largely reflect cyclical factors. think productivity growth
+ fallen significantly trend labor hoarding lags adjustment employment
+ output.
+ also giving close scrutiny behavior residential construction sector
+ productivity sector. staff done work estimating productivity
+ growth past year residential investment nonfarm business
+ sector outside residential investment. estimate essentially last year’s slowdown
+ labor productivity growth due behavior productivity residential construction.
+ estimate residential construction productivity dropped 10 15 percent 2006, whereas
+ productivity nonfarm business sector outside residential investment well maintained.
+ Exactly lags exist, again, mystery well David others.
+ 
+ May 9, 2007
+ 
+ 25 130
+ 
+ going forward, seems us that, adjustment lags work out,
+ residential construction employment likely post significant declines, productivity
+ sector economy whole rebound. said, pace structural productivity
+ growth may also declined slightly Greenbook hypothesizes. Relative second half
+ 1990s, pace productivity growth sector pace investment
+ equipment software slowed, factors probably depressed trend productivity
+ growth slightly recent years likely continue depressing somewhat going forward.
+ hypothesis recent decline productivity growth mainly structural seem
+ square well broad range available evidence. Recall 1990s
+ whole constellation evidence—including booming stock market, robust consumption,
+ rapid business investment—that consistent hypothesis lasting increase rate
+ productivity growth. contrast, past year so, business investment equipment
+ sluggish seems warranted deceleration business output.
+ weakness could reflect lower assessments companies ability improve
+ productivity installation new capital, is, think, consistent lower
+ trend productivity growth. would think marked slowdown secular productivity
+ growth would also result downward revisions expected paths future profits real
+ wages, weakening equity market valuations crimping consumption growth. seen
+ signs past year household perceptions future wealth accumulation
+ downgraded.
+ sum, data seem consistent view recent slowdown nonfarm
+ business productivity represents temporary cyclical drop concentrated residential
+ 
+ May 9, 2007
+ 
+ 26 130
+ 
+ construction combined modest decline trend. remain optimistic
+ underlying productivity trend slightly 2½ percent.
+ CHAIRMAN BERNANKE. Thank you. President Moskow.
+ MR. MOSKOW. Thank you, Mr. Chairman. Conditions Seventh District
+ improved modestly since last report. overall pace business activity still rather
+ restrained, seen pickup manufacturing sector. key issues regarding
+ national outlook ones last time met. residential investment
+ puzzle settle out, explain puzzling weakness business fixed investment?
+ Based data we’ve received since March contact calls round, I’ve
+ become somewhat optimistic investment somewhat pessimistic
+ housing. time, higher gasoline prices potential weigh consumer
+ spending. balance growth projection ’07 ’08 bit lower March.
+ think growth average moderately short potential remainder ’07
+ run close potential 2008. However, GDP numbers bit higher
+ Greenbook’s, reflecting smaller shortfall potential year somewhat higher
+ assumption rate potential output growth.
+ Indeed, good news regarding near-term outlook. First,
+ international outlook continues improve. Many contacts noted exceptionally strong
+ demand abroad, particularly capital goods. Second, although we’ve actively looking
+ spillovers problems subprime mortgages, yet seen major effects
+ pricing supply credit markets. say heard
+ effects. One directors, CFO major national homebuilder, noted tighter
+ underwriting standards reducing housing demand somewhat outside subprime sector.
+ 
+ May 9, 2007
+ 
+ 27 130
+ 
+ Consumers still appear ample access financing. example, head GM noted
+ banks making auto loans six- seven-year maturities order lower monthly
+ payments liquidity-strapped consumers.
+ Finally, noted earlier, feel bit confident assumption weakness
+ BFI turn relatively transitory. don’t want make much one month’s
+ noisy data, latest readings capital good orders PMI (purchasing managers’ index)
+ encouraging, comments business contacts positive
+ regard. impression discussions pause investment spending
+ showing early signs ending; early, clearly need keep monitoring
+ developments carefully.
+ Beyond near-term cyclical developments, changes structural productivity
+ Greenbook highlight important source risk longer-run outlook sustainable noninflationary growth, Janet discussed. lot uncertainty components
+ structural productivity. view, haven’t seen enough evidence yet mark structural
+ productivity much Greenbook has. Consequently, estimate potential output growth
+ bit higher Greenbook.
+ regard inflation, incoming information caused forecasts
+ indicator models come bit. project core PCE prices rise 2¼ percent
+ year 2.1 percent ’08. see progress beyond that. carry
+ models ’09, inflation staying 2.1 percent, higher preferred range.
+ Furthermore, see upside risks forecast. Neither GDP projection
+ Greenbook’s generates meaningful resource slack projection period,
+ higher costs energy commodities increases import prices.
+ 
+ May 9, 2007
+ 
+ 28 130
+ 
+ relying heavily stable expectations keep inflation check. believe currently
+ achieving implicit tightening policy keeping rates hold period sluggish
+ activity, restraint wane real economy returns potential early next year
+ expect. continue think risks price stability dominate risks sustainable
+ growth.
+ CHAIRMAN BERNANKE. Thank you. President Fisher.
+ MR. FISHER. Mr. Chairman, last time reported sense international economy
+ hot, domestic economy cold, regional economy Eleventh
+ District right. concluded comments saying treacherous
+ waters terms U.S. economy, navigating Scylla inflation Charybdis
+ slowdown growth. Like President Yellen, don’t much change report, want
+ comment brief order couple aspects two predecessors commented on.
+ far international economy concerned, see continued expectations higher
+ growth different mindset beginning set in. saw that, believe, French elections.
+ Even Italian consumer business confidence ten-year high, six-year high depending
+ measurement use. also see reflected various measures port congestion,
+ charter rates ships, profit contributions U.S. multinationals. way, contacts
+ talk to, Bill, making real effort ferret sense
+ push oomph abroad getting domestically. still prune
+ reports carefully. see commodity prices. bottom line standpoint
+ Dallas Fed we’re seeing tightening capacity utilization rest world,
+ somewhat vexing U.S. operators limits firms’ abilities cut costs shipping
+ production abroad. Nonetheless, rest world economy remains hot.
+ 
+ May 9, 2007
+ 
+ 29 130
+ 
+ couple comments United States. talk rails,
+ airlines, express delivery logistic companies, middle-income consumption sectors
+ retailers, sell sectors, hearing increasing reports weaker demand
+ lower expectations hearing last meeting one sector,
+ entertainment sector. Advertising revenues networks continue stay high, way,
+ visits theme parks record high, driven largely wealthy foreigners finding
+ tremendous bargain. housing front, bearish—more bearish anybody
+ table. remain so, like President Yellen and, believe, President Moskow,
+ concerned before. go numbers, think best expressed
+ CEO one five big builders, said March arguing internally board
+ headlines worse reality reality worse headlines.
+ significant inventory, qualification buyers becoming vexing issue. suspect
+ situation yet run course. also hearing continued reports, despite layoffs
+ slowing economy, continued tightness highly skilled labor continued price pressure
+ front. Finally terms domestic economy, benefiting weaker dollar terms
+ tourism flows also high-end retailers, President Geithner’s District
+ one—Neiman Marcus—in District. that, nothing add U.S.
+ economy.
+ want talk inflation minute. data—whether core PCE overall, core
+ CPI, even trimmed mean, focus Dallas—seem indicating tempering
+ pressures. meat bones expectation, say hope,
+ deceleration inflation pressures would manifest itself. talking business
+ contacts, would say—if forgive terrible reversal biblical scripture—that, though
+ 
+ May 9, 2007
+ 
+ 30 130
+ 
+ flesh may willing, spirit weak. mean even though would like believe
+ numbers, terms behavioral patterns way positioning
+ management, feel enormous threats margins coming slow volume growth
+ coming increasing cost pressures allocate tasks globally. first reaction
+ see could change pricing structure domestically. Chemicals reporting 3
+ 5 percent price action taken beginning year sticking. contact
+ large producer food products said shifting overall model away focusing
+ unit-volume expansion pricing, even ubiquitous brand like Starbucks moving away
+ number transactions figure price aggressively restructure
+ size containers, many food product producers. large consumer paper products
+ reported budgeting zero percent price inflation beginning year
+ redone budget price 3 4 percent. pick word, Mr. Chairman, terms
+ mood companies regarding U.S. economy, would say it’s somewhat dyspeptic. It’s
+ pleasant mood. feel little indigestion margin pressure they’re
+ getting limited relief terms they’re able pull volume expansion.
+ unusual position coming believe, reading Beige Book
+ looking data, District continues significantly outperform rest economy,
+ although slowed somewhat; yet look histograms, lowest forecast
+ GDP year. pessimistic table terms short-term economic
+ growth, inflation front would resort Ronald Reaganism, need
+ trust verify. short, would surprised see disappointing growth second
+ quarter, much disappointing Greenbook’s forecast, would surprised see
+ 
+ May 9, 2007
+ 
+ 31 130
+ 
+ higher core PCE inflation sustaining hearing colleagues
+ staff. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Poole.
+ MR. POOLE. Thank you, Mr. Chairman. anecdotal reports accumulated
+ since last met almost—I guess eliminate “almost”—are unambiguously soft
+ side. emphasize “soft,” think better word “weak,” except perhaps
+ trucking industry contact, says volume March April 6 percent
+ year ago know exactly happening. Trucking company bankruptcies
+ sharply—24 percent year ago. Truck shipping rates weak—for first quarter
+ slightly year year, second quarter couple
+ percentage points. contact says volume declines general across country
+ widespread across industry segments. company reduced capacity continue
+ so, others industry thing. big inventory used trucks
+ sitting market, trucks sold abroad.
+ package delivery business FedEx UPS. mention names
+ companies obvious package delivery business; cannot really disguise
+ that. [Laughter] FedEx says business coming little plan volume
+ less-than-truckload business flat. Others down. Domestic express volume 2 percent
+ year year. ground package network growing substantially—a lot diversion
+ express business ground delivery cheaper. FedEx may delaying
+ expansion projects, putting three twelve months—not fundamentally changing longrun expansion plans delaying capital expenditures, expected 10
+ percent earlier plan year still 10 percent previous fiscal year.
+ 
+ May 9, 2007
+ 
+ 32 130
+ 
+ contact expressed confidence slowdown temporary; expects pickup AugustSeptember timeframe. FedEx difficulty hiring people company needs except
+ accounting audit fields. heard essentially story UPS. Ground volume
+ 2 percent year year. UPS discount rates putting price
+ increases last year. Cap-ex somewhat ’07 compared ’06. Profit margins
+ huge pressure; pricing environment competitive.
+ developed new contact QSR industry. Now, may know QSR
+ industry is, stands “quick serve restaurants.” people call fast food. [Laughter]
+ restaurant business, casual dining industry discretionary kind outlay,
+ traffic 7 percent year year. Traffic QSR industry 5 6 percent.
+ across industry, different companies business. putting
+ price increases roughly 3 percent. terms dollar volume, comps down—in
+ 3 percent 4 percent area.
+ contact large U.S. bank notes economy soft patch may
+ extended business cash flow balance sheets solid. something
+ mystery cap-ex stronger. proprietary, internal data credit card usage,
+ learned growth credit card usage slowing; 5 percent year year
+ 4 percent. early reading April data, “distinctly weak”
+ comment. Particularly, non-auto sales may declined—I guess get retail sales number
+ Friday. likely April retail sales weak. Talking credit demand, lot
+ demand C&I loans, according contact, really standard C&I type thing
+ instead driven primarily merger acquisition activity, hedge funds, private equity,
+ state local government borrowing. Credit quality remains high.
+ 
+ May 9, 2007
+ 
+ 33 130
+ 
+ outlook, take economy slowed, real issue whether
+ temporary soft patch economy recover whether
+ beginning cumulative weakness. often case, particularly think
+ models business cycles, weakness time feed become cumulative.
+ think know enough able make really solid estimate that. would note
+ likely inventory complication, important past businesscycle developments. Inventories seem pretty well controlled whole. Also, output
+ certainly supported stock market weaker dollar. would also note
+ unabated growth monetary aggregates, MZM M2—we see sign traditional
+ downturn behavior measures. stop there. Thank you.
+ CHAIRMAN BERNANKE. Thank you. President Minehan.
+ MS. MINEHAN. Thank you, Mr. Chairman. Conditions New England seem broadly
+ supportive continued expansion region pace nation whole,
+ perhaps pace national activity slowed somewhat region seems
+ lagging less, though think bit brighter tone economic activity. certainly
+ want overemphasize that, however, concerns linger strength job growth
+ housing market, among things.
+ Two matters came rounds gathering data anecdotes around region.
+ First, although growth overall labor costs region moderate relative nation,
+ concerns continue cost availability skilled labor. Respondents also increasingly
+ concerned input costs—oil, copper, zinc, metals, chemicals—and report
+ attempting pass higher costs within supply chain directly consumers
+ succeeding many cases. heard much locally yet effect three dollars
+ 
+ May 9, 2007
+ 
+ 34 130
+ 
+ gallon gasoline, hoping refinery outages apparently caused uptick prove
+ temporary enough dent regional demand increase price pressures. However, general
+ rise primary energy costs particularly reassuring. Second, residential real estate
+ data region continue downbeat terms permits, starts, year-over-year sales,
+ price trends, anecdotes—particularly regard high-end markets, noted before—offer
+ hope spring picture sales existing homes brighter data
+ in. comment spring weather; turned yesterday, won’t make
+ comment. [Laughter]
+ incoming data since last Committee meeting contained pluses minuses
+ that, large, offset one another. Thus forecast Boston, quite close
+ Greenbook similar forecasts around table, changed awful lot. short,
+ economy appears made one hopes final step-down overall growth
+ unsustainable momentum year ago process settling pace
+ gradually accelerate year slightly potential ’08 ’09. forecast
+ assumes effect housing bust begins subside midyear business
+ consumer confidence remains strong enough support continued hiring, consumption,
+ business investment. also assumes strength rest world buoys corporate profits
+ foreign consumption exports and, combined slowly declining dollar, adds least
+ marginally U.S. growth. occurs continuation accommodative financial
+ markets sustain household wealth ease borrowing costs provide
+ foreign investment flows. Finally, current boost energy costs proves temporary, inflation
+ subsides gradually unemployment moves slightly, reflecting output gap created year
+ slightly sub-potential performance. Looking data received projections
+ 
+ May 9, 2007
+ 
+ 35 130
+ 
+ ’09, forecast fell within central tendency areas, think see
+ inflation somewhat persistent others do—along lines Greenbook. fact,
+ forecast sounds pretty good outcome works way, even begun
+ think, versus last meeting, risks around sides forecast may
+ little smaller.
+ growth side, big question involves spillovers housing bust possibly
+ problems subprime adjustable-rate mortgages, expecting see spillovers
+ time, yet emerge real way. still might, we, like
+ Greenbook authors, marked forecast residential investment ’07 based
+ incoming data. inclined think broader market economic spillovers get less
+ likely time. fact, noted before, maybe leveling-off sales existing
+ homes smooth month-to-month variation data. Credit restraints could well
+ damp participation subprime borrowers home purchases, low mortgage rates ought
+ support prime borrowers, see evidence discussions local banks certainly
+ advertisements newspapers television focusing theme
+ time borrow mortgage rates low maybe stay way long.
+ think—I think anyway—that reason believe that, year, home
+ buying may help keep home prices equity positive perhaps neutral contributors household
+ wealth. Indeed, assuming gasoline prices edge current high levels equity
+ markets continue upward pace, least possibility upside consumer
+ spending.
+ Another aspect growth forecast concerned last meeting
+ unusually slow pace business investment equipment software. Given underlying
+ 
+ May 9, 2007
+ 
+ 36 130
+ 
+ fundamentals robust corporate profits, cash reserves, declining user cost, especially
+ high-tech goods, would expected faster growth. still concerned here, especially
+ spending patterns could augur poorly continued hiring, find most-recent data
+ orders shipments ISM survey encouraging, although President Moskow mentioned,
+ one take lot confidence single month’s data. all, seems,
+ anyway, downside risks around growth forecast bit less.
+ inflation front, remain concerned forecast bit perfect. Without
+ extended growth slump, unemployment rises slightly, inflation falls slowly.
+ done work San Francisco slicing dicing productivity, found Janet’s
+ comments interesting. also much agreement others’ perspective
+ level underlying structural productivity growth may declining degree
+ Greenbook authors seem think might. However, seems cyclical low continues,
+ unemployment could well sticky. recent increase energy raw material costs
+ burgeoning growth rest world could increase resource pressures time
+ dollar continues slow decline. taken together could recipe
+ accelerating rather decelerating inflation. I’ve noted before, really problem
+ stable inflation around current low level. concern me, however, potential
+ acceleration. regard, recent small moderation core data welcome, though certainly
+ sufficient ease concern entirely.
+ sum, remain ready bet baseline forecast. think good
+ hope for. continue risks sides, point would weigh equally.
+ wrong inflation side could difficult place be. is, growth falters,
+ clear do; inflation accelerate, might take quite costly
+ 
+ May 9, 2007
+ 
+ 37 130
+ 
+ remedy. Thus, would continue favor policy incorporates bit insurance. get
+ later. Thank you.
+ CHAIRMAN BERNANKE. Thank you. President Lacker.
+ MR. LACKER. Thank you, Mr. Chairman. Fifth District economic activity continues
+ mixed. manufacturing indicators continued drift lower past weeks,
+ apparently diverging national trend. may furniture textiles
+ particularly weak, industries significantly greater share activity
+ activity elsewhere. Respondents’ expectations regarding future manufacturing activity remained
+ upbeat drifted bit lower. two bad months, readings District’s retail sector
+ returned neutral, helped sharp turnaround big ticket sales. Retail employment
+ wage indexes rose significantly well, expectations future demand increased sharply.
+ services firms outside retail sector, index moderated bit past three
+ months, though remains positive, measures expected demand held quite well.
+ Housing markets District typically busiest time year, elsewhere, contacts
+ reporting softer overall sales year, might expect. said that, continue,
+ however, hear reports homes priced $250,000 $700,000 selling well.
+ hear reports lack inventory close D.C., although President Lockhart property
+ sale might interested in. [Laughter]
+ MR. LOCKHART. anyone interested, please see me. [Laughter]
+ MR. LACKER. Commercial real estate activity generally remains solid, although
+ observers expressed concern sustainability quite strong pace office
+ construction Northern Virginia. survey measures manufacturing-price trends seem
+ moderated since beginning year, consistent sluggish demand sector.
+ 
+ May 9, 2007
+ 
+ 38 130
+ 
+ services side, price trends seem declined somewhat since first half last
+ year, although measures services prices choppy trendless past
+ months whole.
+ Turning national economy, housing news disappointing, news
+ business investment manufacturing encouraging. However, overall outlook
+ hasn’t changed terribly much since last meeting. Housing begins stabilize second
+ half year, business investment equipment software picks up, consumer
+ spending remains relatively healthy. result, expect real growth return trend ’08.
+ Although outlook broadly agrees Greenbook, minor
+ differences—but emphasize minor. First, remain tad optimistic
+ trend growth. I’m expecting something closer 2¾ 2½. Second, still think
+ residential investment bottom middle year rather continue slide
+ ’08. course, quite difficult lot confidence one scenario housing
+ market, part recent data fairly choppy. figures homes sales,
+ late last year suggested housing demand stabilized, suggest demand may
+ taking another step downward. so, would increase size cumulative reduction
+ starts relative new-home sales needed work inventory overhang. It’s
+ hard know, however, far housing activity needs fall comes back
+ stable alignment income preferences. hunch drag growth
+ last quite long Greenbook says, still see reasonably good prospects stability
+ housing sector second half year. also think housing correction
+ limited effects spending outside residential investment. particular, I’m bit
+ optimistic Greenbook household spending.
+ 
+ May 9, 2007
+ 
+ 39 130
+ 
+ inflation, Greenbook us waiting third quarter ’08
+ see moderation core inflation. Even then, get 0.1 percent. would view
+ outcome fairly disappointing. asked unconditional forecast,
+ probably would submitted something lot like that. Instead, asked projection
+ conditional what, judgment, would appropriate monetary policy.
+ projection submitted core PCE inflation 1.8 percent next year 1.6 percent 2009.
+ what, judgment, would appropriate monetary policy, use Chairman’s
+ July testimony announce FOMC’s objective PCE inflation average
+ 1½ percent Committee intends reduce inflation level within two years.
+ announcement would necessarily shift inflation expectations immediately
+ downward, project consistent communications Committee members accompanied
+ rate increases downside growth risks abate later year would bring expectations
+ line objective early next year. Although growth would weaker year
+ unconditional forecast, would ultimately return trend 2008, properly
+ measured sacrifice ratio would turn significantly smaller often assumed
+ inferred standard Phillips curve estimates. mention scenario simply reiterate
+ believe there’s feasible alternative hypothesis inflation settle around
+ 2 percent higher unless engineer substantial output gap.
+ CHAIRMAN BERNANKE. Thank you. President Pianalto.
+ MS. PIANALTO. Thank you, Mr. Chairman. economy perspective
+ Fourth District isn’t materially different way heard Dave describe national conditions.
+ Manufacturers District generally report modest steady growth. particular, metals
+ producers suppliers report strong orders production. business contacts
+ 
+ May 9, 2007
+ 
+ 40 130
+ 
+ telling capital investment bit soft, point pose serious
+ problem overall economy.
+ I’ve several meetings homebuilders throughout District past
+ weeks, confirmed information see national data—sales
+ still anemic, inventory unsold homes remains quite high. also shared
+ information easy pull national indicators. example, sales starter
+ lower-end homes particularly slow, part lending standards significantly
+ tightened. means shift composition homes sold toward
+ upper end price spectrum, causing reported sales-price data little inflated.
+ builders spoke assure price discounts occurring discounts
+ substantial. Likewise, told appraisers increasingly asked lenders
+ whatever possible appraise properties relative current market conditions
+ discount price information historical comparables. contacts also saying
+ expectation home prices going fall keeping buyers
+ sidelines now. also hear that, possible, residential contractors shifting resources
+ nonresidential projects. nationally publicly traded home construction companies
+ completing houses selling loss markets exit
+ markets quickly. take away conversations homebuilders lenders
+ national data may yet fully caught poor conditions
+ residential construction sector and, further, closest markets betting
+ semblance recovery still long way off.
+ information influence economic projections submitted
+ today’s meeting. Like Greenbook, consequence weakness residential
+ 
+ May 9, 2007
+ 
+ 41 130
+ 
+ construction shaved additional 0.5 percentage point GDP growth latter half
+ year, marked expectations growth 2007. projection sees little
+ growth relative see Greenbook move 2008 2009, although
+ see slower economic growth obvious risk outlook. I’m especially concerned
+ possibility spillover housing sector business investment
+ outlook.
+ inflation projection calls slightly optimistic trend core PCE
+ see Greenbook. difficulty endorsing three-year projection doesn’t assume
+ policies going positioned eventually bring core PCE inflation back
+ 2 percent, below. inflation projection represents interpretation
+ appropriate monetary policy—namely one bring core PCE 2 percent.
+ economic projection is, therefore, based federal funds rate path similar
+ Greenbook baseline, constant path projection period; assumed slightly
+ optimistic price path oil. Given Karen’s comments morning, little
+ comfortable assumption. also slightly potential Greenbook does.
+ two assumptions, slightly lower path inflation Greenbook
+ does. Obviously, assumptions made great conviction, inflation may
+ continue track north 2 percent. does, risk conditioning expectations
+ level, outcome would welcome.
+ opportunity weeks ago spend day Paul Volcker, visited
+ Cleveland. subject inflation, reminded experience big inflations start
+ tolerance modest inflations. inflation expectations drag anchor little, it’s
+ 
+ May 9, 2007
+ 
+ 42 130
+ 
+ difficult costly get re-anchored; this, think, remains biggest risk
+ face Committee. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. President Plosser.
+ MR. PLOSSER. Thank you, Mr. Chairman. near-term outlook Third District
+ moderate growth going forward. major source strength District continues
+ employment growth, nonresidential construction fairly stable modestly healthy.
+ However, manufacturing continues sluggish residential construction weak.
+ Job growth picked considerably District, grown 0.9 percent
+ annual rate past months. Unemployment rates fallen region, labor
+ market Pennsylvania particular especially strong. get better handle labor
+ market conditions, last business outlook survey asked panel firms whether
+ experienced problems filling jobs past three months applicants didn’t
+ sufficient qualifications. Remarkably, two-thirds firms said
+ trouble percentage growing since first started asking
+ question three years ago.
+ strength regional labor markets reflected rebound staff’s
+ indexes leading indicators economic activity three states District, especially
+ Pennsylvania, index predicting stronger growth remaining three quarters
+ year. area stability region’s economy ongoing modest strength
+ nonresidential construction. growth sector recently largely
+ noncommercial construction—hospitals, education buildings, forth. However, general
+ commercial vacancy rates Philadelphia falling steadily, absorption rate
+ Center City nearly record high. regard manufacturing, growth stalled.
+ 
+ May 9, 2007
+ 
+ 43 130
+ 
+ According April manufacturing survey, general activity index close zero,
+ mildly positive, since late last year. new orders shipments close
+ zero, were. Further, April index future capital expenditures
+ somewhat averages seeing expansions. bright
+ spot significant bump-up future activity index, signaled more-robust
+ activity anticipated survey participants. also comes surprise residential
+ construction remains weak District, housing permits continued decline
+ value residential construction contracts well. Also, seems little
+ appreciation house prices. inflation front District, prices paid prices
+ received manufacturers moderated bit. Further, retailers reporting little
+ change prices past months. summary, Third District growing slowly,
+ staff projection modest growth going forward. Labor market fundamentals appear
+ strong, yet see sign pickup manufacturing national
+ numbers indicate.
+ national level, since last meeting actually become bit
+ comfortable economic situation. say comfortable, that’s
+ relative absolute statement. recent month’s readings core inflation
+ welcome, think caution vigilance still order day. Indeed,
+ Greenbook authors, we’ve noted, seem revising forecast core inflation
+ upward slightly past several months rather downward, bit
+ disturbing, even numbers don’t change whole lot.
+ News made comfortable projection somewhat quicker
+ return something closer trend growth second half year recent strength
+ 
+ May 9, 2007
+ 
+ 44 130
+ 
+ durable goods orders ISM numbers, indicating manufacturing picked
+ up. Further, recent strength manufacturing broadly based, output business
+ equipment strong. Along dimension, agreement latest forecast
+ Board staff. However, reports represent one month data, people said,
+ although consistent modest bounceback second quarter, still
+ substantial uncertainty. hope that, coming months, data reinforced new
+ data come in; but, again, point wishful thinking. would add, though,
+ business contacts, particularly financial sector, continue report business loans
+ strong, C&I loans strong, demand strong loans, balance sheets firms still
+ look good. see things looking good perspective, positive news
+ really showing numbers, least yet. I’m bit puzzled
+ that. Furthermore, job growth personal income growth appear solid footing,
+ find increasingly puzzled weakness labor market portrayed
+ Greenbook forecast. strength personal income, along rebound asset markets,
+ leads view consumption somewhat healthier going forward Greenbook sees it.
+ circumstances, coupled positive news investment alluded,
+ lead view closer-to-trend growth best forecast and, therefore, little
+ optimism outlook second half year ’08. reflected
+ forecast submitted.
+ said, realize significant risks return trend growth. biggest
+ risk remains housing. extreme fluctuations weather past four five months
+ made discerning trends lot difficult, I’m sure exactly much seasonal
+ adjustment factors bouncing numbers around making harder disentangle effects.
+ 
+ May 9, 2007
+ 
+ 45 130
+ 
+ Inventories housing, talked about, remain extremely high, little
+ signal pickup demand, least yet. However, I’m little skeptical sector
+ continue subtract full percentage point real growth forecast, Greenbook
+ suggests. I’m little optimistic that. remain optimistic part think real
+ mortgage rates remain relatively low. see strong income growth continuing,
+ increasingly less concerned, actually, spillover subprime markets.
+ envision housing demand strengthening bit implied Greenbook,
+ leads less subtraction going forward.
+ inflation front, I’m bit less worried last time far sanguine.
+ last core PCE inflation number obviously encouraging something close zero, but,
+ again, careful extrapolating one month’s data. said before,
+ Greenbook authors seem inching forecast core inflation least pushing
+ decline future, concerns bit. believe inflation still high.
+ Inflation expectations stable, high well, need bring rate
+ down. Thus, need vigilant continue somewhat restrictive policy.
+ regard forecast, I’m going say much. assure that, without
+ collusion, President Lacker’s view forecast evolves similar mine.
+ rather repeat said, let comments largely speak mine.
+ slightly faster return trend growth, partly productivity estimates somewhat
+ higher. thought Janet Yellen’s comments productivity analysis quite thoughtful,
+ appreciate them. optimal monetary policy, least preferred path monetary
+ policy, might include tightening trend growth returns quickly
+ 
+ May 9, 2007
+ 
+ 46 130
+ 
+ indicated. But, indeed, forecast core PCE actually 1.7 percent 2009. I’ll
+ stop there. Thank you.
+ CHAIRMAN BERNANKE. Thank you. President Hoenig.
+ MR. HOENIG. Thank you, Mr. Chairman. gave fairly detailed summary
+ District’s economy last time, hasn’t changed great deal since then. I’ll fairly brief.
+ labor markets region remain fairly tight; loosened since last
+ meeting. manufacturing sector continues show strength. agricultural sector
+ continues show strength. Housing one area that, parts country,
+ shown weakness inventories built; haven’t seen dramatic declines prices
+ point, watch that, others watching within regions.
+ national outlook, see economy continue grow something
+ trend. We’re little optimistic Greenbook, point
+ see economy grow trend. reasons others said, expect inflation
+ moderate, reasonably slowly, next eighteen months. Therefore, anticipating
+ next discussion, would say that, policy group, need resolute policies
+ terms holding positions fairly firm. I’ll leave get policy
+ discussion, Mr. Chairman. Thank you.
+ CHAIRMAN BERNANKE. Thank you. President Stern.
+ MR. STERN. Thank you, Mr. Chairman. outlook economy,
+ essentially sustained growth near trend modest diminution core inflation
+ time, hasn’t changed appreciably. sure, marked forecast year,
+ largely recognition reality—that is, weak first quarter, anticipate
+ sluggishness second quarter well. that, expect growth accelerate near
+ 
+ May 9, 2007
+ 
+ 47 130
+ 
+ trend. Underpinning anticipated performance productivity improvement something like
+ 2¼ percent year maybe little less, employment gains neighborhood 0.6
+ 0.8 percentage point per year. demand side, expect sustained increases consumer
+ spending; business investment, including structures; net exports. don’t think
+ outlook housing sector really changed appreciably recently, least relative
+ expecting. Given inventory levels still high, think
+ time see meaningful improvement residential construction.
+ confidence general view outlook heightened interpretation history.
+ economy grew 3 percent better four years 2003 2006. important
+ broadly, think performance economy past two
+ half decades, hasn’t wise make major bets sustained, healthy growth. that’s
+ I’m really expecting.
+ inflation, view current stance monetary policy moderately
+ restrictive—and basis versions Taylor rule, estimates real
+ federal funds rate relative equilibrium, rules thumb have—I expect
+ core inflation gradually slow here, assuming maintain approximate
+ stance policy adopted. think another reason uptick
+ core inflation transitory. would add that, look latest three-, six-,
+ twelve-month increases core CPI core PCE, fact see waning inflation.
+ course, waning due part favorable numbers got March, doesn’t
+ appear exclusively due March numbers. event, inflation going slow,
+ latest numbers. [Laughter] mean, way occur.
+ that, conclude.
+ 
+ May 9, 2007
+ 
+ 48 130
+ 
+ CHAIRMAN BERNANKE. Thank arithmetic. [Laughter]
+ MR. STERN. Sometimes obvious escapes me. [Laughter]
+ CHAIRMAN BERNANKE. President Lockhart.
+ MR. LOCKHART. Thank you, Mr. Chairman. Since last meeting, aggregate
+ economic activity Sixth District expanded moderately. Employment momentum
+ areas District continues exceed nation overall. Florida exception.
+ areas Florida lag nation. Similarly, housing downturn, measured sales
+ permits, remains less severe District nation, except much Florida.
+ housing downturn Florida shown little sign bottoming out, builders continue
+ expect even lower levels construction. Permit issuance continues steep decline,
+ 50 percent March year ago. inclined suggest significance
+ nation whole Florida developments. heard anecdotal views Florida
+ run-up speculative activity second-home market 2004 2005.
+ Buyers bidding prices anticipation flipping properties higher prices. Florida
+ idiosyncratic. idiosyncratic also state’s ongoing insurance cost problem related
+ hurricane risk. However, Atlanta region, conversations we’ve homebuilders
+ housing market raised concern steepening decline sales new homes. Atlanta
+ generally tracked nation, carefully watching housing-sector developments
+ Georgia, particularly Atlanta.
+ Despite negatives housing sector, continue find limited evidence
+ spillover residential real estate adjustment sectors regional economy.
+ Labor markets appear remained tight District. measured unemployment
+ rate around 4 percent District versus 4.4 percent nationally. Even demand
+ 
+ May 9, 2007
+ 
+ 49 130
+ 
+ skilled building tradesmen appears strong, builders—and may relevant earlier
+ discussion—seem taking opportunity upgrade quality staffs. Trends
+ state sales tax revenue support view consumer spending relatively unaffected
+ housing downturn. Again, exception Florida, sales tax revenues first
+ quarter substantially year-ago levels.
+ perspective national economy significant uncertainty remains
+ overall outlook 2007 path inflation. economic staff uses three models
+ forecast key macroeconomic measures. average forecast real GDP growth
+ generally line Greenbook forecast, neither suggests recession risk.
+ minor differences composite forecast Greenbook
+ unemployment. significant difference declining path inflation
+ Greenbook versus inflation forecast holds steady around 2.3 percent forecast
+ period. So, summarize, harbor greater doubt Board staff inflation rate
+ come projected 2007.
+ CHAIRMAN BERNANKE. Thank you. Vice Chairman Geithner.
+ VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. outlook changed
+ little. March, see expansion continuing, growth moving back
+ potential—we see potential around 3 percent—later year. view rests familiar
+ expectations: Housing stabilizes relatively soon without major drop prices; investment
+ spending strengthens somewhat temporary factors holding recede positive
+ fundamentals reassert themselves; consumption moderates bit continues supported
+ strong income growth; saving rate moves modestly slowly; external
+ demand remains strong. still expect inflation moderate gradually rate
+ 
+ May 9, 2007
+ 
+ 50 130
+ 
+ 2 percent core PCE end ’08. view recent numbers somewhat
+ reassuring. Recent data general provided bit comfort scenario.
+ balance, downside risks growth diminished bit. risk inflation fail
+ moderate sufficiently, however, remains significant material. general, overall
+ outlook, view, hasn’t changed much.
+ Now, forecast assumes hold fed funds rate while.
+ expected path market’s Greenbook’s. We’re Greenbook
+ because, although expected forecast really similar, attach somewhat greater weight
+ alternative scenarios suggest slower growth. recent growth numbers been,
+ balance, encouraging, markets bit confident outlook were.
+ still think downside risks growth significant. Housing could still surprise
+ downside, could see deeper, protracted contraction activity and, course,
+ broadly based more-substantial declines prices. Consumption could weaker reason
+ saving rate rises reasons, pessimism long-run income
+ growth. household sector substantially leveraged was, less
+ cushion absorb shocks and, therefore, presents risk amplifying rather mitigating
+ broader weakness economy. Although bit better March, investment
+ outlook still bit tenuous, seems unlikely substantial source strength
+ broader weakness demand rest economy materializes. rapidly growing
+ parts world growing well potential face rising inflation substantial
+ asset-price inflation, think authorities generally starting tentatively tighten
+ policy significantly.
+ 
+ May 9, 2007
+ 
+ 51 130
+ 
+ inflation front, still face substantial uncertainty happening
+ underlying trends evolve. broader inflation environment is, anything,
+ less benign past three quarters, inflation accelerating little outside
+ United States, energy commodity prices continuing show signs rapid demand
+ growth, dollar potentially weakening further, compensation firming bit,
+ productivity growth probably staying bit thought trend. context,
+ inflation still running 2 percent, inflation expectations could drift up.
+ Continuing risks bit, still think live significant risk sharp
+ deterioration financial markets. Credit spreads, risk premiums, low levels implied
+ volatility, strength asset prices many parts world—all imply level
+ confidence ongoing, stable growth low inflation seems bit implausible. addition,
+ low level long forward rates seems hard reconcile strength demand growth
+ outside United States, suggesting much world likely need move
+ toward tighter monetary policy. financial conditions exert restraint demand growth
+ globally, could see rapid unwinding long period benign assessment
+ fundamental risks. We, course, face risk policy actions form trade
+ investment protection. risk, backdrop uncertainty strength
+ productivity growth going forward, might make rest world less comfortable financing
+ still-large external balance favorable terms prevailed thus far.
+ longer-term outlook potential United States, sticking
+ forecast 3 percent, altered mix bit, Greenbook sense;
+ however, feel little less comfortable basic view potential. lowered
+ productivity growth assumption bit, 2.25 nonfarm business sector, raised
+ 
+ May 9, 2007
+ 
+ 52 130
+ 
+ estimate trend hours bit. potential lower we’re assuming, less likely
+ see moderation inflation currently expect, would expect lower path
+ output growth well. stage, however, view strength income growth
+ we’ve seen, earning expectations, measures, we’re reluctant embrace
+ negative view growth potential.
+ balance, view risks, favor staying while. don’t think
+ strong case tightening policy inducing significant rise market
+ expectations path fed funds rate going forward, think we’re
+ risk tight. So, general, think best choice us continue lean
+ expectation move reduce rates soon. Thank you.
+ CHAIRMAN BERNANKE. Thank you. 10:30. don’t take twentyminute coffee break adjourn 10:50. Thank you.
+ [Coffee break]
+ CHAIRMAN BERNANKE. Okay. Let’s reconvene. President Minehan twohander.
+ MS. MINEHAN. quick comment brought mind Tim’s
+ comments. regularly meet group investment people FOMC meetings.
+ Compared past several months—particularly time last meeting,
+ coming financial market upset, especially equity markets—they
+ saying felt financial markets frothier right
+ past three four years; money chasing deals level
+ froth seemed unsustainable. don’t know implications current
+ policysetting—I’m wise enough know that. see it, Tim indicated did,
+ 
+ May 9, 2007
+ 
+ 53 130
+ 
+ risk lies whole environment. Even though slower growth somewhat
+ higher inflation, overall forecast benign; despite yield curve fed
+ funds futures tell us, market seems buying whole benign outlook thinking
+ it’s going continue forever. Clearly won’t. spillover effects
+ succeeding meetings questions don’t
+ answer; think questions, would like reiterate Tim say.
+ CHAIRMAN BERNANKE. Thank you. Governor Kohn.
+ MR. KOHN. Thank you, Mr. Chairman. outlook, like rest yours,
+ basically one Greenbook, hasn’t changed much past
+ weeks. Like rest you, see income growing less growth rate potential
+ several quarters, pace held housing slower growth consumption
+ become evident recent data confirmed President Poole’s reports. offset
+ time strengthening business spending, end inventory correction
+ see IP ISM statements, pickup capital expenditures businesses feel
+ comfortable expansion continue overbuilding income
+ growth higher three four years President Stern talking
+ absorbed. Like rest you, see pickup demand something like growth rate
+ potential time next year housing activity adjusts lower level demand
+ inventory worked off. Several favorable factors support eventual return potential:
+ supportive financial conditions, especially businesses; credit availability, we’ve
+ talking about; narrow credit spreads; low long-term rates; good foreign demand—
+ another upward adjustment Greenbook rest-of-the-world economic growth;
+ decline dollar—which support exports. used staff structural growth 2½
+ 
+ May 9, 2007
+ 
+ 54 130
+ 
+ percent. seemed adjustments staff made small, offsetting
+ participation productivity, looked reasonable given recent data. still
+ tension labor data potential growth high is, leaves staff
+ position labor force participation slightly trend, strikes
+ ought unemployment rate slightly NAIRU. Also,
+ productivity slightly trend, need faster-than-trend productivity growth
+ get back lower trend, strikes ought three four
+ quarters below-trend growth presumably labor hoarding, much
+ trend. looked like reasonable assumption me, that’s used
+ projection.
+ differ Greenbook couple respects. One softer equity
+ house prices staff did. equity front—I think said last time—I expected
+ equity prices soft, they’re 6 percent. [Laughter] Fortunately, don’t back
+ predictions personal wealth. But—I’m going hold prediction—[laughter]
+ market still seems building rapid increase profits seems consistent
+ moderate nominal GDP growth rebalancing labor-capital share, may
+ beginning see. Certainly, practically growth domestic profits
+ Greenbook ’08. Now, market may get foreign profits, people
+ saying, think potential disappointment there. house prices, inventories
+ large, price-to-rent ratio still extremely high. demand side, think demand
+ damped tightening subprime alt-A markets. supply side,
+ foreclosures, particularly rates adjust year. presume prices
+ need drop somewhat, rather stay level staff forecast, even get housing
+ 
+ May 9, 2007
+ 
+ 55 130
+ 
+ stabilization eventual slight rebound staff included real GDP forecast.
+ Now, offset effects weakness wealth prices, slight easing
+ monetary policy year, next year, following year—¼ percentage point year—to
+ get output. slight easing real rates given inflation edging
+ inflation expectations aren’t presumed change much. context
+ would interim inflation target 2 percent. think 2 percent achievable
+ without significant output loss: low historical standards broadly consistent price
+ stability minimal welfare distortions relative 1½ percent. agree little lower might
+ nice eventually, would get opportunistically leaning increases
+ accepting decreases rather deliberately going 1½ percent. I’m skeptical
+ expectations effect might accrue announcement 1½ percent commitment.
+ second difference Greenbook assumed slightly lower NAIRU—
+ 4¾ percent. point estimate silly—we really vaguest idea—but seemed
+ compensation data, price data, past years consistent
+ NAIRU bit 5—and assumed 4¾ percent. consequence, slightly
+ less inflation staff forecast—0.1 ’07 ’08. 2.2 ’07 2.0 ’08
+ staying ’09. sense thought interesting part forecast
+ thinking second moments—the skews probabilities around central
+ tendencies. confess ’07 committed sin thinking things uncertain
+ usual, Mr. Chairman. [Laughter] hate hear people say that.
+ CHAIRMAN BERNANKE. They’re always uncertain usual. [Laughter]
+ MR. KOHN. reasoning. thought average includes lots
+ episodes less steady growth steady state episodes cyclical
+ 
+ May 9, 2007
+ 
+ 56 130
+ 
+ adjustments. mind, middle kind mini-cycle,
+ adjustment greater-than-sustainable growth growth hope sustainable. We’ve
+ seen adjustment already created inventory overhangs changes
+ capital spending plans. thought that, we’re steady state, things might
+ little uncertain usual. compensated narrowing confidence bands
+ ’08 ’09 [laughter] think we’ll close kind steady state.
+ skews part, like President Geithner, downside skews output. wasn’t
+ much housing think that, adjustment demand activity that’s staff
+ forecast adjustment prices, risks around approximately balanced.
+ spreading problems subprime market credit markets; think we’ve seen
+ enough since subprime problems started pretty sure risk
+ normal kind. Rather, risk saw concerns financial position
+ psychology household sector interaction housing.
+ spillover sense housing consumption. financial obligations ratio
+ high. Households, President Geithner noted, highly leveraged. One surprises
+ development subprime markets apparently many borrowers lenders
+ counting future appreciation houses support debt service, say nothing
+ consumption must going time. suspect widespread
+ subprime market. many households expecting price appreciation
+ continue rather slow even prices decline (as think
+ will), it’s hard say. suspect lot households, think could
+ get feedback there. staff saving rate actually declining second third
+ quarters, might technical reasons that. Even get modest consumption
+ 
+ May 9, 2007
+ 
+ 57 130
+ 
+ growth, see gradual uptrend saving rate time. might
+ likely outcome, suggest least fatter tail possibility
+ households, seeing what’s happening housing market financial obligations,
+ draw back quickly spending.
+ President Geithner Basel, popular question us
+ whether capital spending would really pick again. number central bankers doubted
+ could happen long consumption wasn’t growing rapidly. I’m comfortable
+ capital spending pattern long consumption pattern looks something like
+ pattern Greenbook like one likely outcome.
+ generally, pointed one point last fall, Mr. Chairman, think we’re
+ unusual situation below-potential growth extended period—a situation
+ pretty much unprecedented without breaking one way another. nonlinearity going
+ come bite us here, and, see it, nonlinearity likely household
+ sector.
+ Now, income proceeds along expected path, seems upside
+ risks inflation moving 2 percent staying forecast. think overall
+ we’re facing difficult inflation environment past ten years so:
+ high level resource utilization; rising import prices decline dollar high
+ level demand relative potential supply globally, including emerging-market
+ economies—one thing heard Basel increasing numbers economies
+ trouble sterilizing reserve accumulation running inflation pressures
+ happening—higher prices energy, food, commodities; higher headline
+ inflation; possibly even slower trend productivity growth. didn’t see downside skew
+ 
+ May 9, 2007
+ 
+ 58 130
+ 
+ things. But, thought whole picture things seeming tilt
+ bit one side interaction, seemed upside risk
+ possibility inflation expectations would rise rather stay assumed
+ likely outcome. Now, policy purposes, would weight upside risk inflation
+ downside risk growth, we’ll get later day. Thank you, Mr.
+ Chairman.
+ CHAIRMAN BERNANKE. Thank you. Governor Warsh.
+ MR. WARSH. Thank you, Mr. Chairman. views economy haven’t
+ changed much since last met aren’t terribly odds Greenbook. I’d highlight
+ couple reasons concern, couple areas misses could severe. share
+ views expressed many around table, recently Governor Kohn, inflation
+ front. remain quite concerned inflation prospects, I’m keeping wary eye
+ inflation expectations, particularly acceleration trends commodity
+ prices foreign exchange value dollar. sense markets haven’t fully
+ taken account could be, could find markets preoccupied
+ inflation scare appear moment. think that, balance ’07,
+ inflation risks tend significant growth risks, would expect see
+ sequential increases GDP, Greenbook, go next several quarters.
+ big point predicated really continued accommodation credit
+ markets capital markets, several people noted.
+ thinking projections and, look ’08 ’09, bigger risks
+ tend policy oriented head next election, may well
+ effect capital markets. think second half ’08 first half ’09
+ 
+ May 9, 2007
+ 
+ 59 130
+ 
+ likely GDP implications would be, can’t help think changes perceived
+ changes tax policy trade policy could biggest drivers capital markets and,
+ result, biggest effects macroeconomy. huge risks, look beyond
+ ’07, terms GDP might come out; central case, Greenbook formulation
+ looks roughly accord own.
+ Let spend moment consumption. view broadly consistent others
+ said earlier today. spoke past week one credit card company whose customer
+ base similar average aggregate customer base United States.
+ one-fifth credit card spending, reported April results, might
+ provide us clues PCE growth credit quality. Card spending April,
+ perspective, consistent moderate deceleration real consumption. ended
+ April nominal year-over-year growth 4 percent non-auto retail sales,
+ slowdown fourth quarter ’06 slowdown January, bit
+ February March, getting quite despondent worrying bit
+ projections next three quarters. think April numbers look okay, quite
+ consistent moderate deceleration many folks talked about. believe
+ hit floor that, time tell. able do, least
+ time discussions them, break retail purchases outside fuel find
+ whether less strength 4 percent top-line number would suggest. suspect
+ would case. fits market expectations we’ll know next
+ couple days. strikes average, okay number may touch better
+ market expectations, shouldn’t give us whole lot comfort we’re trying suggest
+ robust recovery consumption PCE. Credit quality remains strong across
+ 
+ May 9, 2007
+ 
+ 60 130
+ 
+ consumer credit company’s mortgage products. would note don’t much
+ subprime portfolio—what subprime fallen level rather begun
+ issued credit. Payment rates, use credit lines, delinquencies, chargeoffs—all positive levels little indication more-serious weakening consumer
+ demand. So, again, think prospects outlined Greenbook terms PCE look
+ broadly consistent April numbers.
+ Let turn capital markets credit markets speak three
+ four observations may bit newsworthy last met six weeks ago.
+ First, talk little dearth defaults corporate loans, spend couple
+ moments private equity, building Bill Dudley’s discussion outset correlation
+ among asset classes, finally spend moment shakeout mortgage markets.
+ predicate something know, several people spoken earlier
+ today. corporate America become cautious, Wall Street become
+ aggressive satisfy investors’ appetites risk. we’re seeing risk aversion one category
+ Main Street real risk-seeking behavior Wall Street. Financial risk-taking remains high
+ may well even increased since last met. you’ll look MOVE options index
+ measuring one-month volatility Treasuries, it’s lowest nine years,
+ since index came being, suggests President Minehan’s point forces
+ liquidity froth might market probably present today us
+ could imagined given tumult markets late February. time,
+ nonfinancial corporate risk-taking continues subdued objective measures would
+ suggest be. reason hope cap-ex data come around
+ many us expected already, determination still needs done that.
+ 
+ May 9, 2007
+ 
+ 61 130
+ 
+ hear, us even say, capital markets appear priced perfection,
+ credit markets strong ever, liquidity plentiful. would add concern
+ implausibility notion, President Geithner others spoke about. reason
+ central bankers worry is, course, narrower spreads provide less shock
+ absorber unforeseen events.
+ Let go points mentioned outset describe
+ implications decisions make. First dearth defaults corporate loans.
+ Historically low year-ahead default rates referenced Greenbook, give
+ us comfort, least theory. share Greenbook view corporate defaults increase
+ profits level leverage increases normal levels. fewer defaults even
+ possible financing environment, makes little less sanguine data.
+ think covenant packages corporate loans, originated Wall Street
+ originated community banks—I think President Yellen spoke previous meeting
+ covenant-lite deals—it incredibly hard get defaults context loans, never mind
+ event-of-default notices everything else would find way indentures.
+ result, seen recent spate financings covenant packages increasingly
+ issuer-friendly, without triggers would otherwise cause defaults: debt payment
+ schedules, never mind even need make interest payments, ability turn
+ sort pay-in-kind notes. that, strikes me, make us nervous business
+ fundamentals shift abruptly investors left little opportunity gain access
+ capital position force companies restructure operations. result
+ less sanguine low default data continue receive Wall Street.
+ 
+ May 9, 2007
+ 
+ 62 130
+ 
+ second point state private equity capital markets. note builds
+ recent history we’ve seen: massive fund-raisings; larger LBOs; increasing leverage;
+ past twelve months, we’ve seen so-called club deal phenomenon; growth equity
+ bridges, others talked about; last met, discussed interest
+ many firms rushing capital markets finding permanent capital.
+ newest development growth syndication equity placement LBO markets.
+ way syndicated debt markets matured incredibly past
+ six ten years, equity side huge investments presently considered
+ potentially made. one LBO sponsor might fund certain portion equity
+ check LBO line up, equity syndicate manager traditional
+ investment bank commercial bank, ability sell rest equity
+ infrastructure distribution system built. doubt see syndication
+ market five years deep large debt markets. think shows
+ us new liquidity continues come even private placement 144(a) markets alongside
+ growth public capital markets. liquidity could well improve tradability.
+ extent syndications new, show us liquidity plentiful; also show
+ us many new mechanisms stress-tested. implication
+ boom private equity raised floor equity prices. sense
+ private equity put may well replaced used thought Federal Reserve
+ put floor equity prices, equity put appears larger ever been.
+ Thus seen increased total leverage structured products; credit markets,
+ I’ve mentioned, robust; question stress testing, still
+ determined.
+ 
+ May 9, 2007
+ 
+ 63 130
+ 
+ Another point capital markets relates Bill said correlation among
+ asset classes. CEOs, CFOs, chief risk officers large financial firms found quite
+ troubling greater correlation among asset classes internal models
+ suggested. looked dashboards weeks tumult saw last
+ February, grew increasingly uncomfortable whether accurately measured
+ firms’ downside risks are. Certainly it’s encouraging, Bill showed us,
+ appears less correlation recent weeks. That’s lesson learned relearned
+ tested retested institutions. may heeding wakeup call good news,
+ time tell whether enough catch problems arise market.
+ final point concerns consequences shakeout mortgage markets.
+ sense that, fallout subprime, market becoming consolidated larger,
+ more-sophisticated lenders quickly provide markets satisfy customers’
+ newest wants. success markets investment banks hedge funds go
+ scale, strong distribution systems, control servicing
+ businesses, effectively able engineer workouts avoid need foreclose.
+ think balance year hear news small medium-sized
+ commercial banks feel though market share taken away tumult,
+ something need continue observe. that, Mr. Chairman, I’ll save
+ rest comments next round.
+ CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+ MR. KROSZNER. Thank much. last time met, one theme greater
+ uncertainty, Governor Kohn mentioned feeling greater uncertainty ever
+ had. sure greater uncertainty tenor comments today,
+ 
+ May 9, 2007
+ 
+ 64 130
+ 
+ think greater uncertainty downside risk. key issue last time think
+ still us certainly saw evidence slowdown and, President Stern mentioned,
+ sometimes acknowledge reality, much slower growth many
+ people expecting two previous meetings. Greenbook suggests
+ slowdown unlikely persist—and broadly agree view, many people around
+ table—but want review five key uncertainties talked last time discuss
+ developed likely go.
+ first uncertainty investment, course, lot us spoken that.
+ would rate level uncertainty still elevated there. going use color coding rate
+ uncertainty, would say still elevated. recently gotten more-solid
+ numbers, recent; think still glimmer hope something
+ bank going get turnaround investment. seen better
+ numbers ISM, durable goods, forth says direction perhaps little positive
+ thinking six weeks ago. still reasonable amount uncertainty
+ whether pickup business investment help offset slowdown consumption make
+ sure continue grow 2 percent range going forward.
+ second uncertainty productivity potential output. Obviously still
+ elevated level. far concerned, one biggest challenges us think
+ intermediate run. particular, downside scenario concerns that,
+ pickup investment, unlikely see sustained rise productivity growth. perhaps one
+ reason lower investment concerns productivity growth returns
+ investment, could fairly negative scenario get much lower potential
+ output. Offsetting concern seeing glimmers hope investment.
+ 
+ May 9, 2007
+ 
+ 65 130
+ 
+ respect potential, think appropriate Greenbook raised participation rates bit,
+ given older people seem healthier previous cohorts seem willing
+ work. However, think big question mark is, exactly David said, August
+ get better feel way data revision go difference two
+ sides balance sheet fairly big. Broadly, share Gary Stern’s optimism good
+ bet bet U.S. economy ultimately good productivity growth.
+ concern fully understand slowness investment recovery
+ productivity slowdown. potentially worrying downside scenario there.
+ Third uncertainty housing market subprime. Well, obviously,
+ uncertainty subprime highly elevated then, come quite bit. seen
+ tightening lending standards, particularly lower end. survey senior loan
+ officers asked differentiation subprime prime lending standards. showed
+ dramatic increase subprime standards, exactly would expect kind
+ market, certainly potentially reducing demand least lower end housing market.
+ housing market itself, uncertainty still there. still lot
+ uncertainty whether numbers telling us weather actual strength
+ market. think mentioned number before, need have, besides Dave,
+ meteorologist staff forecast weather every number hear housing
+ market number put stock; heat cold rain
+ snow whatever thing Mother Nature may throw us. still think pretty
+ mixed picture there. said, seen little evidence spillovers subprime
+ market. main concern, variation Governor Warsh said, something
+ Congress might might cut market. mindful actions
+ 
+ May 9, 2007
+ 
+ 66 130
+ 
+ may taking respect guidance, well actions Congress may
+ taking, could reduce market otherwise.
+ yield curve favorable lot variable-rate subprime borrowers move
+ fixed-rate products, payment shock perhaps 50 basis points.
+ delinquencies seeing due resets payment shock.
+ due primarily so-called juvenile delinquents—the early defaulters going bad.
+ means know coming line really seen
+ experience resets. Now, recently benign yield curve, situation could reasonably
+ worked out. key whether equity left. equity left resets come,
+ guys likely walk. risk layering—putting really money down—and
+ prices go down, problem. think may bit slow burn. Coupled
+ broader misalignment seeing little increase housing starts,
+ ways would see positive, sort negative given housing sales seem
+ declining much. Thus seems disconnect supply demand, think
+ Greenbook quite wisely saying likely longer transition housing
+ market.
+ fourth area uncertainty talked last time financial markets—the
+ dramatic spike volatility. volatility spike come down, we, good
+ economists, never satisfied either high volatility low volatility. Low volatility
+ concern us, much share concerns Tim, Cathy, Kevin, others
+ mentioned. United States, also rest world,
+ spreads bit narrower otherwise would be. particular, concerns banks
+ chasing private equity deals going covenant-free. many discussions private equity
+ 
+ May 9, 2007
+ 
+ 67 130
+ 
+ folks, instead saying, well, bring us capital, contacts ones saying
+ banks pushing take greater leverage otherwise would want. Now, isn’t
+ fox guarding henhouse, know is. want banks disciplinary
+ force, would potentially taking large risks real concern.
+ fifth area uncertainty consumption. seen bit step-down
+ consumption growth, still lot uncertainty, share exact concerns
+ Governor Kohn articulated; given likely wealth effects, even though
+ offsetting effects stock market, want bet offsetting effects
+ stock market next three quarters. Housing wealth seems flattening,
+ coming down, Case-Shiller index average ten markets 3 5 percent.
+ people’s thinking consumption pattern based increase housing wealth,
+ saving rate least gradually increase. point, reality may biting
+ leading concern.
+ inflation front, again, continuing uncertainty drives
+ short-term intermediate-term inflation. mentioned last time, get very, mild effects
+ traditional things think make difference. Oil, energy, commodity prices,
+ resource utilization don’t seem much force, short intermediate terms
+ think leaning positive side rather negative side. still
+ owners’ equivalent rent issue coming transition housing market still
+ extent temporarily pushing measured inflation rates. Inflation expectations continue
+ seem quite well contained, that, think, key because, given forces
+ seem important short intermediate run, inflation expectations important.
+ 
+ May 9, 2007
+ 
+ 68 130
+ 
+ bottom line that, although see downside risks growth, think Greenbook
+ scenario reasonable central tendency one, see important upside risks inflation.
+ CHAIRMAN BERNANKE. Thank you. Governor Mishkin.
+ MR. MISHKIN. Thank you, Mr. Chairman. would characterize compared
+ last meeting gone soft patch, extensive
+ expected. basic longer-term outlook really one last time
+ around. really relevant policy decisions policy decisions
+ affect economy year two road.
+ Looking issue risks, worried last meeting
+ happening business fixed investment, particularly really understand
+ going on; always case that, Knightian uncertainty, get much
+ nervous. numbers come bit better grounds, little less worried
+ business fixed investment. downshift housing,
+ unexpected. put things together, think situation fair amount
+ uncertainty. Maybe little less worried uncertainty downside risk,
+ although think still there, housing case, point view
+ longer-run fundamentals, see big problem. really inventory-correction issue,
+ trying sort out. creating uncertainty, creates uncertainty
+ shorter term rather longer term. Even though still uncertainty issue
+ business fixed investment, may little bit less. perhaps slight skew
+ downside terms confidence intervals, little less last time, gives
+ comfort.
+ 
+ May 9, 2007
+ 
+ 69 130
+ 
+ inflation issue, optimistic Greenbook. see inflation coming
+ 2.1 percent end 2007 2 percent staying thereafter.
+ reasoning here, think, familiar you. consider long-run inflation expectations key
+ driver inflation process. see numbers around 2 percent, unless make
+ concerted effort change inflation expectations, think stay. Also,
+ confident right thing make sure inflation expectations go
+ there, think markets similar confidence regard.
+ look risks terms inflation, concern issue
+ happened structural productivity. numbers coming really cannot fully
+ explain. Maybe something bit wrong Okun’s law, productivity revert
+ back it, we’re okay. maybe actually something more,
+ tight labor markets when, fact, economy growing quite slow pace.
+ real question may mean. structural productivity actually downshifting
+ expect, create serious inflation risk concerned about.
+ side issue whether really tight labor markets. look
+ numbers terms compensation forth, don’t look bad. might tell us
+ NAIRU may somewhat lower—again, even know exactly NAIRU
+ concept means—which issue Knightian uncertainty, normal uncertainty.
+ context, basic forecast outline actually fairly benign one. willing bet
+ probably reasonable forecast have. pretty comfortable it.
+ wait see kind data come in. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Let try summarize discussion around
+ table take comments summary, would like add thoughts.
+ 
+ May 9, 2007
+ 
+ 70 130
+ 
+ Broadly speaking, outlook participants substantially changed since March.
+ Housing remains weak, greatest source downside risk. Whether demand
+ housing stabilized remains difficult judge, part subprime issues. also
+ unclear whether builders seek return inventories historical levels, so, rate.
+ yet indication significant spillover housing sectors, although
+ remains risk. downside risks investment moderated since last meeting, although
+ investment seems unlikely strong driver growth. inventory cycle well
+ advanced, production strengthening. Consumption growth seems likely moderate,
+ reflecting factors weakness house prices high energy prices. However, labor
+ market remains strong, particularly market highly skilled workers. Incomes generated
+ labor market, together gains stock market generally accommodative financial
+ conditions, provide support consumption going forward. Financial markets
+ priced perfection, implies risks score. Foreign economies remain strong
+ source support, although undertaking monetary tightening. Overall,
+ economy soft patch likely grow trend while. Growth return
+ potential later year 2008, depending evolution housing market. rate
+ potential growth remains hard pin down. Several participants seem bit optimistic
+ Greenbook potential growth NAIRU, although risks.
+ Inflation improved bit, see continued slow moderation. However,
+ upside risks inflation, including compensation, dollar, energy prices, slowing
+ productivity. Moreover, rise inflation current levels would costly, particularly
+ involved unhinging inflation expectations. Vigilance inflation must, therefore, maintained.
+ Overall risks uncertainties seem bit less pronounced last meeting,
+ 
+ May 9, 2007
+ 
+ 71 130
+ 
+ participants seemed relatively comfortable outlook. Although potentially
+ significant downside risks output, arising particularly housing sector possible
+ spillover consumption, group still appears view failure inflation moderate
+ expected predominant risk longer-term stability. comments questions?
+ Hearing none, add points. First, following President Yellen, think
+ tension slow growth strong labor market remains central understanding what’s
+ going on. Okun’s law supposed work better this. [Laughter] looked recent history.
+ past twenty years so, exact parallel seeing now.
+ jobless recovery ’91-’93 unemployment remained high even though growth
+ picking up, midcycle slowdown ’95 ’96, relatively short
+ severe, unemployment rate got temporarily ahead growth.
+ deviations. Interestingly, 2001 recession, despite lots talk jobless recoveries,
+ Okun’s law worked pretty well. unusual situation—instead jobless recovery,
+ growthless job growth. [Laughter]
+ Interpreting correctly important. staff forecast essentially assumes
+ Okun’s law revert historical tendency. think assumption reasonable, particularly
+ since staff exceptionally optimistic potential growth and, therefore, particular
+ source error moderated. would suggest labor hoarding probably good part
+ happening here. one area labor hoarding appears significant,
+ would construction, President Yellen mentioned. asked staff simple study
+ relationship, Dave Stockton referred. Andrew Figura Adam Looney Board’s
+ staff performed regression analysis regressed construction employment
+ investment structures quarterly lags going back 1985. reason look
+ 
+ May 9, 2007
+ 
+ 72 130
+ 
+ construction terms employment production lot substitutability
+ two categories. regression approach also account unmeasured labor,
+ including undocumented workers like. analysis found employment
+ roughly proportional construction activity, substantial lags, somewhat
+ surprising. Indeed, model fits well fourth quarter ’06 begins
+ underpredict significantly first quarter ’07. model correct, given
+ already pipeline terms reduced construction activity going forecast
+ Greenbook, begin see fairly significant declines construction employment
+ order 30,000 per month next year, would sufficient itself, else
+ equal, add 0.2 0.3 unemployment rate. labor hoarding explains failure
+ Okun’s law, may soon see gradual rise unemployment rate, would also
+ consistent view staff taken good bit slowdown productivity
+ cyclical.
+ actually fairly difficult calculate contribution construction sector
+ productivity involves construction workers also upstream production
+ various kinds. one estimate, comes discussions Council Economic
+ Advisers, implication employment hoarding construction ½ percentage
+ point productivity growth. see develops. Even though believe,
+ staff, see softening labor market, say evidence still quite
+ tentative. saw bit weakness last labor report, unemployment insurance claims
+ remain low, really see significant indication.
+ major issue housing market. Again, number people pointed out,
+ inventory-cycle problem. two main determinants inventory cycle (1)
+ 
+ May 9, 2007
+ 
+ 73 130
+ 
+ level final demand (2) quickly move bring inventories back normal.
+ seem step-down final demand past months. Assuming
+ homebuilders would like get way significantly toward last ten years’
+ inventories end 2008 implies fairly weak construction, second quarter
+ going third quarter well. fourth quarter see relatively minor
+ subtraction GDP. That’s also relatively speculative, residential construction seem
+ fairly likely drag previously thought continue problem
+ third quarter.
+ also slowdown consumption. rates near 4 percent,
+ certainly sustainable. already see indications consumption may closer 2
+ percent second quarter. think house-price effects going show up. Gasoline prices
+ effect. labor market strong, going slow bit. looks
+ though underlying growth roughly 2 percent couple quarters come.
+ Notice thinking underlying case quite asynchronicity
+ private domestic final demand production lately. example, second quarter expect
+ see weaker private domestic final demand probably stronger GDP number
+ rebounds net exports like. look past that—those quarter-to-quarter
+ variations—and observe growth moderate, observation supported sense
+ industrial production manufacturing seem picking up. summarize, think
+ notion moderate growth uncertainty return toward potential later year
+ early next year still probably right forecast.
+ inflation, there’s famous stock market prediction prices fluctuate.
+ seems true also inflation. mentioned last meeting monthly standard
+ 
+ May 9, 2007
+ 
+ 74 130
+ 
+ deviation inflation numbers 0.08, 0.1 0.3 necessarily
+ whole lot information. pieces good news. think vacancy rates rising
+ apartments single-family homes. point begin see better progress
+ owners’ equivalent rent shelter costs. Also, quarterly average medical cost increases
+ much moderate first two months, suggests maybe risk
+ serious may looked. However, many people pointed out, number
+ negatives, including dollar, energy, food prices, commodity prices, importantly,
+ labor market. compensation data remain quite mixed—in particular, ECI,
+ soft headline number. 1.1 percent quarterly wage salary number, 3.6 percent twelve
+ months, less consistent we’re seeing average hourly earnings.
+ productivity falls 2 percent, beginning get range unit labor costs
+ putting pressure inflation. quite comfortable view expressed around
+ table that, although inflation looks stabilizing perhaps falling slowly, significant
+ risks inflation take seriously.
+ much side point—I interesting discussions staff
+ role stock market forecast. staff’s fault, sort tension
+ stock market treated. one hand, stock market assumed grow 6½
+ percent current level. hand, forecast profit growth going essentially
+ zero third quarter interest rates coming up. two things little hard reconcile.
+ difficult problem way go reconcile it. one hand, could
+ forecast right, therefore stock market fact weaker;
+ implications stability, consumption, on. hand, perhaps
+ taking information stock market making forecast. difficult problem,
+ 
+ May 9, 2007
+ 
+ 75 130
+ 
+ wanted point tension see resolved next
+ quarters. One partial resolution that, noted, stock market economy
+ whole decoupled extent overseas profits. interesting example
+ financial globalization creating stability domestic consumption—you know,
+ decoupling domestic consumption domestic production. Again, good
+ discussion staff issue, think something need think
+ going forward.
+ summary, last meeting felt uncertainty risen. perhaps
+ slight moderation concerns point—a little less inflation risk, little less growth risk.
+ Nevertheless, balance risks inflation greater still seems
+ reasonable approach. Let turn Vincent begin policy go-round.
+ MR. REINHART. 3 Thank you, Mr. Chairman. I’ll referring materials
+ passed around coffee break. past years, Committee
+ taken “belt suspenders” approach providing guidance financial markets
+ characterizing likely direction interest rates risks dual
+ objectives. March, loosened belt notches replacing reference
+ “additional firming” more-balanced language retained macroeconomic
+ assessment inflation risks serious concern. top left panel
+ first exhibit provides one way score immediate market consequences
+ change. black red bars, respectively, plot changes two- tenyear Treasury yields one-and-a-quarter-hour window bracketing 2:15 p.m.
+ release statements past two years. predicted, market
+ participants saw particular significance March announcement
+ Committee apparently longer presuming next action would
+ firming, two- ten-year yields fell 10 5 basis points, respectively,
+ biggest moves sample shown.
+ bit confusion statement really meant, markets ultimately
+ got message, aided part Chairman Bernanke’s testimony, speeches,
+ minutes. take sense wording statement important
+ [laughter], also opportunities provide more-nuanced
+ policy message. message market participants got
+ incoming data, net intermeeting period, seen top right panel
+ shift dotted red solid black line depicting path
+ 3
+ 
+ Material used Mr. Reinhart appended transcript (appendix 3).
+ 
+ May 9, 2007
+ 
+ 76 130
+ 
+ expected federal funds rate. Futures quotes imply consensus policy
+ kept hold today June meeting eased ¾ percentage point
+ end next year. modest upward repricing money market futures
+ yields accompanied reemergence remarkably benign financial conditions,
+ subject three middle panels. Corporate bond spreads (at left) implied
+ volatilities equities money market futures (in middle) retraced much
+ run-up late February end period relatively low levels historical
+ standards. Equity prices, right, gained 7 percent reach new highs. you’ll
+ see little later, addition household wealth pushed estimates
+ equilibrium real federal funds rate may importantly influence thinking
+ near-term economic prospects.
+ bottom left panel, trot usual suspects stock prices rose.
+ First-quarter earnings reports solid, higher share value may bet
+ rising domestic foreign profits—the latter seeming especially secure light
+ apparent vigor global economy. estimates equity premium—
+ one shown bottom right spread forward
+ earnings-price ratio long-term real interest rate—narrowed bit, suggesting
+ investors accepting risk. Also, investors may see less risk,
+ answer C. Potentially bad things seemed palpable subprime market melted
+ go bump night—that is, downside risks outlook appeared
+ ease. right answer multiple choice test? think (D),
+ above, world’s growth prospects seem little assured and, result,
+ investors see fewer risks willing take on.
+ backdrop leads naturally discussion policy choices, begins
+ examining case alternative B, next exhibit. last time
+ sat table consider setting policy, chose keep federal
+ funds rate 5¼ percent. way staff filtered flow information since
+ March produced minor changes outlook real GDP growth, top
+ left panel, core PCE inflation, top right panel. So, content
+ March, would May? Keeping nominal funds rate 5¼ percent
+ consistent, plotted middle panel, real federal funds rate, solid
+ black line, rising continue match Greenbook-consistent measure
+ equilibrium value, dotted green line. believe framework, stance
+ policy return level output potential within three years.
+ might argue outcome good enough. core PCE inflation
+ lingering 2 percent, forceful working inflation—perhaps even
+ cost creating slack—may required acceptable economic
+ performance. may relevant consideration, risk-management issues
+ may tug opposite direction. particular, shown solid line
+ bottom panel, staff forecast puts real GDP growth neighborhood 2
+ percent next six quarters. Times economic growth
+ dipped 2 percent—the dashed horizontal line—have often followed
+ recession—the shaded regions. Concern economy would flying close
+ stall speed may stay hand dealing aggressively inflation.
+ 
+ May 9, 2007
+ 
+ 77 130
+ 
+ Indeed, concerns growth may incline believe next policy
+ action easing—the subject left column charts exhibit 3.
+ true time, case alternative rests importantly
+ assessment housing market. New-home sales, solid black line middle
+ panel, taken another step down, elevating months’ supply unsold
+ new homes, dotted red line. inventory correction impose drag
+ residential investment time—and could get worse availability funds
+ tightens light woes subprime mortgage market. also
+ might harbor doubts businesses step spending, would
+ otherwise cushioned slowing growth aggregate demand.
+ latest readings orders shipments capital goods, plotted solid black
+ dotted red lines, respectively, bottom left panel, encouraging,
+ might dismiss one month’s noisy signal around downward-pointing trend.
+ addition, might see financial markets ripe correct, investors come
+ appreciate earnings prospects tepid Greenbook forecast.
+ risks economic growth Committee’s sole concerns. March
+ identified failure inflation moderate current elevated level
+ predominant concern. case alternative C, presented right panels,
+ probably hinges view inflation clearly downward trend, seen
+ middle panel inflation measured core PCE price index (the solid
+ black line) market-based core PCE index (the dotted red line). addition,
+ outlook inflation may seen less favorable March, given
+ run-up prices oil commodities. shown bottom right
+ panel, futures-market participants revised forecasts prices
+ items well future. pace moderation core inflation turns
+ even slower previously anticipated, might concerned long-run
+ inflation expectations drift up, making difficult policy choices going forward.
+ prevailing expectations inaction, shaped part official comments, may
+ take alternatives C table today. inclination favor
+ arguments either right left columns influence choice
+ language statement, subject last exhibit. exhibit table 1
+ repeated Bluebook emendation.
+ note that, discussion communications, Committee thus far
+ reluctant specify inflation goal consistent dual mandate. However,
+ describing current inflation “somewhat elevated,” case March,
+ implicitly characterizing upper limit tolerance inflation,
+ delimited lower bound summer 2003 talk “unwelcome
+ disinflation.” Market participants read much choice words
+ time comes change characterization. So, point, come
+ terms preferred specification inflation goal, either directly
+ deliberations communication policy indirectly wording
+ statement. concludes prepared remarks.
+ 
+ May 9, 2007
+ 
+ 78 130
+ 
+ CHAIRMAN BERNANKE. Thank you. questions Vincent? not,
+ begin policy go-round.
+ MR. POOLE. guess default start. First all, favor alternative B,
+ language unchanged federal funds target. Let make couple comments market
+ liquidity. First, liquidity reduced deals. Deals simply transfer funds
+ buyers sellers, figure cash. Deals probably
+ driven least part narrow risk spreads. sense far spreads
+ consistent actual losses markets. Obviously, situation continues, risk
+ spreads remain low, continue active amount deal making.
+ returns deals really feed good productivity performance part
+ purpose deals take companies performing well eliminate
+ marginally profitable unprofitable operations really good productivity.
+ extent deals simply increasing leverage—sort financial engineering—then
+ anything productivity. increase risk vulnerability economy
+ perform anticipated. cannot really anything situation except avoid
+ creating surprises ourselves; really, whole, beyond control. Governor Kohn talked
+ standard errors, must say that, comes standard errors, much
+ indexer market timer. [Laughter] easy fool investment policy,
+ come there.
+ issue inflation target—and glad closing topic—I
+ honestly believe credibly satisfied inflation forecast 2009, far
+ out, 2 percent time continue talk comfort zone 1 2.
+ seem internally consistent cannot control inflation 0.1 percentage point.
+ 
+ May 9, 2007
+ 
+ 79 130
+ 
+ either decide true target something like 1½ plus minus ½ issue
+ control errors considerations, need start explicit comfort zone
+ 1½ 2½. worried latter approach runs risk raising market
+ expectations unhinging expectations. Expectations solidly held. get
+ situation which, inevitable things happen cannot control, inflation
+ rate run consistently at, let’s say sake argument, 2½ instead around 2,
+ market expectations might well entrenched 2½ consequence
+ willingly openly default—by revealed preference, will—moved effectively raise
+ comfort zone. much hardliner this. think ought continue
+ comfort zone 1 2, ought think inflation target 1½ plus minus
+ half. Thank you.
+ CHAIRMAN BERNANKE. Thank you. President Poole’s comments remind
+ question, Vincent. is, think effect term “on balance”
+ inflation paragraph?
+ MR. REINHART. added term “on balance” drafting Bluebook
+ time-series cross-sectional perspectives. is, first, time-series perspective
+ looking one monthly number. may complicated analysis
+ President Stern looking three-, six-, twelve-month changes. Second, crosssectional aspect it. focused one number core PCE, you’re taking
+ whole suite price indexes.
+ CHAIRMAN BERNANKE. Well, let’s say core inflation, wouldn’t every
+ inflation measure.
+ 
+ May 9, 2007
+ 
+ 80 130
+ 
+ MR. REINHART. Yes, hanging hat necessarily PCE versus
+ CPI. thought insertion language means you’re tending smooth
+ recent observations, took something would balance—[laughter] phrase
+ comes natural us, too—a little hawkish.
+ VICE CHAIRMAN GEITHNER. Sorry? little more?
+ MR. REINHART. take would little hawkish.
+ VICE CHAIRMAN GEITHNER. would hawkish signal statement
+ “on balance”?
+ CHAIRMAN BERNANKE. agree last statement.
+ VICE CHAIRMAN GEITHNER. Mr. Chairman. vein, may ask
+ question likely conclusion people would draw change second section?
+ virtue truth. [Laughter] could interpret it, relative March, softer
+ characterization recent news. goes slightly different direction center-ofgravity discussion, say indicators actually mixed.
+ sometimes little softer sometimes little stronger, think maybe slightly thinner
+ adverse tail growth outcome thought March. particularly troubled
+ that. But, Vince, think would plausible reading market change?
+ would interpret intent change section 2?
+ MR. REINHART. recognition incoming information. think
+ important change also take “to continue expand” leave “to expand”
+ first quarter moderate economic growth. part says
+ acknowledging recent numbers. Again, first clause basically acknowledging
+ first part year, first quarter, potentially kind slow.
+ 
+ May 9, 2007
+ 
+ 81 130
+ 
+ anything says Committee looking soft patch, without using phrase “soft
+ patch.”
+ MR. FISHER. Mr. Chairman, may ask question?
+ CHAIRMAN BERNANKE. Certainly.
+ MR. FISHER. advocating that, use text written section 3
+ alternative B, would still keep full wording section 4 last time?
+ MR. REINHART. wording section 4 would unchanged, yes.
+ MR. FISHER. may mitigate concerns have.
+ MR. REINHART. Yes.
+ CHAIRMAN BERNANKE. Since bringing suggestions early, one thing
+ could section 2, second sentence, simply make assertion moderate
+ growth. One could say, “Overall, however, recent indicators suggest economy seems likely
+ expand . . .,” suggesting news recently somewhat positive.
+ thought. Let’s go President Stern.
+ MR. STERN. Thank you, Mr. Chairman. Well, earlier talking economy said
+ thought extended outlook reasonably favorable terms prospects growth
+ also expected modest diminution core inflation, assuming policy would sustained
+ approximately is. leads directly favoring alternative B policy choice.
+ Putting way around, see compelling reasons make change point,
+ think stay are.
+ far language concerned, bulk language alternative B fine
+ me. one suggestion, replace second sentence section 3,
+ alternative B, talks inflation, second sentence section 3, alternative C,
+ 
+ May 9, 2007
+ 
+ 82 130
+ 
+ emphasizes uncertainty. advocate several reasons, really boil
+ thinking better describes situation find ourselves. let elaborate
+ little. know NAIRU best imprecise concept. know accurate
+ measurement productivity difficult that, therefore, estimation potential real GDP,
+ output gap, forth. Indeed, simulations Greenbook address two
+ issues precisely, fair amount discussion recently meeting
+ uncertainty NAIRU productivity on. leads suggestion.
+ would also observe certainly far-fetched imagine—although forecast—
+ unemployment rate measure slack may move time inflation
+ remains stubbornly even increases touch. leads favor
+ language alternative C one sentence.
+ CHAIRMAN BERNANKE. Governor Kohn.
+ MR. KOHN. President Stern, would add words output side?
+ think it’s worth emphasizing uncertainty inflation without also emphasizing uncertainty
+ output? Although lot people said narrowed relative last time, lot
+ people also said housing situation uncertain.
+ MR. STERN. haven’t thought that. want say economy seems
+ likely expand, could, suppose, soften bit emphasize uncertainty well,
+ although sense things people do, fact, expect moderate growth going forward.
+ CHAIRMAN BERNANKE. Intervention, President Fisher?
+ MR. FISHER. No, sir. want comment.
+ CHAIRMAN BERNANKE. don’t go ahead.
+ 
+ May 9, 2007
+ 
+ 83 130
+ 
+ MR. FISHER. Well, again, probably bearish terms short-term forecast
+ GDP growth asymmetric confidence bands, take account even slower
+ growth that. listened conversation table keying word
+ “hawkish” Vince used, want owlish growth terms listening President Stern’s
+ admonition, don’t want pigeon inflation—just kill aviary context here.
+ [Laughter] would advocate alternative B. don’t believe change rate. like
+ much suggestion President Stern made inflation.
+ thing summary list, Mr. Chairman, hear think
+ issue behavioral pattern private-sector leaders trying figure
+ preserve margins; therefore, think sustained price “instincts” would
+ otherwise see current data. think second sentence alternative C captures
+ uncertainty, agree President Stern. Finally, always, would suggest add
+ word “global” “resource utilization.” Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Noted. Thank you.
+ VICE CHAIRMAN GEITHNER. Mr. Chairman, may ask clarifying question
+ discussion?
+ CHAIRMAN BERNANKE. Vice Chairman Geithner.
+ VICE CHAIRMAN GEITHNER. raised obvious question, whether
+ want introduce characterization uncertainty one piece outlook other.
+ But, Gary, suggest uncertainty inflation forecast greater today
+ March?
+ MR. STERN. personally. thought listened
+ conversation, uncertainty seemed least great March. fact,
+ 
+ May 9, 2007
+ 
+ 84 130
+ 
+ Greenbook marked core inflation touch. doesn’t lead directly greater uncertainty,
+ direction would gone changing inflation forecast.
+ VICE CHAIRMAN GEITHNER. rationale mostly greater uncertainty,
+ mostly continued aversion implicit reference output gap significant force?
+ MR. STERN. Both.
+ CHAIRMAN BERNANKE. would like interject. think timeseries nature statement, concerned, given last inflation reading
+ good reduced anxiety feeling last meeting,
+ lot attempts interpret meant uncertainty. point, feeling
+ increase uncertainty lost confidence projection? think
+ think seriously, sentence, reasonable face, also
+ extent change last statement overinterpreted.
+ MR. STERN. agree comment 100 percent, although think issue
+ going confront ever make change, quite honestly.
+ MR. FISHER. May make intervention, Mr. Chairman?
+ CHAIRMAN BERNANKE. Yes.
+ MR. FISHER. use sentence, might able get rid first
+ sentence section 4 used previously.
+ CHAIRMAN BERNANKE. core inflation sentence? one?
+ MR. FISHER. “In circumstances, Committee’s predominant … concern . . ..”
+ SEVERAL. No.
+ MR. FISHER. arguing include could trade one
+ other.
+ 
+ May 9, 2007
+ 
+ 85 130
+ 
+ CHAIRMAN BERNANKE. interventions? not, President Minehan.
+ MS. MINEHAN. Gosh, usual state play gotten confused—for me,
+ anyway. First all, thing least confused policy recommendation.
+ think anything time. think stay course 5¼. much
+ favor alternative B.
+ Second, want comment Vince said reaction statement
+ last time, large part found people talked past
+ several weeks felt statement communication somehow murkier usual,
+ possible. Personally, felt clear statement—we saw
+ two-sided risk—and ultimately market come around belief. guess come
+ view bad thing market reacted bit strongly. probably
+ anticipated that, think even commented last meeting—that
+ make change open two-way possibility policy little explicitly, bigger
+ impact overall market.
+ Third, regard discussion language alternative B, opinion
+ terms growth certain set risks coming housing market rising
+ energy gasoline prices, extent offset continued strength employment,
+ financial market adding household wealth, growth around rest world,
+ brighter picture business investment spending, forth. look growth part
+ bit balanced somewhat less uncertain last time inflation part
+ uncertain. attracted President Stern’s recommendation even
+ recommendation would replace section 3 alternative B section 3 alternative C.
+ think Chairman’s recent comments strongly market might react
+ 
+ May 9, 2007
+ 
+ 86 130
+ 
+ that, might say nuanced discussion inflation.
+ expect inflation—we Boston somewhat less rest you—to moderate next year
+ year half something within people called comfort zone.
+ little worried might send message concern might intended
+ replacing language, although agree President Stern. think language
+ alternative C, particularly regard uncertainty, somewhat reflective talked
+ around table existing language section 3.
+ Finally, may kidding here, taking language section 3
+ saying much we’re committed comfort zone 1 2, although take
+ President Poole’s comments seriously, rather dynamics inflation risk
+ inflation would accelerate rather decelerate concerned about.
+ Again, personal reading context think
+ concerns inflation time. would agree President Poole way
+ read gradually pushing us giving target target range,
+ may everybody wants go here. know, think little risk around
+ specific number, said many times. would agree Governor Kohn comments
+ wondering whether really want push inflation sheer sake pushing
+ 2 or, rather, waiting ability move opportunistically point.
+ CHAIRMAN BERNANKE. Thank you. President Pianalto.
+ MS. PIANALTO. Thank you, Mr. Chairman. support recommendation embodied
+ alternative B. Committee last time wanted introduce little flexibility
+ statement sending message resolve achieving price stability changed.
+ took message get through, did. Since much changed way
+ 
+ May 9, 2007
+ 
+ 87 130
+ 
+ economy unfolding relative expectations since last meeting, would prefer make
+ essential adjustments statement, acknowledging recent slowing
+ economic activity. spirit making minimal changes, would add clause “on
+ balance” sentence core inflation. benefit asking trying
+ convey phrase heard Vincent’s comments time-series cross-sectional
+ perspectives, markets aren’t going benefit explanation get
+ minutes. also concerned introducing language uncertainty around inflation
+ going markets trying interpret trying say. lower path
+ fed funds rate built expectations, think looking language
+ help support position; saying uncertain inflation may appear
+ bit dovish rather hawkish. would rather keep things today,
+ changes language. support alternative B without “on balance,” obviously
+ show stopper. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Governor Kohn.
+ MR. KOHN. Thank you, Mr. Chairman. Like everyone else, support policy
+ recommendation alternative B, keeping fed funds rate unchanged. think best
+ odds helping economy meet dual objectives maximum employment stable prices.
+ Financial conditions right now, several people remarked, really quite supportive
+ growth, particularly business sector, think necessary offset drag
+ housing business household caution. recent indicators, seems me,
+ still bit mixed character. one month strength capital spending,
+ industrial production ISM data, consumption definitely slowed down.
+ mind still considerable uncertainty, even less last time, around output path.
+ 
+ May 9, 2007
+ 
+ 88 130
+ 
+ Given think things close before, wouldn’t make many
+ changes wording last time. comfortable section 2 economic growth
+ “expand moderate pace coming quarters,” unless add something uncertainty
+ inflation piece, would want add uncertainty other. think
+ ought add uncertainty language inflation. think combination
+ “predominant” language, President Fisher implicitly pointing out, send much
+ concerned message inflation. say concerns inflation increased
+ since last time—I really think would interpreted way. cost, obtained
+ flexibility characterizing situation policy expectations changes
+ made last time final section. would keep final section same, would
+ something undo that, would combine uncertainty language inflation
+ predominant risk language. think world would see Federal Reserve much
+ worried inflation last time, even though data little better.
+ section 3, “core inflation remains somewhat elevated balance”—one question asked
+ was, 2 percent target latest number 2.1, much concerned
+ that, would comfortable sentence. think okay sentence
+ couple reasons. I’ll come “on balance” second. One reason latest data
+ core PCE prices heavily influenced nonmarket components I’ve denigrated
+ table before, consistent there. year-over-year CPI still shows acceleration,
+ much acceleration PCE. market-based PCE shows acceleration. rate
+ still higher comfortable with, especially discount nonmarket part. CPI
+ still pretty high, completely agree inflation predominant concern. think saying
+ core inflation remains somewhat elevated fine me. President Poole said something
+ 
+ May 9, 2007
+ 
+ 89 130
+ 
+ “we” Committee continue comfort zone 1 2 percent. sake
+ transcript, want make clear Committee never chosen comfort zone.
+ Several individuals have, agree President Poole Vincent could get
+ awkward soon—but yet—and need think it. Committee
+ comfort zone. regard phrase “on balance,” could live sentence either way.
+ Unfortunately it’s ambiguous phrase. I’m sure people interpret it. thought
+ would hawkish take out? didn’t follow dialogue Vincent Vice
+ Chairman Geithner thought effect would section without “on
+ balance.”
+ MR. REINHART. theory smoothing recent data that,
+ got another good reading core inflation, last month, wouldn’t necessarily
+ weight much.
+ MR. DUDLEY. Don, could take “on balance” acknowledging last month’s data,
+ take “on balance” out, you’re acknowledging last month’s data much.
+ MR. REINHART. May also ask question? President Stern’s formulation,
+ would take second sentence alternative C make reference resource slack?
+ would actually take markets reading decided totally discount current
+ pressures employment rather increasing weight inflation uncertainty. took
+ invitation say disregard employment—you worried slack much,
+ asserting inflation moderates.
+ MR. KOHN. hadn’t thought that, confess. makes even
+ uncomfortable.
+ MR. REINHART. would view quite dovish statement.
+ 
+ May 9, 2007
+ 
+ 90 130
+ 
+ MR. STERN. Well, viewed neutral statement. [Laughter]
+ CHAIRMAN BERNANKE. President Poole.
+ MR. POOLE. side, anticipating slowdown employment growth.
+ then, markets would look back say, “Aha, unemployment rate rising—the
+ Fed ease.” question whether good time get notion out. don’t feel
+ strongly one way other, think lot said leaving alone, given
+ ambiguities here. basically I’m supportive President Stern’s recommendation.
+ MR. REINHART. would note Bloomberg today linguist evaluate previous
+ statements, basically concluded language pretty hopeless. [Laughter]
+ SPEAKER[?]. linguist?
+ MR. REINHART. fact, chief editor American Heritage Dictionary.
+ MR. MOSKOW. hire consultant? [Laughter]
+ MR. KROSZNER. meteorologist linguist.
+ CHAIRMAN BERNANKE. President Hoenig.
+ MR. HOENIG. Anticipating linguist reading afterward, let say
+ strongly support alternative B. Since I’m assuming language we’re talking about,
+ support current language even though many suggestions modifications.
+ inclined make suggestions accept others put
+ table unless you, Chairman, decide modify language somewhat.
+ couple comments, though. Governor Kohn mentioned would
+ long period experience below-trend growth; perspective, that’s
+ intend. period modestly tight policy, therefore expect somewhat
+ below-trend growth objective bringing inflation numbers. right track
+ 
+ May 9, 2007
+ 
+ 91 130
+ 
+ that, ought staying. comfortable modestly tight
+ policy. time systematically bring inflation down. agree, again, Governor
+ Kohn’s earlier comment way minimal cost economy,
+ objective: bring inflation least costly way possible. need
+ stick policy defined here. would also point out, record,
+ want make sure getting tied targets, said say
+ today, targeting core PCE. much prefer core CPI—it easily
+ understood. case, 2 percent number, talk number, makes
+ lot sense. get way want, point need bring
+ inflation numbers systematically, yet think us room
+ agree be. policy alternative B is, think, good
+ choice us. end that.
+ CHAIRMAN BERNANKE. Thank you. President Plosser.
+ MR. PLOSSER. Thank you, Mr. Chairman. listen comments around table,
+ two minds. One, said before, maybe ought business
+ changing statement lot frequently get traps time-series language.
+ Two, said that, though, think, indicated earlier, alternative B correct one.
+ ought hold fed funds rate is. right place now.
+ question mark going forward terms things evolve want be,
+ certainly comfortable are. growth returns trend rapidly
+ Greenbook projects, might ask questions; don’t think we’re yet.
+ Acknowledging Governor Kohn’s comments, confess think Bill’s comments—
+ indeed, taken Vince’s—are appropriate. need align better terms
+ 
+ May 9, 2007
+ 
+ 92 130
+ 
+ we’re going we’re doing. get closer, articulating precisely
+ are, least among ourselves, becomes even critical. Aligning objectives market
+ expectations figuring get things alignment critical task face,
+ would like reinforce that.
+ terms wording, could live perfectly well alternative B written. lot
+ sympathy President Stern’s statements. would like simplify statements inflation.
+ fact, people troubled notion uncertainty, would go far stop
+ “inflation pressure seemed likely moderate time.” recognize probably
+ consensus view. rest, kind liked Chairman’s suggestion—I think his—on
+ language section 2. ways, don’t want convey much markets
+ point, changing little possible seems make sense, would supportive that.
+ fact, could take March statement section 2 leave exactly except take
+ “to continue.” Chairman’s suggestion mixed signals would fine me, too.
+ I’m pretty flexible point. real nut crack coming next quarter
+ two, face difficult choices, believe. I’ll end that.
+ CHAIRMAN BERNANKE. Thank you. President Lacker.
+ MR. LACKER. Policy straightforward today. We’re waiting lull growth
+ inflation unacceptably high, least us. downside risks
+ sufficiently diminished, I’m presuming we’re going want take action bring inflation down;
+ meantime, sidelines obviously regard rates.
+ Coming thought statement going pretty straightforward matter
+ well. Evidently not. Markets finally figured meant last statement. think
+ right, Mr. Chairman, autoregressive model statement language. markets
+ 
+ May 9, 2007
+ 
+ 93 130
+ 
+ Kalman filter whatever issue attach great importance whatever change.
+ think much changed outlook warrant significant changes language, although I’d
+ sympathetic taking “on balance” theory hawkish move general.
+ [Laughter] Gary said, really sympathetic notion changing way
+ refer relationship resource utilization inflation statements. say
+ best mainstream understanding resource utilization inflation joint
+ outcome economic decisions given actions given we’re expected do. One
+ talk resource utilization affecting inflation. One well talk moderating
+ inflation keeping resource utilization high. really superiority one characterization
+ other. idea sort independent thing wagging around driving inflation,
+ rather result actions, area could improve
+ public’s understanding understanding monetary policy affects economy.
+ would also like endorse spirit President Poole’s remarks inflation
+ want. know, notion opportunism idea interim target, think
+ brother-in-law sitting front retirement planning software. guess would
+ left telling him, “Well, put 1 2,” depending decide take
+ opportunity reduce inflation 2 percent. think that’s satisfactory. think
+ better. choose objective, view once-and-for-all thing. Part
+ reflects sense that, well, transition costs something going describe keeping us
+ going think ought ultimately, shocks bump us 2¾
+ 3 percent? going say thing then? mean, inviting people think that,
+ sort painting corner. Governor Kohn, referred net welfare
+ costs 2 versus 1½ percent inflation. optimal-policy calculation, thing
+ 
+ May 9, 2007
+ 
+ 94 130
+ 
+ governs get long run, matter long takes, net welfare calculation.
+ that’s govern choose set objective, whether think transition
+ costs going high not. concludes remarks, Mr. Chairman.
+ CHAIRMAN BERNANKE. think point joint causality, joint endogeneity,
+ utilization inflation good one. tried make point testimony talk
+ aggregate demand strong effects inflation resource utilization.
+ think this. little hard capture complex models statements,
+ certainly point well taken. President Yellen.
+ MS. YELLEN. Thank you, Mr. Chairman. support Bluebook’s alternative B,
+ policy language stands. respect language, strongly support view
+ you, Governor Kohn, others expressed—that change today would mistake, given
+ significance markets would attach it. think language completely acceptable
+ stick it. move, wouldn’t problem language C
+ inflation uncertainty, would also want add something uncertainty
+ respect growth, see need make change today. seems need
+ considerable flexibility point respond emerging data. intermeeting developments
+ strengthened case soft landing, significant risk sides respect
+ inflation growth. I’m still comfortable stating predominant policy concern risk
+ inflation fail moderate expected. worried labor markets remain fairly
+ tight, oil commodity prices higher, dollar, fallen. time,
+ recent favorable inflation data reinforced view substantial part uptick
+ inflation last year transitory. think discussion far reinforces point
+ going forward going trouble crafting policy statement don’t clarify—
+ 
+ May 9, 2007
+ 
+ 95 130
+ 
+ least within Committee, publicly—what ultimate inflation objective is. I’m
+ going weigh point merits, obvious increasing
+ difficulty. happy today say core inflation remains “somewhat elevated balance.”
+ get readings core PCE inflation neighborhood 2 percent
+ continue, really revisit debate want achieve
+ reflect decision statement.
+ CHAIRMAN BERNANKE. Thank you. President Moskow.
+ MR. MOSKOW. Thank you, Mr. Chairman. step back discussion
+ think policy position, we’re difficult position inflation continues
+ run higher us think appropriate economic activity seems soft patch,
+ said summary comments, Mr. Chairman. think alternative B—keeping
+ fed funds rate 5¼ percent language—is appropriate one today.
+ take suggestion using sentence alternative C considerable uncertainty
+ surrounding inflation judgment, would markets interpret change, regardless
+ meant it? think markets would immediately interpret less emphasis
+ inflation standpoint. think would also say, “Well, there’s uncertainty,
+ FOMC sees uncertainty today inflation last meeting.” don’t
+ think either statement accurate.
+ delete phrase “high level resource utilization,” say we’re less
+ concerned high levels resource utilization before. We’ve phrase
+ statement long time. point want take out,
+ change statement would significant. wouldn’t felt that,
+ context looking overall statement careful way, making change
+ 
+ May 9, 2007
+ 
+ 96 130
+ 
+ major benefit. virtue making changes statement unless
+ specific objective mind specific message. would strongly oppose making change
+ statement. phrase “on balance,” guess persuaded Vincent’s description
+ helps us give impression we’re smoothing recent data.
+ balance, would keep “on balance.” [Laughter]
+ CHAIRMAN BERNANKE. Thank you.
+ MS. MINEHAN. Mr. Chairman?
+ CHAIRMAN BERNANKE. President Minehan.
+ MS. MINEHAN. realize finished comments never really clear
+ language. sorting comments people made thoughts
+ comments, perfectly happy alternative B written “on
+ balance” language. want say, though, replaced language section 3
+ inflation pressures uncertainty, juxtaposition sentence “Inflation
+ pressures seem likely moderate time, considerable uncertainty surrounds
+ judgment” indicates uncertainty relates “moderate time,” it’s clear
+ uncertainty inflation higher rather lower. statement would somewhat
+ hawkish and, fact, reflective people’s balance concern was.
+ totally agreement need change language right now, want
+ weigh bit there.
+ CHAIRMAN BERNANKE. President Lockhart.
+ MR. LOCKHART. Well, I, too, support alternative B, simple logic: haven’t
+ arrived optimal picture yet. Output growth slowing, inflation still elevated,
+ fair amount uncertainty. us focused uncertainty inflation picture,
+ 
+ May 9, 2007
+ 
+ 97 130
+ 
+ sides. think situation merits patient approach juncture;
+ give time. Regarding language, well schooled literary style
+ FOMC, I, too, focused “on balance” phrase, thinking injected maybe hint
+ equivocation. understand logic. believe heard President Yellen saying
+ think two-step process here—that is, put next time around
+ take out, markets react? it’s worth, focus that, quite knowing
+ process “on balance” language. Otherwise, I’m going abstain language
+ debates little experience.
+ VICE CHAIRMAN GEITHNER. don’t know help. [Laughter]
+ CHAIRMAN BERNANKE. Governor Warsh.
+ MR. WARSH. Thank you, Mr. Chairman. favor alternative B think
+ heavy presumption changing language much March statement.
+ I’ve heard today, don’t think even convinced
+ matched presumption overcome burden persuasion. though I’ve
+ sympathy isolation Stern suggestion, don’t think right time take
+ light experience last statement. several days, markets focused us
+ rather data. you, Mr. Chairman, others done recent
+ period try get markets dependent data rather look us.
+ changes language—whether Stern amendment something else point—do
+ reverse that. don’t think good time nuance markets, don’t think
+ substitution would good. don’t think agree, even among ourselves,
+ Stern amendment would do—whether it’s hawkish dovish; can’t, hardly think
+ 
+ May 9, 2007
+ 
+ 98 130
+ 
+ it’s good prescription us send markets figure us.
+ [Laughter]
+ strongly favor alternative B. think markets read change section 2—
+ say, “Economic growth slowed first part year”—as “We believe April
+ well quite mediocre.” think that’s means. That’s believe,
+ change justified facts. terms “on balance” language section 3, could live
+ either way, don’t see compelling reason adding “on balance.” think markets still
+ want see us reflection believe. believe we’re cutting,
+ credibility inflation real, we’re little cute now. wouldn’t want give
+ excuse say we’ve taken foot accelerator, we’re less concerned
+ inflation. one data point, I’d prefer leave without “on balance”
+ previously. That’s it. Thank you.
+ CHAIRMAN BERNANKE. think mean brake. [Laughter] Anyway, thank
+ you. Governor Kroszner.
+ MR. KROSZNER. everyone else said, haven’t enough data lead us
+ change view, policy remain is. Alternative B right way
+ go, and—I agree Governor Kohn—it best way meet dual objectives.
+ statement last time bought us flexibility, although cost—it left bit
+ confusion market, we’ve clarified. important us maintain flexibility,
+ altering statement think that. first part section 2,
+ acknowledge growth slowed first part year. important make
+ change. made change, Chairman’s suggestion seems quite
+ reasonable me—rather saying “nevertheless,” assert “recent indicators suggest
+ 
+ May 9, 2007
+ 
+ 99 130
+ 
+ economy seems likely expand moderate pace coming quarters.” think
+ Chairman suggested starting sentence “overall.” people like phrase “on
+ balance,” say “on balance recent indicators suggest . . .” [laughter] depending
+ whether choose use phrase “on balance” next sentence. next sentence,
+ I’m open whether use “on balance,” would, balance, go taking
+ don’t see particular benefit point adding qualification.
+ sense takes away bit flexibility rather adding it. I’m trying think
+ likely scenarios going forward, it’s likely might want remove alter
+ phrase keep it. time-series perspective going forward, might leave us
+ little flexibility put in, don’t strong view that.
+ see comments, think shouldn’t changing things much.
+ principle, I’m sympathetic Gary’s proposal, right time make
+ change. question interpretation “high resource utilization.” take
+ central tendency discussion, we’re going see growth around 2 percent so, clearly
+ potential. doesn’t suggest high level resource utilization. given Chairman
+ mentioned likely changes employment growth, time next meeting
+ may adding 0.1 0.2 percentage point unemployment rate, would 0.3
+ percentage point higher quite recently, although it’s still broadly relatively low
+ level. change would bring us back higher level we’ve seen quite months.
+ mindful that. I’m suggesting take out,
+ think change high level resource utilization going
+ traditional measures. us think still lot potential sustain
+ pressures, may high level resource utilization. Thank you.
+ 
+ May 9, 2007
+ 
+ 100 130
+ 
+ CHAIRMAN BERNANKE. Thank you. Governor Mishkin.
+ MR. MISHKIN. Thank you, Mr. Chairman. Obviously, support alternative B. seems
+ policy perspective outlook hasn’t really changed. want change little
+ possible statement. SAT scores English much lower SAT scores
+ math, I’m going comment issue phrase “on balance.” [Laughter] let
+ return issue Vince originally raised come several
+ participants’ perspectives. think soon facing difficult situation.
+ forecast comes along lines expect, us nice situation
+ inflation comes 2 percent core looks though stay there—that it’s
+ temporary one-shot deal go back again—we’re going face
+ difficult issue terms statement. Unless sense consensus
+ Committee ultimate objective inflation, I’m going real problem.
+ view number lean toward 2 percent think
+ transition costs important, although concerned issue President Lacker
+ mentioned. cannot opportunistic change number because, mentioned
+ earlier, creates actually bad expectations dynamic, opposite effect
+ automatic stabilizer terms happens inflation output. Committee
+ decides 1½ better number, could definitely live that. would make easier
+ deal statement because, we’re 2 percent built consensus
+ ultimate objective inflation, I’m going opposed saying inflation
+ elevated, would issue. Committee build consensus
+ lower number 2 percent, would comfortable it. reason think
+ important we’ll forced discussion this.
+ 
+ May 9, 2007
+ 
+ 101 130
+ 
+ problem arise that, consensus inside
+ transparent reveal outside. issue that, whether want to,
+ going forced discussion talk objectives inflation,
+ think hard it. may now, actually hope
+ want inflation come down. It’s going table, it’s going
+ complicated we’ve trouble building consensus Committee issue.
+ need aware difficulties face. Thank you, Mr. Chairman.
+ CHAIRMAN BERNANKE. Thank you. Vice Chairman.
+ VICE CHAIRMAN GEITHNER. think we’re fairly good place terms
+ policy signal. language March alternative B today preserves nice balance
+ need signal concern may get much moderation inflation we’d
+ like acknowledgement dispersion views around Committee
+ ultimate objective be, preferences are, period we’d like see
+ inflation come whatever level. also gives us flexibility. would want
+ jeopardize balance today. don’t see compelling need alter market expectations
+ today, said, quite comfortable alternative B.
+ latter, deeper conversation we’re going June—things
+ change June. June interesting, suspect, even unfolds way
+ forecast implies. ultimately judgment whether acceptable
+ forecast inflation. It’s whether path going forward acceptable us sense,
+ that’s discussion about. course, can’t separate
+ inflation today that’s you’re starting. Rick many others
+ consistently reminded us, language forward-looking effects policy today,
+ 
+ May 9, 2007
+ 
+ 102 130
+ 
+ built market expectations, assume today expected path inflation
+ going forward. like B would averse changing it.
+ CHAIRMAN BERNANKE. Thank you, thank comments.
+ action, think we’re clear want stay are. want make observation
+ almost year taken steady approach, keeping policy
+ given level terms rhetoric terms confidence moderate growth
+ slow moderation inflation. period, markets general view gone
+ gone down, maintained pretty even keel. increases confidence
+ institution, unless reason change view, continue stay
+ steady path.
+ statement, let start section 4, recommend change.
+ response last time little noisier expected, although expect response.
+ tried number things once. wanted retain balance risks emphasized
+ inflation risks, also wanted get away forward-directing language. wanted
+ get away think inaccurate suggestion next move certainly going
+ up. circumstances, example, effectively tighten simply staying
+ are. also wanted convey that, given uncertainty experiencing,
+ flexibility needed. complicated change make. I’m sure
+ else could done. case, think market sync views,
+ therefore would reluctant go change assessment risk.
+ I’m going demonstrate conservative perspective today, probably won’t surprise
+ you.
+ 
+ May 9, 2007
+ 
+ 103 130
+ 
+ rationale, think I’m okay second section stands. you’d note
+ parallel March, first sentence essentially indicated recognized going
+ economy; nevertheless, expected, based longer-term considerations
+ thinking broad sweep developments economy, moderate growth going
+ forward. thing. acknowledge what’s going on. saw slower growth.
+ see housing sector. We’re blind current economic developments. Nevertheless,
+ good fundamental reasons think growth moderate. wouldn’t necessarily
+ reject suggestion put something recent indicators, putting
+ create transitory kind sense we’re looking last numbers. think it’s good
+ project sense long view comfortable long view
+ staying it.
+ I’ve trying decide “on balance.” couple thoughts.
+ inclination listened conversation—and would happy take poll
+ whatever—is strike following grounds: moving statement said
+ “recent readings core inflation” one says simply “core inflation.” implication
+ seems we’re referring last couple months really
+ broader measure core inflation. So, again, conservative spirit, avoid adding
+ language, mild preference dropping phrase, I’m open comment that.
+ respect ongoing discussion implications language
+ inflation target, going address that. moment ask Governor Kohn
+ talk bit communications. chance next meeting talk
+ statement. hope talking statement address issues much
+ detail include, often change, express balance
+ 
+ May 9, 2007
+ 
+ 104 130
+ 
+ risks. Obviously, won’t able nail down, opportunity
+ try come broader view statement’s role would larger
+ communication strategy. That’s another reason slightly conservative point.
+ thinking ahead, President Stern’s suggestion sentence “Inflation pressures seem likely
+ moderate time, considerable uncertainty surrounds judgment” might place
+ go point. might want change derivative, instead talking level,
+ could say still expecting improvement, lot uncertainty
+ it. sort shifts level direction. might solution, come point
+ 2 percent 2 percent. raise possibility.
+ summary, recommendation action alternative B written, striking
+ phrase “on balance.” comments particular phrase “on balance”?
+ President Lacker?
+ MR. LACKER. I’m it.
+ MS. MINEHAN. eliminating it?
+ MR. LACKER. No. “on balance.”
+ MS. MINEHAN. Well, that’s proposal, right?
+ CHAIRMAN BERNANKE. Yes, proposal.
+ MS. MINEHAN. fine proposal.
+ CHAIRMAN BERNANKE. We’ve given English gone sign
+ language. [Laughter]
+ MR. KROSZNER. represented transcript? [Laughter]
+ CHAIRMAN BERNANKE. Let’s vote.
+ 
+ May 9, 2007
+ 
+ 105 130
+ 
+ MS. DANKER. I’ll reading directive risk assessment page 23
+ Bluebook. “The Federal Open Market Committee seeks monetary financial conditions
+ foster price stability promote sustainable growth output. long-run
+ objectives, Committee immediate future seeks conditions reserve markets consistent
+ maintaining federal funds rate average around 5¼ percent.”
+ risk assessment: “In circumstances, Committee’s predominant policy
+ concern remains risk inflation fail moderate expected. Future policy
+ adjustments depend evolution outlook inflation economic growth,
+ implied incoming information.”
+ Chairman Bernanke
+ Vice Chairman Geithner
+ President Hoenig
+ Governor Kohn
+ Governor Kroszner
+ President Minehan
+ Governor Mishkin
+ President Moskow
+ President Poole
+ Governor Warsh
+ 
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ Yes
+ 
+ CHAIRMAN BERNANKE. Thank you. Let’s take moment update
+ communications situation hear, briefly, comments dry run. let turn
+ Governor Kohn comments.
+ MR. KOHN. Thank you, Mr. Chairman. points, building
+ said minutes ago. clarify federal funds rate path: consensus
+ Committee publish fed funds rate path, collecting understand
+ people’s policy assumptions fit forecast. question
+ whether assume appropriate policy or, Chairman suggested, whether
+ assume think Committee would rather do. think
+ 
+ May 9, 2007
+ 
+ 106 130
+ 
+ need think happened. We’ll another dry run June. think would
+ collect assumptions June. go live, decide focus
+ policy, might might collect fed funds rate assumptions. problem going
+ live collecting assumptions five years part public record.
+ long we’re dry runs, that’s presumption. We’ll find something
+ Committee thinks, Committee discuss wants characterize
+ assumptions.
+ discuss experience dry run now. However, within next couple
+ days ask staff survey Committee reactions went,
+ could improved, aspects least helpful, whether ways use
+ even policy discussion, things—now you’ve
+ once—that you’d like see staff didn’t get.
+ issue circulating individual submissions? staff extract key issues
+ submissions circulate list key issues ahead time? lots things
+ need get views formulate June dry run.
+ opportunity make comments formal way.
+ Chairman said, June go communication aspects
+ haven’t discussed before, timing minutes, interact
+ minutes-like description we’re projections, description needs
+ published time Chairman’s testimony July February. There’s possibility
+ moving up. interact statement, announcement?
+ go ahead forecast process, we’ll need make sure statement conforms it.
+ Regarding statement, lots questions, Chairman saying,
+ 
+ May 9, 2007
+ 
+ 107 130
+ 
+ balance risks characterize things. think need discussion
+ June, table June.
+ CHAIRMAN BERNANKE. Thank you. questions comments?
+ President Plosser.
+ MR. PLOSSER. understand concern fed funds rate assumption,
+ interpret that, ought do. two suggestions. One, still believe ought
+ part practice. I’ve expressed view before. Two, least internal purposes,
+ next dry run would helpful get information funds rate assumptions back
+ write-up that, think works, data look
+ discuss least context looks like might shape we’re doing.
+ know Vince gave us indication people actually used submitted it.
+ I’d make suggestion next go-round information included internal
+ purposes see shapes discussion.
+ MR. KOHN. don’t include survey see whether people want
+ not?
+ MR. PLOSSER. Fine.
+ MR. KOHN. President Lacker.
+ MR. LACKER. I’d second little transparent within Committee
+ fed funds rate. Compared elements sausage factory get revealed
+ transcript five years now, don’t see sensitive. broadly,
+ though, looking charts, really struck dispersion inflation forecasts
+ 2009. would think would quite uncomfortable releasing that. natural interpretation
+ one’s forecast inflation horizon going one’s objective inflation is,
+ 
+ May 9, 2007
+ 
+ 108 130
+ 
+ portrays Committee come agreement objective central
+ thing it’s responsible controlling. Given that, think want come closure
+ issue go live. Indeed, we’re dry run without gone that.
+ think dry run go arguably going different, mind
+ argues coming closure sooner rather later.
+ CHAIRMAN BERNANKE. Governor Mishkin.
+ MR. MISHKIN. want mention—I don’t know true people—
+ two big problems dry run. though come
+ survey, feeling people might views this. One problem
+ really difficulty thinking confidence interval didn’t feel
+ enough background staff think it. It’s fault
+ didn’t ask it. problem. knew Greenbook errors
+ terms confidence interval. knew FRB/US confidence intervals were,
+ issue think them. think things say that.
+ example, context FRB/US, don’t assume model uncertainty.
+ issue think uncertainty might exist FRB/US errors, then,
+ problems Greenbook forecast errors, display greater uncertainty
+ FRB/US errors. memo really think through, might provide lot
+ background us think this. might need go
+ next dry run, discussion that.
+ problem figuring write issue appropriate policy,
+ central. Again, relates issue discussed, use appropriate policy
+ 2 percent inflation goal think that’s one I’m comfortable with. It’s also
+ 
+ May 9, 2007
+ 
+ 109 130
+ 
+ consistent think revealed preference Committee terms
+ policy actions we’ve taken. However, would also comfortable Committee built
+ consensus 1½ percent. would different view projections
+ would felt policies case would different. question mark
+ think future gray area makes exercise
+ difficult. need think it. That’s struggled sat
+ asked, “How actually going this?”
+ CHAIRMAN BERNANKE. Vice Chairman.
+ VICE CHAIRMAN GEITHNER. know, we’re going talk lot
+ substantive issues this. thought, we’re going it, let’s now. you’ve
+ raised questions. I’m looking clock. suggestion this. don’t know
+ planning June—June two-day meeting, right?
+ CHAIRMAN BERNANKE. Right.
+ VICE CHAIRMAN GEITHNER. don’t think conversations
+ next round. Let’s make sure give time June beyond
+ start talk this—so didn’t speak today initial reactions
+ aren’t left without opportunity engage there’s whole range things
+ could address, including three issues raised far.
+ CHAIRMAN BERNANKE. President Minehan.
+ MS. MINEHAN. take Vice Chairman Geithner’s comments seriously, want
+ raise one thing would like get survey. offered one way
+ reflecting uncertainty regarding forecasts. might ways—for example, alternative
+ scenarios, qualitative discussions risk, sort thing—that seem us
+ 
+ May 9, 2007
+ 
+ 110 130
+ 
+ preferable. phrase question would draw us ways might
+ like characterize risks around forecast, think would helpful I, one,
+ find range distribution errors kind difficult.
+ CHAIRMAN BERNANKE. President Moskow.
+ MR. MOSKOW. logistical question, Don. survey, thought heard
+ say going send next couple days?
+ MR. KOHN. would like to. didn’t look Vincent said that. [Laughter]
+ mean, think ought get feedback soon.
+ MR. MOSKOW. question iteration we’re going go
+ now, commenting staff draft next two weeks. think would good
+ us go experience send survey out.
+ CHAIRMAN BERNANKE. Good point. Remind us update
+ projections?
+ MR. REINHART. opening business tomorrow.
+ CHAIRMAN BERNANKE. Fine. have, guess, rest day update
+ projections like. [Laughter] Governor Kroszner.
+ MR. KROSZNER. want underscore point. It’s clear
+ providing median 70 percent confidence bands going useful markets.
+ think think useful markets. important convey
+ sense uncertainty—and much look forward memo Rick asked for.
+ academics never think terms 70 percent confidence intervals; think 90 95
+ percent confidence intervals. I’m sure besides readers Bluebook
+ Greenbook think 70 percent confidence intervals. thinking alternative ways
+ 
+ May 9, 2007
+ 
+ 111 130
+ 
+ convey something useful markets sense uncertainty, without giving false
+ sense precision 3.0 2008 3.4 2009, may better sensible way go.
+ think look odd putting something like out, I’m sure would actually helpful.
+ CHAIRMAN BERNANKE. want say exercise already success
+ terms kinds questions it’s making us confront. appreciate everyone taking
+ seriously. good, detailed responses everyone.
+ Let close meeting quick announcements. First, next meeting
+ two days—June 27 June 28. receive additional information nonpolicy
+ part discussion. Second, usual, night June 27, we’ll dinner
+ British Embassy. number us concerned late night,
+ discussion ambassador, we’ve agreed program speaker.
+ evening strictly social, therefore maybe we’ll get little earlier
+ time study Greenbook. [Laughter] Third, circulated set proposed dates
+ next year’s meetings. haven’t responded Vince Debbie, please so. lunch
+ available Anteroom, meeting adjourned. Thank you.
+ END MEETING
+ 
+ 

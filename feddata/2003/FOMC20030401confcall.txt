@@ -1,0 +1,522 @@
+April 1, 2003
+
+1 of 34
+
+Telephone Conference Meeting of the Federal Open Market Committee on
+April 1, 2003
+A telephone conference of the Federal Open Market Committee was held on Tuesday,
+April 1, 2003, at 4:00 p.m. Those present were the following:
+Mr. Greenspan, Chairman
+Mr. McDonough, Vice Chairman
+Mr. Bernanke
+Ms. Bies
+Mr. Broaddus
+Mr. Ferguson
+Mr. Gramlich
+Mr. Guynn
+Mr. Kohn
+Mr. Moskow
+Mr. Olson
+Mr. Parry
+Mses. Minehan and Pianalto, and Mr. Poole, Alternate Members of the Federal Open
+Market Committee
+Messrs. Santomero and Stern, Presidents of the Federal Reserve Banks of Philadelphia
+and Minneapolis respectively
+Mr. Reinhart, Secretary and Economist
+Mr. Bernard, Deputy Secretary
+Mr. Gillum, Assistant Secretary
+Ms. Smith, Assistant Secretary
+Mr. Mattingly, General Counsel
+Mr. Baxter, Deputy General Counsel
+Ms. K. Johnson, Economist
+Mr. Stockton, Economist
+Mr. Connors, Ms. Cumming, Messrs. Eisenbeis, Goodfriend, Howard, Hunter, Judd,
+Lindsey, Struckmeyer, and Wilcox, Associate Economists
+Mr. Kos, Manager, System Open Market Account
+Ms. J. Johnson, Secretary, Office of the Secretary, Board of Governors
+Mr. Madigan, Deputy Director, Division of Monetary Affairs, Board of Governors
+Messrs. Oliner and Slifman, Associate Directors, Division of Research and Statistics,
+Board of Governors
+
+April 1, 2003
+
+2 of 34
+
+Mr. Whitesell, Deputy Associate Director, Division of Monetary Affairs, Board of
+Governors
+Mr. Skidmore, Special Assistant to the Board, Office of Board Members, Board of
+Governors
+Ms. Low, Open Market Secretariat Assistant, Division of Monetary Affairs,
+Board of Governors
+Ms. Holcomb, First Vice President, Federal Reserve Bank of Dallas
+Messrs. Fuhrer and Hakkio, Ms. Mester, Messrs. Rasche, Rolnick, Rosenblum, and
+Sniderman, Senior Vice Presidents, Federal Reserve Banks of Boston, Kansas City,
+Philadelphia, St. Louis, Minneapolis, Dallas, and Cleveland respectively
+Mr. Weber, Senior Research Officer, Federal Reserve Bank of Minneapolis
+
+April 1, 2003
+
+3 of 34
+
+Transcript of the Federal Open Market Committee Conference Call on
+April 1, 2003
+CHAIRMAN GREENSPAN. Good afternoon, everybody. We’ll be going through
+reports from the staff, with an agenda similar to last week’s. I’d like to start off with Dino Kos.
+MR. KOS. Thank you, Mr. Chairman. I will try to be very brief. The markets
+over the last week were once again driven by headlines about the war. At times when
+market participants thought that the war would be short, they tended to be bullish for
+the dollar and for equities. Most of the time, though, their views were at the other end
+of the spectrum—expecting a more protracted conflict than they had been thinking
+previously—which was bullish for bonds and conversely bearish for the dollar and for
+equities. So in the last week the two-year note has come down by about 13 basis
+points and the ten-year note by about 11 basis points; and the dollar has depreciated
+against the euro to about 109 and also was down to 118 against the yen. Equities
+have declined a couple of percentage points, depending on the index one uses.
+Interestingly, volatilities in the equity markets have actually fallen, which is
+counterintuitive. The VIX is down 3 percentage points; the pattern historically has
+been that, when equities have declined, the VIX has tended to rise. The other
+development that’s a little counterintuitive is that corporate spreads have narrowed
+both in the investment-grade and in the high-yield sectors by about 7 or 8 basis
+points.
+Market conditions in the Treasury and corporate sectors in general are described
+as good, although issuance of corporates has been a bit lighter than at the same time
+last year. In the secondary market, dealers report that they are able to do the business
+that needs to get done without a problem. Moreover, bid-offered spreads as well as
+the ability and willingness of dealers to take positions are described as good.
+Liquidity in agencies, mortgage-backed securities, swaps, and in other markets is
+reported to be choppy at times, and volume is a little less than normal. But on the
+whole, people are willing and able to do the business that they want to do. So all in
+all, market conditions are described as fine. I think I can stop there, Mr. Chairman.
+CHAIRMAN GREENSPAN. Thank you. Any questions for Dino? I hear none.
+Vincent Reinhart, please.
+MR. REINHART. 1 Thank you, Mr. Chairman. I’ll be referring to the material
+that begins with a chart labeled “Exhibit 1, Treasury Securities Market.” That exhibit
+gives an update of financial market trading through noon today. As Dino mentioned,
+market participants have had their attention squarely focused on the war front. So
+you might be better off having one of those retired generals who seem to be so
+ubiquitous doing this update instead of me! But the message from the markets seems
+1
+
+The materials used by Mr. Reinhart are appended to this transcript (appendix 1).
+
+April 1, 2003
+
+to be the same as that from those talking heads: The war is expected to run a little
+longer than originally hoped. As a result, the past week completed the rolling back of
+the market rally that occurred in the run-up to the March 19 deadline to Iraq that we
+spoke about in the last conference call. As shown in the bottom of the first exhibit,
+the Treasury yield curve has shifted 16 to 22 basis points lower, with very little of
+that change associated with a response to economic data. While some of the decline
+in Treasury yields probably reflects a flight toward safer assets, the sense that the war
+would run longer has also been associated with some marking lower of the outlook
+for economic activity. In that regard, indexed debt yields fell as much as their
+nominal counterparts, implying that there was a revision to the outlook for the real
+economy with no role for a change in inflation compensation. Also supporting this
+notion, equity prices—the subject of exhibit 2—have fallen 2 to 3¾ percent since the
+March 19 deadline. Although prices have been volatile ex post, implied volatility
+(the middle panel) is lower. That’s a topic that Dino already has raised, and one I’ll
+come back to later.
+Given the revision to the economic outlook, market participants have marked
+down futures rates in the short run, as shown in exhibit 3. That is, the path of the
+expected federal funds rate (the middle left panel) is noticeably lower than it was
+before the deadline, with the expected funds rate touching below 1 percent by this
+summer. As you can see in the bottom panel, market participants put very strong
+weight on the possibility that the funds rate will be trading below 1¼ percent by the
+time of your next meeting.
+There’s not much to say about corporate debt spreads—the subject of exhibit 4—
+other than that they have been remarkably well behaved. Swaps spreads actually
+have narrowed some, as have credit default swap premiums for some important
+intermediaries (the right column in the middle panel).
+If you turn to the next page, in exhibit 5 I have plotted actual and implied
+volatilities. As Dino mentioned, implied volatilities across asset classes—that is,
+interest rate instruments such as the two-year and ten-year swap volatilities (the top
+two panels) and equity indexes such as the S&P and the Nasdaq (the bottom two
+panels)—have moved sideways or if anything have fallen a bit. But what has
+happened is that actual volatility has risen over the last couple of weeks toward that
+level of implied volatilities. That is, in effect trading has been volatile—fulfilling the
+expectations that market participants had in advance.
+Turning to the last set of charts, exhibit 6, and looking at the entire term structure,
+you can see that volatility has increased at the very front end of the swap yield curve.
+Implied volatilities for contracts of less than one year in maturity (the solid line in the
+top left panel) have gone higher. But for longer-term instruments they really haven’t
+changed that much. So we have a situation in which markets are volatile, as was
+anticipated. But it’s a volatility that is expected to occur only in the near term.
+That’s all I have to report, Mr. Chairman.
+
+4 of 34
+
+April 1, 2003
+
+5 of 34
+
+CHAIRMAN GREENSPAN. Questions for Vincent? Hearing none, I turn to Karen
+Johnson.
+MS. JOHNSON. 2 Thank you, Mr. Chairman. The signals with respect to
+economic activity in the rest of the world remain mixed. The theme that one hears in
+various reports from abroad is still great uncertainty, and it is the uncertainty more
+than anything else that seems to be looming large in the minds of other policy
+officials. In the package of charts that we distributed, entitled “Recent Developments
+in International Financial Markets,” the first chart shows exchange rate developments.
+In the week since you last met, the weighted average value of the dollar relative to
+other major currencies is down a bit, as shown in the dotted blue line in the bottom
+panel. And as you can see in the top panel, it’s noticeably down against the euro (the
+red line) and the yen (the black line). The broad dollar, a measure that brings in
+currencies such as the Mexican peso and the currencies of other developing countries,
+is shown as the black line in the bottom panel. That is back almost to where it was on
+March 12, the date we used as a benchmark because that was the peak in oil prices,
+the start of the stock market rally, and the beginning of a bit of a dollar rally.
+A host of small bits of data have come out about economic activity abroad,
+though very little of that is post the onset of war. For the most part the data are
+mixed, but for some countries, particularly those in the euro area, they are somewhat
+to the soft side. The confidence surveys from the euro area, for example, were down
+sharply in March. In particular, the German IFO survey, which was consistent with
+the broader euro average and did have some responses since the outbreak of
+hostilities, was down substantially. Retail sales in Germany have been down. Today
+we got the PMI for the euro area. It was slightly above 50 in February and is now at
+48.4 for March. All the components are lower, with new orders and employment
+actually at multiyear lows. So the picture for the euro area economy is confirming
+softness; whether it’s softer than in the Greenbook projection is hard to tell with only
+these fragments of data. We’ve also received several pieces of weak data for the
+United Kingdom. The picture for Japan is, if anything, perhaps slightly the other
+way. It’s still quite mixed but may be a bit less negative than the characterization we
+gave in the Greenbook. We’ve had data on household consumption in Japan that
+indicate positive growth. On the other hand, today we got the Tankan index of
+business conditions, and it was weaker than expected and painted a rather pessimistic
+view of the business outlook. All in all I think the data have figured a little in
+exchange rate moves, but I would tend to agree with Dino and Vincent that the war
+news more than these tidbits of economic data have moved markets around. On the
+whole the dollar has tended to depreciate but only by a small amount, as chart 1
+shows.
+In chart 2 we have some indicators of how the market perceives policy prospects
+abroad. The ECB Council will be meeting this Thursday, two days from now.
+Statements made by ECB officials suggest strongly that they are anticipating no
+2
+
+The materials used by Ms. Johnson are appended to this transcript (appendix 2).
+
+April 1, 2003
+
+change in policy on Thursday; they point to the extreme amount of uncertainty as a
+reason for not moving. The market in the futures sense is not pricing in a move on
+Thursday, but if you look at the three-month Eurocurrency futures rates for the
+euro—the second panel on the left—you can see that the curve has shifted down. The
+rates today (the black line) versus those a week ago (the dashed red line) clearly
+indicate that the market is pricing in some additional easing. One can argue about the
+amount versus the probability, but clearly market players are expecting more easing
+in the euro area, certainly by September. The same can be said of the Bank of
+England and the sterling curve. That curve has shifted down (the black line relative
+to the red dashed line), pricing in easing by the Bank of England—not immediately
+but certainly by June and perhaps even more by September.
+Stock prices are shown in chart 3. They have moved down since a week ago,
+drifting with a sense of economic weakness and the expectation of a more prolonged
+war than previously anticipated. Today there was a general move up. You can see a
+slight tick up in the last bit of each of those lines, as yesterday’s sharp declines were
+retraced a little today in most of these markets. But on the whole, stock prices are
+well off the recent peaks associated with the rally that occurred almost immediately
+after the onset of the war. Euro area stocks have been particularly volatile and
+Japanese stocks a bit less so. But Japanese stocks are flirting with their lows of
+March 12 or thereabouts, whereas the other markets are still noticeably above the
+levels recorded at that point.
+Finally, some information on oil prices is depicted in chart 4. Oil prices, too, are
+drifting with the economic news and the information people think they’re getting
+about the war situation—moving up slightly both in swap terms and near-term
+futures. As you can see in the top chart, the price of WTI for May is now above
+$30 per barrel. It has been fluctuating in that general vicinity, as has the spot price.
+In the very near term, oil prices are lower than what we incorporated in the
+Greenbook projection; further out they are back to about the same as in the
+Greenbook. So as of now the futures curve is telling us that perhaps prices will be
+lower sooner than one might have thought, but over a sustained period no lower than
+we had incorporated into the Greenbook. You can see in the bottom chart, though,
+that futures options allow us to infer a distribution. The red dotted line for December
+WTI does have a lot of mass at fairly low prices—say, in the $15 to $20 per barrel
+range. It is fairly recently that the shift toward lower prices has occurred and that the
+mass has been gathering there. I take that to be a somewhat optimistic sign regarding
+oil prices. In Nigeria the good news is that a public-sector strike has been avoided—a
+strike that might have complicated and exacerbated the oil-sector situation. The bad
+news is that the oil-sector situation is still not good. There’s a story about it in the
+Wall Street Journal today that’s pretty negative. In Venezuela, production is actually
+holding at somewhat higher levels than one might have expected, and that is a bit of
+good news. That’s all I have for today.
+CHAIRMAN GREENSPAN. What is today’s number for Venezuela?
+
+6 of 34
+
+April 1, 2003
+
+7 of 34
+
+MS. JOHNSON. I don’t have an actual production number for today, but the monthly
+number—
+CHAIRMAN GREENSPAN. It’s 2.4.
+MS. JOHNSON. Yes, it’s 2.3, 2.4. Above 2 is the number people are coalescing around
+as the daily production.
+CHAIRMAN GREENSPAN. Thank you. Questions for Karen? If not, I call on Dave
+Stockton.
+MR. STOCKTON. 3 Thank you, Mr. Chairman. I’m going to be talking from the
+package of nonfinancial charts that we circulated earlier today. But before I do, I
+thought I’d start out by jumping right to the bottom line and making three points
+about recent developments. Point 1, we’ve actually experienced only small surprises
+in the data received since the March Greenbook forecast was completed. But most of
+those surprises have been in the downward direction. We see the situation as a little
+weaker for housing activity, for non-auto consumer expenditures, and for equipment
+spending. The GDP forecast is still roughly in the vicinity of 2 percent, which is
+about ¼ percentage point lower than we were projecting at the time of the Greenbook.
+Point 2, there’s really nothing in the data or the anecdotes to suggest that the economy
+has already begun or is about to break out of its recent pattern of very sluggish
+growth. Now, the trajectory has not been very encouraging. On the other hand,
+there’s little to suggest that we’re seeing some sort of cumulative weakening in
+activity currently. Obviously, we’re going to be very anxious to see Friday’s
+employment report for March, though I should note that the reference week fell
+before the start of the war. So we’re still going to be dealing mostly with
+observations before military activity began. Point 3, the factors conditioning our
+outlook have, by and large, been more favorable than we had assumed in the
+Greenbook. Stock prices are running about 6 percent above the levels that we had
+assumed in our baseline forecast, and as Karen noted, oil prices have fallen more
+rapidly. Moreover, fiscal policy—most notably defense spending—looks as if it’s
+going to be more stimulative than we had projected. Pending receipt of the
+employment data, I’d be inclined to stick with the forecast of GDP growth for the
+second quarter of something between 2 and 2½ percent, but that’s going to be with
+weaker private demand offset by stronger defense spending. So with those basic
+points in mind, let me turn very briefly to the package of charts.
+Chart 1 depicts the same high-frequency indicators that I presented last week.
+Initial claims for unemployment insurance receded a bit further in the week of March
+22, but the average level of claims in recent weeks is still consistent with a decline in
+payroll employment. As you can see in the middle left panel, the most recently
+3
+
+The materials used by Mr. Stockton are appended to this transcript (appendix 3).
+
+April 1, 2003
+
+available weekly physical product data also dropped again. Weaker electricity
+generation was the key factor there, as was motor vehicle production, which I’ve
+plotted in the right-hand panel. We don’t yet have a complete set of reports from the
+automakers on sales, but the ones we do have as of today suggest that sales are
+probably going to be somewhere near a 16¼ million unit pace, which is better than—
+CHAIRMAN GREENSPAN. Is that light vehicles?
+MR. STOCKTON. That’s for light vehicles. We had been expecting something
+closer to 15½ million for the month, so this was a positive development.
+Nevertheless, even that pace of sales is still going to require some significant
+cutbacks in production in the months ahead if the automakers are going to work off
+their stocks. Also as you know, GM has announced a more sweeping program of
+zero percent financing. So they may be operating on both the margins of sweetening
+incentives and cutting production in the months ahead. We would still expect
+declining motor vehicle production to be taking a bite out of GDP growth in the
+second quarter.
+Further illustrating some of the crosscurrents that I suspect we’re going to be
+dealing with in the coming weeks, chain store sales fell off considerably in the week
+of March 29, as you can see in the bottom left-hand panel. Again, I don’t put a lot of
+weight on those data, but I think they’re worth paying some attention to. In the
+bottom right-hand panel, I’ve shown the Michigan survey broken out into half months
+where we use both the preliminary and the final Michigan survey to infer what was
+happening in the second half of the month. As you can see there, both the total and
+its constituent components have improved over the second half of March. Indeed,
+Richard Curtin, the director of the Michigan survey, indicated that, on the very
+limited observations that he had after the military action had begun, confidence
+among those respondents was at 85. Obviously it’s going to be interesting to see if
+these gains can be sustained in the weeks ahead, given what might appear to be a
+somewhat longer military engagement than some had hoped. We’ll have to watch
+that.
+Chart 2 presents an update on the domestic energy markets. There’s not very
+much new to report there. Retail prices came down further last week. The crude oil
+price that I’ve plotted on the bottom of the upper left panel looks a little odd because
+the slight spike there makes it hard to read the last observation, which was 74 cents
+per gallon. We’re still looking at very tight gasoline inventories, though. I think
+most industry analysts expect that the inventories now, as we switch away from
+heating fuel, can be brought back to normal levels. But while inventories are so lean,
+one might expect that there could be considerable price volatility. The same can be
+said for natural gas prices, which have obviously settled down considerably from
+where they were back in February. But there, too, inventories are quite tight, and I
+think that makes prices more vulnerable to demand or supply shocks.
+
+8 of 34
+
+April 1, 2003
+
+9 of 34
+
+Chart 3 presents what in the current environment probably could qualify as
+ancient history at this point, which is the February figures on orders and shipments of
+capital goods. As you can see in lines 2 and 3 in the upper panel, shipments of hightech capital equipment gave back only a portion of their January rise. Spending in
+this area looks quite likely to post a very substantial gain in the first quarter. Now,
+that gain was roughly in line with what we’ve been expecting, so it doesn’t involve
+any innovation. Shipments for the non-high-tech nontransportation component—
+that’s shown on line 4 as the “all other” category—dropped, though only a bit more
+than we had expected. But as you can see in the middle right panel for other
+equipment, both orders and shipments have subsided again in the last few months.
+Clearly that’s not a trajectory that is hinting at any imminent turnaround. To be sure,
+these are February data, but I think we’d have to classify them as a disappointment
+relative to our expectations. The ISM survey was released this morning. Both the
+total index and the new orders component, which we have found to be most useful in
+projecting IP, dropped below 50. Before this report we’d been looking for something
+in the manufacturing ex-motor vehicle area that would have been roughly flat. I think
+this suggests that we’ll probably be seeing some small declines over the next couple
+of months. Again, we’ll know more on Friday when we see the employment report
+and have a chance to look at the factory hours for March. But this obviously is not a
+positive indicator either.
+Chart 4 presents the information that we have on the household sector. Monthly
+real PCE for February was just a touch weaker than our expectations, but there was
+widespread softness in spending. New home sales, which are plotted in the panel in
+the lower left as the dark line, dropped substantially. It’s hard to know how much of
+that is a snowstorm effect. But I’d say that almost all the readings that we’ve had on
+the housing market recently have been to the soft side of our expectations and just a
+bit on the soft side in general.
+So in summary, we’ve seen no major surprises but a succession of small surprises
+that, taken together, suggest to us a softer picture for the private economy in the near
+term than we had anticipated in our last forecast. I’ll stop there, Mr. Chairman.
+CHAIRMAN GREENSPAN. Questions for David?
+MR. PARRY. Dave, this is Bob Parry. At the beginning of your remarks you made
+several comments about the general contour of the forecast. I think you said that, at least at the
+present time, it looks as if the economy is continuing to expand sluggishly, particularly on the
+private side, and that in contrast the fundamentals in some respects look stronger. Where would
+you expect us to be at year-end in terms of progress in eliminating excess capacity in the
+
+April 1, 2003
+
+10 of 34
+
+economy? Will we likely be at a level similar to what was in the Greenbook or one that is
+somewhat lower?
+MR. STOCKTON. President Parry, I will feel a lot more comfortable answering that
+question a week from today, when we have the March employment report. It’s not that I’ll
+actually be able to forecast all that much more accurately, but somehow I’ll feel more
+comfortable! [Laughter] I would say right now that, on net, we probably would be revising very
+little the amount of slack that we would expect by the end of this year. As I indicated, there’s a
+bit more near-term weakness, and underlying conditions may be a little more favorable. But I
+don’t think those changes by themselves would alter our projection very much. As you know,
+that is a forecast in which the unemployment rate continues to rise to about 6¼ percent by the
+fall.
+MR. PARRY. Right.
+MR. STOCKTON. The unemployment rate recedes only to a tad above 6 percent by the
+end of the year. So this is not a forecast of progress on the output gap but one where there’s
+actually a little further widening in that gap over the year.
+MR. PARRY. Okay, thank you.
+CHAIRMAN GREENSPAN. Further questions?
+MR. BROADDUS. David, this is Al Broaddus. I have a question on the purchasing
+managers’ survey. Is that information collected across the whole month, or is it collected toward
+the end of the month? Could you tell us anything about the mechanics there?
+MR. STOCKTON. President Broaddus, all the responses on the purchasing managers’
+survey are in by the twenty-first of the month. So it is weighted, obviously, more toward the
+earlier part of the month.
+
+April 1, 2003
+
+11 of 34
+
+CHAIRMAN GREENSPAN. I would say that that is also true of the Michigan survey
+now in the sense that it isn’t really reflective of the first and second halves of the month. It’s
+more the first third and the second third of the month.
+MR. STOCKTON. That’s correct.
+MR. BROADDUS. Thanks.
+CHAIRMAN GREENSPAN. Further questions for Dave? If not, let me say a few words
+about a possible intermeeting move, should we decide at some point that that is necessary. The
+first thing I think we have to ask ourselves is, What forces are driving the economy at this
+particular stage? I think we’ve all generally concluded, to a greater or lesser extent, that there is
+some underlying thrust here that we have difficulty ferreting out largely because of the
+uncertainties stemming from geopolitical risks and the extent to which the bursting bubble is still
+working its way through the system. Also peripherally perhaps, but nobody knows for sure,
+corporate governance problems may still be an issue. Those problems may be suppressing the
+attitudes of corporate executives—especially in the area of capital investments, where their
+boards of directors are looking at capital projects pushed by corporate management more in
+terms of what could go wrong than what could go right. I think there’s no doubt that that’s still
+going on.
+But we did have a period between Christmas and the first week in February when the
+economy showed a good deal of buoyancy. I hesitate to use that term because we’re obviously
+looking at data for a six-week period when seasonal adjustment factors are the largest of the
+year. Nonetheless, we did see a somewhat better tone at that point, which in fact was reflected in
+the Greenbook. That would suggest, because an imminent conflict with Iraq had not yet
+emerged as an issue at that point, that the other forces—corporate governance, the bursting
+
+April 1, 2003
+
+12 of 34
+
+bubble, the wealth effect, and so forth—were not of such an order of magnitude as to create
+significant weakness. Now, during that period gasoline prices were edging up modestly. But in
+the second week of February they jumped sharply. There’s a serious question of cause and effect
+here, but from the second week of February through the latest week for which we have data, this
+economy has edged off. Even though GDP growth is likely to be 2 percent on average in the
+first quarter, it’s by no means clear to me that GDP between December and March was in fact
+positive. Indeed, I would suspect that it was not. The productivity data are obviously very good,
+so we understand in part why the employment data are not as good as they could be. But the
+important point here is that the impact of the Iraqi war coupled with the oil price effects from
+Nigeria and the lingering ones from Venezuela are having a very substantial effect. One need
+only to look at how fast stock prices move every time one of those generals Vincent commented
+on makes a statement about what is happening. So at minimum the stock price volatility and the
+movement in oil prices in response to war events suggest that even if there is a significant
+residual bubble effect the Iraqi war is a major factor.
+But that said, remember that in most of the discussions we had before the onset of the war
+there was a general expectation that the military confrontation would be quick and that the war
+would be over with shortly. Therefore, we thought it was wise to wait before making a policy
+move because the war was pending, it was going to be quick, and we were going to learn a great
+deal subsequently. Now we’re learning that in fact that may not be the case, at least according to
+the most recent, unfavorable turn of events. The expectation is that, when the war is over, the
+economy probably will do a lot better than it is doing currently, but we don’t know when the war
+is going to be over or what its immediate aftermath will be. Even if we were to argue that it is
+indeed the war that is suppressing the economy, we may have to respond to the economy
+
+April 1, 2003
+
+13 of 34
+
+irrespective of what is causing its sluggishness. That’s because there is a cumulative internal
+dynamic to the economy that could move it lower even if the war ceases to become an issue. At
+the moment I’m not suggesting that that’s the most probable event. I frankly don’t think it is. I
+must admit that I was a bit encouraged by the 16¼ million light vehicle sales figure, which
+implies that sales in the last ten days of March were actually quite good. That, of course,
+suggests that personal consumption expenditures are not in the process of falling on their face.
+So all in all, activity in various sectors is eroding but not, as David points out, moving
+downward too notably. That may occur, but the economy is certainly not exhibiting that
+characteristic at this particular stage. So I think the bottom line at this point is that we have to be
+prepared for the possibility that the data could start to get worse from here on out. If they do and
+the Iraqi war is not about to end, it means that we should not just sit still. We will have to make
+decisions. We obviously are in a position to wait if necessary until our next meeting. I’m not
+necessarily suggesting that we make an intermeeting move—certainly not this week and
+probably not next week. But if we do choose to move during the intermeeting period—before
+May 6—the ideal time to do so is probably April 15. By that time we will have all the data that
+we need to judge in a very general way how the economy is going. If we wait significantly
+beyond April 15, it will be getting very close to the time of our May meeting. So I would
+suggest that we continue to meet on Tuesdays, on both April 8 and April 15, and continuously
+monitor developments. I think we should be prepared, if it turns out to be the consensus of the
+Committee, to move on April 15 or to wait until May 6, when we can have a full-scale FOMC
+deliberation and then make decisions. We ought to be prepared to make a move depending on
+how the data are coming out. As they now stand, it looks as though we probably could manage
+
+April 1, 2003
+
+14 of 34
+
+to wait until our meeting on May 6. But this is a highly volatile and fairly dynamic situation, and
+in my judgment we have to be somewhat risk averse.
+VICE CHAIRMAN MCDONOUGH. Mr. Chairman, I fully agree with your analysis of
+the possible need for an intermeeting move and your judgment that we simply don’t know
+enough at this stage to determine whether that will be necessary or not. I do believe, though, that
+your analysis of the situation is right on.
+MR. PARRY. Mr. Chairman, this is Bob Parry. I agree with your analysis as well. Let
+me mention one thing that I think might be helpful. We’ve been trying to survey businesses and
+bankers and a lot of people in our District and we’re beginning to get some information that I
+think is of some interest. I wonder if it might not make some sense either at the meeting on
+April 8 or April 15 to have a somewhat abbreviated go-around so that, if people have new
+information that might be worth communicating to the group, they can do so.
+CHAIRMAN GREENSPAN. I think that’s an excellent idea. I’d suggest that we wait
+until April 15 because that’s when we’re going to have a lot more data and other information.
+MR. PARRY. Okay. Also, most of us will have had our directors’ meeting by then. I
+know we have an advisory council meeting as well between April 8 and 15.
+CHAIRMAN GREENSPAN. Nonetheless, let me suggest that, if any of you has
+information that you find surprising, it might not be a bad idea to drop a note about it to
+somebody here at the Board. I’d suggest that we designate Jennifer Johnson as the person to
+receive that type of information. But I agree that it would be wise, as you suggest, to do a
+roundtable on April 15 before we come to any judgment one way or the other.
+MR. PARRY. Okay.
+
+April 1, 2003
+
+15 of 34
+
+CHAIRMAN GREENSPAN. Any further comments, remarks, or otherwise? We’re
+scheduled to have a conference call on April 8, and tentatively 2:00 p.m. is the appointed time.
+If you don’t hear differently from us, that’s fixed. We look forward to speaking to you at that
+point. Good night, everybody.
+END OF MEETING
+
+

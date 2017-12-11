@@ -1,0 +1,2785 @@
+March 18, 2003
+
+1 of 101
+
+Meeting of the Federal Open Market Committee on
+March 18, 2003
+
+A meeting of the Federal Open Market Committee was held in the offices of the Board of
+Governors of the Federal Reserve System in Washington, D.C., on Tuesday, March 18, 2003, at
+9:00 a.m. Those present were the following:
+Mr. Greenspan, Chairman
+Mr. McDonough, Vice Chairman
+Mr. Bernanke
+Ms. Bies
+Mr. Broaddus
+Mr. Ferguson
+Mr. Gramlich
+Mr. Guynn
+Mr. Kohn
+Mr. Moskow
+Mr. Olson
+Mr. Parry
+Mr. Hoenig, Mses. Minehan and Pianalto, and Mr. Poole, Alternate Members of the
+Federal Open Market Committee
+Messrs. McTeer, Santomero, and Stern, Presidents of the Federal Reserve Banks of
+Dallas, Philadelphia, and Minneapolis respectively
+Mr. Reinhart, Secretary and Economist
+Mr. Bernard, Deputy Secretary
+Mr. Gillum, Assistant Secretary
+Ms. Smith, Assistant Secretary
+Mr. Mattingly, General Counsel
+Mr. Baxter, Deputy General Counsel
+Ms. Johnson, Economist
+Mr. Stockton, Economist
+Mr. Connors, Ms. Cumming, Messrs. Eisenbeis, Goodfriend, Howard, Hunter, Lindsey,
+Struckmeyer, and Wilcox, Associate Economists
+Mr. Kos, Manager, System Open Market Account
+Mr. Madigan, Deputy Director, Division of Monetary Affairs, Board of Governors
+Messrs. Slifman and Oliner, Associate Directors, Division of Research and Statistics,
+Board of Governors
+
+March 18, 2003
+
+2 of 101
+
+Mr. Whitesell, Deputy Associate Director, Division of Monetary Affairs, Board of
+Governors
+Mr. Clouse, Assistant Director, Division of Monetary Affairs, Board of Governors
+Mr. Skidmore, Special Assistant to the Board, Office of Board Members, Board of
+Governors
+Ms. Low, Open Market Secretariat Assistant, Division of Monetary Affairs, Board of
+Governors
+Mr. Connolly, First Vice President, Federal Reserve Bank of Boston
+Messrs. Fuhrer and Hakkio, Ms. Mester, Messrs. Rasche, Rosenblum, and Sniderman,
+Senior Vice Presidents, Federal Reserve Banks of Boston, Kansas City, Philadelphia,
+St. Louis, Dallas, and Cleveland respectively
+Mr. Rudebusch, Vice President, Federal Reserve Bank of San Francisco
+Mr. Weber, Senior Research Officer, Federal Reserve Bank of Minneapolis
+
+March 18, 2003
+
+3 of 101
+
+Transcript of the Federal Open Market Committee Meeting on
+March 18, 2003
+CHAIRMAN GREENSPAN. Would somebody like to approve the minutes of our
+January 28-29, 2003, meeting?
+VICE CHAIRMAN MCDONOUGH. So move.
+MR. PARRY. Second.
+CHAIRMAN GREENSPAN. Without objection. Dino Kos.
+MR. KOS. 1 Thank you, Mr. Chairman. I’ll be referring to the charts that were
+distributed a short time ago. Since your last meeting, markets have been
+characterized by a high degree of risk aversion—driven, first, by uncertainty about
+the timing and extent of war in Iraq; second, by uncertainty about the underlying
+condition of the U.S. and other global economies as growth forecasts were being
+trimmed; and third, by data on the real economy that tended to disappoint market
+expectations. During most of the intermeeting period, investors favored government
+bonds; their yields declined to new lows in many cases, while equities fell sharply
+and the dollar depreciated. In the last three or four trading sessions, however, many
+of those trends were partially or fully reversed, and the price of oil has declined.
+Some attribute these recent price moves to investors’ optimism about the outcome of
+the war that now seems imminent. Others see the recent price moves as another
+variation of uncertainty, only this time the response was to revert to a neutral posture
+vis-à-vis their benchmarks.
+The first page in the materials distributed shows U.S. and euro-area three-month
+deposit rates. For most of the intermeeting period three-month cash rates were
+relatively stable in the United States, as shown by the solid red line. However, threemonth deposit rates three, six, and nine months forward (the dashed red lines) began
+to fall in early March, as the gloom deepened and the data deteriorated, especially
+after the employment report of March 7. Surprisingly, forward rates snapped back
+late last week and the three-month rate nine months forward is back to 1.5 percent,
+near where it traded for most of the period. Part of that reversal may have been due
+to technical trading factors, but the revival of equity prices and the growing sense that
+your meeting today would not result in a change to the target funds rate also played a
+role. European forward rates (the dashed green lines) continued to trade below the
+cash rate, suggesting that markets expect further easing from the ECB. Many market
+participants had expected a more aggressive 50 basis point cut at the March 6 meeting
+of the ECB. The contemporaneous uptick in euro-area forward rates suggests that
+those rates often remain influenced by their U.S. counterparts in the short run.
+
+1
+
+The materials used by Mr. Kos are appended to this transcript (appendix 1).
+
+March 18, 2003
+
+4 of 101
+
+In Japan, the announcement of a new governor of the Bank of Japan did not alter
+expectations of persisting deflation. With Japanese short rates at zero and the
+economic outlook unchanged, the BOJ’s continued infusions of liquidity and a search
+for yield by investors have pushed funds out the yield curve. The ten-year Japanese
+government bond yield hit a new low of 72 basis points on March 12; that compares
+with a yield of 1.45 percent one year ago. In fact, the entire yield curve has been
+pulled down by the weight of the BOJ’s infusions, as shown in the bottom panel.
+While the BOJ’s so-called nontraditional monetary operations have successfully
+brought down the JGB yield curve and corporate spreads apparently have followed,
+still the amount of borrowing in the private sector and in the securities market is
+limited, and prices on other assets such as equities and property continue to fall.
+Turning to page 2, another way of looking at monetary conditions in major
+economies is depicted there. The five graphs on that page show the main policy rates
+(the blue lines) since December of 2002 for the United States, the euro area, the
+United Kingdom, Australia, and Canada, along with the two-year swap rate for each
+currency (the red lines). By early March the two-year swap rate was trading below
+the short-term policy rate in the euro area, the United Kingdom, and Australia,
+suggesting that markets were expecting a weaker outlook and possibly some
+monetary ease. In this country, the two-year swap rate fell 83 basis points from
+December through early March, tracking the two-year note, which itself hit a record
+low of 1.33 percent on March 10. In all four cases the swap rate moved sharply
+higher last week—more than ¼ percentage point—as markets at least temporarily
+were willing to consider that the glass was half full. Interestingly, Canada’s pattern
+was quite different from the others. In Canada, swap rates began their turnaround at
+year-end, and the Bank of Canada tightened policy 25 basis points on March 4.
+Turning to page 3, the dollar continued to trade with a soggy tone for much of the
+intermeeting period. Part of the dollar’s decline was attributed to weaker economic
+data, which seem to have had a more pronounced effect on the U.S. currency than
+weak data had on either the euro-area or Japanese markets and currencies. The
+reason typically cited is the United States’ reliance on imported capital due to the
+current account deficit. A second factor mentioned by some was the widening budget
+deficit forecast, and a third concern was the financing of the war. Traders recall that
+the United States was reimbursed for the vast portion of its expenses in the first Gulf
+War, a factor that narrowed the current account deficit at that time and was thought to
+have benefited the dollar. A similar benefit is not expected this time around.
+Notwithstanding this sentiment, the dollar strengthened in the last week along
+with most riskier dollar assets. The euro weakened sharply in the past week to about
+$1.06 as we speak, and European equities rallied. Some attributed the euro’s
+weakness to technical factors; others cited discord within Europe on both foreign
+policy and economic performance issues. Still others pointed to the seemingly
+increasing volume of bad news coming from European banking and insurance
+businesses. To give one example, in recent days there have been calls by prominent
+
+March 18, 2003
+
+5 of 101
+
+Germans for the government to prepare for the possibility of having to take over one
+of the large German banks.
+The yen’s exchange rate has been rather more subdued. The middle panel graphs
+the dollar–yen exchange rate and shows (in gray) periods of Japanese intervention.
+Although claiming to have no exchange rate target, the Japanese monetary authorities
+have intervened consistently when the dollar–yen rate has been in the 116 to 118 area.
+During the intermeeting period, the Japanese bought about $10.6 billion and
+€700 million. That is in addition to the roughly $5.6 billion they bought in January.
+So-called repatriation flows, which actually cover a wide variety of book-closing
+maneuvers, tend to wear off by mid-March as the necessary transactions are
+completed. With the onset of the new fiscal year and a new team installed at the
+Bank of Japan, the market will be focusing intently on the policy choices by the
+government and central bank officials to revive the economy.
+Finally, the dollar also has been weak since last December against other
+currencies, as shown in the bottom panel, although it has had a bit of a bounce in
+recent days against those currencies as well. The British pound has benefited least
+from the dollar’s weakness, perhaps in part because of the suspicion that the U.K.
+economy is decelerating. But some observers have suggested that the economy may
+experience some negative backwash from the government’s decisions regarding Iraq.
+Turning to page 4 and moving back to U.S. fixed-income markets, corporate bond
+issuance in January and February in both investment-grade and high-yield markets
+was fairly strong, in contrast with the lower year-over-year levels we were seeing for
+much of 2002. As shown in the top left panel, the investment-grade corporate spread
+continued to trade below 175 basis points, which while rather high historically is a
+significant improvement from October. Actually, perhaps the news here is that there
+was no widening in the spread despite the uptick in supply and the weak equity
+market. High-yield and emerging-market spreads also held fairly steady, as shown in
+the top right panel, especially among selected emerging-market borrowers such as
+Brazil, which has performed well since the election. Market commentary suggests
+that, with investors craving higher yields, these asset classes offered a fairly attractive
+risk–reward ratio at those spreads over Treasuries.
+Volatilities in fixed-income markets have remained at somewhat elevated levels, as
+shown in the middle panel. This panel graphs the implied volatility on options to enter into a
+swap. The purple line graphs the volatility index of options of short-dated swaps, and the
+blue line depicts that measure for intermediate-term swaps. These instruments are the
+hedging tools of choice among large mortgage investors, and implied volatilities tend to rise
+during periods of heightened refinancing activity. In recent weeks, the Mortgage Bankers
+Association refi index hit a new high—a level much higher in fact than last autumn’s peak.
+In that context it’s not surprising that implied volatilities among these instruments are high,
+and it may be a surprise that they are not higher still.
+
+March 18, 2003
+
+6 of 101
+
+The bottom panel graphs another aspect of the refinancing boom. The blue line is
+an estimate of the duration of the mortgages in the mortgage-backed security
+universe; the burgundy line is the yield on the ten-year note. These two do tend to
+move together since one way for investors to hedge a shortening of portfolio duration
+due to a refinancing wave is to buy Treasuries. Conversely, they hedge by selling
+Treasuries when rates rise and duration extends. With the significant growth of the
+mortgage market, hedging activities among these investors can—and often do—have
+an impact on the Treasury market. Now, I should mention that one small aspect of
+the recent heavy volume of refinancings is speculation that higher prepayments will
+cause a mismatch among some large MBS holders unable to adjust their positions
+quickly enough. In particular, some traders apparently thought that Fannie Mae
+would report a much higher duration gap, as it did during last autumn’s prepayments
+wave, and that this would imply large purchases of Treasuries and still lower interest
+rates. In the event, Fannie Mae reported last week that its duration gap for February
+had widened by one month, from minus four to minus five months, which was much
+lower than the market had expected. And the gap stayed within Fannie’s desired
+range of plus six to minus six months. Part of the reversal in the ten-year note last
+week was apparently triggered by disappointment that this gap was not wider, which
+caused some short covering. On the bright side, some have suggested that, with the
+spotlight on GSEs, they are hedging a bit more conservatively to avoid the negative
+publicity that Fannie Mae in particular garnered last September and October.
+Let me turn to page 5 and a quick word on reserves. Several meetings ago I
+mentioned that currency growth had slowed unexpectedly in late summer and early
+autumn. The Desk responded by ceasing outright operations and shrinking our longterm repo book to $6 billion. As currency growth resumed, in the holiday period we
+first increased the long-term repo book, and in the intermeeting period we resumed
+our outright purchases for SOMA, as shown in the panel on page 5. During the
+intermeeting period we acquired almost $11 billion of securities, or just $1 billion
+short of the intermeeting leeway. Looking prospectively, we do not anticipate that
+the onset of armed conflict will have any significant effect on the demand for excess
+reserves or otherwise upset financing markets. In a review of banks’ behavior during
+the 1991 Gulf War, there was no evidence that banks increased their demand for
+excess reserves. However, analyzing that period is made more difficult because of
+the sharp reduction in reserve requirements that became effective in December 1990,
+a few weeks before the war began. Nonetheless, we will be on the lookout for any
+signs that shifts in financing patterns or flows across asset markets might be upsetting
+normal conditions in financing markets, and we will adjust our operations or
+provision of excess reserves accordingly.
+Mr. Chairman, there were no foreign operations. I will need a vote to approve
+domestic operations, and I’d be happy to answer any questions.
+CHAIRMAN GREENSPAN. Questions for Dino? Governor Ferguson
+
+March 18, 2003
+
+7 of 101
+
+MR. FERGUSON. Dino, on page 2 you’ve shown us both the two-year swap rate and
+the policy rate for various countries. I’m trying to understand if there is any policy implication
+or meaning in the relationships we see in the euro area, the United Kingdom, and Australia
+versus those in Canada and the United States. Obviously in those first three markets the twoyear swap rate has traded down, and at some points it fell below the target policy rate. In a
+couple of cases, we’ve seen that the monetary authority made some policy adjustments. So how
+should one think about that relationship, if at all, between the two-year swap rate and the policy
+rate, particularly in the cases where the swap rate has traded occasionally below the policy rate?
+MR. KOS. That’s a great question. The Committee spoke about the Canadian situation
+last time as something of an outlier, and one can see that here as well. I think one way to view
+this is that the market probably does consider the prospects for the United States and Canada as
+somewhat better than for the euro area and the United Kingdom. The case of Australia is a bit
+more interesting. I don’t know to what degree technical factors are involved there. The
+Australian economy has performed extremely well, and perhaps the markets are sniffing out a
+slowdown that’s not in the forecasts. At least most forecasts that I’ve seen for Australia don’t
+show that its situation will become similar to that which the euro area and Japan are in now or
+toward which many people think the United Kingdom is heading. So we might be getting an
+inkling here that perhaps the market is indeed looking for a better performance prospectively in
+the United States as they are for Canada.
+CHAIRMAN GREENSPAN. Are there any risk differentials between the two-year
+swaps and the government or central bank rate? We’re looking at the shape of the yield curve.
+MR. KOS. Yes, I could have used the two-year note, but that creates a different problem
+of credit differentials among countries. So, I decided to take the two-year swap rate across all of
+
+March 18, 2003
+
+8 of 101
+
+these countries. But I think we would see the same kind of pattern—although the level would be
+different—if we used the two-year note. The numbers would be somewhat lower because of the
+differential between the two-year note and the two-year swap rate.
+CHAIRMAN GREENSPAN. Incidentally, I’ve always presumed that the GSEs could
+essentially construct whatever duration gap they wanted and that the only issue was the cost of
+doing it. Since Freddie tends to have a much narrower gap than Fannie, is it correct to presume
+that they are willing to pay the insurance premium to create that gap whereas Fannie is not?
+MR. KOS. Yes, I think that’s a good interpretation, and I believe that’s the analysis that
+most in the market have made. Interestingly though, one would have thought, that being the
+case, that Freddie would be rewarded with a higher PE in its equities, but one doesn’t see that.
+One could argue that they are being more prudent and are protecting against risk a little better,
+but that is not showing up in the way investors are assessing their equities.
+CHAIRMAN GREENSPAN. Well, aren’t there other factors that determine the size of
+the PE? I assume profitability is one. It doesn’t necessarily follow that the PE is not affected by
+the duration gap.
+MR. REINHART. The other obvious factor, Mr. Chairman, would be earnings growth.
+A willingness to run your book with a little less insurance might also be associated with efforts
+to expand the overall size of the balance sheet and to increase earnings. In fact, Fannie’s
+earnings growth has been faster than Freddie’s.
+MR. KOS. It has been faster because Fannie is willing to take more risk, which is your
+point about how much insurance a GSE is willing to take out.
+VICE CHAIRMAN MCDONOUGH. I think what is really happening is that the
+management of Freddie Mac—when one discusses this with their chairman it’s very clear— does
+
+March 18, 2003
+
+9 of 101
+
+not want to take as much risk as Fannie does. In my view, however, the market is much too
+inclined to see Fannie and Freddie as if they’re two identical companies and their PEs not being
+the same is a market imperfection. Obviously there are various factors that can affect the PEs,
+but I think it is the case that Freddie is more conservatively run and is not rewarded for it.
+CHAIRMAN GREENSPAN. So the bottom line is that that’s bad judgment on their
+part?
+VICE CHAIRMAN MCDONOUGH. I think the bottom line is that it’s good judgment
+on their part. It just shows that markets are not perfect after all.
+CHAIRMAN GREENSPAN. Governor Bernanke.
+MR. BERNANKE. Dino, my question is on the Japanese government yield curves
+shown on page 1. Would you interpret the decline in the yield curve over the last year as a
+change in inflation or deflation expectations, or is it a change in liquidity premiums as a result of
+the net supply of bonds and the demand for liquidity? Can you parse it between those two?
+MR. KOS. I think it’s very difficult to parse. If you pushed me, I would probably say
+that the market in the last year has become more inclined to think that deflation has become ever
+more entrenched. Therefore, market participants tend to feel that the risk of being badly burned
+in the near term by buying a ten-year bond is low, which I think is probably a mistake. So I’d
+say it’s probably more price expectations than the demand for liquidity, but obviously it’s a very
+difficult issue to parse.
+CHAIRMAN GREENSPAN. We do see the spread between the synthetic and the
+benchmark ten-year issues going down significantly, which suggests that liquidity is improving.
+MR. KOS. Yes, that’s an interesting point, and I’ve asked about that. One explanation
+I’m hearing is that liquidity is improving, which it probably is. The other one is that we’re not
+
+March 18, 2003
+
+10 of 101
+
+seeing much supply. Japanese corporations are still not borrowing, and investors are starved for
+yield. One can buy a lot of government paper at a return of close to zero percent. So if one can
+get some ten-year paper with a 2 percent handle, that looks pretty good—the risks
+notwithstanding.
+MR. BERNANKE. We don’t have any survey data or other information on long-term
+deflation expectations?
+MR. KOS. I don’t know of any. Karen, have you seen anything?
+MS. JOHNSON. No, nothing that would go out far enough to answer the question.
+MR. BERNANKE. Thank you.
+MR. KOS. It is interesting in one sense, though, that the curve has been pulled down.
+Interest rates are lower, and spreads have come in; yet the economy really does not seem to be
+able to respond. So it does raise the question of whether a flat yield curve produces better
+prospects for the economy.
+MR. REINHART. The other point I’d make, Governor Bernanke, is that in the indexed
+debt market in the United States, as the Chairman noted, the ten-year yield is down more than
+1½ points over that same year. So we can’t rule out the possibility that what we’re seeing is a
+shifting lower of world real interest rates.
+CHAIRMAN GREENSPAN. That’s certainly the case with the TIPS. Further questions
+for Dino? If not, Vice Chair.
+VICE CHAIRMAN MCDONOUGH. I move approval of the domestic operations, Mr.
+Chairman.
+CHAIRMAN GREENSPAN. Without objection, they are approved. We now move on
+to the staff report. Dave Stockton and Karen Johnson.
+
+March 18, 2003
+
+11 of 101
+
+MR. STOCKTON. We faced some rather considerable challenges in assembling
+this forecast—the largest one, of course, being to find a way to be helpful to you in
+setting monetary policy in a period when the probability of imminent military conflict
+with Iraq has become very high. Early last fall, the Chairman commenced one of our
+pre-FOMC briefing sessions by asking whether the Greenbook forecast was ignoring
+the elephant in the room—the elephant being the potential for war. We responded
+that we were well aware of that possibility. But we believed that a forecast
+constructed to take explicit account of military conflict would focus attention on areas
+about which we knew very little and would distract us from providing you with our
+interpretation of incoming data and the underlying forces operating on the economy.
+Still, we recognized then that, by incorporating developments in oil futures and
+financial markets, our forecast was, in effect, reflecting the evolving likelihood of
+military action in Iraq.
+Well, in this forecast, the room has become very small and the elephant very
+large. As you know, we opted for an approach that we think preserves maximum
+continuity with recent forecasts. We have continued to take on board the path of oil
+prices implied by futures markets, current readings in financial markets, and recent
+measures of consumer sentiment. These indicators, of course, embody a probabilityweighted average of a wide range of possible outcomes, reflecting the collective
+judgment of market participants and survey respondents. At this point, it seems safe
+to presume that they place a very substantial weight on an imminent war. As events
+unfold in the coming days and weeks, readings on many variables conditioning our
+baseline forecast will shift, as outcomes currently embodied in that probabilityweighted distribution become more or less likely. Oil prices, equity values, and
+sentiment are almost certainly going to deviate—perhaps substantially—from the
+paths assumed in the forecast. We attempted to give you a sense in the Greenbook of
+those factors on which we will be most focused and some rough quantitative
+assessment of the sensitivity of the forecast to movements in those variables.
+At this point, you probably need little convincing that we don’t know what will
+happen in the weeks ahead with respect to conflict with Iraq or its economic
+consequences. But, you may reasonably ask, what are the economic data and
+financial market developments of the past seven weeks telling us about the underlying
+condition of the U.S. economy as we head into this critical period? If anyone’s hopes
+have risen momentarily that I will answer that question clearly, let me admit up front
+that I cannot. A quick look at the top line of our forecast might suggest that we have
+learned a great deal about the economy and that what we’ve learned has been
+decidedly negative. After all, we’ve revised down projected growth in the first half of
+this year to about 2¼ percent at an annual rate, about ½ percentage point less than in
+our January forecast. But in point of fact, owing to an upward revision to growth in
+the fourth quarter of last year, the level of real GDP is actually higher, on average, in
+the first half of this year than in our last forecast. One of the key surprises in the
+incoming data was that inventories were not as lean in the fourth quarter of last year
+as we had thought. Higher inventory investment accounts for all the 1¼ percentage
+point upward adjustment to the growth of real GDP last quarter; final sales were
+
+March 18, 2003
+
+12 of 101
+
+about unrevised. With that stockbuilding already behind us, we see less upward
+impetus to activity from this source in the first half of this year. Indeed, a smaller
+contribution from non-auto inventories more than accounts for the downward revision
+that we have made to our projection of activity in the first half of this year.
+The recent data on spending, labor markets, and production have presented the
+usual mixed bag. For the most part, the strength in spending that was apparent late
+last year carried into January. To be sure, sales of new motor vehicles in January
+dropped off from the very high level observed in December, but other consumer
+outlays advanced at a rapid clip. Housing activity—both sales and construction—
+jumped to very high levels, aided by good weather and very favorable financing
+conditions. In the business sector, orders and shipments of capital goods in January
+exceeded our expectations, with spending for high-tech equipment posting an
+especially sharp rise. But the picture in February and into March was not nearly so
+bright. Motor vehicle sales posted another steep decline last month. Snowstorms in
+the East evidently clobbered sales in late February, but reports for early March
+suggest that there has been only a modest bounceback so far. Faced with sagging
+sales and mounting inventories, vehicle makers have announced significant cutbacks
+in production in the second quarter—a sign that they, too, are concerned about some
+underlying weakness in demand. Retail sales apart from motor vehicles declined last
+month as well, and this morning’s housing starts release—which showed singlefamily starts off nearly 14 percent, to 1.3 million units in February—can be added to
+the list of downbeat indicators for that month.
+Readings on the labor market and industrial activity also worsened in February
+and have shown little sign of improvement this month. We were especially struck by
+the widespread weakness implied by last month’s labor market report. Private
+payrolls contracted by 321,000 in February. No doubt, bad weather contributed to the
+declines in construction employment, and the call-up of reservists likely crimped
+payrolls more broadly. But try as we might, we could find no silver lining in
+February’s employment situation. Our January forecast was built on the assumption
+that employment would be about flat early this year; instead, job losses have averaged
+about 100,000 over the past three months. Industrial production is also coming in
+below our earlier expectations. Declines late last year now look to be larger than
+previously estimated, and factory output is expected to eke out a much smaller gain
+this quarter than we had projected in January. Although the declines in production
+witnessed last fall seem to have abated, there appears to be little upward momentum
+to manufacturing activity. That view is supported by the available purchasing
+surveys, which have recently retraced earlier gains.
+It is, of course, exceedingly difficult, if not impossible, to determine whether this
+most recent softening in the data reflects underlying weakness in the economy or the
+intensifying effects of war-related fears and uncertainties. Virtually all our major
+economic indicators at this point could be directly or indirectly influenced by actions
+or expectations related to the possibility of war. Is consumer confidence low because
+of higher war-related energy prices or because the labor market is so soft? Is the
+
+March 18, 2003
+
+13 of 101
+
+labor market soft because firms are hesitant to hire in advance of an imminent war or
+because product demand is weak? I don’t know of any way to confidently break into
+that argument. Moreover, I don’t think this is a signal extraction problem faced
+solely by the staff and other economic forecasters. I seriously doubt that households
+and businesses can reliably disentangle underlying economic trends from effects
+related to possible military conflict. Suffice it to say that, whatever the fundamental
+causes, the staff sees the economy on a somewhat shallower trajectory than we had
+earlier expected.
+Moreover, a number of other factors led us to mark down a bit our projected
+growth of real GDP over the next year and a half. For one, stock prices at the close of
+the Greenbook were about 10 percent below those anticipated in our previous
+forecast, and we lowered our projected path by a similar amount. The effect of lower
+equity prices was only partly offset by the accompanying downward revision that we
+have made to long-term interest rates. I should note, however, that the rise in equity
+markets since we closed the forecast, if sustained, would, all else being equal, lead us
+to add back in much of the final demand we had taken out of the forecast. Higher
+current and projected oil prices, especially over the next few quarters, are expected to
+take a larger bite out of household incomes than in the January projection. Perhaps
+reflecting to some extent higher energy prices, consumer sentiment has weakened
+noticeably since the end of last year. Consumers’ views of their own financial
+conditions, broader business conditions, buying conditions, and the labor market
+situation have all deteriorated noticeably in recent months. Sentiment has dropped by
+more than can be explained by macroeconomic conditions, and in the forecast we
+expect this unusual weakness in household attitudes and their effect on consumption
+to fade only gradually over the next year and a half.
+Not all of the key forces operating on the economy have been negative. Fiscal
+policy, in particular, is providing more upward stimulus to activity than in our
+previous projection. We have defense spending ramping up more sharply in this
+forecast compared with the last. We have added about $20 billion to projected
+defense spending in both 2003 and 2004. Separately, we have retained the package of
+tax cuts assumed in the January forecast, though we have delayed its projected
+implementation to the third quarter of this year. Meanwhile, tax receipts have been
+coming in much lower than we had expected, largely reflecting another year of
+unexpectedly large refunds. Smaller tax payments are providing a noticeable buffer
+against weaker labor income in this forecast and help to sustain the projected growth
+in consumer spending.
+Despite the small net downward revision that we have made to the projection, we
+continue to expect a gradual acceleration of activity in the second half of this year and
+into 2004 for reasons that will sound quite familiar to you. Stimulative monetary and
+fiscal policy contribute to the pickup, as does a gradual diminishment of the drag
+from earlier declines in the stock market. Productivity growth shows no signs of
+flagging and should feed gains in both household incomes and corporate profits.
+Finally, we expect the unusual restraint on household and business spending, which
+
+March 18, 2003
+
+14 of 101
+
+we are attributing in part to pessimism and uncertainty, to fade over the projection
+interval. As has been the case for some time, this feature of the forecast must be
+considered more art than science. Even as art, I’ll admit it’s closer to Jackson Pollock
+than to Rembrandt. [Laughter] With slack in resource utilization persisting
+throughout the forecast period, core inflation is expected to recede modestly in 2003
+and 2004. Indeed, core PCE price inflation drops to 1 percent in the second half of
+next year.
+In working on this forecast, we—perhaps like many others in the economy—have
+felt as if we were biding our time, waiting for events to unfold and the situation to
+clarify itself. But how much clarification of economic circumstances can be
+expected? Certainly, a quick and successful resolution of the conflict with Iraq could
+be followed by a sharp decline in oil prices and a jump in equity values. Household
+and business sentiment could improve swiftly and persistently. With just a short lag,
+some high-frequency readings on the economy might provide evidence of followthrough to the real economy; initial claims, chain store sales, and reports from
+automakers would provide the early evidence on that score. With luck, those
+readings would be confirmed by broader monthly measures of spending, production,
+and labor market conditions. While it is less pleasant to contemplate, circumstances
+could clearly indicate a much less favorable outcome. The use of weapons of mass
+destruction, substantial damage to the oil fields, or slow military progress could result
+in sizable adverse reactions in oil and financial markets and a further souring of
+sentiment. The consequences of these developments could be reflected clearly in the
+flow of data on the real economy. In either event, a significant narrowing of
+uncertainties would allow us to get a much better fix on macroeconomic conditions
+and provide you with clearer direction on the appropriate setting of monetary policy.
+But a third possibility seems eminently plausible—namely, that there will not be
+in the months immediately ahead a dramatic shrinkage in the uncertainty surrounding
+underlying economic conditions. There are a number of reasons for suspecting that
+this might be the case. Under the best of circumstances, financial markets will be
+volatile, and the data on the economy will be both noisy and often available with only
+a frustrating lag. It could take months to detect the economic consequences of the
+events that will unfold in the period ahead. Moreover, the best of circumstances may
+not present themselves. Even if the military situation concludes as quickly and
+successfully as it did in 1991, broader geopolitical risks may linger in a way that they
+did not after the earlier Gulf War. The threat of terrorist responses may not decline
+and could conceivably increase even in the wake of a successful military campaign.
+As a consequence, the current hesitance to spend and hire may not diminish rapidly.
+Moreover, there have been additional sources of geopolitical tension in recent
+months—North Korea and Iran, to name just two. We will need to be watchful of
+euphoric reactions in financial markets and among households and businesses. Those
+initial readings may signal a more vigorous rebound from recent doldrums, but that
+enthusiasm could prove unjustified over time by the underlying fundamentals. If so,
+the favorable initial reaction signaled by asset prices and sentiment would fade.
+
+March 18, 2003
+
+15 of 101
+
+Finally, there could be a real economic bounce following the successful
+conclusion of a war. Some firms might act on spending and hiring plans that were
+delayed by war fears. Households, too, may boost spending that had been deferred by
+worries about war and the accompanying high levels of prices for gasoline and
+heating fuel. Witnessing such a rebound, however, will provide no assurance that the
+economy is moving onto a more persistently vigorous growth path. If the underlying
+health of the economy remains lackluster, a temporary period of above-trend growth
+could give way, yet again, to subpar performance. In effect, circumstances might be
+similar to a year ago. As the worst case scenarios following the attacks of September
+11 failed to materialize, we saw a rapid acceleration of activity that could not be
+sustained by the underlying condition of the economy. I don’t want to exaggerate in
+either direction here. Clearly, we’re likely to know a great deal more than we do now
+should a swift and successful military action be completed in the period ahead. But I
+suspect that, even in those circumstances, you will see only a partial lifting of the fog
+of uncertainty that currently shrouds the economic outlook. Karen Johnson will now
+continue our presentation.
+MS. JOHNSON. In putting together the baseline forecast for the rest of the
+world, the staff in the International Finance Division grappled with the same issues
+that confronted those forecasting the domestic economy, but spread over a wide range
+of countries. With the outbreak of war perceived by many to be likely and soon, a
+host of indicators and market variables abroad implicitly reflect the weighted average
+of market expectations as to the timing of the onset of hostilities and the implications
+of subsequent events for economic activity around the globe. Of course these
+variables also reflect developments in the underlying economic fundamentals, which
+no doubt have changed somewhat since we prepared the January forecast.
+The clearest instance in which market expectations have provided answers to
+critical questions that we otherwise were at a loss to answer is the assumed path for
+oil prices in the forecast. As in the past, we have incorporated into the baseline
+forecast the futures path for crude oil as observed in the market at the time the
+Greenbook forecast was being finalized. That path starts with the price for West
+Texas intermediate at an average value of $35.23 for the current quarter and has it
+dropping more than $5.50 by the end of this year and nearly another $5.00 dollars by
+the end of next year. Although some volatility in oil prices in the very short run is to
+be expected, a sizable decline in global crude oil prices from current levels, starting
+by midyear, is an essential factor in our baseline forecast for global growth. That
+forecast has some continued near-term weakness giving way to growth at an annual
+rate of about 3 percent on average in the second half of this year and 3½ percent next
+year. The implications of less favorable developments with respect to oil prices vary
+somewhat, depending on how long the price of oil remains elevated and whether a
+given country is an oil exporter or importer. We reviewed the staff model’s
+assessment of the effects of some alternatives in January during the chart show. A
+sharp spike up in oil prices that persists for two quarters, what we termed the limited
+embargo case, by itself implies negative effects this year on GDP growth in the major
+foreign economies that range from negligible to a reduction of ¾ percentage point.
+
+March 18, 2003
+
+16 of 101
+
+Alternatively, oil prices could fall further or faster than implied in the futures curve,
+with positive effects on growth.
+A second major factor underlying the forecast is the state of business and
+consumer confidence that is incorporated in the forecast, but we cannot quantify these
+variables in the way that we can for oil prices. In recent weeks, confidence has
+reacted both to the changing prospects of the onset of war and to news about
+economic fundamentals. As we reported in the Greenbook, consumer confidence
+surveys have moved down further recently, particularly in Europe. We are also
+looking for very sluggish or declining domestic demand in the euro area and Japan
+during the first quarter. Nonetheless, our projection for an acceleration of activity
+abroad over the forecast period includes a strengthening in domestic demand in many
+countries that, in turn, is consistent with a moderate and sustained improvement in
+confidence. A quick and pronounced move in confidence in either direction,
+triggered by geopolitical events, could produce a significant deviation from our
+baseline outlook. Sharply higher oil prices could well combine with a fall in
+confidence. The version of such joint developments that I included in the January
+chart show implied reductions in growth rates of 1 to 2 percentage points in the
+foreign industrial countries this year. A positive bounce in sentiment abroad is a clear
+upside risk to our forecast, and foreign real GDP has considerable scope in most
+countries to grow faster without threatening capacity constraints or heightening price
+pressures.
+We have incorporated specific assumptions about monetary policy actions in the
+foreign industrial countries, which support the recovery of economic activity in our
+baseline view and are broadly consistent with market expectations for rates. We
+expect that the ECB will lower its official rates another 50 basis points by midyear, as
+falling oil prices, considerable slack in the economy, and strength in the exchange
+value of the euro contribute to improvements in inflation performance. We have
+assumed that the Bank of England will move rates down another 25 basis points later
+this year as U.K. inflation also diminishes. In contrast, we see the Bank of Canada
+keeping its official rate at its present level through the end of this year, as the
+Canadian economy remains near potential and inflation declines from elevated rates
+thanks to lower oil prices and some exchange rate appreciation.
+Should developments surprise us and the markets and the outlook for activity
+diverge from our baseline, there is some scope for monetary policy abroad to react.
+Clearly, lower oil prices, stronger confidence, and more-positive prospects for growth
+would imply stronger activity. Such a development might result in the major foreign
+central banks choosing not to ease further. On the downside, persistently high oil
+prices, even weaker confidence, and reduced growth prospects might elicit immediate
+easing and more cumulative easing than we now assume. With rates now at
+2.5 percent or higher in the euro area, the United Kingdom, and Canada, the central
+banks in these economies do have some room for maneuver on the downside. The
+Bank of Japan, which we assume will keep rates at essentially zero throughout the
+forecast period, has been caught up in the problems posed by the zero bound for some
+
+March 18, 2003
+
+17 of 101
+
+time. The Swiss National Bank has recently reduced its target rate nearly to zero, so
+it has little room to ease further using that tool.
+Our crystal ball is least able to help us anticipate the reaction of the foreign
+exchange value of the dollar to coming events—a circumstance in which we often
+find ourselves. In the days just before the Greenbook forecast was completed, the
+dollar reacted to downward pressure that appeared to relate, in part, to heightened
+risks for war in the near term. We reacted to market developments by adjusting down
+slightly our path for the real weighted-average broad dollar index. Since Greenbook
+day, however, the nominal dollar has rebounded somewhat—with the broad index
+rising more than ½ percent in nominal terms, apparently on news that action in Iraq is
+imminent. I hesitate even to offer a guess as to which way the dollar will move in
+reaction to future good news or bad news on events in Iraq. To the extent that the
+dollar turns out stronger than we have projected, exports will be restrained and
+imports encouraged. However, these partial effects could be offset by effects on
+exports and imports from growth outcomes here and abroad that differ from the
+baseline.
+We received data for the U.S. balance of payments in the fourth quarter after the
+Greenbook was completed. Those data confirm that the ex post components of the
+financing of our current account deficit shifted during 2002. Private foreign net
+purchases of U.S. securities slowed from their record pace in 2001, and foreign direct
+investment inflows fell sharply. These smaller private inflows were offset by a drop
+to zero in the appetite of U.S. investors for foreign securities. Balancing these
+changes and the larger current account deficit was a sizable increase in foreign
+official acquisition of dollar assets. These shifts reinforce in our minds the judgment
+that market participants are unlikely to be willing to continue to add indefinitely to
+their claims on the United States at current exchange rates. So we continue to put
+into the forecast a slight downward tilt to the path for the real exchange value of the
+dollar. However, we recognize that over the forecast period the dollar could in fact
+rise at times, and even on balance, as the host of geopolitical and economic risks now
+present in the global economy are resolved.
+My final observation is that the projected recovery in U.S. output growth remains
+among the most important factors underlying our baseline forecast for growth abroad.
+We see various idiosyncratic economic fundamental factors in the individual foreign
+economies as shaping our outlook and as conditioning the reaction abroad to nearterm geopolitical events. Nevertheless, any developments that would significantly
+change the outlook for U.S. economic activity would have major repercussions
+abroad. David and I will gladly try to answer your questions.
+CHAIRMAN GREENSPAN. Questions for our colleagues? President Broaddus.
+MR. BROADDUS. I had a question, Mr. Chairman. But first I wanted to thank Karen
+very much for the memo she sent out a couple of weeks ago. That was very helpful to me in
+
+March 18, 2003
+
+18 of 101
+
+understanding some of the obstacles to adjustment overseas in particular, and it related to some
+of the things you just said. My question, Dave, is about the tax cut assumption. I don’t know
+what it means to say “other things being equal” these days, but you retained the assumption that
+the tax cut will be passed. My sense is that the probability that it will not be enacted, or that it
+will be pared down significantly, has risen recently. I just wondered what that might imply for
+your forecast.
+MR. STOCKTON. Obviously that remains a political forecast, and it’s an assumption
+that I can’t say we hold with enormous conviction. I would point out that the magnitude of the
+tax cut that we have built into this forecast is close to the figures around which the moderates in
+the House and Senate are coalescing. That doesn’t necessarily add to its credibility; it merely
+indicates that it is a magnitude that is still being discussed actively. I would point out that we
+had built in a sizable fiscal stimulus package in December 2001, when the prospects for the
+economy looked quite bleak. We took that out of our projection in January of last year, when the
+political bubbling around that type of package had simmered down significantly. Then within
+three weeks the Congress passed a stimulus package that was almost exactly what we had
+projected originally. So it’s awfully hard to know what will happen on the fiscal side. I’m not
+even sure how the progress of the war would add to or subtract from the probability that the
+package would be implemented. I can see arguments on either side.
+Now, in terms of its consequences for the projection, it’s a noticeable plus to disposable
+income and therefore helps to sustain the growth in consumer spending. So it plays a very
+important role in the second half pickup that we’re projecting. If we were to take that out of the
+forecast, we would probably still be showing some underlying acceleration in activity, in part
+because of these other imponderables such as an overall improvement in household and business
+
+March 18, 2003
+
+19 of 101
+
+sentiment. But economic growth would be slower than in this forecast. I do think it’s an
+important factor in supporting disposable income in the projection.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. Dave, a common theme of many forecasts is that a gradual slowing of
+consumer spending, especially for durables and residential investment, will be more than offset
+by a pickup in business investment. Somewhat in contrast to that, the Greenbook forecasts
+considerable strength in spending for durables and for residential investment. As a matter of
+fact, such spending accelerates in the second half of the year, and expenditures for durable goods
+grow 8 percent in 2004 with market rates, on Treasuries in particular, rising. I was wondering if
+you could comment on why the projection shows that strength and if you think it might be fairly
+optimistic.
+MR. STOCKTON. There are a few reasons that we think that by 2004 we will see
+reasonably robust gains in consumer durable spending. One is the overall interest rate
+environment in this forecast, which I think is generally more favorable than in the consensus
+forecast. We have built in no increase in the federal funds rate through the end of 2004 and we
+have—
+MR. PARRY. There is a mention of an increase in Treasury rates.
+MR. STOCKTON. There’s a little drifting up in Treasury rates, which is offset in our
+view by a compression of private spreads as the overall economy improves. Two, we’re
+expecting the relative price of durable goods to continue to decline and to decline quite rapidly.
+In essence, we think the user cost of purchasing those goods will be relatively low. Three, it’s
+also a reflection of our estimate for potential output growth, which is still obviously to the high
+side of the consensus forecast. I think that helps to sustain overall growth in household incomes
+
+March 18, 2003
+
+20 of 101
+
+as well as in corporate profits and therefore provides some boost. So we believe there are logical
+fundamentals for why consumer durables spending should increase. I must say on the housing
+side that we also have very favorable mortgage interest rates. That could be a little on the
+optimistic side in light of this morning’s data release and a few readings recently of just a bit
+more softness there. I’m not so sure, had we had all of that information before we did our
+forecast, that we would have been quite so optimistic on the housing investment side.
+MR. PARRY. Thank you.
+CHAIRMAN GREENSPAN. President Hoenig.
+MR. HOENIG. Dave, let me ask a question about the structural labor productivity chart.
+In your forecast, the contribution from capital deepening stays relatively low going forward, and
+yet the multifactor productivity numbers remain fairly strong. You also talked about the slump
+in investment spending. What is your thinking on the multifactor aspects of productivity and
+why it will stay so strong as we go forward?
+MR. STOCKTON. Our basic thinking has been that one needs to resort to a supposition
+of reasonably strong multifactor productivity to explain the incredible strength in labor
+productivity that we’ve had over the past two years. If anything, our straightforward statistical
+filtering models would want to put in more multifactor productivity growth than we’ve written
+down in this forecast. Now, obviously this involves some fairly big risks. Maybe this
+productivity improvement in the last year and a half will turn out to have been, in essence, some
+significant cyclical rise in productivity, as firms are squeezing harder on their productive
+facilities and on their workers to eke out more productivity gains. As you know, in the initial
+phase of this more recent acceleration of productivity, that was generally the story that we
+bought into. But we’ve been beaten down by the data quarter after quarter, suggesting that we
+
+March 18, 2003
+
+21 of 101
+
+have to give a little weight in this forecast—and we have—to the possibility that multifactor
+productivity has continued to improve. We have it at roughly 1½ percentage points, which by
+the historical standards of the past 100 years is not an especially large figure.
+MR. HOENIG. The only reason I was asking is that, with a holding back in investment
+and therefore limited gains from new technology, I wondered whether we can continue to harvest
+that. I don’t disagree with you because it’s hard to explain otherwise.
+MR. STOCKTON. I think you’re right, though. Obviously, if whatever is holding back
+investment spending were to persist longer than we have projected in this forecast, it would be
+harder in some sense to embody technological improvements going forward. That could have
+some follow-through effects on multifactor productivity as well.
+MR. HOENIG. Thank you.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. Thank you, Mr. Chairman. I thought Dave and Karen did a fabulous
+job, both in the written material and in the presentation, of covering in effect the entire
+waterfront of risks and possibilities to consider as we sit here and try to determine how this
+situation is going to turn out. I know I was impressed by the complexities involved in trying to
+do it over the past couple of weeks. You certainly have indicated how varied the possibilities are
+and how great the risks are—perhaps on both sides. That brings me to the question I would like
+to pose.
+Looking just at the Greenbook baseline forecast, absent the alternative simulations and
+absent the really interesting discussion of ups and downs and ins and outs of oil prices and
+whatnot, it seems to me that one would have to say—though I know you won’t say this—
+[laughter] that the risks almost have to be on the downside of the Greenbook projection.
+
+March 18, 2003
+
+22 of 101
+
+Everything has to go very well for that forecast to work out. The war has to be short, and it has
+to be relatively cheap. Consumers and businesses have to leap right back into the saddle. Even
+if everything works out so well that this forecast does materialize, then we still have a good deal
+of excess capacity lingering on through 2004. Aren’t the risks on the downside?
+MR. STOCKTON. Well, you’re right that I’m not going to concede that point
+immediately. [Laughter] In fact, one of the things that we did in preparation for this forecast
+was to look at some of what we call good case and bad case scenarios. As you know, our
+forecast is not based on all the good things that would necessarily follow from a quick resolution
+of the conflict because the probability distribution that the forecast is predicated upon includes
+some negative outcomes. So suppose in the next few weeks we do have a swift and successful
+completion of the military campaign. Oil prices could tumble and perhaps tumble considerably
+in the near term—and even in the longer term based on what the futures markets are currently
+expecting. We could get a much sharper and more immediate snapback in consumer and
+business confidence. We have built in a gradual rebound in confidence. In the case of
+households, the hit on confidence that we’ve seen doesn’t erode until sometime next year, and on
+the business spending side that does not occur until the end of this year. Suppose that happened
+more immediately. One could easily envision—maybe we’ve already seen it to some extent—a
+pop in equity markets and some of the risks that were weighing on markets going away. We fed
+those types of assumptions into the model, and it was easy to get an extra percentage point on
+GDP by the end of 2004 and ½ percentage point less on the unemployment rate. So I think there
+is a probability mass on the upside.
+Now, there are some obvious and rather significant risks to the downside as well, and I
+hope I hinted at them in my remarks. Certainly, one could envision all sorts of bad outcomes in
+
+March 18, 2003
+
+23 of 101
+
+Iraq. But even putting aside those risks, a chunk of this forecast relies on an improvement in
+investment spending—essentially whatever has been depressing investment spending goes away.
+There is not a lot of science one can bring to bear on that, so there are downside risks associated
+with that forecast. We saw a pattern of strength around the turn of the year followed by
+weakness, but it is hard to do a signal extraction from that. The recent data have been quite soft,
+and we see nothing yet in the data that hints at the acceleration in activity that we’re forecasting.
+It looks to us as if the economy is just continuing to move along at this subpar baseline rate of
+growth, but we don’t see many signs that things are falling apart either. So if you were hoping to
+pin some of our forecast on developments that we actually are able to put our fingers on, we
+can’t do that. It still involves more forecast than anything apparent in the direct economic
+readings.
+MS. MINEHAN. Thank you.
+CHAIRMAN GREENSPAN. President Moskow.
+MR. MOSKOW. Thank you, Mr. Chairman. I had a question for David also on the risks
+to the forecast. I notice that in your forecast the personal saving rate increases and then flattens
+out during 2004. Historically, the saving rate is a couple of percentage points higher than that
+rate. I had two questions on this. First, is that where you would expect it to settle on a longerterm basis? Second, how serious is the risk to the forecast that the saving rate will actually be
+higher during this period?
+MR. STOCKTON. Our best guess is that we still have a little way to go on the saving
+rate, but not a lot further, in response to the deterioration that has occurred in household balance
+sheets. We have models that put the saving rate anywhere between 5 and 7 percent in the long
+run, but I think somewhere around 6 percent or just north of that is probably the right territory.
+
+March 18, 2003
+
+24 of 101
+
+The question is how do we get there? Second, could we get there more rapidly than we have
+projected? Obviously, the answer to the second question is “yes, we could.” But I do not see
+that as much of a concern. Households have been subjected to a number of very significant
+shocks over the last couple of years—the substantial decline in the stock market, the recession,
+and the terrorist attacks—and none of them seemed to result in a pullback on the spending side, a
+big increase in precautionary saving. The combination of all of those developments didn’t seem
+to produce an unusual jump in the saving rate. Given the uncertainty that people are facing in
+the events ahead of us, maybe we will see a pickup in the saving rate. But I don’t quite see that
+happening exogenously. In many respects I’d say that consumption has followed our model
+quite closely, which suggests a considerable lag in the adjustment of household spending to
+deterioration in consumer balance sheets. So I think it’s a risk but not one that I’d put at the top
+of the list of risks that we’re facing. But obviously, going forward, one could picture events that
+could engender the kind of fear or concern on the part of households that could produce a higher
+rate of precautionary saving. That matters a lot in our forecast. If we were to get a significant
+step-up in the saving rate relative to our baseline forecast, that would weigh very heavily on the
+outlook going forward.
+MR. MOSKOW. Thank you.
+CHAIRMAN GREENSPAN. President Poole.
+MR. POOLE. I have a brief comment on that. There are a lot of news reports about
+companies canceling their contributions to 401(k) plans as an economy move. That might lead
+individuals to reduce their contributions, which would tend to bring the saving rate down. I
+don’t know how extensive that is, but we certainly hear reports that many companies are moving
+in that direction now.
+
+March 18, 2003
+
+25 of 101
+
+MR. STOCKTON. We’ve heard those reports as well. I’m not quite sure how that
+would net out or quantitatively how significant it would be at this point.
+CHAIRMAN GREENSPAN. If nobody else has questions or comments, who would like
+to start the discussion? President Broaddus.
+MR. BROADDUS. Thank you, Mr. Chairman. For a while in January it looked as if
+activity was strengthening moderately in our region, especially in the manufacturing sector. That
+made us something of an outlier in the commentary in the Beige Book, but we fell back in line in
+February. Our monthly index from our survey of the manufacturing and service sectors dropped
+sharply for the most part last month. Some of that obviously was related to the heightened war
+anxiety and concern about rising gasoline prices. The severe weather in February, particularly
+around the Presidents’ Day weekend, hit our District especially hard and clearly played a
+significant role in the apparent softening. That is good news, I guess, if it suggests that at least
+some of the softening was transitory rather than persistent. Unemployment rates were below the
+national level in several of our District states, but the rate in North Carolina, which is our largest
+state, was at almost 7 percent in December—the latest month for which we have data—because
+of the weakness in manufacturing there.
+Not all of the news in our District is bad. There have been a few fairly substantial plant
+expansions in our region, indicating at least some increase in business spending. As for housing
+activity, the national report for this past month was weak. I don’t recall what the regional profile
+was in that report, but we don’t see any significant weakening in housing activity in our District.
+Also, let me mention one particular bright spot in the manufacturing sector. The Fifth District is
+one of the world’s leading producers, if not the leading producer, of duct tape. [Laughter] That
+industry is doing very well, thank you. We gained our duct tape prominence because the original
+
+March 18, 2003
+
+26 of 101
+
+fiber used to give the tape strength was cotton. Jack Guynn’s people grew it, and we
+manufactured it. So that’s a little Southern economic history lesson for you this morning at no
+charge!
+Turning to the national economy, I would describe the Greenbook forecast as easy to
+love, all things considered, and I hope we get something that’s at least in the neighborhood of it.
+The question, of course—there are a lot of questions, but this a key one—is whether we can
+reasonably expect such a relatively favorable outcome with the funds rate at a sustained
+1¼ percent level, as is assumed in the baseline forecast. Obviously, no one knows the answer to
+that in the current highly uncertain situation but my own view is that the Greenbook forecast is
+plausible. Clearly, the economy is struggling currently under the weight of all the uncertainty,
+and the downside risks are obviously material. Nevertheless, in some contrast to my neighbor
+Cathy here, I think it’s easy to exaggerate both the current weakness and the downside risks in
+the outlook, considerable though they are. I certainly recognize that they are considerable. As
+the Greenbook points out, a persistent increase in oil prices could lead to a significant slowing in
+economy activity. But as we’ve said already this morning, futures markets are not expecting
+that. If we don’t get a persistent increase in oil prices, I think that significantly reduces the
+likelihood that the most recent weakness in labor markets and retail sales will cumulate and
+worsen. Moreover, looking through the recent data, the prospect of continued robust trend
+productivity growth should eventually produce some revival of investment and should support
+commensurate growth in household spending. The stimulative monetary and fiscal policies that
+are already in place both support the adjustment process. We’re already seeing at least some
+revival of investment in some sections of the tech sector.
+
+March 18, 2003
+
+27 of 101
+
+Finally, our credibility for low inflation means that neither rising actual inflation nor
+rising inflation expectations pose much of a risk for the recovery. So I think we have a solid
+underlying base for recovery. To be sure, we may experience some sort of disinflation if the
+economy continues to adjust to the higher trend productivity growth. That could pose some
+complications in the transition, and I think we need to monitor that carefully. Outright deflation
+doesn’t appear to be a strong threat at this point. But I continue to think that this Committee
+should be prepared to deal with the risk of deflation if unfavorable developments such as a
+protracted war in Iraq or some negative shock or succession of negative shocks—like a series of
+terrorist attacks, for example—force us closer to the zero bound. I’d like to come back to that
+later for just about a minute when we have our policy go-around.
+CHAIRMAN GREENSPAN. Vice Chair.
+VICE CHAIRMAN MCDONOUGH. Thank you, Mr. Chairman. Our views regarding
+the Second District, the national economy, and the international economy are all clouded by
+uncertainties. So rather than sharing our confusion about those three subjects, I’d like to talk
+about the uncertainty. What we do not know is the degree to which that uncertainty is really
+geopolitical. As for a war against Iraq, the near certainty of quick military victory and the
+aftermath of a more stable Middle East are the very positive hopes. Unfortunately, the more
+conversations I have with people who know about the Middle East, the less certain they are of a
+stable aftermath. I think it is almost certain that we’ll be very successful militarily. However,
+there is not a single neighboring country of Iraq that can be deemed to be stable, so the shock of
+a military attack against their neighbor could bring about very uncertain consequences either
+sooner or later. Therefore, I believe that the geopolitical uncertainty is likely to remain.
+
+March 18, 2003
+
+28 of 101
+
+In my view, a considerable amount of the uncertainty voiced by American business
+leaders in the name of geopolitics is in fact a cover story for their concern about the direction of
+the economy. They are not certain whether the consumer will hang in there as we hope he will.
+They aren’t certain whether it is a good idea to make the business fixed investment decisions that
+our forecasts call for. The effect on them of the Enron/Arthur Andersen/WorldCom debacles is
+that it is much easier to avoid making decisions than to make them. If you as a business
+executive make a decision, even if you happen to be right, the board of directors or shareholders
+may deem you to be excessively risk oriented. If you make a decision and it turns out to be
+wrong, those very same directors and shareholders can punish you severely. On the other hand,
+if you do nothing, you appear to be studious and virtuous. Now, no economy can prosper and no
+business can prosper if that degree of caution continues for any extended period of time. But it
+doesn’t have to continue for very long to make the downside of our forecast turn out to be likely.
+One thing that I think could militate against that is if the war is very successful very
+quickly, as I think it will be, and if the adverse geopolitical aftermath is later rather than soon and
+therefore the situation looks very good for a while. Then I think our President, with his rather
+remarkable leadership skills, could turn those skills to the economy, and we could see a burst of
+confidence stemming from the notion that somebody is really in charge. If you’ve been in
+charge and have just won a war, that shows formidable leadership. I think that could well
+happen, and obviously by mentioning it, I rather hope it does.
+In the midst of all this uncertainty what does a prudent central banker do? It seems to me
+that a prudent central banker thinks a lot, does nothing, talks as little as possible, and makes it
+very clear that the central bank is very attentive and ready to take action when and if required.
+Thank you.
+
+March 18, 2003
+
+29 of 101
+
+CHAIRMAN GREENSPAN. President Hoenig.
+MR. HOENIG. Mr. Chairman, economic activity in the Tenth District, as in other
+regions, remains basically sluggish, though we have had a few signs of improvement on mixed
+data since the last meeting. Retail sales have increased only slightly from the disappointing
+holiday season, and commercial real estate is still mired in a very deep slump in our area. On the
+positive side, though, manufacturing activity actually has strengthened a little since the last
+meeting, and energy activity has picked up noticeably. Housing continues to provide support to
+District activity, with solid sales of low-end homes making up for some slump in the high-end
+part of that market. On the inflation front, wage and price pressures obviously remain pretty well
+subdued.
+In speaking with our directors and with a lot of business people throughout our District, I
+consistently hear that businesses are reluctant to commit to new spending and hiring until the
+uncertainty of the current situation with Iraq is resolved. This wait-and-see attitude also
+describes consumer sentiment more and more as it relates to new spending. However, not to
+overstate this uncertainty factor, I would also note that in Colorado, for example, attitudes are
+distinctively pessimistic and very much unrelated to the war. Many people in that state see very
+strong parallels between now and the slump that they went through in the 1980s, with a lot of
+excess capacity and a lot of pessimism in play.
+Let me talk a little more about manufacturing activity because it actually showed some
+improvement on balance in February. Production and shipments rose above year-ago levels, and
+new orders registered a fairly large increase—in fact one of the largest since early 2000. Firms
+continue to express optimism about production and sales over the next six months once we get
+through some of this immediate geopolitical uncertainty. However, employment and capital
+
+March 18, 2003
+
+30 of 101
+
+spending has remained well below year-ago levels, and firms are keeping their inventories low in
+case the higher sales they expect do not materialize. In our survey about attitudes among
+manufacturers, it is a fact that as they look forward they are more optimistic, as they feel they
+can get through this immediate crisis. So I think there is that element. But, again, I go back to
+Colorado as evidence that other factors are operating as well.
+Let me talk very quickly about the farm economy, which is actually expected to
+strengthen in 2003. Farm income in terms of cash receipts is expected to improve, and farmers
+also are going to continue to receive government payments. Commodity prices could fluctuate,
+though, because we continue to have a fairly severe drought in the central and western plains of
+our region, which is bringing a lot of its own uncertainty in the agricultural production sector.
+Let me turn to the national scene. The broad contours of our economic outlook have
+changed little since the last meeting. We still expect near-term weakness and medium-term
+strength. Like the Greenbook, we expect growth to be about 2½ percent in the first half and then
+to increase to 4 percent as we move forward, recognizing that the error bands around that kind of
+forecast are fairly large. But the reason is—and I don’t think we should lose sight of it—that
+monetary policy is still stimulative, fiscal policy is stimulative and could become more so, and
+we have financial market conditions and a banking industry that are generally able to be
+supportive of an expansion.
+The factors behind the near-term weakness remain the same as at our last meeting. Oil
+prices and geopolitical risks have fostered near-term restraint. As these risks and uncertainties
+are lifted—perhaps in the next couple of weeks or months but maybe even in the next few
+days—I think we’ll be able to assess how these elements of monetary policy and fiscal policy
+might play out in the real economy. At least by waiting a little longer we should also be
+
+March 18, 2003
+
+31 of 101
+
+allowing more light in the room to see by as we think about policy. So my suggestion would be
+in line with the Vice Chairman’s—namely, that we might be well served to wait and watch as
+more light is shed on the situation. It will put us in a better position to make decisions. As far as
+how we couch our policy decision, I believe we should be very careful about making any
+changes. I think we will have an interesting discussion in the policy portion of this meeting
+about what we say in our press statement. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Guynn.
+MR. GUYNN. Thank you, Mr. Chairman. As I suspect everybody will note before the
+morning is over, it has proved particularly difficult to get our arms around what’s happening in
+the economy generally. That’s certainly the case more specifically in our own District. The data
+and the anecdotal evidence are contradictory in some respects, and the messages regarding the
+impact of geopolitical uncertainty on corporate and consumer decisionmaking are not completely
+clear. For example, last week we met with our Small Business, Agriculture, and Labor Advisory
+Council and the rhetoric at best was somber, especially from the manufacturing sector. Even so,
+we had a Florida architect in the group who said he was forced to turn away business and
+recently had expanded his staff. The heads of a small accounting firm and a small engineering
+firm reported difficulties hiring qualified accountants and engineers respectively. A computer
+support and systems supplier indicated that business was good and that he has recently been
+adding employees. And a pallet manufacturer indicated that demand had improved slightly. The
+point is that how people were feeling and the realities of their business activities didn’t always
+match. Of course, there’s always a danger in attempting to generalize from such anecdotes, but
+our discussions in that group didn’t provide a clear indication of continued deterioration in the
+economy.
+
+March 18, 2003
+
+32 of 101
+
+We specifically asked our six boards of directors, which met last week and the week
+before, to question their contacts about three related issues: the impact of geopolitical
+uncertainty on hiring and investment; the amount of excess capacity that existed and how much
+demand would have to pick up before hiring and investment would resume; and what was
+happening in commercial real estate. The commercial real estate situation is the easiest to
+summarize. Activity remains dead in Atlanta and many of our other major cities. Furthermore,
+it is slowing or softening in those parts of our District that had been doing rather well last year,
+mainly south Florida and Louisiana. As for the capacity issue, the firms that reported to our
+directors are saying that demand would have to pick up between 10 and 20 percent before hiring
+and investment would resume and their businesses would return to what they consider normal.
+Finally, it’s clear that uncertainty is weighing more and more heavily on short-term investment
+decisions. Businesses are also reporting a lack of profitability combined with soft demand, both
+of which reflect a mix of fundamentals and fears that will have to be reversed before hiring and
+investment accelerate.
+I have several quick final comments about our region. First, residential housing remains
+strong, but increasingly concerns are being expressed that pockets of overbuilding are appearing,
+especially in the multifamily sector. Moreover, additional softness is showing up in the high-end
+single-family market and in south Florida even in the middle-market segment. Second, we
+recently received reports of a further slowdown in tourism, especially for the cruise industry out
+of South Florida—even though they’ve begun offering some significant fare discounts. Third,
+despite higher oil and gas prices, the Gulf of Mexico is essentially a dead sea as far as drilling
+and exploration are concerned, reflecting uncertainty about the longer-term prospects for energy
+prices. Fourth, higher fuel prices are reportedly having significant short-term effects on costs in
+
+March 18, 2003
+
+33 of 101
+
+many industries. One of our directors, a trucking executive, reported on an industry study that
+suggested that recent elevated diesel fuel prices, if they persist, would add about $12.9 billion in
+costs this year that will have to be absorbed by shippers or their customers. Finally, higher
+natural gas prices have led to the shutdown of several chemical plants in the Sixth District. My
+conclusion from all this is that uncertainty is certainly having some impact on the economy in
+our region, with activity a bit softer in some sectors than I reported at the last meeting. But
+clearly there are some sectors—housing and health care to name a couple—that continue to do
+just fine.
+Sifting out the effects of uncertainty from fundamentals is no easier at the national level
+than at the District level. Recent high-frequency data came in a bit weaker than I had hoped,
+especially for labor markets and the auto sector. But how much of this is due to uncertainty is
+not obvious to me. At the same time, the sources of strength in the economy remain reasonably
+sound. Consumer spending is being maintained, and housing continues at a high level.
+However, increasing concerns are being expressed about both. Moreover, investment activity
+and inventory accumulation continue to lag. I’m not as optimistic as the Greenbook baseline
+forecast on the pickup in investment spending. The prolonged investment slump scenario better
+captures my own view and would suggest a somewhat slower growth forecast. I really don’t see
+where the impetus to substantial new investment will come from in the short run. Despite the
+increased signs of weakness, I continue to believe that substantial monetary stimulus remains in
+place. That stimulus remains significant the longer we hold rates below what market participants
+had initially expected. Downward movement in long-term interest rates indicates that our policy
+stimulus continues to filter through the term structure. Further, should even parts of the
+
+March 18, 2003
+
+34 of 101
+
+Administration’s fiscal stimulus package be passed, it would give us still additional positive
+impetus to growth.
+Having said all that, I believe we still face the same two questions we pondered last time.
+First, how much of the slowdown is due to fundamentals, and how much is due to uncertainty?
+Second, would a further cut in rates have an impact on the fundamentals? Sorting out these
+issues is important because I start from the premise that an easing of monetary policy can’t
+substantially affect uncertainty or its sources. Moreover, the fundamental problems I see in the
+economy right now are more structural in nature, and those are not likely to be mitigated by
+further rate cuts.
+Also, I’m not as comfortable as I’d like to be with the way our models are capturing the
+evolution of the fundamentals and their impact on the economy. My sense from talking to
+business contacts is that in reality the fundamentals may not be as strong as the model forecasts
+suggest. Because of the way models are structured, they may not capture the full structural
+dislocations that exist in the economy now and how they are being resolved. For example, our
+model may not fully incorporate the levels of debt held by both businesses and consumers and
+the implied fixed nominal payments associated with those commitments. Further shocks that
+hinder cash flows could generate more dislocations and thereby slow the progress to profitability.
+In addition, I believe that uncertainty is feeding back into the economy, posing real costs that
+will have lagging consequences even after the uncertainty is resolved. This is especially true in
+several industries that were already experiencing structural adjustment processes. For example,
+the current run-up in energy prices is certainly exacerbating an already difficult situation in the
+airline, trucking, and chemical industries. I find it hard to believe that even a quick resolution of
+
+March 18, 2003
+
+35 of 101
+
+the geopolitical uncertainties will enable many of these firms to bounce back as quickly as they
+might have done had they not been stressed by the energy situation.
+To end where I began, it seems to me that the extraordinary uncertainty we face today
+makes it very difficult to get a good reading on the underlying fundamentals of the economy and
+the really important questions as to the mix of cyclical and structural issues we’re dealing with.
+While it is probably fair to say that short-term, downside risks have increased somewhat, it’s not
+clear to me that this is the optimal time for another policy easing, though that may eventually be
+appropriate. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. Mr. Chairman, economic expansion in the West remained sluggish in the
+recent weeks. District consumers reined in spending in February and early March, making
+profitability a challenge for many retailers. A number of District auto dealers also faced more
+difficult times as unit sales and profit margins fell. Rising gasoline prices apparently constrained
+sales of SUVs, leaving several dealers with excess inventories. One contact noted that
+manufacturers’ incentives are no longer enough to entice borrowers. Customers want dealer
+discounts as well.
+Like consumers, many firms also have hit the pause button, postponing investment and
+hiring decisions until the future looks clearer. Some notable firms in the IT sector are actually
+scaling back. Micron Technology of Boise, Applied Materials of Santa Clara, and Agilent of
+Palo Alto recently announced plans to lay off 10 percent or more of their respective workforces.
+A large San Francisco IT oriented investment firm said it will release up to 20 percent of its
+workforce over the next several months.
+
+March 18, 2003
+
+36 of 101
+
+State and local governments in the West have been handing out pink slips as well.
+Several thousand California teachers received layoff warnings in recent weeks, joining the ranks
+of park rangers, reserve fire fighters, and library staff. Elsewhere in the District, states are
+looking at salary cuts and program reductions rather than layoffs to balance budgets.
+California’s credit rating is now tied with Louisiana’s for last place after a round of downgrades
+by major rating agencies. Although these downgrades increased states’ borrowing costs, our
+estimates indicate that the increase will be small relative to the size of the budget and the budget
+deficit. While state budgets have constrained government spending in the West, federal
+increases for defense and homeland security expenditures have been a significant positive for the
+District. The importance of defense dollars to the West can be seen at Boeing, where defenserelated business has helped offset declines in the commercial aircraft side. Boeing now employs
+more people in the defense systems units than in commercial jets.
+Turning to the national economy, recent data have been negative on balance. Given these
+data and intermeeting financial developments, we have lowered our expectations of growth this
+year, even after allowing for some further easing of monetary policy. We now expect that real
+GDP will grow 3 percent this year versus 3½ percent last time. As a result, excess capacity rises
+further over the next few quarters, which puts downward pressure on core inflation. The core
+PCE price index is now forecast to go up by just 1¼ percent in 2004. Along with the weaker
+forecast we have heightened concerns about the potential downside. The longer the economy
+remains partially paralyzed by high energy prices and uncertainty, the more serious the downside
+risks. Our forecast that the pace of output growth will pick up during this year depends on
+business fixed investment rebounding before consumer spending falters. Recent data on retail
+sales and auto sales have not been reassuring in this regard. And there is as yet no convincing
+
+March 18, 2003
+
+37 of 101
+
+evidence that investment spending is ready to take up the slack. Of course, the situation in Iraq
+is contributing to some extent to the recent deterioration in economic activity. However, it’s not
+certain that a quick favorable outcome is imminent or that such a resolution would provide an
+immediate boost to the economy that would remove the need for additional stimulus. Some in
+the private sector have postponed hard-to-reverse investment and hiring decisions in the face of
+uncertainty.
+As in the Greenbook, our most likely scenario shows subpar growth and rising excess
+capacity for the next year. Also, I agree with my colleague, President Minehan, about the risks.
+While the risks on both sides are sizable, the downside risks to both inflation and output are of
+much greater concern to me. In my view a significant easing of policy seems appropriate as a bit
+more insurance that we could take against these downside risks. Thank you.
+CHAIRMAN GREENSPAN. President Moskow.
+MR. MOSKOW. Thank you, Mr. Chairman. Economic activity in the Seventh District
+has softened. Many of our contacts indicate that they saw some signs of improvement beginning
+around the turn of the year and extending into the first half of February. However, activity has
+deteriorated abruptly over the past few weeks. Clearly, consumers and businesses have become
+increasingly cautious as international tensions have mounted. But a number of our contacts
+doubt that the economy will grow robustly even after the situation in Iraq is resolved. Their
+concerns seem to result from lackluster demand, excess capacity, and rising operating costs in
+the context of little or no pricing power. But when we press them, they often have not been able
+to identify any root cause for the weakness in demand other than the international situation. This
+is somewhat similar to Bill McDonough’s comments earlier.
+
+March 18, 2003
+
+38 of 101
+
+Housing is the only major sector in the District that still seems to be robust. Consumer
+spending has generally remained weak. As we all know, light vehicle sales fell in February;
+early reports in March suggest little improvement and, in the case of one of the Big Three,
+further weakening. Automakers and dealers told us that they were expecting some sales
+volatility from month to month, but they clearly were surprised by how soft sales were in late
+February. The higher incentives were not working for the first time in quite a while. Some
+portion of this decrease can be attributed to severe weather, which I’m happy to say did not find
+its way into the Seventh Federal Reserve District. But many reported that they were seeing the
+influence of heightened uncertainty, weak labor markets, and higher fuel costs on consumer
+demand. Despite higher incentives, light vehicle inventories have risen above desired levels, and
+firms are being forced to cut production in order to keep their inventories in line.
+Outside of autos, District manufacturing has also slowed since our last meeting, with
+most businesses continuing to take a wait-and-see attitude. Contacts both inside and outside
+manufacturing have become increasingly concerned about rising input costs. Several of our
+directors in Chicago and Detroit reported that increasing prices for energy, property and casualty
+insurance, employee health care, and materials have boosted production costs significantly. The
+combination of flat-to-declining demand, significantly higher costs, and fierce competition is
+pressuring profit margins. In this environment, many businesses continue to delay hiring. The
+phrase we keep hearing is “hiring paralysis.” We’ve also heard reports that a number of large
+companies, in addition to the ones that Bob Parry just mentioned, are planning another round of
+layoffs. Both Kelley and Manpower reported that their year-over-year growth rates have trailed
+off significantly in recent months. One firm did see a pickup in temporary hires in areas where
+military reservists were called up, but the effect was small.
+
+March 18, 2003
+
+39 of 101
+
+Turning to the national outlook, the macroeconomic picture is even more uncertain than it
+was at our last meeting. Given the uncertainty about Iraq in recent weeks, many businesses no
+doubt delayed major spending decisions. Why not wait another few weeks to see how events
+turn out? It’s likely that such thinking contributed to the weak hiring we saw in February. As I
+noted earlier, our contacts say that activity has slowed even more since the labor market
+reference week. In addition, although oil prices have not yet reached extremely disruptive levels,
+the prospect of further increases is an important downside risk to the economy. As I mentioned
+earlier, many of our contacts say that demand is being held back by factors other than
+geopolitical risks, and this raises the possibility that even if the situation in Iraq is resolved
+quickly, we could be in for a period of prolonged sluggishness. However, at this point there is
+not much evidence that the weakness goes beyond Iraq. Although our contacts are very
+concerned, they’ve offered few other specific rationales for the continuing sluggishness. As
+David said, they’re having difficulty disentangling the reasons for the weakness. Moreover, the
+foundation appears in place for a pickup in growth—for example, accommodative monetary
+policy, lean inventories, and of course strong productivity growth.
+Accordingly, if the Iraq situation is resolved quickly, we expect to see activity accelerate
+later this year, although growth for the year will still fall short of potential. Of course, as pointed
+out in the Greenbook simulations, which I thought were excellent, businesses and households
+could respond in a variety of ways as geopolitical events unfold. So I guess it would be an
+understatement to say that the degree of near-term uncertainty surrounding the outlook is
+unusually high.
+CHAIRMAN GREENSPAN. President Poole.
+
+March 18, 2003
+
+40 of 101
+
+MR. POOLE. Thank you, Mr. Chairman. What we hear repeatedly around the District
+are phrases such as “muddling along,” “on hold,” and “wait and see.” Bank loan demand is flat.
+It’s very difficult to know—I don’t think anybody can tell—how much of what we’ve been
+observing is a consequence of war fears and how much of it reflects underlying uncertainties.
+I’ve been pressing my contacts about their capital spending plans and in particular trying to find
+out if people are thinking ahead to the expiration of the tax incentives in September of next year.
+In general, people comment that they are not taking that into account yet, and capital spending is
+flat. My UPS contact says that UPS capital expenditures are for repairing or replacing
+equipment as necessary but there is no growth in the company’s capital expenditures spending.
+However, my FedEx contact said that FedEx does plan to buy trucks very aggressively to take
+advantage of the investment incentives. He expects that perhaps 5 to10 percent of FedEx capital
+outlays in 2004 will reflect spending being moved from 2005 into 2004 to take advantage of
+those incentives.
+I believe there is a way to think about the national picture that may be useful. Think
+back, for example, to the middle of last week when the Greenbook was being put to bed, which
+was before the Thursday stock market rally. Let me put this in a very overstated, extreme way in
+order to make a point. If we view a lot of the data as reflecting the means of a fairly wide
+distribution, then maybe there’s a 50 percent probability of a really good outcome—call that a
+10—and a 50 percent probability of a very weak outcome, flat or something like that. Call that
+weak outcome a zero. The mean is 5, but in fact there’s not much probability weight on 5 as the
+actual outcome; it’s spread out at these extremes, and that is a very unusual situation. Now, what
+we’ve seen just in the last few days is a quite substantial surge in equity prices, a drop in the
+price of oil, and a big increase in the value of the dollar—a large one-day move yesterday that is
+
+March 18, 2003
+
+41 of 101
+
+very atypical. Those developments may well indicate that people are now putting more weight
+on the outcome we called 10 and less weight on the outcome we called zero. If this way of
+thinking about the situation is useful, it means—given that in coming weeks we will know more
+about whether the outcome is likely to be closer to the 10 or the zero—that perhaps the best
+course for us at this point is not to try to guess. If we guess wrong, the action we took based on
+that guess will not have been very appropriate. Thank you.
+CHAIRMAN GREENSPAN. President Stern.
+MR. STERN. Thank you, Mr. Chairman. I would describe the District economy as
+stable, and I do think that’s probably the right term. There doesn’t seem to be any appreciable
+deterioration at this point, but at the same time there’s little net growth. Employment for the
+most part is flat, although at the far western and eastern ends of the District we do have
+somewhat more favorable reports. But those are relatively thinly populated areas, with relatively
+small economies. If one talks to our directors and other business people about their hiring plans,
+fundamentally they don’t have any, which is to say that they’re not intending to add to their
+employment levels anytime soon. There is still a lot of optimism surrounding the housing sector,
+but I have the sense that in at least some of the larger markets the builders now have gotten
+ahead of demand, and that will obviously have implications for activity as time goes on.
+Consumer spending ex-autos appears to be close to flat, and of course, auto sales have been
+softer recently as reflected in the national numbers.
+As far as the national economy is concerned, I would make several maybe semi-random
+points. First of all, the downward adjustment to the Greenbook forecast for real growth in the
+current and subsequent quarter looks right to me. I think that’s consistent with the tenor of the
+incoming national data and is certainly congruent with the anecdotes that I’ve been picking up as
+
+March 18, 2003
+
+42 of 101
+
+well. At the same time I don’t have the sense that the longer-term outlook in the Greenbook has
+changed any as we get to later this year and into 2004. I also think that’s appropriate. I haven’t
+changed my longer-run view. To be sure, there’s a tremendous amount of uncertainty. But those
+of us who’ve been at this for a while also know that there’s a great tendency toward getting
+whipsawed if one puts a lot of emphasis on the last observation or two and not so much on the
+evidence regarding underlying fundamentals. I think the fundamentals underpinning the longerrun outlook, which looks pretty favorable to me, are still in place. I won’t go through the entire
+litany, but I will point to the productivity numbers that some people have already cited and to the
+continued growth in disposable income.
+I do believe, and this is the view in the Greenbook as well, that employment is going to
+be slow to pick up. We saw that following the 1990-91 recession. But my reason for expecting
+that is not just historical precedent. For businesses there’s a lot of pressure on the top line and on
+the bottom line. In that environment, adding to employment is just not a change that’s going to
+come very quickly. Further, I do suspect that the near-term risks to the economy are probably on
+the downside. That’s a suspicion, not really a conviction. But whether it’s right or not, I think
+we’re already positioned for that possibility. Policy has reacted, and interest rates are clearly
+low. I’m not sure that we’ll necessarily get a great deal of clarification regarding the outlook
+even if the conflict with Iraq goes very well. I’d like to think we would. But there are a lot of
+other problems around the world, some of which could even be exacerbated depending on how
+the situation in Iraq plays out. Finally, in my view this is the time to avoid over-guessing and
+acting as if we know more than we do. There’s a tremendous amount of uncertainty, and it’s
+probably going to pay to be patient and cautious and see how things unfold.
+CHAIRMAN GREENSPAN. President Santomero.
+
+March 18, 2003
+
+43 of 101
+
+MR. SANTOMERO. Thank you, Mr. Chairman. Since our last meeting, growth in
+economic activity in the Third District has faltered. At least part of this is due to uncertainty
+over the timing, duration, and magnitude of the war, as many others have said. It’s likely that
+when this uncertainty is resolved we’ll see stronger growth, but our survey evidence suggests
+that economic activity might not necessarily rebound quickly after military action in Iraq.
+Manufacturing in our area has turned down over the last two months. The general activity index
+of our business outlook survey fell from 2.3 in February to minus 8 in our March survey to be
+released on Thursday. That is the lowest reading since December 2001. New orders also
+declined in March, and shipments were flat.
+A special question in our February survey provides some evidence on how soon
+economic activity might rebound after geopolitical uncertainty is resolved. We asked our survey
+respondents to tell us whether their hiring and spending plans this year were adversely affected
+by geopolitical uncertainty, weak demand, or something else. Respondents could choose more
+than one factor. About 40 percent of respondents said that geopolitical uncertainties were
+affecting their hiring and spending plans this year, but nearly 60 percent said that lack of demand
+was having an effect. Of course, the cause of the lack of demand may well be geopolitical risks.
+It’s difficult to separate the two. Nonetheless, this seems to indicate concerns about the state of
+the economy that may go beyond the effects of the current Gulf conflict. Firms in our survey did
+not appear to be poised to resume spending upon the resolution of geopolitical uncertainty. Only
+10 percent plan to begin hiring and 8 percent plan to resume investment as soon as uncertainty is
+resolved. But over 40 percent plan to wait at least six months or have no plans to increase hiring
+or capital spending upon resolution of uncertainty. Responses to the special question indicate
+that, relative to their plans at the start of the year, about a third of the firms have delayed adding
+
+March 18, 2003
+
+44 of 101
+
+workers to their payroll. Almost one-half of the firms have delayed increasing their capital
+spending. These results are consistent with most forecasts, which expect growth to remain
+subdued until the second half of the year.
+Activity in other sectors of the regional economy has also eased since our last meeting.
+Consumer spending has slowed; auto sales and retail sales of general merchandise declined in
+February. The snowstorm undoubtedly had an impact on this. I wish the snow had gone to
+Chicago, but that’s another story.
+MR. MOSKOW. No thanks!
+MR. SANTOMERO. Nevertheless, our retailers tell us that, even before the storm, sales
+momentum was slowing. Store traffic has been down since January, and merchants generally
+indicate that consumers are limiting discretionary purchases except for home-related goods.
+Commercial and residential construction activity has eased, although demand for homes has
+continued strong. Quoted rates for commercial space have been fairly stable in recent months,
+but effective rates have fallen. In addition, to attract tenants, landlords are now willing to lease
+space for a shorter duration. While the outlook of those in the region’s business community
+remains positive, no one is expecting a strong rebound. This is similar to the view expressed by
+our business contacts at the last meeting. However, my sense is that the tone has turned more
+negative. Perhaps this reflects merely the proximity of military action; perhaps it reflects the
+realization that we haven’t seen much positive momentum and that certain sectors, in particular
+manufacturing, have deteriorated.
+Similar to the District, the national economic recovery has been held back because of
+concerns about geopolitical uncertainty and most recently because of bad weather. How large
+the effect is of these special factors is difficult to determine. The data we’ve received since our
+
+March 18, 2003
+
+45 of 101
+
+last meeting have been on the weak side. Even excluding the special factors of the snowstorm
+and the call-up of reservists, the February employment report was much weaker than expected,
+with sizable and widespread job losses. It is too soon to determine whether the increase in
+capital spending orders we saw in January will portend the beginning of a period of stronger
+economic growth. Given the continued level of excess capacity, it would be hard to conclude
+that capital spending this year will be stronger than the moderate rate shown in the forecast.
+There are indications that the growth of consumer spending is beginning to slow. This might
+reflect the events involving Iraq, but it also might reflect concerns over job prospects.
+At this point, it might be useful for us to recognize again the difference between risk and
+uncertainty. With risk, as we know, one can assign probabilities to the list of outcomes and act
+appropriately given the distribution. With uncertainty, it is difficult to assign probabilities to
+outcomes. Moreover, it is difficult even to describe all the possible outcomes themselves.
+Generally firms and consumers have developed ways of handling risk. Uncertainty is much
+harder to cope with. It tends to paralyze decisionmaking. Today we are operating in a world of
+increased uncertainty. The result has been the postponement of many economic decisions—and
+by extension the economic recovery. A short-lived and successful war in Iraq will resolve some
+of the uncertainty—not all of it, though, since winning the peace will be much tougher than
+winning the war and there are other problems, as we have noted around this table today. We
+won’t have much new data on the real side, given the lags in the data. But we will have oil
+prices and financial markets as indicators to look at, as well as anecdotal evidence we glean from
+our business contacts. From these we should be able to tell relatively quickly whether a
+resolution of geopolitical uncertainty will result in new vitality for our real economy or at least if
+it was the main drag delaying the recovery.
+
+March 18, 2003
+
+46 of 101
+
+Thus, my reading of the data suggests that the economic recovery has slowed somewhat
+since our last meeting. But until there’s some resolution of uncertainty, I believe there is little
+reason to expect that a change in our already accommodative policy stance would have much
+effect. It might not even be noticed in the present circumstances. Our future path should be
+clearer once some of the uncertainties surrounding the nature of military action in Iraq are
+resolved. At that point, the Committee may wish to act. We need not wait until our next
+regularly scheduled meeting in May. But at this time, in my judgment, any action would be
+premature. Thank you.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. Thank you, Mr. Chairman. For the last couple of meetings I’ve
+tempered my remarks about the New England economy with references to a light at the end of
+the tunnel, however dim. This had been seen in confidence indicators, in a leading index of the
+Massachusetts economy, and in many anecdotal references. I hesitate to say that the light has
+gone out, but the most significant change in New England between this meeting and the last one
+is that nobody talks about that light anymore.
+The data suggest that recovery may be further away than had been expected. Many areas
+of the New England economy either weakened recently or are showing no signs of growth.
+Month-to-month job losses accelerated in December, and benchmark revisions to employment
+data that will be released later this month are likely to move employment totals down further.
+Massachusetts has been losing jobs steadily while other states are resuming a downward trend.
+Moreover, long-term unemployment is an increasing problem. A recent analysis tells us that, in
+our region, the number unemployed for over six months was about five times greater in 2002
+than in 2000; that number doubled for the nation as a whole. Consumer confidence tracked the
+
+March 18, 2003
+
+47 of 101
+
+move downward that was evident in the national data. Business confidence, which had seen
+small increases in late 2002 and in January, dropped in February to levels last seen in late 2001.
+Future conditions data dropped below 50, indicating that survey respondents no longer foresee
+positive conditions within six months. Similarly, an index of leading indicators prepared by
+University of Massachusetts economists—which had been predicting some growth by midyear—
+turned negative, suggesting that the Massachusetts economy will shrink about 1 percent rather
+than grow. Finally, confidence among New England technology executives plummeted in the
+last quarter of 2002, as reported by a local survey. These executives had experienced some
+growth in their businesses early in the year, but prospects dimmed by year-end, particularly in
+the telecommunications and software sectors. Commercial real estate markets apparently
+softened even further around the turn of the year. Office vacancies rose both in downtown
+Boston and in the suburbs, but we’re told that reported vacancy data apparently do not even
+come close to capturing the extent of available space. Observers say that, even in the slowdown
+of the late 1980s and early 1990s, the Boston market did not experience two years back-to-back
+of negative absorption. Contacts now predict that 2003 will be the third consecutive year that
+has occurred.
+We spent some time trying to sort out what is perhaps the unsortable—whether
+geopolitical uncertainty or underlying economic fundamentals are the cause of the ever softer
+patch in New England’s economic activity. Not surprisingly, this is really hard to determine.
+Our Beige Book, advisory council, and other contacts note that geopolitical uncertainty is clearly
+having some effect but that it’s hard to quantify. The one channel that seemed most clearly
+affected was consumer behavior. But most contacts also argued that, while the military situation
+in Iraq and other geopolitical concerns were an issue at the margin, the economy would not be
+
+March 18, 2003
+
+48 of 101
+
+showing solid growth even in the absence of war. Other factors, such as excess capacity in a
+variety of industries and a murky picture for the high-tech sector, have contributed strongly to
+economic weakness. Furthermore, while one would expect that war-related spending in military
+intensive New England might have a positive effect, no significant effect has yet been reported.
+The comment was made that, if your business was not involved in the mobilization effort, the
+effect of military spending was actually negative in that steps were being taken to offset
+mobilization costs wherever possible.
+Finally, I can’t leave the subject of New England without some mention of the deepening
+state fiscal crises, especially in Massachusetts and Maine. The drop in employment and a bleak
+outlook for many businesses suggest that cuts now projected by the states to achieve fiscal
+balance may not be sufficient and that their effects may reverberate on the regional economy.
+Indeed, a month ago we thought Massachusetts tax revenue was likely to grow at just under
+3 percent in fiscal 2004, which matched the projections of the new state administration. It now
+appears that a scenario of no revenue increase has a greater probability. One area of the state’s
+economy that so far has not experienced much of a downturn is the health care sector, which
+accounts for 10 to 15 percent of the local economy. That could change. Further cuts in state
+funding for Medicaid and the related loss of federal matching funds would eliminate the positive
+margins hospitals overall have been experiencing and would send a number of institutions into
+negative territory. Obviously, this will come back to haunt in the form of higher medical
+insurance costs already noted as a serious concern by regional businesses, large and small.
+On the national scene, incoming data most recently have been disappointing. Labor
+market conditions seem to have deteriorated. Consumer spending on housing has held up, but
+spending in other areas—on autos in particular—is lackluster. One of our directors has a
+
+March 18, 2003
+
+49 of 101
+
+company that is involved in providing audio equipment for high-end cars. Throughout most of
+the 2002 period he has seen resilience in his forecast three and six months out. Obviously, he
+has to get forecasts directly from the automakers. In February that resilience came to an end, and
+the forecast looking forward dropped significantly. His experience over thirty years or so in the
+industry suggests that this is a unique break with the past, and it portends quite a bit of softness
+going forward in projections of auto sales. Of course, it’s hard to separate the effects of the
+mobilization of reservists and the blizzard that occurred in the New England area, and all down
+the East Coast as well, on the critical Presidents’ Day weekend. But overall, the data are not
+particularly encouraging in my view. Of course the real question facing us now is not what is
+happening currently, because it’s hard to sort that out, but what is likely to happen over the rest
+of the year. In some ways that is even harder to disentangle.
+I have to say, as I said earlier, that I think the baseline forecast in the Greenbook is about
+as optimistic a case as can be made. In that forecast the war is short and relatively cheap.
+Uncertainty about geopolitical events drops markedly, taking with it much of the economic
+restraint we’re currently experiencing. Consumer spending and residential investment rebound
+solidly. Oil prices drop rapidly through the year. Productivity is well maintained. Key parts of
+the Administration’s tax package are passed. Interest rates remain low. Equity markets show
+steady positive improvement; and by year-end, business profits and investment spending are on
+track for double-digit growth in 2004. Frankly, I think the risks to this forecast have to lie on the
+downside.
+The degree to which both business spending and consumer spending rebound in the last
+half of this year is debatable, and I think it’s debatable not just because of oil prices. I do wonder
+about the effect of developments in Venezuela and Nigeria and about the excess capacity or lack
+
+March 18, 2003
+
+50 of 101
+
+thereof in Saudi Arabia and other places around the Gulf. I wonder whether oil prices will drop
+as fast as they do in the forecast and stay low. Is that expectation realizable? With regard to
+auto sales, the projections in the Greenbook seem particularly robust, going from the current
+pace of 15½ million to 16 million to 17 million plus in the second half of the year. Moreover,
+it’s by no means clear that the Administration’s tax plan will be passed in any form. Finally, the
+strength of housing in the forecast is remarkable as well. The projection of 2 million starts by
+early 2004 suggests a housing boom comparable to that in the early to mid-1980s, when arguably
+the demographics were quite different.
+Lots of things have to go really well in a very short time for the Greenbook forecast to be
+realized. Indeed, it’s more optimistic about both growth and inflation—particularly by 2004—
+than most other forecasts, including our own in Boston, for whatever that’s worth. Clearly the
+Greenbook staff, outside forecasters, and we in Boston face a greater-than-normal degree of
+uncertainty. But I’m uncomfortable with a baseline that seems to resolve most questions on the
+optimistic side. Even if we were to take the Greenbook forecast as the most likely outcome,
+where does that leave us as we move from 2003 to 2004? The Greenbook is explicit about this.
+Excess capacity persists with the unemployment rate at 5½ percent and output about
+¾ percentage point below potential. The only alternative scenario that changes that picture
+involves a 50 basis point reduction in rates.
+What should we do about this? High levels of uncertainty clearly call for caution. It is
+arguable that an easing in policy right now won’t affect business investment and that the decline
+in ten-year Treasury yields, if sustained for any time, should act to keep the residential and
+mortgage refinancing markets alive. However, given the uncertainty—and I would argue the
+longer-term undesirability—of additional fiscal policy stimulus, monetary policy is the only tool
+
+March 18, 2003
+
+51 of 101
+
+left to support an economy that may face fundamental problems. The conservative, prudent
+central banker in me agrees with Vice Chair McDonough that, given current levels of uncertainty
+and the imminent war, the right thing to do may be to say little, stay put, and keep our powder
+dry. But I am concerned about how long it really will be prudent to continue in this posture.
+CHAIRMAN GREENSPAN. Governor Kohn.
+MR. KOHN. Thank you, Mr. Chairman. I’m not sure I can follow that gloomy
+assessment and alleviate it very much. Like others around the table, I’ve focused on our struggle
+to sort out the restraining near-term effects of the war concerns from the more fundamental
+factors affecting of the economy. Unfortunately, the picture became even murkier over the
+intermeeting period. I do think we need to remember that the January data on consumption and
+especially on investment raised hopes that the anticipated strengthening in demand was under
+way before the economy seemed to hit a wall in February. We are dealing with what is
+fortunately a most unusual, extraordinary situation—with the country on the brink of a longanticipated war. What is also unusual is that this war could be deflationary rather than
+inflationary as the vast majority of the wars through history have been. That’s because the usual
+pressures on resources from fighting the war could be outweighed by the negative effects on
+private demand of a disruption to oil supplies and of heightened uncertainty. But it may well be
+that the maximum deflationary impact is occurring in the lead-up to the war rather than the war
+itself. It’s in the anticipation stage that uncertainty is greatest and that markets price in some
+odds on major oil field disruptions. Surely, these sorts of considerations along with some very
+nasty weather, at least along the East Coast—it’s always nasty in Chicago. [Laughter]
+MR. MOSKOW. I don’t think I’m going to mention the weather again!
+
+March 18, 2003
+
+52 of 101
+
+MR. KOHN. You folks in Chicago wouldn’t even have noticed it if you had had this
+storm! Seasonally adjusted, it’s always spring in Chicago. Very nasty weather along the East
+Coast had a major effect on the data for employment, production, and sales in February. The rise
+in energy prices since late last year, reflected in gasoline and home heating expenses,
+undoubtedly sapped consumer spending directly. Moreover, the higher gasoline prices and
+uncertainty about future gasoline prices may have played a role in weakening auto sales,
+especially if that uncertainty caused people to postpone decisions.
+Governor Bernanke noted at the last meeting that, the closer the event with uncertain
+outcomes, the higher the hurdle rate for investment. It’s not surprising that many different kinds
+of business commitments—hiring as well as spending on capital goods—were pushed back. It
+strikes me that today’s housing data may suggest that decisions on home purchases and housing
+investment could be affected as well by the heightened uncertainty. Certainly this uncertainty is
+reflected in equity markets, where the equity premium—a key element in what is in effect a
+hurdle rate for buying the existing capital stock—has risen sharply. Undoubtedly as
+uncertainties abate, the markets will improve—as we’ve already seen in the last few days—and
+this improvement will allow stronger fundamentals to show through.
+Nonetheless, we don’t know how strong the fundamentals are. We can’t completely
+dismiss the possibility that the February data were also signaling a less robust strengthening in
+demand than we had anticipated. That’s certainly the way the credit markets seemed to interpret
+the new information, especially the February employment report. Interest rates were marked
+down across the yield curve, with declines in forward rates in the five-to-seven-year range
+accounting for the largest decreases. A portion of the earlier drop in equity prices seemed to
+
+March 18, 2003
+
+53 of 101
+
+reflect not only higher equity premiums but downward revisions to earnings and revenue
+forecasts, which were probably only tangentially related to war fears.
+At this point, however, it is simply not possible to sort out the relative strength of the
+various influences on the economy or financial markets. The staff based its forecast on the
+current structure of prices and rates and financial markets because it was the only sensible
+default mode. The lower equity prices, in particular, played a role in weakening the forecast a
+touch. But those prices and rates, as Dave pointed out, reflect the means of some very skewed
+and strangely dispersed distributions. All we know for sure is that, as the situation unfolds and
+various outcomes get more or less probability weight, those prices and rates will change—and
+possibly by quite a lot as we’ve seen in the last few days. Moreover, a good part of that
+unfolding will occur relatively soon, and a reasonable presumption is that the forecast will
+change too, perhaps significantly.
+Personally, I suspect that our next action is more likely to be an easing than a tightening.
+I base that on the possibility that at least a little of the February weakness reflected continued
+underlying softness and broader business uncertainty and on the possibility that geopolitical risk
+could continue to weigh on oil prices, sentiment, and spending for a while. I combine these
+possibilities, however small, with the notion that at this stage of the economic cycle—with a
+sizable output gap and low and declining inflation—the consequences from inadvertently having
+policy a little too tight would be far more adverse than the consequences from having it a little
+too easy. But I don’t have any real conviction about the next policy action. We’ll have more
+information about unfolding events and their potential effects soon. Over the near term, much of
+that information will come from reactions in financial and oil markets, as underlying trends in
+spending will only slowly reveal themselves. These markets will be noisy. Undoubtedly they’ll
+
+March 18, 2003
+
+54 of 101
+
+overreact, driven by hopes and fears as much as by a clear-eyed reading of the course of the
+economy, so extracting the important signals could be difficult. But given my lack of conviction
+about the future and my sense that market signals will be important and over time helpful, I think
+the Federal Reserve should not be trying to steer markets at this point. Like many others who
+have already commented, I think it’s time to admit our ignorance, get out of the way, and let
+events and their reactions unfold. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. With that we shall adjourn for coffee.
+[Coffee break]
+CHAIRMAN GREENSPAN. President McTeer.
+MR. MCTEER. Thank you, Mr. Chairman. Not much new and significant is going on in
+the Eleventh District economy. Personal income is growing but not fast enough to raise living
+standards. Employment finally is growing again but at rates so anemic that it feels like
+contraction. Other indicators have crossed the threshold into expansion but not by much. I
+would like to be able to conclude that the data signify the end of the downturn in our region and
+might even be the start of a recovery, but I’m not convinced. Last Friday and Saturday I met
+with the fine people from the Louisiana Bankers Association, and just before that I met with our
+board of directors and our Advisory Council on Small Business and Agriculture. The views
+expressed in the latter two groups were considerably more negative than the last time they met.
+The mood of both meetings can be summarized by the opening remarks of one of my directors,
+to wit: “With recoveries like this, who needs recessions!”
+Single-family housing has been holding up, particularly at the lower and moderate price
+points. One director felt that mortgage rates could rise by a percentage point or so, maybe even
+2 points, from the current very low levels without having a strongly negative effect on housing
+
+March 18, 2003
+
+55 of 101
+
+demand. In her words, “Mortgage rates provide the nicotine to the housing industry, but job
+growth is the real source of nutrition.” Her point was that without some improvement in job
+growth, the effect of lower interest rates likely will wear off.
+On the high-tech side, our director from a major semiconductor manufacturer indicated
+that the order-to-shipment ratio in the chip industry had finally risen above 1 for the first time in
+two years. Recovery has now hit every sector of the industry except wired telecom; but of all the
+markets they serve, the United States is the weakest. Those in the industry are waiting on the
+sidelines until they can get a better handle on market demand. In the meantime, prices are under
+extreme downward pressure. She’s looking for single-digit growth in the next year or two. With
+no increase in capital spending and therefore no pickup in supply, she hopes that some increased
+pricing power will be restored in late 2004.
+We had several reports from directors who were quite knowledgeable about the energy
+business. There was some discussion about how much of a war premium is built into current oil
+prices. The uncertainty on the premium involves questions in at least two areas. First, is there
+really surplus capacity in the Middle East? It has never been tested. Second, how much
+infrastructure damage will be done in Iraq? One director noted that oil infrastructure is fairly
+hard to destroy. The big question raised by a couple of directors was Venezuela, a country that
+was characterized as being on the brink of disintegrating into civil war or anarchy. Venezuelan
+oil has a big impact on U.S. gasoline prices. The government has fired half the oil company’s
+middle management and replaced them with cronies and military people reported to be not too
+competent when it comes to the basic logistics of moving oil to market. Significant gasoline
+shortages already exist within Venezuela, and it’s likely that oil production is running at less than
+half the claimed rate. Both the country and its oil production could be on the verge of total
+
+March 18, 2003
+
+56 of 101
+
+breakdown. Around Houston the talk is beginning to be about a return to $30 a barrel for oil
+after Iraq is settled rather than the $24 price that had been anticipated a couple of months ago.
+Concerns were also expressed about natural gas. If prices were to remain in the area of
+$6 it would suggest that we have a shortage bordering on scarcity. If businesses come to believe
+that gas prices will remain at those elevated levels, they will shut their plants and sell the gas
+they’ve contracted for. Our petrochemical plants are aging facilities that were built on the basis
+of $.50 gas not $5 plus gas. These plants could shut down, and their output could go overseas.
+The tone of our small business council was similarly downbeat. I got the distinct
+impression that many of these business people and their peers are just barely hanging in there.
+Also, there seems to be a lot of disguised unemployment and underemployment. Two of the
+small business representatives on our council indicated that current conditions are the worst they
+have ever seen, and both of them have been in business in the Dallas area for over thirty years.
+When we pressed them on whether things were really worse than during the Texas depression in
+the late 1980s they both without hesitation said “yes.” They lived through those tough times, yet
+they feel that today’s fundamentals are worse. I hope this view is a function of hazy memory.
+I’ve seen that before when the economy is going through the destruction phase of creative
+destruction and when it’s too soon to discern the creative part.
+Turning to the national economy, I must say that, given the economic and non-economic
+uncertainties we face, the staff baseline forecast seems plausible in its broad contours. I
+especially appreciated the choice of alternative simulations. I count myself to be among those
+who believe that the disinflation forces of the last decade will continue to prevail over the forces
+acting to push up the rate of inflation. As a result, I found myself drawn toward the Greenbook
+simulations involving a lower funds rate or the adoption of a market-based funds rate. While
+
+March 18, 2003
+
+57 of 101
+
+being drawn in that direction, I’m not ready to support a reduction in the fed funds rate at this
+meeting. Given all the fog and the dust out there and the sand being stirred up by the threat of
+war, the public and the markets would have difficulty interpreting any change in our policy
+stance at this time. While I believe that the downside risks prevail, this is probably not a good
+time to try to do anything about it.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. Thank you, Mr. Chairman. After starting the year off strongly, the
+economy seems to have taken another stumble in February. The list of disappointing economic
+reports since our last meeting is long: the jobs report, consumer confidence, retail sales, auto
+production, industrial production, earnings forecasts, state and local budgets, and now housing
+starts. The Greenbook authors have taken ½ point off the growth forecast for both the first and
+second halves of the year. Blue Chip forecasts also have been lowered. Foreign growth has
+been written down. Of course, the uncertainty about the military situation is or could be at the
+root of all of this. Forecasts these days seem to hinge on a few critical exogenous assumptions,
+with everything else being endogenous. In today’s situation, for example, I can imagine two
+vastly different scenarios all starting from one or two changed assumptions.
+One I’ll call the “green” scenario after the Greenbook and Greenspan. [Laughter] I’m
+going to replay Cathy’s comments a bit here but a little muted. Lifting away the military
+uncertainty, the Greenbook base case is actually rather optimistic. Oil prices are high now but
+drop down in that forecast in line with futures markets. The stock market is at least in neutral.
+Fiscal policy is very expansionary. Consumption is reasonably strong with saving rates staying
+low to normal. High-tech investment is already slated to grow in the first half of the year, and
+the rest of investment soon follows. The output gap rises for a while and then starts dropping
+
+March 18, 2003
+
+58 of 101
+
+pretty sharply. If one splices onto this a more ebullient stock market, which we may already
+have seen some of, it’s easy to imagine a fairly bullish scenario—one in which further policy
+action is probably not required and, indeed, may even have to be reversed at some point.
+At the same time, I can change one or two assumptions and get an altogether different
+scenario. Oil prices in fact don’t come down, perhaps because of the damage to the oil wells in
+Iraq combined with Venezuela not returning to full production and the apparently low level of
+inventories. Natural gas prices stay high and keep electricity prices high. For whatever reason,
+the stock market stumbles yet again, and wealth values don’t recover. Saving rates rise more
+than forecast, and the lessened accelerator effect limits the growth of investment in the context of
+continuing capital overhang. Budget deficits soar, and fiscal expansion is limited. The dollar
+falls and hurts the economies of Europe, Latin America, and Japan without doing ours much
+good. Monetary policy makers in these other countries are hamstrung either by real constraints
+or imagined constraints.
+The differences between these two scenarios are not all that large—hinging on a few
+exogenous assumptions about oil prices, stock prices, and confidence in general. At this point
+we really can’t forecast these critical magnitudes very well, and it makes sense to sit on the
+sidelines for a while. It is quite possible that the critical magnitudes will become much clearer in
+a short time and we will be in a better position to act. But as Dave Stockton suggested, it’s also
+quite possible that the critical magnitudes will not clear up very rapidly and we will have to go
+back to making policy under extreme uncertainty. The best approach then may not be to wait
+until all significant uncertainties have clarified, but I leave those puzzles until another day.
+Thank you.
+CHAIRMAN GREENSPAN. President Pianalto.
+
+March 18, 2003
+
+59 of 101
+
+MS. PIANALTO. Thank you, Mr. Chairman. Economic conditions in the Fourth
+District appear to be broadly consistent with those in the rest of the nation. Two sentences in the
+Beige Book national summary describe our situation very well—namely that growth in economic
+activity remained subdued in January and February and that geopolitical and economic
+uncertainties are constraining business and consumer spending and tempering near-term
+expectations. I think the staff did an excellent job in reporting, analyzing, and synthesizing the
+data that have come in since our last meeting. The staff concluded that the economy is likely to
+be weaker in the near term, yet real GDP growth and inflation next year are expected to be about
+the same as was forecast at our last meeting, indicating the largely transient nature of the
+additional softness. I generally agree with that forecast, although how I arrive at the GDP figures
+is slightly different.
+I’d like to focus my comments this morning on some of this near-term weakness and its
+potential implications. First, the March 7 release of the February labor market data does seem to
+have powerfully affected market sentiment about the economy. All of us are aware that last
+month’s weather distorted economic activity, and our Beige Book contacts across a wide range
+of retail sectors reported that the winter storms did affect their sales. Even if we knew how to
+account for the weather, we probably still would conclude that labor markets weakened in
+February. But it’s hard to know how much of that report is idiosyncratic, as can often happen
+with one month’s data.
+One of my directors, whose firm supplies materials nationally to the homebuilding
+market, reported that she saw a significant decrease in orders in February. But as rapidly as
+orders had declined in February, they bounced back in early March. Overall I don’t get a sense
+from our directors or advisory council members and other contacts in the District that conditions
+
+March 18, 2003
+
+60 of 101
+
+have changed fundamentally in the past few months. But, like President Santomero, I detect a
+significantly more negative tone in their comments.
+The economy is still expanding, and it is expected to do so, albeit at a very moderate
+pace. Housing has continued to be strong, and the bankers in my District say that it’s going to
+continue to be strong. Business investment is weak, and it is expected to remain weak according
+to business people in my District. I’ve had many conversations with contacts throughout the
+District about how credit availability, the geopolitical risks, and capacity utilization are affecting
+the pace of their capital spending. Bankers report that they are very liquid and anxious to lend.
+In fact, they note in a more short-term perspective that they finally have started to receive
+inquiries from their business customers. Customers have increased their credit lines but are not
+using those lines, which tells me at least that they’re gearing up for some use of them down the
+road but not until the Iraq situation is resolved. Within the last week alone, two of my business
+contacts informed me that their firms had turned away sizable orders because to fill those orders
+they would have to add to capacity and, with the uncertainty that we face, they weren’t willing to
+do that. In ordinary times, those investments would have been made.
+So, as I commented at the last meeting, I still am concerned about the outlook for a
+snapback in BFI given the current low levels of capacity utilization. Our research department
+did some statistical work to examine the relationship between capacity utilization and business
+fixed investment. We found that both the level and the change in capacity utilization strongly
+lead business investment, again suggesting that we shouldn’t expect a pickup in BFI until some
+of the excess capacity gets absorbed. From our Beige Book contacts we hear a consistent story,
+namely that they are not willing to add to their capacity. Many of them still have a lot of idle
+capacity and aren’t planning any additional capital spending even to bring that idle capacity back
+
+March 18, 2003
+
+61 of 101
+
+on line. This does not mean that we won’t see any spending on plant and equipment or software
+but rather that the upward trajectory is not going to be as steep as we’d like to see. Interestingly,
+I think the caution about capital spending fits into the Greenbook projection of strong
+productivity growth. I say that because the CEOs I talk to are telling me that, even though they
+are paying very close attention to payrolls and to capital spending—they’re not hiring and
+they’re not spending—they are still innovating. These efforts show up in the healthy rate of
+multifactor productivity growth as we see in the Greenbook.
+In summary, I am discouraged by the lack of progress in the expansion thus far, but I
+believe that some of it is clearly due to the unsettled risks of war and terrorism. Obviously, the
+potential for war is a very dark cloud overhead—and not that far overhead perhaps. Although
+this cloud is restraining economic activity now, I do believe that its successful dissolution will
+result in a continued economic expansion. So as the Vice Chair and others have indicated today,
+this is a time for the central bank to be patient, to watch developments unfold, and especially to
+see how the economy looks once this dark cloud of uncertainty dissipates. Thank you, Mr.
+Chairman.
+CHAIRMAN GREENSPAN. Governor Ferguson.
+MR. FERGUSON. Thank you, Mr. Chairman. Since the last meeting we have witnessed
+a striking example of the differences between risk and uncertainty, with the latter being an
+important factor in the private sector’s economic decisionmaking. The economy appeared to
+have picked up its pace of growth in January and then suffered a setback by flattening a bit in
+February. The toll of uncertainty on consumers showed through in drops in confidence and also
+in a slowing of consumer purchases of big-ticket items. Businesses mirrored consumers by
+slowing their orders of new equipment, cutting production, and delaying hiring. Finally,
+
+March 18, 2003
+
+62 of 101
+
+financial market participants appear to be highly uncertain about future stock returns and are
+highly averse to that uncertainty. These factors evidenced themselves in a decline in stock prices
+that drove the equity risk premium to the highest level in more than a decade while, at the same
+time, purchases of corporate bonds drove yield spreads on those assets down further. These
+financial market developments are most unusual in my eyes in that they reflect a fundamental
+tension and inconsistency in risk appetites across assets pools that look to the same source of
+earnings—corporate earnings—for the underlying cash flow to support asset valuations.
+Now, as we all know, this uncertainty broke a bit last week and a little more with the
+President’s speech yesterday. What we’ve seen then is that stock prices soared, the dollar rallied,
+government bond prices fell, and oil and gold prices slid. As a central bank, presumably we
+should put a great deal of weight on financial market and commodity market input. But in this
+case one can only hope that the optimism about a benign outcome to both the war and the peace
+that’s embodied in these changes in asset prices becomes a reality.
+When put in an international context, as Dino pointed out earlier this morning, it is clear
+that financial market participants still seem to see the U.S. economy as—if I can say it this
+way—one of the least ugly economies on the horizon. Perhaps they’re looking to our longerterm fundamentals, which I would say are basically sound. Fiscal policy is already
+accommodative, monetary policy is by many measures still supportive of growth, the dollar has
+weakened a bit on net, and productivity continues to increase. Because of the uncertainty we
+have witnessed, it is difficult if not impossible to get a firm view of the forces driving recent
+economic developments. It is true that we were shocked not just by geopolitical concerns, which
+mounted steadily, but also by severe weather, which played through to higher gasoline and
+heating oil prices. However, some of the weakness may also reflect more fundamental
+
+March 18, 2003
+
+63 of 101
+
+difficulties that the economy is having in recovering from the recession. The Greenbook reflects
+the forecaster’s dilemma by presenting what is described as a “mean” forecast, thereby I think
+putting equal weight on a range of possible outcomes. I do not see this as a cop-out at all but
+rather an honest reflection of the fact that nobody can declare with certainty which forces, either
+transitory or more fundamental, will shape the intermediate term. As others have already
+indicated, in these circumstances a prudent central bank certainty wants to do no harm. That is
+best accomplished, I believe, by reflecting honestly the imponderables that the immediate future
+holds and also by waiting for greater clarity to return. Thank you.
+CHAIRMAN GREENSPAN. Governor Olson.
+MR. OLSON. In talking with bankers within the last week or so, I think the vantage
+points of two in particular were of interest. One indicated that at his bank, one of the largest
+consumer lenders in the country, the volume and credit quality they have been experiencing
+recently is consistent with upward pressures on prices and yet they don’t sense any pricing
+pressures. The fact that they are a major credit card issuer and have a significant range of
+consumer loan products has historically given them a window through which they have been able
+to predict retail sales quite well, and that was the vantage point he was talking about. In contrast,
+on the commercial loan side he had two observations. One is that there is nothing in the pipeline.
+But two, which is of considerable interest, is that the credit quality of their loan portfolio has
+improved. If you follow the Call Report data, you would know that credit quality even on
+commercial portfolios had been declining up through the end of last year; but in this banker’s
+judgment, it has leveled out and maybe even improved. So we see the contrasting effects of
+banks having experienced improved credit quality yet no loan demand, which may in fact
+
+March 18, 2003
+
+64 of 101
+
+corroborate Governor Bernanke’s thesis that the closer we get to the event, the higher the hurdle
+rate.
+The second report is from a bank that is a major commercial lender and also a major
+securities servicer. That bank had exactly the same experience with respect to the commercial
+loan portfolio but also had what it described as paralysis with respect to equity activity—no
+cross-border activity and no IPOs. The underwritings tend to be coming primarily from the
+municipal sector. The description we’ve heard this morning is of an atmosphere of uncertainty,
+some portion of which is geopolitical. This banker would characterize it somewhat differently.
+He would describe it as paralysis of which the dominant reason is geopolitical risk, recognizing
+that there may well be other risks also.
+One other note of caution from my contacts is that banks are now recognizing and
+starting to feel how expensive liquidity can be. As a result, we’re seeing evidence of banks
+reaching for yield. There has been a firming of the secondary market for commercial loans, for
+example, and new interest in the B tranche of collateralized loan obligations (CLOs). We also
+see banks reaching out on the term of their loans and investments to achieve higher rates of
+return, something Dino suggested was occurring and that I think President Pianalto hinted at as
+well. All in all, it is certainly a time of great uncertainty and therefore, as President Guynn and
+others have said, perhaps not a circumstance that can most directly be addressed through
+monetary policy.
+CHAIRMAN GREENSPAN. Governor Bies.
+MS. BIES. I also wanted to talk a little about the financial sector, including banks, and
+contrast that with what we see happening in the real sector. The Bluebook pointed out that
+commercial banks in the United States had record earnings in 2002. And they had record
+
+March 18, 2003
+
+65 of 101
+
+earnings in 2001. We had back-to-back years of record earnings in the commercial banking
+system during a recession period and a relatively slow recovery—a period when interest rates
+have hit forty-year lows and one characterized by unusual liquidity circumstances as funds came
+back into the banking system. I think one of the things we’re finding is that, while it is difficult
+to operate in an environment of uncertainty, banks really have learned to manage risks well. The
+asset–liability management processes that banks initiated in the 1980s and fine-tuned in the
+1990s clearly show that they can go through a major interest rate cycle and as a whole improve
+their earnings. Net interest margins in fact actually widened last year.
+On the credit side, we also saw banks managing credit very well. If we look at the 2002
+numbers, the loan-loss provision as a percentage of the return on assets was basically flat
+compared with the previous year. So again, banks are doing a much better job at managing
+credit risks. What is also remarkable about these bank earnings is that they were achieved
+through a record return on assets. It wasn’t done through financial leverage. Banks in fact
+deleveraged last year, so it wasn’t a record year for return on equity. Banks achieved record
+earnings through stronger fundamentals as well as better risk management.
+If we look at the broader financial markets, especially since our last meeting, we see that
+some of the volatility and excessive credit spreads we’ve observed in the last year or so have
+continued to improve. As was mentioned earlier, while debt spreads are wider than historically,
+the spreads have moved in. Much like what we’re hearing from bank credit officers, the credit
+market folks are also saying that to some extent the uncertainty part of the debt spreads has been
+removed. What upset everybody at the end of 2001 and 2002 was that prime credits were going
+immediately to bankruptcy and that was happening because of what I love to call “operational
+risks.” Credit was not the real issue. These bankruptcies were due to accounting scandals and
+
+March 18, 2003
+
+66 of 101
+
+management fraud. Companies that deteriorated over time, like K-Mart, were handled in the
+traditional way. But it was the uncertainty about what was going on with regard to these other
+factors that contributed to the widening of debt spreads in the investment-grade market. That
+seems to be coming down now, since we haven’t had any material events of that type in the last
+several months.
+Companies are restructuring. We know they’ve lengthened from commercial paper to
+longer-term debt. Their corporate cash flow has also been improving, unfortunately in part
+because they are not making capital investments. Consumers continue to refinance and
+restructure their debt. The staff has shown us that household debt service is actually down from
+where it was a couple of years ago. So household finances are in good shape. If the banking
+sector, corporate balance sheets, household finances, and debt markets are stronger—and equity
+markets we know at least have shifted to neutral—what really is happening? Again we get a
+“disconnect” between the improvement of the financial sector and the weakness in the real
+sector.
+After our FOMC meeting in January I was optimistic, as the news continued to be very,
+very strong. Then as the February data came out, as many of you have remarked already,
+suddenly we began to question what was happening. Was it the snowstorms? After all, even an
+old Southerner like myself actually had to go out and buy a pair of boots! I thought that would
+have helped the retail sales in February, but it didn’t! High heating oil and natural gas costs also
+took a toll on people’s spending. But as we’ve talked about, the uncertainty regarding what is
+going on in Iraq and maybe other countries appears to be preying both on consumers and
+businesses. Because it is very hard to evaluate risks and to make decisions in a period of high
+uncertainty, the decisionmaking that affects real economic activity and creates jobs and growth
+
+March 18, 2003
+
+67 of 101
+
+in our resources has slowed to almost a halt. So until we really know more about the situation in
+Iraq, I’m not sure what we can do to deal with the uncertainty through monetary policy. The
+concerns involve not only the war but also, as many of you have mentioned already, the
+aftermath of the war. Unlike the situation in Kuwait, we are not going to be reinstalling the
+government; we have to help create a successor government. Therefore, I think the uncertainty
+is going to continue for some time. Because of the nature of the uncertainty, I’m uncomfortable
+making any change right now in the direction of policy. Thank you.
+CHAIRMAN GREENSPAN. Governor Bernanke.
+MR. BERNANKE. Thank you, Mr. Chairman. As many have noted, we’re currently in
+a period of maximum uncertainty, with the result that the economy is almost in a state of
+suspended animation. Until the world situation clarifies, the hurdle rate for investment or any
+major commitment will be very high, as some of my colleagues have noted. By the same token,
+any action we would take on rates today would be largely inframarginal.
+I continue to believe that the economy has substantial fundamental and financial
+strengths. There is also a lot of accumulated slack in the economy because we’ve had essentially
+no employment gains for about two years. Therefore, I think there’s a good chance that a
+reasonably successful resolution of the Iraqi situation will lead to strong growth in the second
+half of this year and in 2004. But in deference to President Minehan, I also agree that some
+alternative, more negative scenarios are possible. Here are two.
+The first is what I call the “fear of fear itself” scenario—continuing pessimism. There
+might be a less than satisfactory outcome to the war or continuing fear of terrorism, in which
+case consumer confidence and self-confirming doubts might lead to slow growth in investment
+and consumer spending. I think that’s a real possibility and one that we need to keep in mind.
+
+March 18, 2003
+
+68 of 101
+
+A second possibility, which is perhaps complementary to that, would be a weak profits
+scenario. Firms could find that their international markets are very weak, and they could
+continue to suffer from high energy costs and high costs for insurance and pensions. That
+combined with structural issues in a number of major industries and perhaps a lack of
+technological opportunities—or opportunities that are less good than hoped for—might result in
+profits that are not strong. That in turn would lead to weaker stock market valuations and less
+investment than we’re hoping for. So those are two possible scenarios. Given the amount of
+slack in the economy, I think either of those situations, if they were to materialize, would be
+amenable to continued stimulation from both monetary and fiscal policy.
+Let me say a word about timing. Over the intermeeting period there is, of course, the
+possibility that the current very high level of uncertainty will be resolved one way or the other.
+On the one hand, we could get very good results in Iraq with strong financial market reactions, a
+boost in consumer confidence, strong anecdotal reports, and so on. That would support the case
+for waiting and watching with the hope that the strong recovery would commence. On the other
+hand, we might get the other tail of the distribution of possible outcomes—bad results in Iraq and
+much concern at home, and negative financial market responses to that. But I want to echo what
+David Stockton and several others have pointed out—namely that there is a large middle area of
+the distribution that we might be facing at the next meeting. There may still be considerable
+uncertainty about the state of the economy going forward and whether or not the scenario in the
+Greenbook will in fact be realized. I would like to caution against the situation where we are
+continually waiting for uncertainty to be resolved before taking action. That situation could go
+on indefinitely. If the economy is still struggling and if there is no significant improvement or
+
+March 18, 2003
+
+69 of 101
+
+evidence of increasing strength by our next meeting, I hope we will at least consider the case for
+easing policy at that time. Thank you.
+CHAIRMAN GREENSPAN. Thank you very much. Mr. Reinhart.
+MR. REINHART. 2 Mr. Chairman, Carol will be distributing some materials
+that I’ll be referring to. With events moving quickly, I thought it best to start with
+the snapshot in exhibit 1 of market participants’ current thinking about the decision
+you will announce this afternoon. As shown in the top panel, at ten o’clock this
+morning the April federal funds rate futures contract traded 9 basis points below the
+current 1¼ percent intended level, consistent with a one-in-three chance of a
+quarter-point easing. Survey responses collected Friday (the middle left panel)
+indicate that the majority of investors believe that you will depict the balance of
+risks as tilted toward economic weakness, a shift in sentiment (the middle right
+panel) that followed the release of a surprising contraction in payroll employment.
+You might not want to bank too much on these readings, though, in that
+expectations have been changeable of late and are now quite diffuse, as shown in
+the bottom panel in the implied probability distribution of where the funds rate will
+be in six months. Note both that the left tail of this probability distribution is
+bunched at quite low levels of the funds rate and that one-fifth of the mass rests
+above the current intended rate.
+Among the market participants who are counting on policy easing, recent
+readings on the labor market—both the February employment report and the high
+level of initial claims—seem to weigh importantly in their thinking. Moreover,
+with equity wealth once again lower and consumers appearing less confident, the
+expansion of aggregate demand seems to be on a slower track than we had
+anticipated earlier. The declines in estimates of the equilibrium real federal funds
+rate, plotted in your next exhibit, summarize that downward reassessment of
+spending relative to potential output. Indeed, by these measures, maintaining the
+current stance of policy would imply some tightening of the real funds rate gap
+relative to what you viewed as appropriate with your easing on November 6. Note
+also that this assessment is not just a characteristic of the staff’s outlook and
+empirical models (the shaded region), in that the reading of the equilibrium rate
+derived from the indexed debt market (the thin line) also turned down. With
+inflation also inching lower in the projection, the Committee might view the cost of
+another 25 or 50 basis point easing as small given the stability of long-run inflation
+expectations (the bottom panel) relative to the benefits of some stimulus to
+aggregate demand.
+For all the focus on weakness in hiring and in confidence over the intermeeting
+period, other data have been mixed and on net have led the staff to increase the
+level of real GDP in this quarter and the next compared with the baseline presented
+in January. Indeed, as shown in exhibit 3, two- and ten-year Treasury yields
+2
+
+The materials used by Mr. Reinhart are appended to this transcript (appendix 2).
+
+March 18, 2003
+
+70 of 101
+
+actually rose in the half-hour windows surrounding the key data releases
+represented by bars in the top left panel. That is, as the tally at the right indicates,
+the reaction to macroeconomic news cannot account for the net movement in rates
+since January 29.
+The sharp and sudden movement in asset prices at times over the past few
+weeks on rumors of war may reveal the extent to which the current configuration of
+financial market quotes is only loosely tethered to economic fundamentals. It
+seems that uncertainties about war and the economy are leading spenders and
+investors to defer commitments, but we have no way of parsing the relative
+importance of those two sources of doubt. Market prices, though, appear consistent
+with the overall amount of uncertainty abating over time. If not, it is hard to
+understand why, as shown in the two middle panels, risk spreads on corporate
+bonds narrowed over the intermeeting period—as Governor Bies mentioned—or
+why options on swap forward rates and oil prices imply that volatilities are expected
+to move lower, as shown in the bottom panels.
+Given this prevailing uncertainty and skittishness in the marketplace, the
+Committee might be especially unsure as to how investors would react to policy
+ease at this juncture. Going back to the transcripts from the onset of the Gulf War
+in 1991, more than a few members doubted the efficacy of monetary policy action
+in spurring spending when global events were in the driver’s seat. As the
+discussion about policy gradualism at the last meeting underscored, such
+uncertainties about the policy multiplier, all else being equal, would probably
+incline you to attenuate action, perhaps to the point of keeping policy on hold at this
+meeting. With conflict in Iraq seemingly at hand, this is one of the few times it
+could be said that some aspects of uncertainty will lift with the passage of time—
+although to what degree and how soon are not obvious at this point.
+Deferring action might also be seen as having the advantage of allowing the
+Committee to calibrate its action more precisely as additional information about
+geopolitical developments emerges. Indeed, the Committee might want to be able
+to use a significant portion of the current 125 basis points of room above the zero
+bound in a timely fashion if events turn sufficiently adverse. While research
+generally counsels that the presence of the zero bound makes acting preemptively
+superior to arguments about “keeping your powder dry,” that body of work
+measures time in quarters. With war seeming about to begin, you may be
+measuring time in days or weeks, and it is difficult to imagine that a short delay
+would leave a discernible imprint on economic activity. But the Committee might
+view those darker possibilities as quite remote. Rather, the Committee may be
+reading the substantial rally in financial markets when coalition troops commenced
+the Gulf War in 1991 as the more likely outcome. If it is mainly worries about the
+world that are making households and businesses hesitant to spend, then the
+successful prosecution of war against Iraq should resolve some of their doubts and
+provide important stimulus to spending. That said, the current situation may not be
+nearly as neat as in 1991 in that concerns about geopolitical tensions might not be
+
+March 18, 2003
+
+71 of 101
+
+punctured by decisive military victory, given questions about the formation of a
+new government in Iraq, the prospect for terrorist actions, and adverse
+developments in other trouble spots. If that seems farfetched, I’d remind you that
+we are once again at code “orange,” indicating heightened risks at home.
+Your last exhibit, besides providing a rationale for keeping policy on hold,
+addresses the issue of the balance of risks assessment. If the Committee believes
+that the cloud of war worries will soon dissipate to reveal an economy that is
+fundamentally sound, then it should indicate so by retaining its risk assessment as
+balanced with respect to both of its goals (the top left panel). The Committee might
+also opt for a balanced risk assessment if it feared that a change would convey more
+conviction to market participants about the outlook than it actually had. If instead,
+more weight were given to the downbeat economic data of late and the forecast that
+inflation would move lower still from its already low level, the Committee might
+favor a risk assessment weighted toward economic weakness (the top right panel).
+According to the survey evidence, this outcome best matches investor expectations,
+suggesting that it should be preferred if the goal is not to test the market’s resilience
+to surprise. Still, such a shift might be read by the broader public as suggesting that
+the near-term outlook was weaker than feared, a message that might be problematic
+in a nation on a war footing. In fact, the public’s focus has shifted to a different
+stage, and in light of the unusual uncertainties, what the Committee does and says
+today is unlikely to be extrapolated too far into the future.
+The broader problem the Committee faces is whether it can usefully
+characterize the balance of risks in an environment of such diffuse uncertainty.
+This is territory that Frank Knight trod eighty-seven years ago. As he noted then
+and as is repeated in the middle panel, “we can only appeal to the law of large
+numbers to distribute the losses and make them calculable . . . in so far as they
+repeat themselves.” Moreover, Knight considered circumstances when prospects
+were sufficiently diffuse that, as he wrote, “The conception of an objectively
+measurable probability or chance is simply inapplicable.” It may be that the current
+situation has transited from a sense of known possibilities with assigned
+probabilities—that is, risk—to Knightian uncertainty. If so, Knight’s advice to the
+Committee is that “the fundamental uncertainties of economic life are the errors in
+predicting the future and in making present adjustments to fit future conditions.” If
+the possibilities are that uncertain, the Committee could, as outlined in the bottom
+panel, defer announcing an assessment of the risks under the rationale that it is
+better to be unspecific than specifically wrong. Such a course would probably
+require a promise of heightened surveillance to the public and a willingness among
+yourselves to convene a conference call before the next meeting if events clarify the
+odds. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. Thank you very much. Questions? If not, let me move
+forward. Today’s discussion around the table pretty much coalesced into significant alternative
+
+March 18, 2003
+
+72 of 101
+
+outcomes. I believe almost everybody would argue that the economy is weak, and indeed I
+suspect on the basis of the most recent numbers that economic activity has probably been
+declining in the last two weeks.
+There was some significant improvement in economic activity from Christmas through
+the first week in February, but the economy subsequently began to weaken measurably,
+evidently in conjunction but not necessarily in line with the significant rise in gasoline prices that
+started in early February. Gasoline pricing is like a withholding tax, if I may put it that way, that
+is set by the service station operator. Those who purchase gasoline know exactly what they are
+paying, and I would submit that many people are far more aware of the reduction in their
+disposable income coming from rising gasoline prices than they are of their weekly tax
+withholdings, which they probably don’t look at very closely. The rise in gasoline prices has
+been dramatic. Somebody mentioned earlier that this increase might in fact be a factor in the
+recent weakening of motor vehicle sales. The latter clearly has occurred, and that includes sales
+on an incentive-adjusted basis, if I may put it that way. With regard to the advance in gasoline
+prices, which in a sense is the specific result of the current geopolitical uncertainty, we can point
+not only to Iraq but, as others have mentioned, to Venezuela, which is experiencing serious
+economic and political problems. Somebody also mentioned Nigeria, which likewise is having
+severe difficulties. That country is a very large supplier of oil, and its output could well go down
+sharply.
+Bob, I wasn’t aware that in Texas people are talking about the possibility of a near-term
+shutdown in Venezuelan oil production. My impression is that production has risen from a much
+lower level to about 2 million barrels a day in Venezuela. That’s still well short of their
+3 million barrels a day capacity. One of the problems they reportedly are having, and I’m not
+
+March 18, 2003
+
+73 of 101
+
+sure it’s actually true, is that some of the oil industry workers who were fired absconded with the
+software that runs many of the wells, and the Venezuelans are having trouble bringing output
+back toward full production.
+MR. MCTEER. Some of our contacts indicated that their production is closer to
+1.3 million than to the stated 2.9 million.
+CHAIRMAN GREENSPAN. The stated 2.9 million figure, as everybody knows, is
+phony.
+MR. MCTEER. The actual number may be a little less than half that stated level.
+CHAIRMAN GREENSPAN. Yes, but a number of the oil analysts who follow
+Venezuela fairly closely are saying it’s 2 million. Now, if you want to go down and look, we’ll
+both go down and look.
+VICE CHAIRMAN MCDONOUGH. If you go down and look, there could be two
+openings on the Committee. [Laughter]
+CHAIRMAN GREENSPAN. You’re still trying to figure out ways to improve this
+place? [Laughter]
+MS. MINEHAN. There’s no uncertainty about the risk of doing that!
+CHAIRMAN GREENSPAN. In any event, I think the argument that the geopolitical
+risks are affecting economic activity has a certain credibility, but there is no way to know how
+much. You can argue that the Iraqi and Venezuelan situations are having a negative effect, but
+you obviously can’t argue that all of the negative effect bearing on current economic activity is a
+result of concerns about oil. I do think that the fact that the economy slowed so quickly as the
+price of oil rose suggests that oil is playing a part. Moreover, it is significant that the stock
+market rose sharply and oil prices fell abruptly as the time for a final decision on an Iraqi war
+
+March 18, 2003
+
+74 of 101
+
+moved closer. Governor Bernanke has noted that the hurdle rate goes up as we get closer to the
+event, but that presupposes a risk-neutral and not a risk-averse view of the world. So, why is it
+that merely moving up the time when an event will take place creates a significant change in one
+direction or the other when nothing has occurred to alter the way people view how things will
+turn out? That should not happen unless there are very significant risk-adverse characteristics in
+the market.
+What we are in fact observing here, a very sharp reaction, is evidence in my view that the
+Iraqi war issue is a relevant consideration. In particular, the role of Iraq strikes me as a crucial
+factor in light of the recent behavior of the oil, stock, and bond markets. As I’ve said previously,
+we may think that the probability of a very favorable outcome in Iraq is 90 percent, but the
+10 percent residual is very scary. That 10 percent continues to be very scary because nothing has
+happened to change the outlook significantly. I would also note that the acceleration in
+economic activity from Christmas to early February seems indicative of the fact that some fairly
+positive developments must have been going on in the underlying economy, which may or may
+not have been brought up short by the acceleration in oil prices.
+The point I’m trying to make is that we should be in a far better position to assess the
+underlying strength of the economy once the major uncertainties about the Iraqi war are
+resolved, especially if it goes the way people expect. We will then be in a situation where we
+can better focus on the other uncertainties and factors affecting the performance of the economy.
+The erosion that has occurred in this economy in the last five or six weeks has been quite
+significant, and we don’t know, of course, exactly why that has occurred. There are ongoing
+developments, which have been mentioned today, that may have more serious consequences than
+we can know at this point.
+
+March 18, 2003
+
+75 of 101
+
+The natural gas issue is a very big question. We are drilling very heavily for natural gas.
+Yet marketed production barely moves. That’s largely because improved technology has made it
+possible to drain probably half the reservoir of a new natural gas field in the first year. Since we
+are putting so much of our infrastructure investment spending for energy production into a whole
+set of gas turbine based systems, our only new source of gas is liquefied natural gas. We cannot
+increase domestic production, and we cannot increase our pipeline imports of natural gas
+significantly, of which something on the order of 4 trillion cubic feet per year are coming in from
+Canada. As a consequence of that, natural gas could be a much more serious problem than we
+realize, and it could have a fairly significant impact on the whole petrochemical industry
+structure, which is not a small part of this economy. That has nothing to do with Iraq, but it’s a
+really fundamental problem for the United States.
+In general, I think that we have here, as a number of you have mentioned, a true
+Knightian uncertainty issue. In the past when we talked about the balance of risks, we presumed
+that we were able to judge that balance, which implies some judgment of the probability
+distribution on both sides of the forecast. As many of you have indicated, that does not seem to
+be the case at this stage. Our degree of uncertainty has gone up dramatically, largely because of
+the apparently very marked impact that the Iraqi oil uncertainty and the other geopolitical risks
+are having on economic activity. Our presumption is that, at some point in the not-too-distant
+future, we will be able to turn uncertainty into actual probability distributions on which we can
+make judgments. While we can consider as many hypotheses and scenarios as we think may
+potentially be useful, my suspicion is that we really don’t know. It’s very important for us to
+convey to the public that we don’t know because the truth of the matter is that nobody can know.
+If the Committee were to come out with either a balanced risk assessment or a sense that the
+
+March 18, 2003
+
+76 of 101
+
+risks are on the downside, I think such a statement would be conveying more knowledge than we
+can possibly argue that we have. The smartest thing we could have done last year when we set
+our meeting schedule for this year would have been to recognize that today was the wrong day to
+hold a meeting. [Laughter] I tried to convey to the Administration that we were going to have a
+meeting today and it wasn’t altogether a good idea to start a war at this particular point. But they
+must have lost my note somewhere!
+In any event, I think the bottom line here is that it is important that we communicate the
+fact that this is truly a period in which uncertainty as distinct from risk is the dominant element
+in all of our deliberations. Because of that as we move from uncertainty toward risks, the payoff
+from heightened surveillance should be very large. That is, we are going to learn a great deal
+about the economy over the next several weeks. As a consequence I think we will be in a
+position to address the issue of whether we ought to be moving or not. I do acknowledge the
+probability that our next move is more likely to be a reduction than an increase in rates, but I do
+not base that on any knowledge that I would feel very comfortable with. It’s more an instinctive
+than an intellectual judgment. In the circumstances, I think we probably ought to stay where we
+are, indicate that we do not have the capability of truly making a judgment about the balance of
+risks, but nonetheless indicate that we continue to view the underlying structure of the economy
+as consistent with a favorable outlook.
+Factors supporting this assessment include improving productivity; I think the staff
+forecast for this quarter is a 3 percent rate of increase. This suggests that the potential for growth
+of profitability obviously still has considerable possibilities. If the stock market goes up, history
+tells us that people who are very depressed will rapidly cheer up a good deal. In my experience
+there is nothing more effective for boosting a company’s capital appropriations than having its
+
+March 18, 2003
+
+77 of 101
+
+stock price go up. That shouldn’t happen, but it does. Well, I shouldn’t say it shouldn’t. It does
+say that the market value of existing assets has gone up and therefore the opportunity cost of new
+assets has basically decreased. So it is quite conceivable that, if the stock market rallies
+significantly, we may find that this economy will begin to look like the Greenbook forecast. If it
+doesn’t, then I think there will be a fairly strong argument that we should start to ease policy.
+My impression is that we will probably know a good deal more before the next meeting. If
+indeed that is the case and action is required, we probably would be well advised to have a
+telephone conference and decide whether or not there’s any action we wish to take or what we
+wish to do. Vice Chair.
+VICE CHAIRMAN MCDONOUGH. Mr. Chairman, I assume that what you are
+recommending is that we do nothing today, that we have no balance of risk statement, and that
+we remain very alert to developments. Assuming that’s what you are recommending, I’m fully
+in favor of it.
+CHAIRMAN GREENSPAN. Governor Ferguson.
+MR. FERGUSON. I support the combined recommendation of the Chairman and the
+Vice Chairman. [Laughter]
+CHAIRMAN GREENSPAN. He merely interpreted what I said!
+MR. FERGUSON. The recommendation and the interpretation. [Laughter]
+CHAIRMAN GREENSPAN. That’s better. Governor Bies.
+MS. BIES. I support your recommendation.
+CHAIRMAN GREENSPAN. President Hoenig.
+
+March 18, 2003
+
+78 of 101
+
+MR. HOENIG. Well, I support your recommendation, Mr. Chairman. But I have a
+question for you. Are you planning to say in the press statement that we stand ready to move, or
+are you just leaving that open?
+CHAIRMAN GREENSPAN. No, I think what we would want to do essentially is to
+stipulate that because we’re presumably moving from a period of uncertainty to one of risk we
+are involved in heightened surveillance, which implies that our policy will depend on how the
+situation unfolds. For example, the stock market is up 20 percent in Europe. If it stays there,
+that’s going to change a lot of things, but I don’t know if it’s going to stay there. So it’s too soon
+to move in one way or the other.
+MR. HOENIG. Yes, I agree. It wasn’t clear to me how you were planning to explain our
+posture to the public. That answer was helpful. Thank you.
+VICE CHAIRMAN MCDONOUGH. The idea is to have the possibility but not the
+certainty of a move; otherwise the market will be waiting every morning for us to have a
+meeting.
+MR. HOENIG. Absolutely.
+CHAIRMAN GREENSPAN. Governor Kohn.
+MR. KOHN. I support your recommendations, Mr. Chairman. I think, as I noted in my
+comments, that we really don’t know enough to say anything. I would also agree with President
+Hoenig in that I would try to stay away from building up expectations in the market that we are
+about to do something. Although we may get clarification over the next few weeks, I think the
+probabilities are very high that we could get to the next meeting before we have an idea—and
+even then it might not be really clear—of where things are going.
+CHAIRMAN GREENSPAN. President Guynn.
+
+March 18, 2003
+
+79 of 101
+
+MR. GUYNN. Mr. Chairman, I support your recommendation. My staff and I struggled
+mightily with how we would handle the balance of risks statement. Hats off to the person who
+first came up with the idea.
+CHAIRMAN GREENSPAN. It was a combination of the great insights of Governor
+Kohn and Vincent Reinhart.
+MR. GUYNN. Hats off to Don and Vincent. I would also echo Don’s comments about
+the need to be careful that we don’t go too far in implying that a move is imminent. Thank you.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. I support the recommendations. I’d like to say three other things.
+First, I actually buy the Knightian uncertainty analogy and using that as a rationale for deferring
+the announcement of our judgment on the balance of risks. Second, as Dave pointed out, there is
+a strong possibility that in fact we’re not going to know that much very soon for various reasons
+that have come up around the table, and I think we want to guard against making uncertainty
+disabling. That is, in my view we ought to have a call in a few weeks, and we ought to be
+thinking about acting even in the presence of continued Knightian uncertainty. The situation
+may not be convertible to nice probability distributions, but we may still have to act. I believe
+that we ought to prepare ourselves for that possibility mentally. My third point is that the funds
+rate is low; and if it goes down any more, it will get lower still. [Laughter] I’m just trying to lay
+this out in small steps! [Laughter] If it gets down much lower, we’re soon going to have to
+confront the alternative or untraditional measures that we’ve been telling ourselves we have in
+our quiver that we can use in such circumstances. It’s not too soon to start thinking about what
+we’re going to do and also what we will look at to know how well we are doing. I believe we
+have to think about both and fairly soon.
+
+March 18, 2003
+
+80 of 101
+
+CHAIRMAN GREENSPAN. May I interject a comment here? Ned and I had a
+discussion about this yesterday. We have to be very careful, if we’re looking at new techniques,
+not to get ourselves involved in any pegging of intermediate- or longer-term rates. I say that not
+because we couldn’t make it happen but because the problem of unwinding that sort of peg will
+result in utter chaos. We have no choice but to fix the overnight rate because we’ve tried
+everything else and nothing else has worked. Pegging the overnight rate is a fallback position
+and one that I’m sure we would endeavor to work our way out of if we could. If we decide that
+we want to move to the intermediate rates to try to support rates, the last thing we want to do is
+to mention what our goal is because we will never be able to unwind from that if we get locked
+in to a specific pattern. I agree with Governor Gramlich that it’s certainly not too soon to give
+some thought to these issues. But we have to be careful in determining not only how we phase
+our way into a particular policy but how we phase our way out. In many respects, the latter is far
+more difficult than the former.
+VICE CHAIRMAN MCDONOUGH. Mr. Chairman, the present Manager of the System
+Open Market Account and I, as a previous Manager, are absolutely in agreement with you. We
+cannot peg an intermediate rate. It would be very, very dangerous to try to do that.
+CHAIRMAN GREENSPAN. President Pianalto.
+MS. PIANALTO. I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Santomero.
+MR. SANTOMERO. I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. Mr. Chairman, although I think an economic case can be made for easing
+policy, I support your recommendation. I would also suggest that the idea of having a
+
+March 18, 2003
+
+81 of 101
+
+conference call strikes me as very useful. It may be that a call wouldn’t necessarily be scheduled
+only for the purpose of considering a policy change. If we’re going to have the events that we’re
+all anticipating imminently, it seems to me that a call next week or even—
+CHAIRMAN GREENSPAN. Next week will be too soon. We won’t know enough in a
+week.
+MR. PARRY. I’m thinking only in terms of getting updates from the staff about how
+things are unfolding, not in terms of any consideration of policy action.
+CHAIRMAN GREENSPAN. Well, what is the Committee’s general view on this? I
+remember that at the time of the October 1987 stock market crash we had daily conference calls
+for general updates.
+MR. PARRY. We did.
+CHAIRMAN GREENSPAN. I don’t think a daily call is required, but if you’re talking
+just about basic updates, is there interest in doing that?
+VICE CHAIRMAN MCDONOUGH. I’d suggest weekly.
+CHAIRMAN GREENSPAN. Yes, perhaps weekly.
+MR. PARRY. Fine.
+MS. MINEHAN. That’s a great idea.
+CHAIRMAN GREENSPAN. One of the advantages of doing that, incidentally, is that
+the interaction among the Committee members will create a higher level of insight as to what is
+going on. Too often that kind of discussion would be a waste of time. I don’t think it would be
+in this case. So shall we commit to that?
+SEVERAL. Yes.
+CHAIRMAN GREENSPAN. Okay, let’s do it. President Stern.
+
+March 18, 2003
+
+82 of 101
+
+MR. STERN. I support your recommendation.
+CHAIRMAN GREENSPAN. President Poole.
+MR. POOLE. Mr. Chairman, I support your recommendation on the intended federal
+funds rate, but I have a question about the other two aspects of it. I agree completely with your
+rationale and your discussion about the difficulty of assessing the balance of risks. What I’m
+concerned about is that people in the markets didn’t hear our discussion on that and it may be
+very difficult to convey our meaning. I think we want to be careful that we don’t create any
+uncertainties that produce more problems than we’re trying to solve. That’s one concern I have.
+My second concern relates to the issue of heightened surveillance. I think the markets
+understand that we’re always on the job. Therefore, my concern is that people may look at that
+and think we’re likely to do something in response to an event when in fact the event falls short
+of a situation in which we would want to act. So my concern relates to how we accurately
+convey our intent.
+CHAIRMAN GREENSPAN. Well, I think we can try, but we will never succeed in that
+respect. There’s no way of so manipulating the views and attitudes of the marketplace that we
+can expect to alter them in a period like this. When there is continuity in the marketplace, I think
+we do convey our intent, and I think we do it rather well. But this is a discontinuous event with
+very significant implications. We are not going to avoid the general reactions that may best be
+characterized as the market trying to figure out what this group is going to do at any particular
+point in time. We have to grin and bear it and do what we think is right, and that problem will
+gradually disappear. It should not be a problem that, at least in my judgment, will create a big
+market distortion.
+VICE CHAIRMAN MCDONOUGH. I agree.
+
+March 18, 2003
+
+83 of 101
+
+CHAIRMAN GREENSPAN. President Broaddus.
+MR. BROADDUS. Mr. Chairman, I can accept your recommendation. I have some of
+the same kinds of reservations and concerns that Bill Poole just expressed. I understand your
+rationale, and I think it makes sense. But this is a change, and I’m nervous because I don’t know
+how the markets and the public more broadly are going to accept it. So when we write our
+statement, I think the choice of language is going to be very important.
+CHAIRMAN GREENSPAN. Well, the draft language does try to deal with that. I’ll
+circulate the draft so you’ll get a sense of what it tries to convey. Let me just say this, however.
+There is no way we can get this done without a part of the market distorting what it is we’re
+trying to do. I know of no words that we can use to avoid that.
+MR. BROADDUS. I agree.
+CHAIRMAN GREENSPAN. Basically, the only questions we have to be concerned
+about are, does it undermine the structure of the market or does it significantly affect the
+credibility of this institution? I think the answer is “no” in both cases. But I’m also confronted
+with Knightian uncertainty in this respect.
+MR. BROADDUS. If I could, I’d like to follow up briefly on the conversation you were
+having with Ned a minute ago. I would urge the Committee to think a bit more fully about how
+we would deal with the risk of deflation, and especially public concern about deflation if that hits
+us, should we get into a situation where we’re closer to the zero bound. I personally don’t think
+deflation is a major current threat. I’m probably one of the more sanguine members of the group
+here in that regard, and maybe it’s odd for me to be the one making this statement. Looking
+ahead, however, I do think that deflation is arguably a more serious potential problem than
+inflation for the intermediate term, and I don’t think we can assume that the confidence the
+
+March 18, 2003
+
+84 of 101
+
+public has in the Fed to contain inflation necessarily carries over to deflation. We don’t have a
+very good track record in dealing with deflation.
+CHAIRMAN GREENSPAN. We had only one event.
+MR. BROADDUS. That’s right.
+CHAIRMAN GREENSPAN. We’re 0 for 1.
+MR. BROADDUS. In any case, while I don’t expect this, it’s not hard for me to imagine
+events unfolding in such a way in the current period of volatile situations that we could find
+ourselves approaching the zero bound. Actually, I think it’s easy to imagine a situation where
+the funds rate moves below 1 percent fairly abruptly. I’m not anticipating that, but it’s certainly
+possible to imagine it. If the funds rate moves below 1 percent, the public’s concern about
+exactly how we’re going to deal with a deflationary situation is going to intensify quickly. We
+need to be prepared to answer those kinds of questions and assure the public that what has been
+happening in Japan is not going to happen here. While we at the Federal Reserve have made a
+couple of public statements regarding deflation, we haven’t said very much. I think we’re going
+to be pressed to say much more if we get in this situation. For our own benefit, among other
+things, I think we need to consider how we would measure the stance of policy and discuss
+policy operationally in the neighborhood of the zero bound. For example, one question is, will
+we have an operating instrument that will be a substitute for the funds rate if we are at zero or
+very close to zero? If so, we have to have some way of instructing the Desk on how to
+implement policy. I don’t know what that instrument would be, so we need to think about
+whether we are going to have one and what it would be.
+My own view is that it would be helpful, to me at least, if the staff could give us a “think
+piece” that might suggest in some detail what a Bluebook at the zero bound might look like.
+
+March 18, 2003
+
+85 of 101
+
+What kinds of alternatives would be presented there? In any event, I think getting out in front of
+this issue would help us avoid making policy mistakes and also help prevent public confusion
+and fear that might make the situation worse than it needs to be. We may think we have time to
+do this, but I’m not sure we do. We could find ourselves in a situation like this relatively
+quickly.
+CHAIRMAN GREENSPAN. I agree. I don’t think we have much time, but I believe
+we’ve done a lot more thinking about this than is implied by your remarks. The real danger here
+is that this market is running up on the expectation that the real problem is the Iraqi war, that we
+are going to get the Iraqi war resolved, and that there’s an increasing likelihood that nirvana
+exists somewhere out there. If indeed there are far more deep structural imbalances in the
+system than we perceive or than the market perceives, then the economy could turn around very
+quickly. In other words, in my view the deflation you’re concerned about cannot exist unless
+there is an asset price deflation. The possibility that there will be a false run-up that fails to take
+hold is a perfectly credible scenario, and the reactions could be quite significant. In that event, I
+think we would have to move in a very expeditious manner. But you’re raising a question of
+what type of move we would make, and there has been quite a lot of thinking on that question.
+MR. REINHART. Actually, Mr. Chairman, I have had the staff start a fact book on the
+zero bound situation, which will list the unusual actions mentioned in the recent speeches by you
+and Governor Bernanke. It will include the authority under which the actions can be taken and
+any historical precedent. The work has been fairly closely held because I had some concerns
+about what would happen were it to become known that we were actively engaged in
+contingency plans about the zero bound. I’ve also asked the staff to look into some other issues,
+such as whether difficulties are posed already by the compression of deposit rates and money
+
+March 18, 2003
+
+86 of 101
+
+fund rates. So, we are looking at that and questioning whether there are any other consequences
+for the functioning of money markets—problems that the Bank of Japan sometimes complains
+about—that would possibly incline you to resort to unusual policy actions before you get the
+nominal funds rate to zero. I know that Dino, working with the Research Department at the New
+York Fed, has been looking into these issues as well. I guess it might be helpful to get a little
+guidance from the Committee about whether there is a memo in my future. [Laughter]
+CHAIRMAN GREENSPAN. Well, you are looking at the question of at what point
+money market funds run into trouble and at the timing of other structural difficulties in the
+system that may occur well before we get to the zero bound.
+MR. REINHART. People are working on a couple of aspects of that. We’re looking at it
+in terms of depositories, the compression of deposit rates and money fund rates, and just
+generally wondering about market functioning. For instance, if the general collateral rate is
+½ percent, then the unattractiveness of failing to deliver securities is not particularly high.
+MR. FERGUSON. I would argue two things, Mr. Chairman. One relates to your last
+point, which is similar to what Al Broaddus had to say. It’s not the zero bound that is necessarily
+driving this. Second, obviously on September 11 or shortly thereafter, we saw some of this as
+we were pumping a lot of liquidity into the markets. It will be very interesting to see if anything
+came out of that because we are talking about exactly that same kind of quantitative activity,
+though for a different purpose obviously.
+CHAIRMAN GREENSPAN. Governor Olson.
+MR. OLSON. I support both parts of the recommendation.
+CHAIRMAN GREENSPAN. President Moskow.
+
+March 18, 2003
+
+87 of 101
+
+MR. MOSKOW. Mr. Chairman, I support the recommendation, too, and I’m delighted to
+hear that this contingency planning is already under way. I certainly hope we never have to use
+it, but I think it is important that we do the planning now. I have just one comment regarding the
+phrase “heightened surveillance.” I hope we’re going to use that phrase or something like it in
+the press statement because I know that market analysts have discovered that every time we’ve
+used the words “monitor carefully” in the past we have had a move between meetings.
+CHAIRMAN GREENSPAN. We’ve chosen not to use that wording.
+MR. MOSKOW. I’m delighted.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. I agree that we should not make a policy change at this meeting. Now
+is not the time to move. My desire would be to stay as low key as we possibly can and let things
+play out over the next couple of weeks whatever way they’re going to play out. The second part
+of your recommendation I have a bit more trouble with. I do think the risks are on the downside,
+and I don’t see a big problem with saying that. When we characterize the risks, we talk about
+them for the “foreseeable future.” Certainly the long-term fundamentals continue to be good—
+productivity, inflation credibility—but for the foreseeable future, some of the short-term
+fundamentals are kind of dicey. There are concerns about excess capacity in the case of business
+investment and concerns about employment, income, and the potential for declines in house
+prices on the consumer side. So I do think that the risks are on the downside, recognizing that
+uncertainty clouds our ability to assess exactly where the risks are.
+I can go along with the recommendation to change the format in our press statement. I
+think the market is going to read that, particularly in the context of your recent testimony or one
+of your speeches—I forget which—as basically saying that there is a probability of an uptick
+
+March 18, 2003
+
+88 of 101
+
+after uncertainty abates and attributing that uncertainty clearly to the war. In my view, the
+markets are going to read the fact that we don’t make a statement about the risks as effectively a
+move to the downside, so I guess I don’t have much of a problem with that. But frankly, I think
+saying that the risks are to the downside is better because it keeps us closer to the norm and takes
+us more out of play. To me doing something different puts a little more focus on the central
+bank than I think is desirable at this point, but on balance I don’t have a big problem with it.
+I’d also like to associate myself with Ned Gramlich’s perspective that uncertainty itself
+can be paralyzing. I remember reading the discussion from the last meeting where we thought
+we’d have a lot more information by March 18. As it turns out, we don’t have a lot more
+information.
+CHAIRMAN GREENSPAN. Well, that was my forecast.
+MS. MINEHAN. Well, we don’t have a lot more information as of March 18, and I don’t
+know whether we’re going to have a lot more information by early May.
+CHAIRMAN GREENSPAN. Actually we do have more information.
+MS. MINEHAN. More negative information.
+CHAIRMAN GREENSPAN. No, not necessarily.
+MS. MINEHAN. The war is starting.
+CHAIRMAN GREENSPAN. Incidentally, remember that I testified as I did regarding
+the probabilities of a strengthening economy because that was consistent with the actual
+forecasts of the members of this Committee.
+MS. MINEHAN. That’s right.
+CHAIRMAN GREENSPAN. I was locked into explaining why everybody had an
+accelerating growth forecast back in late January.
+
+March 18, 2003
+
+89 of 101
+
+MS. MINEHAN. That’s right. I shouldn’t have laid it so much at your doorstep. That
+was what we said in our forecasts as of the January meeting because those forecasts picked up
+the trend from the end of last year and into the early weeks of this year. That’s clear. But I think
+the market is going to read the absence of a statement of risks as effectively a move slightly to
+the downside. I’m okay with that, but I would hope, along the line of Ned’s comments, that
+uncertainty does not paralyze us
+CHAIRMAN GREENSPAN. It really hasn’t in the past. We have moved on
+innumerable occasions when we didn’t have very much of a clue as to how the markets were
+evolving. Governor Bernanke.
+MR. BERNANKE. Mr. Chairman, I support both parts of the recommendation.
+CHAIRMAN GREENSPAN. President McTeer.
+MR. MCTEER. So do I.
+CHAIRMAN GREENSPAN. Do we have anybody else?
+VICE CHAIRMAN MCDONOUGH. That does it.
+MR. GRAMLICH. Now for the high moment of the day, what are you going to read?
+MR. BERNARD. Well, what I will be reading is from page 13 in the Bluebook.
+CHAIRMAN GREENSPAN. Yes, what we vote on is the language shown in the
+Bluebook.
+MR. BERNARD. The directive wording is the following: “The Federal Open Market
+Committee seeks monetary and financial conditions that will foster price stability and promote
+sustainable growth in output. To further its long-run objectives, the Committee in the immediate
+future seeks conditions in reserve markets consistent with maintaining the federal funds rate at an
+average of around 1¼ percent.”
+
+March 18, 2003
+
+90 of 101
+
+CHAIRMAN GREENSPAN. Call the roll.
+MR. BERNARD.
+Chairman Greenspan
+Vice Chairman McDonough
+Governor Bernanke
+Governor Bies
+President Broaddus
+Governor Ferguson
+Governor Gramlich
+President Guynn
+Governor Kohn
+President Moskow
+Governor Olson
+President Parry
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+CHAIRMAN GREENSPAN. Would you circulate the draft press statement? Is that
+generally acceptable?
+VICE CHAIRMAN MCDONOUGH. Bravo!
+CHAIRMAN GREENSPAN. Hearing no objection, the last item on the agenda is the
+date of our next meeting.
+MR. BERNARD. May 6.
+CHAIRMAN GREENSPAN. Our next official meeting is May 6, but we will be
+meeting, obviously, via weekly telephone conferences. I suspect the first one will be next
+Tuesday. We will do it on Tuesdays. We’ll have the staff circulate a questionnaire to try to
+determine what times would be most convenient for the majority of members to have those
+telephone conferences in view of the fact that a lot of people have previous commitments. We’ll
+try to work it out in a way that is least disruptive. Okay?
+We have no luncheon agenda, so those of you who would like to catch a plane may wish
+to leave before lunch.
+END OF MEETING
+
+

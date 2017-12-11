@@ -1,0 +1,3517 @@
+Meeting of the Federal Open Market Committee
+May 18, 1982
+
+A meeting of the Federal Open Market Committee was held in the
+offices of the Board of Governors of the Federal Reserve System in
+Washington, D. C., on Tuesday, May 18, 1982, at 9:15 a.m.
+
+PRESENT:
+
+Mr. Volcker, 1/ Chairman
+Mr. Balles
+Mr. Black
+Mr. Ford
+Mr. Gramley
+Mrs. Horn
+Mr. Martin
+Mr. Partee
+Mr. Rice
+Mrs. Teeters
+
+Mr. Wallich
+Mr. Timlen, Alternate for Mr. Solomon
+Messrs. Guffey, Keehn, Morris, and Roos, Alternate Members
+of the Federal Open Market Committee
+Messrs. Boehne, and Boykin, Presidents of the Federal Reserve
+Banks of Philadelphia, and Dallas, respectively
+Mr. Axilrod, Staff Director
+Mr. Altmann, Secretary
+Mr. Bernard, Assistant Secretary
+Mrs. Steele, Deputy Assistant Secretary
+Mr. Mannion, Assistant General Counsel
+
+Mr. Kichline, Economist
+Messrs. J. Davis, Ettin, Keran, Koch, Prell,
+Siegman, and Ziesel, Associate Economists
+Mr. Sternlight, 2/ Manager for Domestic Operations,
+System Open Market Account
+
+1/
+
+Left the meeting prior to the approval of the minutes of actions and returned
+prior to the action to ratify System Open Market transactions in Government
+securities, agency obligations, and bankers acceptances.
+
+2/
+
+Entered the meeting prior to the action to ratify System open market
+transactions in Government securities, agency obligations, and bankers
+acceptances.
+
+5/18/82
+
+- 2 Mr. Coyne, Assistant to the Board of Governors
+Mr. Gemmill, Associate Director, Division of
+International Finance, Board of Governors
+Kohn,
+Senior Deputy Associate Director, Division of
+Mr.
+Research and Statistics, Board of Governors
+Mr. Lindsey, Assistant Director, Division of Research
+and Statistics, Board of Governors
+Mr. Robinson,3/ Assistant Director, Division of Federal
+Reserve Bank Operations, Board of Governors
+Mrs. Deck, Staff Assistant, Open Market Secretariat,
+Board of Governors
+Messrs. Balbach, Burns, T. Davis, Eisenmenger, Fousek,
+Mullineaux, Scheld, and Stern, Senior Vice
+Presidents, Federal Reserve Banks of St. Louis,
+Dallas, Kansas City, Boston, New York, Philadelphia,
+Chicago, and Minneapolis, respectively
+Mr. Broaddus, Ms. Greene, and Mr. Soss, 4/ Vice Presidents,
+Federal Reserve Banks of Richmond, New York,
+and New York, respectively
+Ms. Meulendyke, Senior Economist, Federal Reserve Bank of
+New York
+
+3/ Left the meeting following the acceptance of the report of examination
+of the System open market account.
+4/
+
+Entered the meeting prior to the action to adopt the domestic policy
+directive.
+
+Transcript of Federal Open Market Committee Meeting of
+May 18, 1982
+CHAIRMAN VOLCKER.
+I want to start off with a couple of
+special items.
+The first item is welcoming Mrs. Horn to our little
+group.
+This is going to be a slightly abnormal meeting for you, as
+you will see in a minute.
+I may be leaving intermittently most or
+some of the morning. But we welcome you anyway. We have the females
+gracing the right side of the table except that we have Ms. Greene on
+the left side of the table to balance it off. The reason the meeting
+is going to be a little abnormal is that we have a rather abnormal
+development in the market to say the least. I know very few facts
+about this, unfortunately, but there is a firm--I guess we'd call it a
+firm--[involved in] highly speculative [transactions] that apparently
+has a large and highly leveraged position and can't meet its bills.
+MR. PARTEE.
+
+It was bound to happen one day or another.
+
+CHAIRMAN VOLCKER.
+big long position.
+MS. TEETERS.
+
+I don't understand it all.
+
+They have a
+
+Is this a dealer?
+
+CHAIRMAN VOLCKER.
+It's not a recognized dealer.
+It is a
+fringe operator who apparently operated in very large size. The
+varying estimates of his long position are between $2-1/2 and $4-1/2
+billion. He has been financing himself, or raising capital, with some
+kind of rinky-dink [scheme], taking advantage of conventions in the
+market where he borrows securities on the face value of the security;
+he turns around and sells them and gets the coupon and has pocketed
+the difference, apparently to finance his other operations.
+Everything was fine except that the coupons came due yesterday and he
+didn't have any money to pay the coupons. So, we have a potentially
+large amount of securities overhanging in the market in a distressed
+situation, and we're trying to figure out what to do about it.
+Chase
+Manhattan is in the middle of this as the middleman in the shorted
+securities. The people they borrowed the securities from claim that
+Chase is liable and Chase claims it is not, so we have a [mess] there.
+Losses are well in excess of $100 million just on that set of
+transactions, and we don't know what else is involved; we're trying to
+find out.
+I'm told that the bond market was off a little last night
+and off a little more this morning. I don't know whether it's due to
+this situation, but if we get a depressed market, I'm afraid we're
+going to have to support it. At this point, and I assume it's
+consistent with our Committee rules, I took some steps to get order in
+the market anyway if it goes off much more. And that's all we've done
+so far.
+MR. RICE.
+
+Is this public knowledge yet?
+
+CHAIRMAN VOLCKER. Well, not public in general.
+I don't know
+when it's going to come out and when the rumors are going to start.
+I'm sure there already are some [rumors], but I don't know how many.
+We'll see that in the market.
+This [situation] came to our knowledge
+at four o'clock or so yesterday afternoon.
+Chase and others held a
+meeting this morning; they tried to make a pro bono publico
+contribution [by providing] money to meet this payment yesterday.
+Nobody else volunteered because they all think it is Chase's
+
+5/18/82
+
+liability. And Chase hasn't come up with
+know whether they will.
+MR. PARTEE.
+
+[any money]
+
+yet.
+
+I don't
+
+This is the interest payment?
+
+Now, whether
+CHAIRMAN VOLCKER. This is the coupon due.
+there are other financing problems, we just do not know. It just
+smells as if there may be in this situation, and that's what we're
+This was pretty much a fly-by-night concern by
+trying to find out.
+all indications. They were obviously operating in very large volume.
+MR. PARTEE.
+
+A fly-by-night concern with $4-1/2 billion in
+
+[longs]!
+CHAIRMAN VOLCKER. The latest report is that they "only" have
+But they may be put into bankruptcy for
+$2-1/2 billion, so we'll see.
+that, in which case everybody who is financing that position is going
+And it will ricochet back into other financing
+to be frozen.
+So, it
+arrangements, I'm sure, in the government securities markets.
+Ultimately, if there's no other
+could be a very large problem.
+solution, we might just have to stabilize this market for a period of
+So, I just
+time. At least I can see that as a possible scenario.
+took this very preliminary step of keeping in touch with the market if
+I think the next step, if the market comes under
+it really goes off.
+more pressure, is that we'll just have to go in openly and buy some
+bonds.
+That is very insufficient knowledge, but it about summarizes
+The other lenders involved in this particular
+what I know, frankly.
+short-selling operation are apparently major security houses in New
+York. There is a group of 7 or 8 of them; they're all well-known
+They should be able to withstand the loss if things ever
+firms.
+But that doesn't mean it
+settle, so far as we know about the loss.
+Any
+won't send ripples of very deep concern all through the market.
+comments or questions that I won't be able to answer?
+Paul, as the Federal Reserve, what is our
+MR. ROOS.
+Is that
+responsibility in a situation like this--just to keep order?
+I'm
+our concern, rather than letting it take its normal course?
+asking that naively, I really am.
+CHAIRMAN VOLCKER.
+MR. PARTEE.
+
+Well, my concern is just a very--
+
+We have a disorderly market clause, don't we?
+
+We do in the foreign [currency authorization]
+MR. TIMLEN.
+and I thought we had it on the domestic side, too.
+MR. PARTEE. We used to have one fairly customarily:
+realize it had dropped away.
+MR. BALLES.
+
+Maybe we better [adopt]
+
+I didn't
+
+one fast!
+
+CHAIRMAN VOLCKER. Well, we may want to adopt one; I wouldn't
+Let's see what happens and
+suggest that we do so right at the moment.
+Our general responsibility is to the
+we can adopt one if we have to.
+[That calls for] some judgment about
+economy most broadly. Larry.
+what is good in terms of the economy. The problem in this case, as in
+all cases, is that the guy who is responsible is only the smallest
+
+5/18/82
+
+part of the problem. If all of the financing arrangements in the
+government securities market are disrupted, we have a major problem.
+MR. BOEHNE. Do you have any idea at this point what other
+banks are involved or how long the list of banks is other than Chase?
+CHAIRMAN VOLCKER. Well, Chase is the only bank involved in
+this particular operation. But we don't know what else is involved.
+I suspect there are perhaps many billions of uncleared transactions
+sitting out there where other banks would be involved.
+MR. PARTEE. And the threat, as you see it,
+have to dump the government [securities]?
+
+is that they may
+
+CHAIRMAN VOLCKER. Well, there are two threats.
+One is that
+not only they, but everybody else who anticipates the side effect will
+be dumping; they will sell their own. That's the market effect, which
+I think can be withstood in and of itself. The more dangerous thing
+is that nobody will want to finance anybody anymore.
+MR. PARTEE.
+unhappy development.
+
+Well, a little caution in financing is not an
+
+CHAIRMAN VOLCKER.
+
+"A little" I agree with.
+
+MR. PARTEE. We've known of these fly-by-night operators; I
+don't think this one fits your description. I don't think it's the
+But, you know, it's one of
+one we've been tracking but another one.
+those things. There are very bad practices in the market.
+CHAIRMAN VOLCKER. This one apparently took advantage of the
+market convention. What I don't know is the [nature of the] financing
+of the rest of the position--the long position--and whether that's a
+standard financing operation in which there would be a reasonable
+margin or whether they cut corners there.
+The margins [in the market]
+If there is a normal
+are all low, but there is some distinct margin.
+margin on the RPs, there's a little margin of protection. If there is
+not a normal margin on those RPs, bigger losses are staring us in the
+face out there from a variety of people we don't know about.
+There's
+some indication, and it's subject to confirmation, that the major
+lenders are New York banks. We may have to get the banks together at
+some point along the line.
+MR. BALLES. Mr. Chairman, although we obviously could make a
+good case for preventing disorderly conditions in my opinion, just
+Is there any risk of our being accused of
+looking at the other side:
+a bail-out of private dealers or whatever?
+CHAIRMAN VOLCKER.
+MR. FORD.
+
+Yes.
+
+I was thinking the same thing, Paul.
+
+CHAIRMAN VOLCKER.
+
+There is no way to avoid that.
+
+MR. BOEHNE. They're in the bucket [because of] a skinny
+premium or cushion: obviously, the cushion has to be a function of
+If we go in and protect the cushion, we
+what happens in the market.
+could be accused of bailing out the banks and the security houses.
+
+5/18/82
+
+CHAIRMAN VOLCKER.
+last resort.
+MR. PARTEE.
+
+That is the nature of being a lender of
+
+We did very little for Brown.
+
+MR. MORRIS.
+But the U.S. Treasury has an interest in
+preserving the market for its securities when it's running a deficit
+of a hundred billion dollars plus.
+I think that's the public interest
+in this market.
+MR. MARTIN. And, of course, if we only support the market as
+it drops, we don't bail out a small margin operator that way. We
+simply prevent the market from discontinuity.
+CHAIRMAN VOLCKER. As near as I can figure out, the short
+sellers, the lenders of the securities, will benefit from a market
+drop. But lenders on the long side will be hurt by the market drop.
+MR. FORD.
+specifically?
+
+Has the Treasury asked us to do anything
+
+CHAIRMAN VOLCKER. They are aware of the situation. There's
+If it gets
+no question in my mind that this is a matter of judgment.
+bad enough, we can't stay on the side or we'd have a major liquidity
+crisis.
+It's a matter of judgment as to when and how strongly to
+react. We are not here to see the economy destroyed in the interest
+of not bailing somebody out.
+The market was still going off the last
+you heard, Mr. Sternlight?
+MR. STERNLIGHT. It was down, but not snowballing.
+It seemed
+to be steady at that opening mark of down 1/4 to 1/2 or 5/8 of a
+point.
+It was not snowballing.
+CHAIRMAN VOLCKER. And there weren't any rumors of this or
+gossip in the market yet that you were aware of?
+MR. STERNLIGHT. Well, I'm sure that a lot of firms are
+talking about it.
+I'm sure this is getting around. We were not
+hearing about it at our Desk, though.
+I don't know that it was
+getting out to the extent that it would be on the news ticker.
+MR. MARTIN. When you have six principal dealers and several
+commercial banks and they're all talking back and forth with their
+lawyers and their accountants, it's out.
+The question is:
+How much
+of it is out and what is the reaction of the market?
+There are no
+secrets in this business.
+MR. WALLICH. Well, if we have to support the long end of the
+market, I assume we can undo that at the short end so that we don't
+change the volume of reserves?
+MR. STERNLIGHT.
+I'm sure that any reserve impact of whatever
+the Committee decided it was necessary to do in the way of cushioning
+a decline could be quickly offset.
+MR. GRAMLEY. But I'm not at all sure that the objective
+should be to offset the reserve impact.
+We're talking about what may
+well be a marked increase in liquidity preference. And if so, we've
+
+5/18/82
+
+just got to accommodate it.
+We are looking at an economy that the
+latest Redbook suggests is teetering on the brink of going over the
+There are lots of very
+edge. Attitudes are very, very pessimistic.
+worried people out there. Add to this atmosphere a financial crisis,
+and there's just no question in my mind that that is the factor that
+will push us over the edge.
+We can't afford to [allow] that. We
+cannot let devotion to a predetermined path of reserve growth or money
+growth permit us to commit a major crime against the U.S. economy.
+It
+just can't be done.
+MR. WALLICH. Well, before we depart massively from our
+targets, I think we ought to be very clear that that is the situation.
+We can't start off with that assumption without evidence.
+MR. GRAMLEY. But I think the Chairman's approach to this, if
+I understand it, is to be ready in case the market is not functioning.
+CHAIRMAN VOLCKER. That is the approach for now. I just
+wonder how bad this is going to get and I don't think we can answer
+your question for the reason that Lyle suggested.
+If this is a minor
+thing, and we buy some bonds and the situation calms down, of course,
+we'll offset it.
+If it turns into a major liquidity problem--just to
+put it at the other extreme--we not only want to offset it, we will
+liquify the market.
+That's the judgment that has to be made at some
+point along the line.
+MR. PARTEE.
+[Prices in] the long market have been inching up
+These people must have been pretty deep
+over the last six weeks.
+under water.
+CHAIRMAN VOLCKER.
+MR. FORD.
+longer maturities?
+
+Are the positions you're talking about mainly in
+
+CHAIRMAN VOLCKER.
+MR. FORD.
+
+That's one of the mysteries of this.
+
+I wish I knew.
+
+You don't know?
+
+CHAIRMAN VOLCKER.
+
+They're not in bills; they are not largely
+
+in bills.
+MR. STERNLIGHT. A small part is in bills and a long position
+We don't have a
+of around $2-1/2 billion is in notes and bonds.
+detailed maturity breakdown at this point.
+MR. MARTIN.
+$2-1/2 billion!
+
+When Peter says small, he means relative to
+
+CHAIRMAN VOLCKER. We are operating in considerable
+ignorance.
+But the heart of this problem is not the immediate impact
+on the bond market; it's a loss to lenders who are not used to taking
+losses on financing U.S. government securities, to say the least.
+MR. MORRIS.
+
+And who may overreact to that situation.
+
+5/18/82
+
+When you say bailing out the market and
+MS. TEETERS.
+liquifying it, do you mean stabilizing it at some interest rate or
+Or have you no idea at this point?
+letting it move a certain amount?
+CHAIRMAN VOLCKER. Well, I don't think we can tell; we don't
+In the extreme, I think we have to
+know what the problem is.
+In stabilizing the bond market we might
+stabilize the bond market.
+have to liquify the money market in the process; it's at the opposite
+extreme. We'd pull out every tool we have if we got an extreme enough
+situation.
+I'm just trying to think through, Paul, how it
+MR. FORD.
+could foul up our operations in New York. One obvious channel would
+be if the losses hit the reputable dealers to the point where it
+imperils their capital position. That would obviously be of great
+concern to us.
+CHAIRMAN VOLCKER. Well, that concern is not foremost in my
+mind.
+I don't say it's impossible, if things got bad enough, but the
+most immediate risk is a freezing up of the whole market.
+MR. PARTEE.
+Do you mean because people won't lend on
+governments? But they would lend at some margin, wouldn't they?
+CHAIRMAN VOLCKER. Well, yes.
+In a rational world they'd
+increase the margins a little. We'll see what happens.
+I don't know.
+MR. MARTIN. But if there are bankruptcy proceedings, of
+course, that begins to freeze assets.
+CHAIRMAN VOLCKER. I would remind you that there may be a
+good many money market funds that are making RPs in the market and it
+may have been far from their imagination that they or their customers
+were ever going to take a loss.
+MR. PARTEE.
+MR. BLACK.
+
+It's the risk of the game.
+I told you all not to trust those M2 figures!
+
+CHAIRMAN VOLCKER. All we've done at the moment is to take a
+precautionary step.
+I don't even know whether we've contacted a
+dealer yet, but we are prepared to contact a dealer if the market
+seems to show some-MR. STERNLIGHT.
+really moving situation.
+
+I thought we ought to get more evidence of a
+
+CHAIRMAN VOLCKER. Meanwhile, I will have to pursue whether
+we should talk to the New York banks or what we should do in this
+Considering that point, and in the absence of Mr. Solomon
+situation.
+who is ill, I will leave this meeting to Mr. Martin for the time
+being. Are there any other questions or comments that anyone would
+When I know more facts, I will tell you.
+like to offer at this stage?
+We literally don't know whether this is limited in terms of actual
+losses to Chase or whether the Chase operation is one example of four
+other messy situations involving this guy.
+MR. MARTIN.
+
+Where you have one, you have four.
+
+5/18/82
+
+MR. BLACK. It would be my guess that he hit every sort of
+financing he could get.
+MR. PARTEE.
+
+They usually do.
+
+CHAIRMAN VOLCKER. One possibility is that somebody is going
+to put the guy in bankruptcy within a matter of hours and, if he is
+put into bankruptcy, all those creditors are frozen. And there are a
+lot of them. Nobody quite knows what will happen. As near as I can
+understand, nobody has ever tested legally what happens to a
+repurchase agreement in bankruptcy.
+MR. BALLES.
+If it did go that route, Paul--Chapter 11 or
+whatever--is there anything that we can really do?
+MR. PARTEE. Well, if some positions are frozen, we may have
+to do some lending at the window, depending on what happens.
+But I
+agree with you that we ought to be prepared to cushion the decline and
+that we should pay not a whit of attention to the position of the guy
+who is in trouble. And we shouldn't be in a position of seeming to
+assist the banks in avoiding losses in this case.
+CHAIRMAN VOLCKER. Yes, but we can't avoid that implication
+[unintelligible]; if we do anything, somebody can accuse us of a bailout.
+MR. GUFFEY. What form of [liquification] are you thinking
+about?
+Is this an RP merely to help the major dealers carry their
+inventories?
+Is it potentially a direct loan or do we just go in and
+buy--?
+CHAIRMAN VOLCKER. All I'm talking about now is the
+possibility of buying some bonds. But, yes, we may well have to help
+people with their financing problems. But the market [people]
+generally are the people directly affected.
+MR. GUFFEY.
+
+Is that the form of the loan--just RPs?
+
+CHAIRMAN VOLCKER. Using the discount window or an RP,
+depending upon whether it's a bank or a dealer.
+MR. GUFFEY. Well, I assume we could do it with a dealer also
+through the window if we had to.
+CHAIRMAN VOLCKER. Well, if we have to, it could be through
+the window; but I think we can just do an RP quickly with the dealers.
+But it's clearly a situation where we may not wish to be constrained
+by an operating directive on precisely how many reserves to put in on
+Wednesday afternoon. We may end up putting in one heck of a lot. One
+can visualize the situation where prices are falling and rates are
+rising, with the federal funds rate very high and a lot of reserves
+out there.
+MR. MORRIS. We do have the precedent of the Penn Central
+crisis where we did have to put in a lot of reserves through the
+window. But a few weeks later that had washed out.
+I think if we
+deal with a liquidity crisis early, we can--
+
+5/18/82
+
+MR. TIMLEN.
+month and a half.
+
+It had reversed itself in about a month to a
+
+CHAIRMAN VOLCKER. We can't deal with it too late; and we
+don't want to deal with it too early.
+MR. TIMLEN. But there was also, if I remember, a calm before
+the storm. Penn Central went bankrupt on a Sunday and nothing really
+happened until a week later. And then all of the commercial paper
+We put a big bulge
+issuers had to come in with their credit lines.
+[of reserves out through] the discount window and that [crisis] was
+over by early August, as I remember.
+MR. AXILROD. I think that [crisis] was mainly handled,
+President Morris, by our removing the Regulation Q ceilings on very
+short [maturities], and the banks ended up financing the [maturing]
+CDs [with] very little [difficulty] in the end.
+
+case.
+
+CHAIRMAN VOLCKER. Well, we may have overdone it in that
+But that's the judgment one has to make.
+
+In terms of the impact on reserves over a sixMR. MORRIS.
+month period, there's very little impact left after three months, I
+think.
+CHAIRMAN VOLCKER. There wouldn't be in ordinary
+If we determined that this [situation] gave rise to a
+circumstances.
+change in liquidity preference, for which there is already some
+evidence, we would want to change the amount of reserves we put in
+more or less permanently.
+MR. MORRIS.
+
+That's right.
+
+CHAIRMAN VOLCKER. I don't think we're suffering from a
+situation where the economy is verging on too much ease.
+MR. WALLICH. This [problem] isn't happening because of high
+interest rates; he's having losses because he was short and rates have
+fallen.
+CHAIRMAN VOLCKER. This guy was apparently a real believer in
+the fact that rates were going to fall.
+MR. PARTEE.
+
+He's not the first.
+
+CHAIRMAN VOLCKER. Well, let me go find out what is going on.
+Why don't you return to the regular agenda if you have no more
+questions.
+[Mr. Sternlight and I] will be back.
+MR. MARTIN. He was short; he was long. You know how these
+operations are; they are all over the market. These things are always
+as complicated as the ingenuity of man and woman can make them.
+MR. PARTEE.
+
+And lawyers!
+
+The
+MR. MARTIN. Let's proceed with the regular agenda.
+first item is the approval of the minutes of actions taken at the
+meeting on March 29, 1930--I mean March 29-30, 1982 meeting.
+
+5/18/82
+
+MR. PARTEE.
+
+So moved.
+
+MR. MORRIS.
+
+Was that a Freudian slip, that 1930?
+
+MR. MARTIN. I have to remind you that Freud is out of
+fashion now. You have to use somebody else!
+It has been moved and
+seconded and all are in favor. All right. The second item is the
+report on the examination of the System Open Market Account.
+Are
+Clyde [Farnsworth] and the others here?
+Just Dave Robinson?
+All
+right.
+Is there any discussion or are there any questions of the
+operations staff?
+MR. PARTEE. I read the report as indicating you had no
+reservations whatsoever, Dave.
+Is that right?
+MR. ROBINSON.
+
+That is correct.
+
+MR. PARTEE.
+
+Fine, thanks.
+
+MR. MARTIN.
+
+Further discussion?
+
+MR. ALTMANN.
+
+Do we need a formal action?
+
+Just ask if there are no objections.
+
+MR. MARTIN. All right, if there are no objections, we'll
+proceed to item three.
+Gretchen [Greene] is here to report on foreign
+currency operations since the March meeting. Gretchen.
+MS. GREENE.
+Appendix.]
+MR. MARTIN.
+
+Thank you. Governor Martin.
+
+Thank you, Gretchen.
+
+[Statement--see
+
+Discussion?
+
+MR. WALLICH. Gretchen, when you described the reaction of
+foreign central banks to the decline in the dollar, would that
+reaction be indicative that their concerns over high interest rates
+really are less based on U.S. interest rates and more on conditions in
+their own countries?
+MS. GREENE. Well, to the extent that some countries are now
+finding it possible to lower interest rates in their own countries as
+they feel it is appropriate--Germany is one case in point and
+Switzerland is another--their immediate concern about the impact for
+them is not quite so great. However, they recognize that not all
+countries are in quite as fortunate a situation as they are.
+And
+there is concern about the difficulties some countries are continuing
+to face in servicing their debts and the credit implications of a
+So, I think there is still
+generally high level of interest rates.
+concern, but it's concern of a different type.
+MR. WALLICH.
+
+Thank you.
+
+MR. PARTEE. The Mexican borrowing was a window-dressing
+thing until the end of April, as I recall.
+That is, they had to have
+a certain amount of cover as of the last day of April. We are more
+than halfway through May.
+Does it repeat at the end of May or do they
+have something that they are doing that will improve their situation?
+
+5/18/82
+
+-10-
+
+MS. GREENE. Well, it may still be premature to make a
+I must say that the Chairman made it quite clear
+judgment on that.
+that he did not feel the credit that was extended at the end of April
+should be viewed as a precedent for subsequent month-end assistance.
+And the Mexicans are proceeding with their negotiations on a fairly
+large--I think $2 billion--jumbo credit.
+Whether all of this will
+fall into place in time for the end of May is one of the questions
+that remains to be answered.
+
+IMF?
+
+MS. TEETERS. Are they negotiating with banks or with the
+With whom are they negotiating for the credit?
+MR. PARTEE.
+
+Two weeks to go.
+
+MS. GREENE.
+
+They're negotiating with banks for this credit.
+
+MS. TEETERS.
+
+They have not gone to the IMF yet?
+
+MS. GREENE.
+They would prefer to be able to handle their
+problems themselves and to have a program that is sufficiently
+credible in the market that they can avoid going to the IMF.
+MR. MARTIN.
+
+Governor Partee, did you have further comments?
+
+MR. PARTEE.
+
+No.
+
+MR. MARTIN. Gretchen, a $2 billion credit would take care of
+How many weeks?
+the Mexicans for how long?
+Was it $600 million that we
+
+MR. PARTEE.
+[extended]?
+
+What did they need?
+
+MS. GREENE.
+arrangement with us].
+
+It was $600 million that they drew [on the swap
+
+MR. PARTEE.
+
+So, they are $600 million under water already.
+
+MS. GREENE. They have sizable debt service requirements in
+the next couple of months.
+They also, up until the end of April, have
+been experiencing regular capital outflows, which have had a negative
+impact on their reserves.
+I guess one of the questions still before
+the court is whether they have taken sufficient action to stem those
+capital outflows.
+MR. MARTIN.
+
+That's very politely put.
+
+MR. SIEGMAN. Governor Martin, I might just supplement that:
+Half of the jumbo credit they are negotiating is to consolidate shortterm debts, so it doesn't add to their reserve position. And the
+other half--if it's a $2-1/2 billion credit or so--would last them
+roughly one month on their own external payments schedules.
+MR. PARTEE.
+
+One month!
+
+MR. SIEGMAN. And their latest reserve figures show that they
+are somewhat worse off than they were at the end of April on their
+reserve position with regard to their note issue cover.
+So, if they
+do receive the proceeds at the end of the month as they hope, they
+
+-11-
+
+5/18/82
+
+don't have to come to us for this month. But I think what Gretchen is
+saying is on the horizon is that they may have to accelerate their
+borrowing or find some other ways to deal with the issue to rebuild
+confidence.
+MS. GREENE. The borrowing requirements are very heavy; they
+are estimating their gross borrowing for 1982 at $20 billion.
+MR. GRAMLEY. How has the market reacted to the austerity
+program, or whatever you wish to call it, that the Mexicans have put
+into place?
+MS. GREENE.
+I would say that the objectives of the austerity
+program are welcomed, but there has been some question as to the
+implementation.
+MR. FORD.
+
+They're in the middle of an election campaign, are
+
+they not?
+MS. GREENE.
+
+That's right.
+
+MR. FORD. And in Mexico, as I recall the history of that
+country, traditionally if there is a change in such a period, there is
+an outflow of investments which come back after the new president gets
+in.
+Isn't that the way it usually works?
+MS. GREENE.
+It has worked that way before.
+And, of course,
+it doesn't help matters either in terms of the [timing].
+MR. FORD. Yes, the timing is terrible. This guy is
+barnstorming all over the country telling the people the great things
+he's going to do for them and the question is whether he can [carry
+out] an austerity campaign under those conditions that satisfies them.
+MR. MARTIN. And I think here we're defining austerity as
+halting construction on four office buildings.
+MS. TEETERS.
+Gretchen, you've given a rather detailed
+explanation of why the dollar has declined and yet, as far as I'm
+concerned, it doesn't get there.
+It seems to me that the dollar
+declined without any of the traditional reasons as to why
+international values of the dollar change.
+Is speculation [the
+explanation for] what is going on in the market?
+Is there something
+other than rational [behavior]?
+Your explanations only go a little
+way toward explaining the total turmoil that has been in that market
+in the past six weeks.
+MS. GREENE.
+I share your view on that. And I answered that
+question for myself in two ways.
+First of all, there was considerable
+selling of dollars by the professionals on expectations of a drop in
+[U.S.] interest rates, not unlike what we were talking about earlier
+this morning.
+Secondly, the talk of a budget compromise was
+interpreted much more positively abroad than it was here.
+Most people
+are unfamiliar with our form of government and think more in terms of
+a parliamentary system. When they read that the President has reached
+a compromise with the Republicans in the Senate Budget Committee, [to
+them] that means that the job is pretty much done.
+The implication
+about what that would mean for the bond market was held with far
+
+-12-
+
+5/18/82
+
+greater conviction in Europe than it was here.
+if you like, in expectations.
+
+So it was a mismatch,
+
+MS. TEETERS. Are you implying, then, that the value of the
+dollar will probably rise again, assuming that the domestic situation
+stays stuck together?
+If they don't get a drop in rates, will they
+reverse that expectation and we could see a rising value of the dollar
+again?
+MS. GREENE. Well, as I said, there was some short covering.
+I didn't make a major point of it because it happened, really, in two
+days.
+It happened after publication of the retail sales figures last
+week and it happened yesterday; but it was sufficient to cut in half
+the drop in the dollar that we had recorded for the whole intermeeting
+period. The market is extremely thin.
+We ourselves had some
+correspondent business to sell about $100 million yesterday and we
+found it very difficult to do that.
+The reluctance of people to take
+positions is quite high, so that it doesn't take a very large force to
+move the prices by a considerable margin.
+MR. MARTIN. Further discussion?
+Thank you, Gretchen. Peter
+Sternlight is still working on the gathering of information with
+regard to the situation involving Drysdale Government Securities and
+its affiliates, and creditor banks and brokerage houses in New York.
+Why don't we move to Jim Kichline, who is here, and others for the
+report on the economic situation. Jim.
+MR. KICHLINE.
+MR. MARTIN.
+
+[Statement--see Appendix.]
+Thank you, Jim.
+
+Ed.
+
+MR. BOEHNE. While there are pockets of prosperity in my
+area, notably in the health area, in general the news is quite
+bearish.
+It's grim in some quarters.
+There are just no signs of
+recovery,
+to take an example, has a number of products
+that they consider leading indicators--and they have been for a number
+of years--and there's just no life in them at all.
+In fact, some of
+them are still going down. If you talk to the economists in some of
+these firms, they are still optimistic about a recovery later in the
+year. But if you talk to the top guys in these firms, they may say
+the same thing publicly, but their attitudes and expectations have
+definitely soured. One of the things that seems to be at work here is
+that they see a longer-term deterioration of their competitive
+position going out into '83, '84, '85, and '86.
+And that's largely
+because they're having to cancel a lot of investment plans, given the
+balance sheet constraint, plus what they see as the high value of the
+dollar that is putting them at a competitive disadvantage with their
+foreign competitors.
+I think the feeling is that even if we got a
+drop in interest rates soon, which they certainly would like to have,
+they are really going to be in a very tight spot for a number of years
+if this situation continues.
+They see a considerable amount of red
+ink.
+So, at least among the people that I talk to in my District, the
+attitudes--while they weren't good at the time of our last FOMC
+meeting--are now [focused on] looking out three or four years. And
+they are saying the damage that the current climate has done is in
+areas where they think their longer-term competitive position is at
+stake. And while I think in general they are still supportive of what
+the Fed is doing, there is some erosion in that support because a
+
+5/18/82
+
+-13-
+
+number of them are beginning to think that perhaps the situation is
+getting counterproductive because of the effect it's going to have on
+their own competitive positions several years out.
+MR. MARTIN.
+
+Thanks, Ed.
+
+Mr. Timlen.
+
+MR. TIMLEN. I must say with regard to this recession that
+things seem to be going a little better for the Second District than
+for our friends in the Midwest.
+On the one extreme we have Buffalo,
+where the steel industry, the auto industry, and the auto suppliers
+are all having a very, very poor time of it, with very high
+unemployment.
+If you go over to Rochester, though, they tell you that
+it is a city with no trough in their peak. Kodak just issued a record
+bonus at year-end and it helped some car dealers.
+In New York City, I
+would say we're all concerned about the thrift situation, but business
+construction is quite strong in New York, particularly downtown. We
+seem to have some of that [in the pipeline] through '84.
+In the City,
+the service industries are doing well with some minor upset in
+employment, although I must say the IBFs in New York have not
+[unintelligible] 20,000 jobs.
+It's interesting to talk to bankers
+particularly about what is going on today; they really don't seem to
+be worried about what they know, for example, about Braniff, Pan Am,
+International Harvester, and Chrysler. The reaction to the Braniff
+[announcement] last week was kind of a "ho hum."
+I must say, though,
+that the bankers are now talking--in the terminology of the last two
+weeks--about "survivor loans," which is the only thing that's keeping
+[some firms] going because of reduced cash flows.
+Just as recently as
+last week, the bankers said they were worried about trouble spots that
+might jump out without warning. And I think we're in [that situation]
+today.
+On a personal note, in Manhattan, and particularly midtown,
+one can't help but notice the number of small businesses that are
+either throwing in their keys and closing or going into bankruptcy.
+I
+know within three blocks of my apartment, I've lost my favorite
+Chinese restaurant and my favorite Italian restaurant.
+MR. MARTIN.
+
+And that's going too far!
+
+President Black.
+
+MR. BLACK.
+I think the point that Ed Boehne raised is one
+that probably concerns us all.
+The economists seem to think things
+are a little better than the businessmen do.
+I was struck at our last
+board meeting how differently our directors look at this from the way
+we tend to look at it.
+The answer lies at least in part in the fact
+that they are comparing what they're doing now with what they once did
+or what they did a year ago, whereas we are looking at the possibility
+of a seasonally adjusted upturn on a monthly basis. And that's always
+a problem in interpreting the Redbook figures.
+They always seem to be
+the worst right before a turn.
+I guess I'm a little more optimistic
+than most people on this, if we continue to make progress on
+inflation. Of course, I'm assuming away this financial crisis; that
+would make all bets off.
+But if we continue in that direction, as I
+think we will, then interest rates have to turn [down] pretty soon and
+the upturn in housing that we've had should become still stronger.
+I
+would think consumer durables also could change very quickly, and even
+business spending on plant and equipment could turn around rather
+fast--faster than any of us has been assuming--if expectations are
+improved by a decline in interest rates that I sincerely hope is just
+
+5/18/82
+
+-14-
+
+But the developments that Chairman Volcker
+around the corner.
+informed us about this morning are the main consideration now that
+could blow it all out of the water. I would have stayed with an
+estimate about like the staff's of about a 4 or 5 percent increase in
+real GNP in these last couple of quarters. I believe they're about
+But of course, we're all guessing on
+right on the second quarter.
+this.
+MR. PARTEE. You don't feel that the demand for housing might
+fade as rates come down?
+There has been a lot of talk to the effect
+that when rates come down, housing demand will explode again or at
+least come back very nicely and quickly turn.
+MR. MARTIN.
+
+It will come roaring back.
+
+MR. PARTEE.
+But the question is:
+Are people no longer
+looking at houses as a source of profits?
+Are they looking at job
+instability or income prospects that would make them less willing than
+they would have been a year ago to pay, say, 13 percent on mortgages?
+MR. BLACK. Yes, I think that's a fair assessment. But I
+still believe we will see some strength there.
+That [concern] would
+certainly weaken [the demand for housing].
+People no longer feel sure
+that they're going to make a profit when they sell a house to upgrade.
+The behavior of house prices has made everybody who has a house worry
+a little.
+MR. MARTIN.
+
+Thank you, Bob.
+
+President Ford.
+
+MR. FORD. Well, moving down the East Coast, we feel fairly
+gloomy, as Ed does. We now have in our District, in the supposed Sun
+Belt area, raw unemployment rates that exceed the national average,
+which is very unusual for us as you may know. That's weighted for the
+fact that our two most vigorous states, Georgia and Florida,
+especially Florida, do have [relatively large] populations.
+If you
+weighted it by the population, they would still look reasonably good.
+If you just take our six states, we now have an unemployment rate that
+averages just under 10 percent. And that's due to the fact that we
+have a southern version of Detroit going for us over in Alabama for
+one thing and the-MR. BLACK.
+
+Pittsburgh II!
+
+MR. FORD.
+In Birmingham, for example, we are down to one
+U.S. Steel blast furnace in operation and there's a lot of talk that
+it may be shut down in June.
+That would create another problem for us
+in that area and [contribute to the process of] deindustrialization in
+Birmingham. Other things that had been sustaining our regional
+economy are also beginning to waiver. Most particularly, we had the
+energy boom going for us over in Louisiana--a lot of gas well drilling
+and so on--and there has been a precipitous decline in that kind of
+activity. We've had heavy layoffs in oil field drilling operations
+and related activities there. Most discouraging is the fact that even
+in our high-tech belt, which is emerging around Atlanta and in
+Florida, we've had companies such as Scientific Atlanta laying off
+people for the first time in anybody's memory there. Companies that
+we think of as having a regular 25 percent increase in profits year
+after year are starting to feel the pinch. So, things are looking
+
+5/18/82
+
+-15-
+
+pretty serious around the southeastern states in our District. The
+only thing that seems to be encouraging in our area is the fact that
+we have the World's Fair going on, which is attracting a lot of people
+to Eastern Tennessee and compensating somewhat for the manufacturing
+weaknesses in that state.
+On the subject of housing finance that you raised, Chuck,
+while I do think the investment aspect of buying a house is fading
+somewhat, there's a very strong feeling--I do know a lot of the
+builders in our area and talk to them regularly, and thrift executives
+as well--around Atlanta and around the Florida Keys that they are just
+waiting to get out there. Builders are chomping at the bit. We've
+had steady increases in permits and housing starts in a number of our
+major metropolitan areas, although they are still at depressed levels.
+And I would say our residential markets will come back, though perhaps
+not with the same vigor as when housing used to be a sure-fire
+investment as well as a place to live.
+We have a lot of pent-up
+demand for housing in Atlanta itself due to some unusual developments
+there like Georgia-Pacific crossing out "Pacific" and coming back to
+Georgia. We have a pretty good [housing] market.
+So, we have some
+encouragement from that side.
+We have another big minus force and that is that farmers in
+the Southeast are getting clobbered credit-wise--almost like Mexico,
+you know. The story is that they are overextended on their debt.
+We're watching the markets for land very closely, trying to detect
+signals of any kind of collapse in land prices and we're not seeing it
+because it seems as if the lenders just don't want to liquidate people
+unless they absolutely have to.
+So, we're really not seeing a lot of
+turnover of property, but we are hearing from a lot of bankers in
+rural areas that they are not happy about their farm loan portfolios
+in terms of credit quality. And that just reflects the fact that our
+farmers are having a tough time throughout the District. Overall, I'd
+say that the bloom is off the Sunshine states in our area, and that
+except for a few areas of brightness we're feeling the recession
+pretty heavily. And there is a lot of worry and concern among
+business lenders in our District.
+MR. MARTIN.
+
+Governor Gramley.
+
+MR. GRAMLEY. Well, I listened to my colleague Bob Black and
+I wish I could share his optimism. If we get a budget compromise and
+get it soon, I think I would go along with his view that we have a
+potentially good recovery ahead of us.
+I think we would get a
+significant drop in bond rates, a pickup in stock prices, improved
+consumer confidence, and improved business attitudes generally. But I
+must say that I think the likelihood of getting a significant
+reduction of prospective deficits before the election is pretty slim.
+We have to be prepared for the possibility that we will live for 3, 4,
+5 more months with this extremely gloomy set of attitudes pervading
+financial markets and the nation more generally.
+I don't think that
+what Bob is talking about is very likely.
+On the contrary, I see
+things going the other way in recent months.
+Plans for business fixed
+investment are weakening.
+I had been worried earlier about the
+possibility of a very, very large decline in business fixed
+investment, and I thought that the incoming evidence over the winter
+months had alleviated that concern; now I believe that that [revised]
+judgment was probably not right.
+I think we may see further signs of
+
+5/18/82
+
+-16-
+
+deterioration in business spending plans in the months ahead.
+Consumer attitudes are very, very sour. And until that situation is
+rectified, we're not likely to see a significant pickup in demand for
+durables.
+I'm worried, and worried considerably, about the cumulative
+effects of high interest rates and what they are doing to the strength
+of business enterprise. Interest charges are transfer payments; what
+goes out of one pocket ought to go into another.
+But I'm afraid the
+effects on marginal propensities to spend in the aggregate are very,
+very negative as these high levels of interest rates continue.
+Ratios
+of interest to profits plus interest have gone up very, very
+considerably and they're going up further. And that is clearly having
+a very substantial effect on the ability of businesses to finance
+their operations, particularly smaller businesses.
+I'm wondering if
+the real danger at this point may not be that an episode of the kind
+we were talking about earlier will cause credit markets to close in
+the sense that lenders around the country will suddenly stop lending
+as a means of protecting themselves against the possibility of very
+serious effects.
+That's something we need to watch very, very
+carefully.
+I hope the staff at the Reserve Banks will all keep in
+contact with their banks so that we can understand fully what is going
+on in credit markets.
+I think we're going to have to be extremely
+careful to avoid upsetting the situation, which could precipitate a
+renewed downtrend in economic activity instead of the upturn the staff
+has forecast.
+If I had been in the staff's position, I probably would
+have forecast just about what they did because that's what I think the
+logic of the numbers suggests. But the logic of the qualitative
+evidence coming in suggests that all the risks are on the down side
+and I think that's what Jim Kichline was telling us this morning.
+MR. MARTIN.
+
+Thank you, Lyle.
+
+President Keehn.
+
+MR. KEEHN. Well, the news from the Midwest, which has been
+grim all along, continues to be very, very grim. On the agricultural
+side, though, there has been some very modest improvement from a
+depressed level.
+Livestock prices are better; and with the
+expectation of some improvement on the export side, grain prices could
+be better.
+Having said that, farm incomes continue to be very low.
+Capital expenditures for tractors and combines and the like are
+exceptionally low. And farm land values declined significantly in the
+first quarter.
+On an appraisal basis there are few transactions and
+when they do occur--and the number of farms for sale is up--the sales
+are taking place at declines in prices of between 15 and 25 percent.
+On the industrial side, the District has been in a state of real
+depression for three years; in terms of employment and unemployment we
+are comparatively far worse off than the rest of the country. The
+weakness has now become very pervasive. The number of bankruptcies is
+going up, particularly among the smaller companies.
+In the month of
+March in [our] District there were more bankruptcies than in all of
+1981.
+In the capital sector, railroad equipment is all but dead.
+Trucks, construction equipment, etc. are in an extremely depressed
+state. Last week we had a meeting of business economists, which we do
+on a monthly basis, and the general tone was very, very depressing.
+In fact, it was generally regarded as the worst session that we have
+had in a great many years of that particular group.
+So, to add to
+what Ed Boehne has said, there is in the Midwest also a deterioration
+in attitude.
+The great concern is that the recovery is not at hand
+
+5/18/82
+
+and that,
+here.
+
+-17-
+
+indeed, we could get ourselves into a cumulative downturn
+
+MR. PARTEE.
+I read that Chicago report, Si, as indicating
+also a giving up in terms of expectations, not just for the next few
+months, but for the next several years--along the lines of Ed's
+comment.
+Was that the sense of the--?
+MR. KEEHN. Yes, there's a sense of greatly depressed morale,
+if you will, about the [near-term] outlook and further beyond.
+I'd
+agree with that, Chuck.
+MR. BOEHNE. Last month was the first time in my District
+that I noticed the depressed morale had jumped from, say, the current
+period, to out over several years. Maybe it has been that way in the
+Midwest longer, but it just struck me as being apparent in recent
+weeks in my area.
+MS. TEETERS.
+Si, are you getting a lot of out-migration?
+Can you measure that in any way?
+MR. KEEHN. Nancy, I can't give you a figure as to the number
+of people actually moving out. Having said that, our employment
+numbers, as we commented in the Redbook, are just simply atrocious.
+And the unemployment also is a great deal higher. One would
+anticipate that in those kinds of circumstances people will leave.
+But unless there are opportunities in other places that can absorb
+them, not as many leave as one would expect.
+MR. MARTIN.
+I think both Ed's and Lyle's comments with
+regard to the so-called "out years" represent a new note in our
+discussions.
+I can't speak for the March meeting, but there is a
+different tone, isn't there?
+There's a different element that we're
+considering.
+President Balles.
+MR. BALLES.
+Well, I can add to the doom and gloom if we need
+any more, which we don't.
+MR. MARTIN.
+
+You're the rebuttal, John!
+
+MR. BALLES.
+It used to be that some of the bad news from the
+Midwest could be offset by what was going on in the Dallas and San
+Francisco Districts. We haven't heard from Bob [Boykin] yet but I
+have to say that as far as the West Coast is concerned, we're no
+longer recession-proof. We have very widespread weaknesses in all
+sorts of key industries.
+It isn't just forest products and it isn't
+just home building; the weakness has now spread to aerospace, semiconductors, commercial construction, nonferrous metals, etc.
+As one
+example, at Boeing, which I suspect is one of the strongest aerospace
+companies in the United States if the not the strongest, employment a
+year ago was at 75,000 people.
+It is now down 2,000 from that level
+and is expected to go down another 8,000. That's a measure of the
+extent to which the commercial side of the business is down far more
+than the defense side is up. About the only recent strength we've
+seen is in sales of electronic equipment.
+Summing all of this up, and pretty much agreeing with what
+Lyle had to say, it strikes me that even though business confidence is
+
+5/18/82
+
+-18-
+
+an intangible and immeasurable, it is really worse than the business
+statistics.
+It's worse than what we might expect in terms of patterns
+of cyclical recovery. And that is really bad news.
+I'd say that
+among our five offices, about a fourth of our directors, including the
+bankers who see spreading loan delinquencies and problem loans or nonperforming loans, are now so concerned that they're proposing that the
+Fed either operate at the top of its monetary growth ranges--and some
+would say we should go above those ranges deliberately for whatever
+period is necessary--because of the cumulative damage being done to
+all sorts of business concerns and individual consumers by the high
+level of interest rates. They are as worried as I've seen them in my
+10 years on this job.
+MR. MARTIN.
+
+Thank you, John.
+
+President Roos.
+
+MR. ROOS. Well, I guess inevitably I just don't reflect what
+happens everywhere else around this table.
+In our part of the Midwest
+I don't sense the pervasive gloom that some of you are reporting, and
+we have had CEOs of major corporations in the Bank just within the
+last two weeks.
+I sense a general feeling that the economy is near
+the trough of the recession; I sense a rather positive recognition of
+some fundamental things that most of our people feel have been put
+into place.
+First of all, they're comfortable with the level of
+inventories; secondly, they are extremely pleased about the downward
+trend of inflation; thirdly, they see a stabilization, or an absence
+of further downward movement, in the economy. The basic feeling is
+that the economy has hit the bottom that was anticipated. The one
+point that comes through to me constantly is this plea:
+Please tell
+your colleagues that the one thing that could push us over the brink
+is if [monetary policy] becomes expansive because that would move
+interest rates up.
+In other words, the basic feeling is that we're
+down the road in our cure process and they anticipate a recovery and
+hope that we, in our infinite wisdom, don't do anything to upset that
+recovery.
+I would just say, as a relatively senior individual about
+to go out to pasture, that I can remember every time in the short
+seven years I've been here that when things were just about to improve
+a great many of us were saying "Oh my word, we're facing absolute
+disaster. A couple more months and if we don't intervene in some way,
+everything is going to go down the drain."
+Well, I think we're on the
+brink of improvement [as do] most of the thinking people in our part
+of the country who are out of the realm of politics.
+I think the
+politicians on either side always will be overly optimistic or overly
+pessimistic because that's how they do business.
+But there is
+basically a subdued confidence, as I sense it, in our District.
+MR. MARTIN.
+some kind.
+MR. ROOS.
+MR. MARTIN.
+
+Thank you, Larry.
+
+We at last had a rebuttal of
+
+I wish I didn't have to be the guy to do it.
+Governor Rice.
+
+MR. RICE.
+I don't want to add to the doom and gloom either,
+but I do have to say that I agree with a good deal of what has been
+said on the pessimistic side around the table, and I share a good part
+of the view expressed by Governor Gramley. Although the economy
+appears to be declining at a slower rate, there is no obvious and
+convincing evidence that it is bottoming out at the present time or
+
+-19-
+
+5/18/82
+
+that an upturn is close at hand. The main concern that I have,
+therefore, is with respect to the timing and strength and possible
+duration of the upturn--specifically whether we will have to wait for
+the stimulus we'll get from the midyear tax cut or whether the
+inventory correction will occur before then and provide the spark for
+the upturn. I rather doubt that we will see a substantial buildup of
+inventories in the current environment.
+I agree with what has been
+suggested by several people:
+namely, that the stress in the economy
+is probably understated by the macroeconomic figures.
+The data we
+look at probably don't reflect fully the strain and stress that a lot
+of business firms are feeling, particularly the debt-laden business
+firms. And as Lyle pointed out, many of these firms are experiencing
+the stress of a rising ratio of debt [service costs] to profits. In
+this environment, I don't think we are likely to see a strong buildup
+of stocks.
+So, from my point of view at least, it appears that we
+will have to wait for the stimulus stemming from the midyear tax cut,
+which we may not feel until some time further into the third quarter.
+Of course, that longer delay in the upturn will increase the stress on
+firms and their vulnerability to failure and bankruptcy. Although the
+reduction and the elimination of inflation continues to be our primary
+goal and a matter against which we mount a determined struggle, I
+think it is obvious in the present situation that we have made a good
+deal of progress toward reducing inflation and that we've made enough
+progress so that we can now look around and survey the damage that has
+been done to the economy.
+It's also time, I think, to see what we can
+do to allow the economy to repair some of this damage.
+Comments? Are you
+MR. MARTIN. Thank you, Emmett.
+commenting on Emmett's remarks or making a separate statement.
+SPEAKER(?).
+
+first?
+
+No, a separate statement.
+
+MR. MARTIN.
+Would you mind if we went to President Guffey
+President Guffey.
+
+First of all, I'd like to direct a question to
+MR. GUFFEY.
+Jim Kichline. If I understood your comment, Jim, the Greenbook is
+based upon an assumption that there will be a budget compromise and
+that it will be in magnitude about half what the President has
+recommended. I was under the impression that the assumption had been
+that there would be no compromise.
+MR. KICHLINE. No, in February we had taken roughly half of
+the proposed deficit-reducing measures in the Administration's budget
+at that time.
+We have retained that [assumption]; those numbers on a
+unified deficit basis are around $25 billion in deficit reducing
+The numbers
+measures both on the tax side and in expenditure cuts.
+being talked about in the Congress--adjusting away some of the things
+such as interest rate declines, which we have not put into these
+So, we're at roughly half
+measures--are in the $50-$60 billion range.
+of what is being talked about in the Congress now.
+MR. GUFFEY.
+MR. KICHLINE.
+MR. GUFFEY.
+
+Is that for the remainder of calendar year
+No, that's for fiscal
+Fiscal
+
+'83.
+
+'83.
+
+'82?
+
+5/18/82
+
+-20-
+
+MR. GRAMLEY. What do you assume about cuts further out?
+It
+seems to me that the critical issue in terms of the effect on the
+economy of a compromise is what happens to expectations about further
+growth of the deficit beyond fiscal '83.
+What does that mean for
+long-term interest rate expectations, not just for long-term interest
+rates now.
+If one were to assume that we had that kind of deficit
+reduction for fiscal '83, but much much more in '84 and '85, then I
+would be quite convinced that the economy would come out of its
+current slump and turn up.
+But if that were the only action--a cut in
+the deficit of $40-$50 billion or somewhere around there--and if that
+were the figure for deficit reductions in '84 and '85 also, then I
+don't think we'd get much relief.
+MR. KICHLINE. Well, we have not, as you know, explicitly
+forecasted '84 and '85.
+I think it's perfectly consistent, however,
+that whatever is done in the Congress would imply larger [deficit]
+numbers in subsequent fiscal years.
+In this forecast, however, we
+have the persistence of very high long-term rates.
+One of the
+difficulties, frankly, is that what is being talked about in the
+Congress is probably not sufficient to induce market participants to
+believe that things are going to get done in a sizable way. Those
+numbers are most discouraging. To look at specified cuts:
+The
+Congress has raised once again [its estimate of the] sales of outercontinental shelf leases.
+Frankly, it's running the other way.
+The
+Administration has reduced the numbers, but the Congress wants to get
+the deficit down so they say that the United States is going to sell
+$8-1/2 billion of those in fiscal '83.
+Even the Administration
+doesn't buy that number.
+I can only say that no matter what the
+numbers are, if one goes through this line-by-line, it seems to me
+that the program has to be credible in order to have the kind of
+impact that you're talking about. And I really don't see that on the
+horizon.
+Dramatic things are going to have to happen over the next
+few months to change this around.
+MR. GUFFEY. If I may [continue], Governor Martin, there are
+three or four major economic activities in the Tenth District that I'd
+like to comment on:
+the aircraft industry, energy, agriculture, and
+auto assemblies, the latter being a very big employer in our District.
+Starting with the aircraft--and I'm talking about the Cessna, the
+Beach, the Lear jet, the Boeing aircraft--operations essentially are
+dead in the water, if you will, with simply no sales on the horizon.
+They are completing their contracts and as a result some unemployment
+is beginning to show up and quite likely will run out even into the
+recovery period.
+In the energy field, the number of rigs operating is
+down something on the order of 18 percent, May over January. And that
+suggests some layoffs in that industry, [and with] less piping and
+other supplies it rolls back to other industries.
+But the fact of the
+matter is that that has been a very vigorous sector of our economy,
+and some downturn perhaps is not unexpected.
+I would observe also
+that even with an upturn in the economy in the third quarter or
+perhaps the fourth quarter, that problem won't be solved simply
+because it stems largely from the glut in the international market and
+from the stock markets.
+[Given] the stock market prices, the numbers
+just will not work.
+So, until the oil prices come up on the
+international scene, we won't see a lot of improvement, but I don't
+think the downturn will go much deeper. In the auto assembly area, it
+is well known that there is unemployment, and that sector probably
+will not come back until the economy recovers.
+
+-21-
+
+5/18/82
+
+In the agricultural sector, Si Keehn accurately described the
+situation with respect to some optimism in the livestock area. Prices
+have increased rather substantially over the last 30 days. That's a
+segment of the agricultural industry and, to be sure, the improvement
+But on the crop side, there is a glut: there is an
+is welcome.
+overhang in the supply. We are looking at a very good crop and, as a
+matter of fact, there is no optimism in that area; unless we get the
+dollar in some better alignment internationally and pick up the export
+sales, there isn't much hope for substantial improvement. Just to
+Net farm income last year was about
+give you an order of magnitude:
+$23 billion; they are estimating $15 billion this year. And when
+taken in real terms in 1967 dollars that's almost the present level
+for the agriculture industry. Having said that, however, the best
+estimate is that there will be only about a 4 percent withdrawal of
+In other words, this year will be a
+operators during this year.
+washout. They have about one more year of [unintelligible] before we
+will see some very disruptive developments, such as sales of farm land
+and equipment in large numbers.
+We are in a
+In summary, there are some difficult spots.
+position in the Midwest where, because of the nature of agriculture to
+begin with and the energy area, we can weather another 9 months to a
+whole year fairly well. Lastly, in the energy area, I'd say that the
+announcement by Exxon of the close out of the shale oil [development]
+on the western slope of the Rockies, which was a surprise to everybody
+to begin with, will have some economic impact, estimated to run
+something like 10,000 in unemployed in that industry in Colorado.
+That probably won't impact the state, which is a small state and
+sparsely populated in some areas, to the extent of 10,000 employees
+simply because those are employees who have been attracted to the area
+and who quite likely will go home. But it will have a major impact on
+the economy in that western area.
+MR. MARTIN.
+
+Thank you, Roger.
+
+Governor Wallich.
+
+MR. WALLICH. It's difficult to evaluate the qualitative
+I wonder
+gloom against the quantitative evidence, such as it is.
+whether one reason for the great gloom is not the disastrous profit
+[experience] that people have been through in the first quarter.
+Profits collapsed in the first quarter, as one can see from our data,
+and that is bound to impress people when the details come out; when
+corporate reports go out. we may get some further impact from that.
+But it seems to me we experienced this kind of psychology too in 1980,
+The
+and then we were in the worst recession since World War II.
+economy was going down 10 percent per year. Nothing seemed able to
+As we know, it was "coldest just before daybreak" and it may
+stop it.
+We had
+turn out that way again. There was a big difference in 1980.
+allowed interest rates to fall very sharply and that turned housing
+That [sort of rate decline] has not happened this
+around very fast.
+time and to the extent that it was [induced by] policy, I think it was
+the right policy. It is somewhat surprising that we're not getting
+the declines in interest rates that one would expect, given the rate
+But if the economy continues weak, that in itself, of
+of inflation.
+course, would be a factor making for lower interest rates and for an
+improvement in housing.
+Now, the elements of strength in the situation, I'm sure
+we're all are familiar with. I wish we didn't have to count on the
+
+5/18/82
+
+large tax cuts and social security increase as a kicker to the
+economy.
+The upshot of all this is that hardly any forecasters are
+seeing a decline even for the second quarter.
+After all I've heard
+here, one would expect the second quarter to be a disaster like the
+first, or worse. Our projection is coming down, but is not yet
+negative; even if the second quarter were a small negative, which
+wouldn't surprise me, the decline would be slowing. I find it
+difficult, with all these elements [of strength] ahead for the third
+quarter, to think that we are facing a great risk of continued decline
+[in overall economic activity].
+What we're facing, I think, is the
+prospect of a very moderate advance and the possibility of choking
+that off. The possibility of the economy going down, barring a
+financial crisis such as we've talked about here today, seems to me
+the lesser probability. Thank you.
+MR. MARTIN.
+
+Thank you.
+
+Bob Boykin.
+
+MR. BOYKIN.
+I think it would be fair to characterize our
+economic situation in the Southwest as somewhat sluggish. The oil
+sector is still in decline; the rig count was down further in April.
+But there does seem to be a growing feeling that [the oil sector] is
+probably near the bottom if it's not there, much as Roger indicated
+[for his District].
+Refining operations are below capacity
+utilization, and unemployment in that sector is down about 12 percent
+since December. We have had a little pickup in housing starts, but
+they are still at a low level.
+Unemployment in the State of Texas
+rose to 6.4 percent in April and that causes us some concern. We are
+not used to those kinds of numbers.
+Growth in bank credit slowed in
+the last couple of months. The demise of Braniff recently, while it
+might not have made a ripple in New York, caused quite a bit of
+consternation down our way. In fact, I wasn't sure I could get here
+for this meeting.
+MR. PARTEE.
+
+You could rent one of those planes!
+
+MR. BOYKIN.
+In our immediate area that involved about 4,600
+jobs that disappeared overnight.
+On agriculture, again I think Roger
+described that very well.
+Our commercial construction seems to be
+holding up fairly well. There have been some pullbacks on announced
+projects but there are still a lot underway and some of the larger
+[announced] projects still plan to go ahead.
+In a subjective sense, I
+read the comments of the people I've been visiting with very recently
+much the way Larry Roos is reading them. Attitudinally, I think the
+feeling is that if we can just make it [through] another 3 or 4
+months, the picture is probably going to look a bit better.
+I've not
+heard the concern that you were expressing, Ed--that you are now
+beginning to hear [expressions of] pessimism about the longer term or
+"out years."
+Just to end on a positive note:
+One straw in the wind
+is that my favorite retailer--some of you know he deals in luxury
+goods and in fact he says he sells absolutely nothing that anybody
+needs--did give me a call just to update me.
+He said he was a little
+disappointed that instead of his usual 30 to 35 percent monthly
+increase, it had dropped to about 17 or 18 percent. He attributed it
+to the peso devaluation.
+But he said that in looking at the reports
+that had arrived in the last two days, he thought maybe that had
+turned around too.
+
+5/18/82
+
+-23-
+
+MR. BLACK. Is that stock publicly traded in their name?
+[Unintelligible] a chain.
+MR. MARTIN. At a risk, I've been desperate to close on a
+positive note for the coffee break. And if two or three of my
+colleagues will indulge me in this, let us adjourn on that 17 percent
+upbeat note.
+[Coffee break]
+MR. MARTIN. Ladies and gentlemen, the Chairman has asked me
+to pass on a comment. He will be joining us in a few minutes so that
+we can hear from Peter and Steve, who are still involved in the
+Drysdale meeting next door [in the Chairman's office].
+He asked me to
+indicate to you, knowing that you might want to change airline
+reservations or whatever, that it looked to him as though it would be
+necessary to reconvene the FOMC after lunch. So, I'm passing that on
+to you from their meeting. We have a number of people who have
+comments to make.
+If the Chairman is back by then, we'll hope to hear
+from our market-related colleagues.
+Let me recognize first Governor
+Partee.
+MR. PARTEE.
+I don't know that I have very much to add to
+what was said before the break. I'm not optimistic on the business
+outlook.
+It seems to me that the new factor is the possibility of a
+distinctly deeper drop in capital spending than we have been looking
+at.
+I would point out to you that the surveys have been progressively
+less good.
+The McGraw-Hill survey now shows a sizable decline in real
+capital spending for the year. And when you talk to businessmen and
+look at the Redbook and things like that, one gets a sense that there
+is a very substantial conservatism that is now being introduced into
+the management of companies and that cash positions are a little
+strained. But I also have to admit that I have some sympathy with
+Larry Roos' point. This is a painful, difficult period that we're
+going through. We expected that, I think; at least I certainly did.
+It is necessary to squeeze profits unmercifully, Henry, in order to
+get businesses to cut their costs and become more efficient and to
+resist wage increases of size. And in the process, we're going to
+have some business failures--quite a few failures. We have a whole
+regime of business enterprises that had heavy debt ratios and were
+banking on inflation. Now that we're not going to have inflation
+because that's our official posture, they are going to have to fail.
+It may be a sizable proportion of the business community and it may
+include quite a few government securities dealers and people who
+speculate in securities of various kinds.
+We just have to take these
+kinds of things as they come because what we want to do, if I
+understand it--and what we've put the economy through hell for over
+the last 2-1/2 years--is to reduce inflation. So, let's get the
+inflation reduced and let the people suffer who are going to suffer as
+a result. At least that's my view.
+One caveat that I think is important was expressed at the
+last Academic Consultants meeting that we had.
+Somebody said that the
+recession in 1929 didn't look too bad for the first 9 or 10 months;
+one might reasonably have thought after that period that the economy
+But there was a secondwas going to recover and would be all right.
+tier decline. And that was much sharper and it occurred because of
+financial collapse.
+So, if we really do have a crisis here with this
+
+-24-
+
+5/18/82
+
+firm, or if a crisis developed that tested the very financial fabric
+of the economy, I think we would have to deal with that.
+But short of
+that it seems to me that all we're hearing--and there's a considerable
+amount of it--is the pain that occurs when we have more than just a
+temporary little recession within a secular upward movement [in the
+economy] and instead have something that is going to affect a much
+broader number of people, businesses, profits, etcetera.
+So, I'm
+alarmed, but I'm not yet panicked.
+CHAIRMAN VOLCKER.
+is where we are, right?
+MR. RICE & OTHERS.
+
+We can turn to Mr. Axilrod.
+
+I guess that
+
+We haven't heard from Mr. Sternlight.
+
+CHAIRMAN VOLCKER. Oh, you haven't had that report yet?
+Well, we will turn to Mr. Sternlight. That reinforces my feeling that
+we may run over into this afternoon.
+MR. STERNLIGHT.
+It all
+[Statement--see Appendix.]
+And,
+securities firm that is in great
+additional great note of caution
+the highest quality of credits.
+
+seems anticlimactic, Mr. Chairman.
+of course, in the wake of this other
+difficulty today, there's an
+about financing arrangements even for
+
+MR. BLACK.
+Peter, you say the "other" firm. Was that
+reference to still another firm?
+When you talked about the
+uncertainty in the market rise earlier-MR. STERNLIGHT. When I mentioned that I was talking about
+the Drysdale situation that the Chairman spoke of [earlier].
+MR. BLACK.
+about another firm.
+
+I thought for a minute that you might be talking
+
+MR. STERNLIGHT. No, that was the one I was alluding to.
+That concludes my statement.
+CHAIRMAN VOLCKER.
+I didn't mean to cut off Mrs. Teeters and
+Mrs. Horn from the earlier discussion.
+MS. TEETERS. As far as I'm concerned, we can go ahead and
+have the presentation on the alternatives and I will make my statement
+then.
+CHAIRMAN VOLCKER.
+
+You'll make your comment later on it.
+
+MR. BALLES.
+Since I was on the daily morning call for most
+of the days since the last FOMC meeting, I just want to make a brief
+observation.
+I think we gave the staff an unusually challenging
+assignment for all the reasons you know about, including the seasonal
+problem with M1 in April, etc.
+From my perspective, I want to say
+that both the engineering and the execution under Peter and Steve and
+their staffs was just really great. There were some nervous moments,
+at least on my part, around the middle of the month when the
+projections showed a 14 percent rate of increase in M1 in April and a
+12-1/2 percent rise in M2.
+But, fortunately, that calmed down as the
+later projections were revised downward and we came in almost smack on
+target for April, which was an extraordinary and fine achievement.
+
+5/18/82
+
+-25-
+
+Could I ask Peter a question? You said that
+MS. TEETERS.
+the Treasury cash balance went up to $30 billion.
+Is that an unusual
+increase?
+MR. STERNLIGHT. Oh, yes.
+I would think that was very likely
+a record.
+It had been quite high in February, and we had something of
+a problem of the Treasury's Fed balance having to go up to about $7 or
+$8 billion then when the Treasury's [overall] balance had gotten up
+But when it got up to nearly $30
+into the mid-$20 billion area.
+billion overall, the balance at the Fed went up to a little over $12
+billion for a few days.
+MS. TEETERS.
+So there really was a very large final
+settlement--well above normal--in the first quarterly payment.
+MR. STERNLIGHT.
+
+Yes.
+
+MS. TEETERS.
+That would probably explain some of the run-up
+in NOW accounts that took place in anticipation of April 15.
+MR. STERNLIGHT.
+MR. PARTEE.
+noticeable factor?
+
+That could be.
+
+I don't know.
+
+Peter, was the currency shipment to Argentina a
+
+MR. STERNLIGHT. Well, in the last report I had received on
+those currency shipments to Argentina, they totalled about
+million from the beginning of April up to then, which was about a week
+The
+ago now. So, it's not a very big deal [in relation to M1].
+percent to M1
+estimate that I saw was [an addition of] about
+growth in April. Of course, for those who look at currency growth or
+who follow the monetary base closely, there would be more of a
+difference in those measures.
+MS. TEETERS.
+Does this imply that Argentina is about to
+become a two-currency country like Mexico?
+MR. STERNLIGHT.
+
+I don't know.
+
+MS. GREENE. The information I have on that, which is
+anecdotal only, is that there was great concern. Well, first of all,
+there are some dollar deposits in the banking system in Argentina.
+And what was happening was that depositors were taking the dollar
+deposits and cashing them in for notes out of concern that the
+deposits might be expropriated in some way by the government and that
+the notes under their mattresses would be more secure.
+CHAIRMAN VOLCKER. We'll turn to Mr. Axilrod at this point.
+Excuse me, I forgot that we have to confirm the operations.
+MS. TEETERS.
+
+So moved.
+
+CHAIRMAN VOLCKER.
+MR. AXILROD.
+
+Without objection.
+
+Now, Mr. Axilrod.
+
+[Statement--see Appendix.]
+
+CHAIRMAN VOLCKER. Well, we had a lot of "whereas" comments
+in this report on the possibilities, anyway. Mr. Morris.
+
+5/18/82
+
+-26-
+
+MR. MORRIS.
+Steve, you assume that the impact of the sweep
+account is certainly going to be to reduce transactions balances.
+I
+think that will be the effect in the long run, but it seems to me it
+is possible that in the short run it could have the opposite effect.
+MR. AXILROD.
+
+Oh, yes.
+
+It could--
+
+MR. MORRIS.
+The banks seem to be marketing them, at least
+initially, in a very conservative way, and people may still be willing
+to keep more in their NOW account as a price for the convenience of
+combining the money market funds with their deposit account.
+In
+short, we could have an increase in M1 as a consequence.
+MR. AXILROD.
+MR. MORRIS.
+
+I think that's possibly quite right.
+It could be very troublesome.
+
+MR. AXILROD.
+It depends on whether we get the very large
+accounts into the sweep accounts, and whether that is offset by people
+building up balances in the smaller deposit accounts.
+MS. TEETERS.
+one has to-MR. MORRIS.
+MS. TEETERS.
+
+Frank, is this because there is a minimum that
+Yes, one has to have a minimum balance.
+And those minimum balances are fairly high?
+
+MR. MORRIS. Well, let's say there's a fellow who normally
+keeps $2,000 in his bank account and $10,000 in a money market fund
+and the bank offers him a deal where he can consolidate them but he
+has to keep $2,500 in his bank account.
+So, his M1 balance goes up by
+25 percent.
+And he's willing to do it because of the increased
+convenience.
+If this is a typical account, then we could see a
+ballooning of M1, which could be very embarrassing to say the least.
+MR. BALLES.
+I might add, Frank, that one of our largest S&Ls
+on the West Coast just announced a sweep account and it started at a
+$2,000 minimum balance.
+So it isn't limited just to banks.
+MR. MORRIS.
+Competition will tend to bring those balances
+down over time, but in the short run they may be pretty high.
+CHAIRMAN VOLCKER. Well, who would like to comment on this
+statement and on this great economic monetary policy problem?
+MS. TEETERS.
+May I take my turn now?
+I have listened very
+carefully, and I get a strong sense of crisis--which I've been
+anticipating for quite some time--not just in financial markets but in
+practically every sector of the economy now. No particular region
+seems to be exempt.
+Even if today's problems with the money market
+are resolved successfully--and we don't have any clue on that as of
+this point--I think there is another in the wings. Whether it's a
+particularly new and inexperienced or maybe dishonest broker or
+whether it's one of our larger firms, we are going to be facing
+financial crisis sooner or later.
+I would hasten to point out to you
+that since we last met we've had five major bankruptcies, all
+anticipated. Braniff may not have disturbed New York but it obviously
+
+5/18/82
+
+-27-
+
+disturbed Dallas.
+We have a list of close to 75 major corporations
+that have had their credit ratings downgraded. And since that list
+came out, there have been three additional bankruptcies reported.
+There are other firms that are obviously very shaky and that have very
+high debt [levels].
+I think much of this crisis and the problems,
+both in the international market and the domestic market, have come
+from the high variability of interest rates.
+And I think people have
+built into the interest rates now a margin for risk, which reflects
+that variability. And the variabilities also have created new markets
+that I don't see any function for except for variable interest rates.
+Those are the futures markets, the options, and the ultimate
+silliness--the options on futures, which strike me as just pure
+gambling or trying to avoid risk.
+So, it seems to me pretty obvious when one looks at the
+economic projection, which I don't disagree with, that we are in the
+process of just pushing the whole economy not just into recession, but
+into depression. And that's not a forecast of a good economy, I would
+point out to you.
+It seems to me utter foolishness to have 9.4
+Those are
+percent unemployment and a 15 percent federal funds rate.
+just two things that have never occurred in this economy before. The
+staff has lowered its forecast, and has done so across the board,
+although mainly in business fixed investment.
+But everything is down.
+And when I questioned them about it yesterday, they said "We no longer
+can deny the April numbers."
+The April numbers are very bad. And
+they carry that forecast of very slow growth out for a longer period
+of time.
+If you look at it closely, there is no recovery. By the
+time we get to the fourth quarter of 1983, the unemployment rate is
+down to 8.8 percent and capacity utilization is up to 73 percent.
+I
+think we've undertaken an experiment and we have succeeded in our
+attempt to bring down prices, although I realize they are lower than
+can be sustained.
+But as far as I'm concerned, I've had it with the
+monetary experiment.
+It's time to put this economy back together
+again and to get us some stability as to where we're going and how our
+interest rates are going to operate.
+I have very little respect for
+the long-term aggregate [ranges] and I don't feel we have to prove
+I think it's time to operate as rational people
+ourselves any more.
+and to try to get the economy at least started on a tentative
+recovery.
+Given the alternatives that Steve has presented, that leaves
+me in the position of alternative A.
+I can't conceive of maintaining
+these interest rates and not having really severe problems as we move
+into the summer. I'm concerned, as is everyone else, about those
+I would hasten to point out to you that approximately $100
+deficits.
+to $125 billion of the deficit is due to the recession. And I don't
+think we should require the Congress to try to offset recessioninduced deficits by cutting expenditures or raising taxes. Even if we
+adjust for that, the deficits are substantial. And that's what I
+assume the Congress will be working on rather than trying to remove
+the other part of it.
+I think it's time to relax [policy] and to
+It's time to permit corporations to fund their
+reliquify the economy.
+securities loans.
+It's time just to say we are finished one job and
+to start the next one.
+CHAIRMAN VOLCKER.
+
+Mr. Black.
+
+5/18/82
+
+-28-
+
+MR. BLACK. Mr. Chairman, I think everyone agrees that the
+economy is in a bad predicament now and that lower interest rates are
+a prerequisite for any kind of sustained recovery. But where we have
+the point of difference is how we think we ought to get those rates
+down.
+It seems to me that there are two main reasons why rates are
+staying up.
+The first would be the uncertainties concerning what
+might be done by Congress on the present budget impasse; I guess all
+we can do in that area is to jawbone, as I think you've done very
+effectively from time-to-time, with the rest of us chiming in whenever
+we could.
+But the second reason is a fear that the System at some
+point may be forced toward some materially easy monetary policy. And
+against this background, I think the best way to reduce inflationary
+pressures, and with them interest rates, is to get these monetary
+aggregates back within the target ranges and keep them there for the
+balance of the year.
+So, I think we ought to stay with "B," which we
+adopted last time.
+But I would regard that "B" part on M1 as the
+upper limit.
+I would be glad to accept maintaining the language in
+the directive about a lower rate or an actual decline in M1, if that's
+accompanied by substantially reduced pressures in the money markets.
+I have two other points. The first is that I would be a
+little concerned about leaving in the sentence in the directive
+regarding M2--the second sentence in the operational paragraph. We
+included that last time mainly to cover the effects of the tax-related
+flows into M1, and we are now well past the tax date. And I wouldn't
+want to see M1 come in above the "B" specifications even if M2 were on
+path. The second point is that paragraph 10 in the Bluebook states
+that the staff's best estimate is that an $800 million borrowing level
+would be compatible with "B."
+The borrowing level in the first fourweek period of our intermeeting period averaged $1.3 billion. And
+since the demand for borrowings is notoriously volatile, I think it
+would be a little better to start out a bit more conservatively. For
+lack of a better figure, I would throw out $1.1 billion. And then I'd
+have a clear understanding with the staff that borrowing would be
+adjusted down quickly if new data suggested that we had greater-thananticipated weakness in the money supply and a lessening of pressures
+in the money market.
+CHAIRMAN VOLCKER.
+
+Mr. Boehne.
+
+MR. BOEHNE.
+Well, as Chuck said, we have been putting the
+economy through hell.
+I think maybe a drop of water would be helpful
+to those poor souls in hell at this point!
+So, in my view, we've
+reached the point where we ought to put some downward pressure on
+rates.
+Something between "A" and "B" captures the spirit of what I
+have in mind.
+I would have borrowing in the $600 to $700 million
+range, with a federal funds range of 10 to 15 percent.
+I would,
+however, keep the aggregates figures for March to June the same at
+about 3 and 8 percent [respectively for M1 and M2], with the
+understanding that if M1 is a little on the high side, that would not
+be a great concern.
+CHAIRMAN VOLCKER.
+
+Mr. Morris.
+
+MR. MORRIS.
+Well, Mr. Chairman, I attended a meeting of
+central bankers from around the world at the New York Federal Reserve
+Bank last week, and the various countries explained how they are
+controlling the money supply. The fellows from the Bundesbank
+
+-29-
+
+5/18/82
+
+criticized the Japanese for being too pragmatic in that they don't
+have any monetary guidelines or don't seem to have any rules that we
+know of and are just pragmatic. And the Japanese said: "Well, let us
+compare the inflation rates in Germany and Japan and let us compare
+They said, in effect,
+the real growth rates in Germany and Japan.
+that maybe there is a case for pragmatism occasionally in central
+banking. And I tend to feel that way at the moment.
+We are in an
+unprecedented period in that we've never been in a recession with
+interest rates like this.
+We've never been in a recession where our
+corporate sector was not only unable to liquify its position and to
+structure out its debt, but found itself needing to increase the level
+of its short-term debt during the recession. So, it seems to me our
+ability to forecast the economy is pretty limited in this
+unprecedented period and that, therefore, a pragmatic case can be made
+So, I would
+for erring a bit on the side of ease at this juncture.
+support alternative A.
+CHAIRMAN VOLCKER.
+
+Mr. Guffey.
+
+MR. GUFFEY. Thank you, Mr. Chairman. Let me say first of
+all that my preference would be alternative B, that is, retention of
+the second-quarter targets that we set last time and for the "B"
+I
+proposal with respect to the intermeeting period of May and June.
+would like to pose a question to Steve with respect to the $800
+It isn't clear in
+million borrowing assumption associated with "B."
+paragraph 10 on page 7 whether or not we start the period at $800
+million or end the period at $800 million or whether that is the
+average over the intermeeting period.
+MR. AXILROD. Well, President Guffey, what we try to do--if I
+could take a minute [to provide some] background on that--is based on
+We try to estimate the rate
+the results of a study we did a year ago.
+of interest that would be consistent with the intersection of the
+money supply target with what we perceive to be money demands over
+that period. And then, given the discount rate--that rate of interest
+in here we think is a little lower--that implies the level of
+borrowing. So, we construct the total reserve path on the money
+supply target and project, in effect, what we think is the proper
+interest rate in order to say what the demand for borrowing consistent
+And that's how we got to the $800 million,
+with that path would be.
+That, in effect, is what we think the
+given the discount rate.
+sustained amount of borrowing would be over the period.
+MR. GUFFEY.
+
+On average?
+
+MR. AXILROD. Yes, and consistent starting out if we're
+right.
+Of course, we might very well be wrong in our interest rate
+projection, but that's a way--just as a first step--of trying to
+derive a nonborrowed path consistent with that total reserve path.
+MR. GUFFEY.
+If that's the case, then it's my judgment that
+Well, first of all, let's say that we have something
+starting with--.
+like a 14 or 14-1/2 percent federal funds rate at the moment with a
+borrowing level of about $1 billion, which was the level last week as
+If we're moving then to construct the paths commencing with
+I recall.
+an $800 borrowing level, then I would suggest that "B" does imply a
+My best judgment is
+rather quick downward shift in interest rates.
+that your [estimated decline to] 13-1/2 percent for the federal funds
+
+-30-
+
+5/18/82
+
+rate over the intermeeting period may be a little modest.
+quite a bit lower than that.
+
+It might be
+
+MR. AXILROD. May I just make one comment that I think is
+relevant, particularly in this recent environment?
+What we have
+experienced very recently is a little less borrowing and the funds
+Before that we had a higher funds rate than we
+rate just coming down.
+thought [likely] for the level of borrowing.
+I'm not at all certain
+that the banking system feels that eager to borrow. If we ever got
+into a liquidity pressure situation, it may be that they'd want to
+It could
+So, I'm not exactly certain.
+store up their goodies a bit.
+go that way. I'm really just not certain, President Guffey.
+"B" is attractive to
+MR. GUFFEY. Well, just in conclusion:
+me, and my own feeling is that a path built upon these dimensions will
+give us a lower funds rate rather quickly, which will give the kind of
+relief that I think some around the table are suggesting may be
+necessary. I would hate for us to give up the quarterly target [for
+M1], however, at the 3 percent level.
+CHAIRMAN VOLCKER.
+
+Mr. Roos.
+
+MR. ROOS. Well, I'd like to express myself in terms of
+realities.
+I would question very vehemently any implication that
+monetary policy in the last few months has really been as tight as
+some would imply it has been. Even if money growth from April to June
+is zero, second-quarter growth of M1 will be somewhere between 3 and 4
+percent. And when combined with the first-quarter M1 growth of 10.7
+percent, that would result in money growth of 6-1/2 to 7 percent for
+That is not starving orphans; it is not
+the first half of 1982.
+squeezing the economy to death.
+It is relatively robust growth.
+I would opt for "B" because I think it would set the stage
+for M1 growth of about 5-1/2 percent for the second half of 1982,
+which should allow for positive growth of real GNP. Even though that
+rate of growth, when combined with the 6-1/2 to 7 percent growth in
+the first half, would produce approximately 6 percent M1 growth for
+the year as a whole, which is slightly above our annual target, it
+would still work toward reducing the basic rate of inflation from the
+current 7-1/4 percent.
+If we were to opt for an expansionary policy
+of something along the lines of alternative A, I think we would most
+assuredly end up with 6-1/2 to 7 percent growth of money in the second
+half of this year, and that sort of money growth would reignite
+inflationary expectations and start to undo the progress we've made
+over the past year and a half. The consequence is--and apparently
+there is some difference of opinion and difference of understanding on
+the part of some of us on this Committee--that the inflationary
+expectations resulting from an expansive monetary policy would cause
+interest rates to rise, and I underscore rise, rather than fall.
+Finally, while I don't want to get into a philosophical
+discussion and would rather imply my attitudes toward this, I couldn't
+characterize monetary policy as it has been conducted as entirely a
+failure. It has gotten us from those glorious double-digit inflation
+days that apparently some enjoyed a few years ago to inflation at a
+It has brought down short-term interest rates by 300
+tolerable rate.
+to 400 basis points. And, unless I am as blind as a bat, I don't
+
+-31-
+
+5/18/82
+
+think that that is all wrong.
+would opt for alternative B.
+CHAIRMAN VOLCKER.
+
+Excuse me, Mr. Chairman, but in sum, I
+
+Governor Gramley.
+
+MR. GRAMLEY. Well, I come from a very different position,
+I should begin to think
+but I'm going to get somewhere near Larry's.
+about that; I wonder if my logic is as tight as it ought to be!
+We
+have made a lot of progress against inflation but I don't think the
+battle is over yet by any means.
+I think the recent numbers on the
+actual PPI and CPI changes overstate considerably where we are in
+terms of the underlying [inflation] rate. And, indeed, the underlying
+rate itself has come down because of this very, very severe pressure
+on labor markets.
+But I think we've made enough progress to have
+gained some credibility and it's time to let the economy grow at a
+restrained pace and still make progress against inflation.
+I expressed earlier my deep concerns about the possibility
+that we might inadvertently push the economy off the cliff. That
+should be one of our major concerns now as well as doing what is
+necessary to make continued progress against inflation. However, the
+room we have to maneuver is very, very limited because of what is
+It is true, as Governor Teeters says,
+happening in fiscal policy.
+that the present deficits are primarily recession deficits; but is not
+true that the deficits we're looking at beyond, say, the coming fiscal
+year, have anything to do with recession. The budget deficits
+projected for the out years take place--and are growing--in the
+context of a fairly well functioning economy. Indeed, our staff is
+forecasting by way of a change in the high employment deficit between
+the first half of '82 and the last half of '83 an $87 billion swing;
+that's over a period of six quarters. And, of course, it gets bigger
+and bigger as far out as one can go.
+That is horrendous fiscal
+stimulus in process if we do not see a compromise reached that has
+I think Mr. Kichline's words are well taken; he
+some meaning to it.
+said that these unspecified budget cuts being talked about are not
+going to convince anybody. That is having a negative effect on the
+economy now because of its impact on expected future interest rates
+If we were to engage in
+and on some present long-term interest rates.
+any actions that suggested, in effect, that we were throwing in the
+towel, I think the effect on public expectations would be extremely
+adverse.
+So, I think we have a little room to maneuver and we ought to
+use it.
+We are doing basically what we wanted to do in the second
+quarter; things are coming out about as well as we could have
+expected. The money growth rates are about on target and interest
+rates have inched down a little from where they were. So, I would
+I might lean a
+like to stay about where we are--that is, about "B."
+little in the direction of Ed Boehne, going toward "B+," but I
+wouldn't want to go far enough in that direction to generate a
+substantial downward movement of interest rates. Although that would
+be nice from the standpoint of the economy, it would be adverse from
+the standpoint of public expectations and would take some of the
+pressure off Congress and the Administration to get something done
+while there's still time.
+MR. MARTIN.
+
+Governor Rice.
+
+5/18/82
+
+-32-
+
+MR. RICE. Well, Mr. Chairman, I don't believe that the
+alternatives we're looking at have much to do with inflationary
+expectations. Whichever of these alternatives we might choose, I
+don't think it would have very much effect on inflationary
+expectations.
+I just don't think many people out there are greatly
+worried about the fires of inflation being reignited in the immediate
+future.
+So, I don't think that's the issue. The question is how
+quickly we want to return M1 to the upper end of its target range.
+I
+share the view that has been expressed that our main problem is to try
+to do what we can to get interest rates down. My own view is that
+there is not much we can do to get interest rates down.
+If we take
+alternative A, the most we can look to is a funds rate of around 12
+percent; I think the estimate is slightly above 12 percent.
+That's
+not a very low funds rate with unemployment at 9-1/2 percent.
+And
+with a recession of the kind we're looking at and with the economy in
+the shape that was described by Governor Gramley, that's not what I
+consider pushing interest rates down to the levels that the economy
+needs in order to begin recovery.
+What we can do, though, is to create an environment in which
+interest rates can fall more easily than they can rise or where they
+would be more likely to fall than stay where they are.
+The only one
+of these alternatives that increases the likelihood that rates will
+fall is alternative A. And alternative A really just returns us to
+the target range at a later date. We're still approaching the target
+range. And if we don't get there until the second half--the end of
+the third quarter or the beginning of the fourth--I wouldn't be
+greatly worried as long as we're facing the kind of economic
+conditions that we're facing now. So, I would opt for alternative A
+in the hope that it might encourage--though it may or may not--some
+downward movement in interest rates.
+Along with that I would like to
+see a funds rate between 10 and 15 percent and borrowing in the $500
+million range.
+MR. MARTIN.
+
+Thank you,
+
+Mr. Timlen.
+
+MR. TIMLEN. Mr. Chairman, I think the Federal Reserve has
+demonstrated over time--what to many of us seems a very long time--its
+commitment to its objectives.
+Today the credibility of the Federal
+Reserve in terms of that commitment is not at issue.
+We all recognize
+that the country has had some success in its war against inflation.
+But I think this Committee must also recognize that we are
+encountering a very weak economy.
+Against that background, the
+Committee should avoid any dramatic action of easing.
+I fear that any
+such dramatic action would be misinterpreted and would stir up
+inflationary expectations.
+I do think those inflationary expectations
+are a real risk in the financial districts, particularly as they
+contemplate the outlook for the federal deficit.
+I must state that my
+thinking is quite close to Ed Boehne's, which will probably make him
+rethink his position! I do, however, like alternative B.
+I might
+shade it slightly in the direction of alternative A and that shading
+in my mind would be in terms of, say, shooting for borrowings around
+the $700 million level rather than the $800 million level indicated.
+CHAIRMAN VOLCKER. Maybe just for my benefit--I am sorry I
+got called out here--your concluding comment was "B," I take it?
+MR. TIMLEN.
+
+Shading a little toward "B+" but not much.
+
+-33-
+
+5/18/82
+
+CHAIRMAN VOLCKER. I didn't hear any of Governor Rice's
+argumentation. You reported that you were for "A"?
+MR. RICE.
+In a nutshell, I was saying that none of these
+alternatives can be described as easing. And I just cannot believe
+that any of them--alternative A at the extreme--would set up any
+serious inflationary expectations. People are not worried about
+inflation now; they are worried about staying alive. And alternative
+A stands the best chance of allowing interest rates to come down
+somewhat, though it probably won't even accomplish that.
+CHAIRMAN VOLCKER. I hope I don't get called out again. I
+should report that the market on the surface is behaving normally
+enough. Bond prices are actually up today.
+I guess the federal funds
+rate hasn't behaved very well; it remains around the same level or a
+little higher, but I don't think that has anything to do with this
+little flurry in the market.
+I wouldn't think the funds rate is
+affected. We get contrasting reports about whether the market
+clearing arrangements are affected. They are not drastically affected
+at this point, but there's a lot of nervousness about them. And still
+nobody knows anything about the position of this firm, as near as I
+can figure out.
+So, so far so good.
+On policy, I was going to interject a few comments of my own
+here.
+I don't know whether it's time to do that or not but I heard
+some concerns, which I well understand, and I heard various bits of
+analysis. I'm sorry I missed the earlier discussion. I think we are
+in a stage where we could tell ourselves that nobody said it was going
+to be easy to change these expectations and behavior patterns.
+I
+don't think we have changed them completely. We have a situation
+where prices are moving much more favorably than can be sustained on
+the basis of cost trends, and we have costs rising at a somewhat
+slower rate of speed, but a modestly slower rate of speed. There is a
+real prospect, I think, of further progress in that direction over a
+period of time.
+It is going to take some time and we can't count on
+surface price improvement to continue. Meanwhile, there's a
+horrendous squeeze on profits and all the manifestations of that
+around the economy. And I think we are vulnerable to the kind of
+thing that is happening in the market now in some form of another as
+time passes. I would also be concerned, and have been for some time,
+about influences on M1 of the liquidity/uncertainty/precautionary
+motive that Steve referred to.
+Did you refer to this survey?
+I
+didn't hear it.
+MR. AXILROD.
+
+Yes.
+
+CHAIRMAN VOLCKER. We can always reevaluate our longer-range
+targets at any meeting.
+I haven't heard anybody pressing that at this
+meeting and I think that's probably appropriate because it's very
+normal to do it at our next meeting. But we have to do it with some
+care at the next meeting, particularly against the background of the
+behavior of M1.
+Steve has outlined the possibility that M1 growth
+will be quite modest as soon as the economy turns around and as the
+precautionary motive unravels.
+I think there's a reasonable chance of
+that happening. It probably will once the economy turns around, but
+that assumes that it turns around and, of course, that people perceive
+It is devoutly to be wished at this point
+that it has turned around.
+that interest rates come down. And even more so, I don't think we
+
+5/18/82
+
+-34-
+
+have much leeway for surprises in the aggregates that drive [interest
+rates] up through a too mechanistic interpretation of the aggregates.
+I put this all together in two ways, which isn't unique from
+the comments I've heard already.
+I've argued the case before--not
+always successfully--that unless we have a good reason, we shouldn't
+change the quarterly targets.
+However, there are all sorts of ways to
+interpret that and the operational decision is where to set the
+borrowing path. I don't know whether Steve is right or wrong; I
+presume that there's at least a 50-50 chance that he's right that a
+considerably lower level of borrowing will be accompanied by a growth
+path in the aggregates that is consistent with the target we already
+set.
+In any event, that is basically a two-track strategy that has
+some appeal to me. Fine-tuning the aggregates in the middle of a
+quarter I'm not sure buys much.
+I am not going to [be greatly upset]
+if M2 growth comes out at 8-1/2 percent instead of 8 percent or even
+9-1/2 percent instead of 8 percent or if M1 continues to run somewhat
+high under a pattern of liquidity pressures as reflected in NOW
+accounts in particular.
+I'm right in the middle of something, tell
+him I'll call him back in just a minute.
+[Secretary's note:
+The
+previous sentence was an aside to a messenger informing the Chairman
+of a phone call.]
+In effect, I would at this point take the chance from one
+point of view or buy the protection from another point of view-however one wants to express it--of easing the pressures on bank
+reserve positions along the lines of plus or minus what is suggested
+in "B."
+If it turns out that the figures are more favorable in terms
+of restrained growth, we could move more aggressively pretty promptly.
+I think that would bring some easing sooner or later in the funds
+rate.
+The borrowing is substantially lower than we've had for a long
+time. But I am not persuaded that that has to be reflected in precise
+changes in the targets.
+I'd be inclined to leave them where they were
+and then take the chance that that will turn out to be consistent with
+an easing of money market pressures for which I think there is a
+reasonable chance. That's how I'd play the risk situation. There is
+a risk in the sense that whenever we set these reserve paths we never
+quite know where M1 and M2 and the rest of the Ms are going to come
+out.
+I'd play it in the sense that we will take some chance that with
+a lower borrowing figure, they will behave.
+If they don't behave, we
+might have missed a little low on the borrowing side but we don't have
+to react too quickly on the other side either if there's no very
+extreme movement within the confines of any of these numbers we're
+talking about. Well, with that much introduction or comment, I will
+make a telephone call and return very promptly. Next on the list is
+Mr. Ford.
+MR. FORD.
+I come out right about where you do, Mr. Chairman.
+I like "B."
+I'd like to see the federal funds rate range widened
+somewhat.
+I would not be concerned, as Lyle is, if rates were to drop
+now. I don't see why rates can't drop, with the high level of real
+interest rates that we're currently suffering under, toward a singledigit range. That ought to come sooner or later, so I'd want to widen
+the band, certainly on the lower end. And given the uncertainty that
+we're facing presently with the Drysdale situation, I'd perhaps just
+widen the band on both ends.
+I always like to do that. And a
+borrowing assumption of $800 million to $1 billion, or somewhere in
+there, sounds reasonable to me.
+I am concerned that we not go too far
+
+-35-
+
+5/18/82
+
+beyond "B" toward "A" because we don't yet know what will happen as we
+get into the second half of the year, and I wouldn't want us to give
+My
+up all our leeway as we look ahead to the second half of the year.
+feeling is that we should go generally for "B" with a somewhat lower
+initial borrowing assumption, though not a lot lower than we had last
+time, and a wider fed funds range--dropping [the lower limit] down to
+That
+perhaps 10 percent and making the range, say, 10 to 16 percent.
+It
+would widen the range to 6 points as we had it some time ago.
+would allow for more unusual variability [given] the current
+conditions that we face with the special situation in the market.
+MR. MARTIN.
+
+Governor Partee.
+
+MR. PARTEE. Well, I think we do need to review the longA very, very large proportion of the increase in M1
+range targets.
+I think
+since the beginning of the year has been in NOW accounts.
+it's 85 percent.
+I had that number someplace but I can't find it now;
+but it's a very large proportion. That is suggestive of the
+possibility of a change in precautionary balances that might not
+continue, but at least we shouldn't try to offset the lower growth
+rates for something that occurred in the early part of the year and is
+I also didn't know that Argentina
+already water over the dam.
+million of the money supply increase in April.
+accounted for
+That takes off a good deal of the strength in currency this year. I
+thought that April bulge indicated that people were spending. All
+that increase in currency indicates is that the Argentineans are
+afraid they might have their money taken away from them. We should
+make allowance for that kind of thing, and that's going to continue
+for some time into the future.
+As far as this meeting is concerned, I'm also attracted to
+continuing on the target path that we set at the beginning of the
+It calls for an increase in the
+quarter, which is alternative B.
+money supply in June--May is largely over and seems to be minus--of
+4.3 percent or thereabouts and continued expansion in M2 throughout
+the quarter. I'd be most concerned if we didn't get that June
+increase. Last year we didn't, if you recall; money growth in June
+was very weak. And we ought to be prepared to move in case weakness
+develops as we go through the period. So, I would take "B" for this
+time but reserve [my options] on the question of respecifying the
+aggregates for the year, which we'll be doing at our early July
+I rather like Mr. Ford's idea of widening the [funds rate]
+meeting.
+I wouldn't look forward to a 16 percent funds rate; on the
+range.
+So, I
+other hand, I do think it could drop as low as 10 percent.
+would widen it just on the lower end and make it 10 to 15 percent; and
+I'd choose a beginning borrowing number that is somewhat skewed in the
+direction of encouraging lower rates, which is probably around $700
+In sum, I would take
+million. I would agree with you on that, Tom.
+$700 million as my initial borrowing figure, 10 to 15 percent for the
+funds rate range, and the aggregates as specified in alternative B.
+I have the numbers that Governor Partee was
+MR. GRAMLEY.
+looking for. Of the $11.8 billion increase in seasonally adjusted
+money supply from December to April, $11.7 billion came from other-MR. PARTEE.
+see.
+
+Oh, is that right?
+
+It's almost 100 percent.
+
+I
+
+5/18/82
+
+-36-
+
+MR. GRAMLEY. From the fourth quarter to April would be the
+numbers that you had, I think.
+CHAIRMAN VOLCKER.
+MR. MARTIN.
+
+Mr. Martin.
+
+Is that who we're up to?
+
+Yes sir.
+
+CHAIRMAN VOLCKER. Was there any particular comment of great
+acuteness that the two last people wanted to repeat very briefly?
+I
+see where you came out generally. If not, Mr. Martin.
+MR. MARTIN. Thank you, Mr. Chairman. I think we have to be
+aware that there are limits to the impact we are going to make on this
+recession at this time with "A" or "B" or whatever set of targets we
+choose. We must be careful to keep in mind that in addition to a
+recession, the recovery from which is highly complicated by the level
+of interest rates, we are also undergoing in this country several
+structural changes in the overall national economic base. And those
+structural changes are not entirely responsive to monetary policy.
+It
+is obvious that we are in the process of moving from a heavy industry,
+smoke stack, economy to a service economy. We're well along that
+path.
+The difficulty of utilizing a more liberal monetary policy to
+bring us more strongly out of this recession is involved in that.
+Much of what we've read in the Redbook, District by District, has been
+about the changes occasioned by primary employment contraction. And
+that, of course, produces a multiplied effect on the economic base as
+secondary employment is hit by that.
+I submit to you that until our
+structural changes are farther along in that economic base we will
+have a weak recovery and that our policies here will have only a
+limited impact.
+Furthermore, we face changes in the financial structure in
+this country of which we all are acutely aware.
+Those changes are
+resistant to monetary policy in the sense that the departure of the
+life insurance companies and the other long-term investors from the
+financing of industrial plants, industrial parks, and office buildings
+--their abandonment, if you will, of the debt side of that kind of
+growth in private domestic investment--is not going to be turned
+around by what we do here. Those investors are going to equity
+participations, and in many cases that means that the factory building
+won't be built and the computer facility won't be installed and the
+office building will not be constructed, and that's not going to turn
+around. That is a structural change that has to work its way through
+until there are additional long-term sources of funds to finance
+business investment. The same comment applies to housing and housingrelated investment--I'm stretching that term a little. The thrift
+institutions are not going to recover.
+"A" or "B" is not going to
+affect their financial health materially. Lower interest rates will
+help, but we can't get interest rates low enough, long enough, to
+bring the thrift institutions back as the primary financers of
+housing.
+That is not going to occur.
+So, those are some of the
+structural changes.
+There has been another structural change--I use words any way
+I like when I have the podium, and I may be cut off any second here
+for that remark--and it is in federal fiscal policy.
+It is not
+entirely the province of one political party. The old days when a $5
+or $10 billion dollar appropriation would have bounced through the
+
+-37-
+
+5/18/82
+
+When a $1 billion-a-year
+Congress to revive housing are behind us.
+program is called generous in terms of a level of housing output of 1
+million units, you know we have a changed structure there.
+I don't
+believe this Administration or its successors will get back into the
+bail-out of the Chryslers and the Lockheeds and so forth. So, ready
+federal spending in multi-billion dollar amounts is another structural
+change, and that has implications with regard to the recovery.
+I note--maybe I was too many years in the supervision of
+financial institutions--that I am very sensitive to the upcoming
+financial crisis that we will have, and I know many of you share this
+view. Drysdale is just one; there are going to be a number of others.
+There are thrift institutions that are greatly overextended--and they
+are multi-billion institutions and they are heavily dependent on large
+CDs.
+They are buying all the junk assets they can find because of the
+fees and the yields on those, which are coming down; they will fail.
+They may get through this interest cycle but they won't get through
+the next one.
+So, from time to time we're going to have to inject
+reserves.
+From time to time, or over and over again I should say,
+we're going to have to play the lender-of-last-resort role; and that
+is going to persist for some years.
+I'm not sure that it will be the
+Penn Central [situation] all over.
+I don't know that history repeats
+itself that way.
+I think the recent bulges in the reserves that we
+provided and in the various measures of the money supply won't go away
+because there's going to be another wave behind that first wave.
+I
+don't believe that the markets believe us entirely. I think we have a
+great deal more credibility than we used to have, but don't tell me
+that part of the disbelief is not reflected in the level of interest
+rates.
+I feel there is still disbelief and it is so reflected. Of
+course, the awareness of how the Congress works is reflected in
+financial markets.
+The perfectly normal, usual, ordinary historical
+process in the way Congress grinds along and finally produces a budget
+hasn't helped us any in the interest rate situation. I don't put much
+weight to polling results, but there was a recent poll of 1200
+families around the country who were asked if they believed that
+inflation has come down recently. About a quarter of them said yes,
+we believe inflation has come down recently and about 75 percent of
+them said no; and some of them said it has gone up!
+So, do they
+believe us?
+Do they believe in the effectiveness of our inflationary
+policy? No.
+It is those considerations that get me over to "B," not "A."
+Absent the structural changes, absent the disbelief, absent the
+necessity for us to be the lender of last resort, I'd go for "A,"
+frankly, because our credibility is high enough and we've been able to
+go from numbers of $4.9 billion in the M1 weekly changes and have
+gotten through that without the markets being that disturbed.
+I'm
+trying not to repeat what my colleagues here have said because they so
+well covered the other aspects of the economy and the price situation
+and the growth in the aggregates.
+I'm just trying to add a particular
+view here. Given the situation as I see it, I would go to "B," but I
+would hope that with the excellent job done by our colleagues at the
+Desk--and here I'm second guessing the Desk, if I may put it that way
+--that if the numbers came in a little high, they would be left a
+little high. I hope it would be "B" but an easy "B" rather than a
+rigid conformance to these numbers, Mr. Chairman.
+CHAIRMAN VOLCKER.
+
+Mr. Balles.
+
+5/18/82
+
+today.
+
+-38-
+
+MR. BALLES.
+Did I?
+
+Well, I guess I ended up as tail-end Charlie,
+
+CHAIRMAN VOLCKER.
+
+Nope.
+
+MR. BALLES.
+I'll try not to repeat some of the views that
+have already been expressed because I agree with a number of them.
+I
+would like to go back to Mr. Axilrod's analysis. That suggests that
+perhaps we should extend the strategy of allowing a bulge in M1, much
+as we did in April, and that because of the possible increases that
+may have occurred in precautionary balances, because of the recession,
+etc. we should in effect give more emphasis to M2.
+We agreed in April
+that we would [accept an overshoot on M1] provided that M2 stayed
+essentially close to its target for the year.
+Of all the different
+options that we might choose that's the one that appeals to me
+personally as making the most sense at this time.
+All of us are
+extremely anxious, of course--if we knew how to do it--to get interest
+rates down. The question is:
+How can we, in fact, do it?
+I'm afraid
+my perception is that there is probably more of a risk in big
+overshoots in terms of getting inflationary expectations up again, and
+hence interest rates up, than the risks we otherwise would run.
+That
+was more or less confirmed in my thinking at the meeting last week of
+the Committee on Investment Performance where we talked to three
+insurance companies and five investment counselors who handle our
+retirement fund.
+I asked each one of them their explanation of why
+nominal rates are staying so darn high in view of a very significant
+The answer was pretty much the
+decline in the actual inflation rate.
+standard one about the fear that these big deficits will at some point
+result in the Fed monetizing a good part of these deficits again,
+recreating inflationary pressures, and thus double-digit interest
+rates reappearing.
+Coming down to the bottom line, in view of the conflicting
+pressures on us, I would favor alternative B for M2, but I would be
+prepared to be a little more generous on the M1 side depending on the
+unfolding evidence of this continued buildup in precautionary
+balances. As Messrs. Black and Guffey pointed out, however, that $800
+million borrowing assumption could be a little too generous to keep M1
+from getting too much out of hand on the up side. The work that we've
+done in our Bank on the short-run effects on M1 of the rate of bank
+loan growth suggests that we might need a higher level of borrowing-say, around a billion dollars--to keep M1 from growing too fast. As
+far as the federal funds rate is concerned, I would join those who
+would broaden the range just to make sure we have all the bases
+covered.
+I would suggest a federal funds range of 11 to 16 percent.
+CHAIRMAN VOLCKER.
+
+Mr. Keehn.
+
+It's interesting:
+MR. KEEHN. Well, it's a difficult choice.
+Alternative C certainly doesn't seem to have had any friends today.
+Given the gains that we have achieved on the inflation front and, most
+importantly, given the current state of the economy, I do think we are
+at a point where we could provide some room for the economy to grow
+and hopefully some scope for interest rates to go down.
+Since most of
+the growth in M1 so far this year has been in OCDs as opposed to
+currency and demand deposits, it seems to me that we could provide
+some scope there. I would be in favor of alternative A, and I do
+think we can accomplish that without any significant adverse reaction.
+
+5/18/82
+
+-39-
+
+We simply will be getting back to the target at a later date, and in
+my view there would not be undue negative reaction on the part of the
+I'd stick with the funds rate range of 10 to 14 percent.
+markets.
+That kind of band has been appropriate so far and I don't see any
+particular reason for making a change in that now. A borrowing level
+of, say, $500 million would be appropriate.
+CHAIRMAN VOLCKER.
+defend "C."
+
+Governor Wallich, you have your chance to
+
+MR. WALLICH. Well, I would like to remind you that this is
+probably the low point on inflation that we're going to reach in this
+From here on out visible inflation--[as reflected in] the
+cycle.
+I know that the underlying inflation rate
+indexes--is going to rise.
+isn't as low as the indexes show and that that underlying inflation is
+likely to continue coming down. Nevertheless, from now on out the
+newspapers are going to be reporting that inflation has started again.
+I'll give you three guesses!
+Who was it that did it?
+So, I fear that we're in some danger of repeating past
+performance and that we may shift to an accommodative if not expansive
+stance too early. And things need not improve, unemployment wise,
+under such a scenario. Mrs. Thatcher now has 12 percent unemployment
+That may happen to us
+and she had up to 20 percent interest rates.
+the next time around if we start the next expansion from the present
+level of inflation. I do agree with those who say that our job is to
+get interest rates down. We need to get credibility for what we've
+Interest rates in real terms are surprisingly high and I
+been doing.
+think this is largely because people don't trust what has been
+They see inflation accelerating again. They
+accomplished so far.
+look at inflation as something on the order of at least 10 percent per
+I don't see great [problems] in maintaining a
+year over the long run.
+degree of pressure at this time. Monetary policy really hasn't been
+very tight given that it is operating at very high interest rates.
+We're above our M1 target. We have not made a dramatic effort to get
+back into it as we did a year ago in April. The concerns that the
+targets might be too low to accommodate a reasonable rate of growth of
+nominal GNP have been largely removed. We're now looking at nominal
+GNP growth of 6 to 7 percent; a target at a peak 5-1/2 percent plus a
+normal gain in velocity of 2 or 3 percent clearly would accommodate
+that and even would allow, possibly, for some decline in interest
+rates.
+Finally, the danger of provoking a severe downturn seems to
+me to be protected against--not guaranteed against, obviously--both by
+the endogenous workings of the economy, such as the inventory
+turnaround, financial endogenous factors such as the possible drop in
+interest rates if the economy stays very weak, and the exogenous
+So, it seems to
+factors of the tax cut and social security increase.
+me that we could continue to pursue a policy of moderate restraint
+I would lean--I'm not always to be going for
+until the economy turns.
+That would mean to me a funds rate
+"C"--toward something like "B-."
+range of 11 to 16 percent instead of the 12 to 16 percent associated
+with "C;" I'd shade the range on the low side because we do want to
+get rates down. And for the borrowing assumption I think $800 million
+is peculiarly low and I would opt for something around $1 billion.
+Thank you.
+
+-40-
+
+5/18/82
+
+CHAIRMAN VOLCKER.
+
+A billion dollars is where we are now in
+
+fact.
+MR. AXILROD. Well, that's where it is implicitly; we've
+never been there.
+Last week the borrowing averaged $914 million or so
+and thus far this week it has been just a shade under $800 million.
+MR. BLACK. Peter, as to our operations, you said yesterday
+on the call that the Desk anticipated that we would hit our borrowing
+targets of a week ago.
+MR. STERNLIGHT. The level implicit in the path is a little
+over [$1 billion]--about $1044 or $1045 million. But, as Steve said,
+borrowing has been running around $750 to $800 million so far this
+week.
+MR. BLACK. But would your guess still be that you'd come out
+about on the borrowing target? Or has that changed since yesterday?
+MR. STERNLIGHT.
+I don't know. The way borrowing has been
+running I wouldn't be surprised if it stays around that $800 million
+level today because tomorrow we may be looking at something that's
+averaging $800 million. Now, how we shape operations tomorrow might
+depend on the decision reached here today. If the borrowing
+assumption were to come out around that $800 million level, let's say,
+I'm not sure there's a great point in obliging that final day of the
+week bulge in borrowing that would bring borrowing up to the $1040
+million average.
+CHAIRMAN VOLCKER. Well, borrowing, let us not forget, is in
+any case the residual; what we are aiming at is the reserve path. And
+if the excess reserves vary from their assumed level, we will get a
+different borrowing figure simply because excess reserves are off.
+MR. BLACK. The only reason I asked the question is that I
+was on the call yesterday and the staff thought at that time that we'd
+probably be about on target.
+I just wondered if that had changed.
+CHAIRMAN VOLCKER.
+
+Mr. Boykin, would you like to contribute
+
+to our--?
+MR. BOYKIN. Briefly, I would opt for alternative B.
+I would
+do it in a fairly firm way. I don't think I'd want to see it shaded
+toward "A."
+I would accept the borrowing assumption of $800 million.
+It seems a little low, but I would accept that.
+CHAIRMAN VOLCKER. Mrs. Horn, you are left either to
+pronounce the benediction or to change everybody's mind, or to bring a
+fresh point of view in any event.
+I don't know whether your view is
+from Cleveland or Philadelphia at this point--perhaps a mixture of
+both.
+MS. HORN. The point of view is Cleveland as of a few days
+If we're either on alternative A
+ago.
+I would choose alternative B.
+or [C], it seems to me we run the risk of the market--or of all of us
+--being surprised by another accident in the money supply when we're
+above target.
+I think that's particularly damaging to market
+expectations.
+I believe the market expects us to stay on the track
+
+5/18/82
+
+-41-
+
+that we seem to be on for this quarter and would not be disappointed
+My staff's work would indicate
+by our continuing with alternative B.
+that the $800 million initial borrowing assumption would shade this
+path toward "B+," but basically alternative B as specified is where I
+come out.
+CHAIRMAN VOLCKER. Well, we seem to have some considerable,
+but not unanimous, consensus around some variant of "B" with a plus or
+I take it a number of people have made the
+minus [or] in the middle.
+point, and I made the point, that we face the possibility of surprises
+and uncertainties along the line, which might require a deviation from
+But we have to assume we're
+a strict application of a reserve path.
+There is one consideration that would
+talking in the usual manner.
+bear upon me, which I didn't mention earlier, and I don't know whether
+I'd like to get interest rates down;
+anybody mentioned it explicitly.
+it wouldn't hurt my feelings at the very least to give the market a
+On the other hand, it would
+little sense of a lead in that direction.
+be unfortunate if we gave it such a strong lead and created a sizable
+risk that we would have to reverse it in a considerable way. That
+would damage precisely what we're trying to do; we always have that
+risk to some extent.
+Borrowings have been around $1 billion and very briefly have
+been a little below that. Actually, the Desk has been aiming at a
+Such a level has been very slow to
+path consistent with $1 billion.
+affect the federal funds rate so far, but presumably at some point it
+The federal funds rate is about where it was when the
+should.
+Sometimes it takes a
+borrowings were $300 or $400 million [higher].
+few weeks. All I'm saying is that, balancing all this out, maybe the
+$800 million in the Bluebook is a reasonable compromise between a bit
+of a lead and not being so aggressive that we maximize the chances of
+I really
+having to turn things around on relatively short notice.
+hadn't thought of it before particularly, but as I sit here, I feel
+that if we promote a great rally in the bond market and have it
+disappointed in three weeks, we may be better off with a little more
+We can't control that because
+moderate increases in the first place.
+We can't control it fully, but we
+the market has a mind of its own.
+And if we have to go lower [on
+can try to avoid giving a false lead.
+the borrowing], I'd go lower a little more gradually. That is my
+sense of that.
+As for the federal funds rate, it's hard to put the limit
+But
+below 15 percent when it's above 14 percent right at the moment.
+I would not have a comfortable feeling if the federal funds rate went
+above 15 percent at this particular juncture, and I would want to
+I am inclined to think we ought to say
+review that pretty carefully.
+I wouldn't
+15 percent; we should review it if it goes to 15 percent.
+expect it to do so but I would want to think a bit if it did. The
+lower end of the range on a 4-point range comes out to 11 percent,
+I don't feel strongly
+which gives us a lot of room from where we are.
+about the lower part of the range. But just to give you something to
+And, picking up on John Balles' point, which
+shoot at, we're at "B."
+I think had some echoes elsewhere, I personally do feel more relaxed
+about M1, given the various influences or uncertainties bearing upon
+It's a great source of comfort that M2 is somewhere
+Ml within limits.
+I have made this point very
+near the upper end of the range.
+frequently in informal public and private discussions, though I have
+I think it might be
+not done it in writing or in a big public speech.
+
+5/18/82
+
+-42-
+
+useful at least to suggest in a public speech, of which I have a
+plenitude still on my calendar, that one should not be too literal or
+too aggressive about M1 when there is all this uncertainty about the
+precautionary effects in M1 and so forth.
+I also would note that that
+figure gets interpreted in the light of what is happening in the other
+aggregates and is not looked at just as a figure itself.
+I have to discuss a bit a letter from Mr. Reuss discussing
+various resolutions in Congress and what we would do about them. I
+want to take that up with you.
+I can do it now or after we make this
+decision.
+I don't know whether it's relevant to anybody's decision.
+So, let me just introduce it.
+I have been abroad, but he sent me this
+letter, which arrived on my desk Monday morning, May 12.
+That means
+it was sent on Friday.
+It's a six-page opus.
+Page 1 says the Senate
+Budget Committee has tentatively adopted a budget resolution and he's
+urging the House Budget Committee to have [such a] resolution; they
+hadn't adopted it at the time he wrote this letter, I guess.
+Since
+then the House Budget Committee, in Committee stage, has adopted the
+same resolution, with the same language as the Senate resolution.
+It
+says that it is the sense of the Congress that if the Congress acts to
+restore fiscal responsibility--that's a big if--and reduces projected
+budget deficits in a substantial and permanent way, though I don't
+know how one makes that judgment, then the Federal Reserve's Open
+Market Committee shall reevaluate its monetary targets in order to
+assure that they are fully complementary to a new and more restrained
+fiscal policy.
+It seems to me a fairly unexceptional kind of
+resolution and one that can be lived with, since it's entirely
+appropriate that we reexamine our targets on our own initiative with
+or without the Congress speaking for this and for other reasons.
+Obviously, we are approaching the midyear date to make that an
+explicit part of the [agenda].
+Now, Mr. Reuss has been trying to get in a much more specific
+resolution, and page 2 reviews the background for that. He
+[unintelligible] it in other ways; he didn't say how specific a
+directive or resolution at least, but it comes down to a more specific
+resolution. He says he thinks that is going to prevail when the
+budget resolution is finally enacted.
+That's not the resolution they
+adopted in the Committee. He says here or elsewhere that he's going
+to press it as part of the debt ceiling legislation. If it appears
+there, I would note that that is legislation and not just a
+resolution. Then he has 2 or 3 pages about how the Constitution says
+that Congress shall have the power to coin money and the Federal
+Reserve is its agent. He notes that that is in the preamble of some
+resolutions that he has introduced and he reviews [comments by] past
+Chairmen [of the Federal Reserve].
+I don't know whether he quoted
+some language from me--he could have; somebody should look it up--but
+he could have mentally, though he didn't. But he quotes Mr. McCabe,
+Mr. Martin, and Mr. Burns as saying that yes, indeed, if Congress
+appropriately by law ordered the Federal Reserve to do something, the
+Federal Reserve would do it.
+I don't think he gets right to the point
+of what we would do if there were a resolution.
+[He says] it is vital
+for the Congress to know whether the Federal Reserve will now accede
+to the directive of Congress or instead assert that it is a fully
+independent fourth branch of government accountable to no one.
+[He
+notes that] the next meeting of the Federal Open Market Committee is
+on May 18 and that it would be in the public interest to give the Open
+Market Committee an opportunity to vote on this question. So, I'm
+
+5/18/82
+
+-43-
+
+going to ask you to vote on--not seriously--whether we will obey the
+law or not.
+He suggests a rather vague resolution--well, I don't know
+"Resolved that the Federal Open Market
+whether it's vague or not:
+Committee will comply with a directive in a concurrent resolution
+requesting the Federal Open Market Committee, if the Congress
+substantially reduces budget deficits, to adjust its present monetary
+That leaves
+target range in order to permit lower interest rates."
+open the question of whether adjusting the monetary target range will
+in fact speed up the achievement of lower interest rates or not; that
+I do not think it's appropriate that
+is a matter of some controversy.
+I take a vote on this particular resolution that he has proposed, but
+And I wonder whether I can report to
+I wanted to expose you to it.
+him that we have discussed this matter and I will tell him that it is
+clear in the minds of the members of the Open Market Committee that
+If Congress had a law that told us to do
+indeed we follow the law.
+But a resolution is a much more tricky
+something, we'd have to do it.
+I think we probably ought to duck the question of
+thing to handle.
+But obviously we'd
+how binding a resolution is, in the last analysis.
+I would propose to point
+have to take it seriously and I'd say so.
+out in a letter that it would be a very difficult matter if they got
+It would be a departure, I think
+very precise in a resolution.
+It
+without precedent, if there were a really precise resolution.
+would create a very serious dilemma if we didn't happen to agree with
+him. But I would not say what we would do. However, I would like to
+report that we take their [views], however expressed, very seriously
+and would certainly give them our fullest attention without [directly
+addressing] the issue of whether we really would feel compelled if
+they say that our target should be 8 percent or whatever, to say that
+our target is 8 percent.
+MR. WALLICH. I would stress the difference between the law
+and the resolution.
+If they pass a resolution, it seems to me clear
+that they didn't want to pass a law.
+CHAIRMAN VOLCKER. Well, one hears all kinds of mixed
+I don't disagree with you in one sense. But it's not
+arguments.
+quite as simple as that, I'm afraid. They can put resolution language
+in a law. If it is resolution language, such as "It is the sense of
+the Congress that the Federal Reserve ought to do something," which
+doesn't sound like a law, but is signed as a law, what do we do with
+it?
+There is also the more subtle question, when we have always
+claimed that indeed the Congress has the power and that's in the
+Constitution and all the rest, of whether they need a law if both
+I just don't want to meet that
+houses pass the same resolution.
+It would pose a very difficult issue for us.
+question at this point.
+Can't you respond just by transmitting to him some
+MR. ROOS.
+I don't think
+sugar-coated, beautiful, unadulterated, double talk?
+you have to dignify the gentleman's request. Frequently in the game
+of politics when somebody tries to put you on the spot, you respond in
+a very dignified way with some vacuous terminology and hope he makes
+an inspection trip to the Falkland Islands or something like that!
+My own
+CHAIRMAN VOLCKER. He's not likely to do that.
+judgment is that we can't evade this issue that fully. He's going to
+come back. He's going to come back in another letter or hearing very
+
+5/18/82
+
+-44-
+
+quickly if he thinks our response is too obviously evasive. Now, at
+the same time, I don't think we can answer the question. And we
+should not, in my opinion, prejudge precisely what we would do without
+even knowing what the resolution is.
+MS. TEETERS.
+We also run the danger that if we don't pay
+some attention to the resolution, they will pass a law.
+MR. PARTEE. I'd be very much impressed by a resolution.
+After all, this is not just any Congressman; this is the Chairman of
+the Joint Economic Committee, the ex-chairman of a Banking Committee,
+and a Congressman who has announced he is not going to run for
+reelection. If he can get the whole Congress behind him to support a
+particular path for monetary policy, as long as it's not too specific,
+I would take it extremely seriously and be inclined to vote with it.
+CHAIRMAN VOLCKER. There is no question that they will pass a
+resolution. The sentiment is very strong. The question is whether we
+will get a resolution of the type that the Committee has adopted,
+which I think is the probability. The danger is something much more
+specific. But it depends upon whether it's said precisely; I don't
+think we can answer. It could put us in a very great dilemma. It has
+to be taken seriously; I don't think there's any question about that.
+Also, some of us have to go to a lunch and we have to quit for the
+time being. Maybe we can think about this over lunch and come-MR. ROOS.
+Do you have some idea, Mr. Chairman, when we
+return how long you think [the meeting will run]?
+CHAIRMAN VOLCKER. Well, I don't think it's going to take
+very long, because I think we were very close to concluding. We have
+to resolve this issue in general terms and I don't think we will need
+more than a half hour, I would guess, and maybe less.
+MR. GUFFEY. Would it not be possible to take a vote now on
+the directive?
+There's a consensus probably on the resolution as you
+have outlined it.
+CHAIRMAN VOLCKER. Well, okay, if you're willing to go that
+fast.
+Let me just repeat. What I'm suggesting is that I would prefer
+just to keep the wording of the directive with a modification in the
+time period. That's where we are.
+Instead of just rewriting it, we'd
+have the same substance with a different time period.
+I would take
+out those intermediate sentences that we had before and just say this
+is it.
+I'd make clear, not in the directive but in the interpretative
+language on the Committee discussion--the policy record or whatever we
+call it--these nuances that we're a little less worried about M1 and
+that if it went a little high we wouldn't be all that concerned,
+particularly provided M2 is okay.
+I'd leave that to the policy
+record.
+Is that what it's called?
+Mr. Altmann has suggested that we put in a phrase that for
+the short run the Committee reaffirmed its decision of the previous
+meeting. It's 50-50 for me. We are in one of these peculiar cases
+where we are right on track with what we said at the previous meeting
+in terms of the aggregates.
+We can leave in that first sentence--well
+we can't really say the tax date--but we can leave in the sentence
+
+-45-
+
+5/18/82
+
+saying that M1 is affected by these liquidity shifts and so forth, if
+we want to.
+MR. GRAMLEY.
+
+I think that would be a good idea.
+
+I don't have the precise language.
+CHAIRMAN VOLCKER.
+have to modify that language.
+
+We'd
+
+MR. GRAMLEY. All we have to do is to make it:
+"The
+Committee also noted that deviations from these targets should be
+evaluated in light of changes in the relative importance of NOW
+Just cut out everything from-accounts as a savings vehicle."
+CHAIRMAN VOLCKER.
+MR. GRAMLEY.
+
+Okay.
+
+That's consistent with--
+
+Just drop the next sentence.
+
+The borrowings
+CHAIRMAN VOLCKER. Drop the next sentence.
+are $800 million and the funds rate range is 11 to 15 percent, if
+that's the most natural thing to say here.
+Do you want this clause
+saying we reaffirmed?
+I'd be inclined to leave it out.
+MR. PARTEE. How would you like 10 percent for the bottom of
+the funds range?
+There was some expression around the table for that.
+MR. BALLES.
+
+What did you say on the federal funds rate?
+
+CHAIRMAN VOLCKER. I said 11 to 15 percent.
+is suggesting 10 to 15 percent.
+MR. BOEHNE. I prefer 10 percent.
+letting it go to 10 percent?
+
+Governor Partee
+
+What do we have to lose by
+
+MR. MARTIN.
+
+Let's go to 10 percent.
+
+MR. PARTEE.
+
+You might ask for a show of hands or something.
+
+Is that the majority
+CHAIRMAN VOLCKER. Well, I'll see.
+It seems to have a fair amount of
+sentiment--to go to 10 percent?
+Is it clearly enough understood?
+support. That's the proposition.
+We will vote then.
+MR. ALTMANN.
+Chairman Volcker
+President Balles
+President Black
+President Ford
+Governor Gramley
+President Horn
+Governor Martin
+Governor Partee
+Governor Rice
+Governor Teeters
+Governor Wallich
+First Vice President Timlen
+END OF MEETING
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+
+

@@ -1,0 +1,1499 @@
+July 24, 2008
+
+1 of 50
+
+Conference Call of the Federal Open Market Committee on
+July 24, 2008
+A joint conference call of the Federal Open Market Committee and Board of Governors
+of the Federal Reserve System was held on Thursday, July 24, 2008, at 4:30 p.m. Those present
+were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Mr. Kohn
+Mr. Kroszner
+Mr. Mishkin
+Ms. Pianalto
+Mr. Plosser
+Mr. Stern
+Mr. Warsh
+Ms. Cumming, Messrs. Evans, Lacker, and Lockhart, and Ms. Yellen, Alternate
+Members of the Federal Open Market Committee
+Messrs. Bullard, Hoenig, and Rosengren, Presidents of the Federal Reserve Banks of St.
+Louis, Kansas City, and Boston, respectively
+Mr. Madigan, Secretary and Economist
+Ms. Danker, Deputy Secretary
+Mr. Skidmore, Assistant Secretary
+Ms. Smith, Assistant Secretary
+Mr. Alvarez, General Counsel
+Mr. Baxter, Deputy General Counsel
+Mr. Stockton, Economist
+Messrs. Connors, English, and Kamin, Ms. Mester, Messrs. Rolnick, Rosenblum,
+Sniderman, and Wilcox, Associate Economists
+Mr. Dudley, Manager, System Open Market Account
+Ms. J. Johnson, Secretary, Office of the Secretary, Board of Governors
+Mr. Cole, Director, Division of Banking Supervision and Regulation, Board of Governors
+Ms. Roseman, Director, Division of Reserve Bank Operations and Payment Systems,
+Board of Governors
+Mr. Frierson, Deputy Secretary, Office of the Secretary, Board of Governors
+Mr. Clouse, Deputy Director, Division of Monetary Affairs, Board of Governors
+
+July 24, 2008
+
+2 of 50
+
+Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors
+Ms. Edwards, Associate Director, Division of Monetary Affairs, Board of Governors
+Messrs. Carpenter and Perli, Assistant Directors, Division of Monetary Affairs
+Ms. Low, Open Market Secretariat Specialist, Division of Monetary Affairs, Board of
+Governors
+Ms. Beattie, Assistant to the Secretary, Office of the Secretary, Board of Governors
+Messrs. Fuhrer and Judd, and Ms. Krieger, Executive Vice Presidents, Federal Reserve
+Banks of Boston, San Francisco, and New York, respectively
+Messrs. Hankins and McAndrews, Ms. Perelmuter, Messrs. Rasche, Sellon, Sullivan, and
+Weinberg, Senior Vice Presidents, Federal Reserve Banks of Dallas, New York, New
+York, St. Louis, Kansas City, Chicago, and Richmond, respectively
+Ms. McLaughlin, Vice President, Federal Reserve Banks of New York
+
+July 24, 2008
+
+3 of 50
+
+Transcript of the Federal Open Market Committee Conference Call on
+July 24, 2008
+
+MR. KOHN. I move that we close the meeting.
+CHAIRMAN BERNANKE. Without objection. This is a joint Board–FOMC meeting
+because the issues on liquidity provision that we are going to be discussing today require both
+Board and FOMC actions.
+At the last FOMC meeting, the one in June, we discussed briefly some of the facilities—
+the TAF, the PDCF, and the TSLF—and I think there was an agreement that we would be
+announcing an extension of those beyond year-end. At that time, I suggested that we might take
+a notation vote on those issues. However, the staff has proposed a couple of additional wrinkles,
+which would make sense to announce at the same time that we announce an extension. Because
+we want to get your views on these, I thank you for taking the time to join this meeting.
+Two additional suggestions have been made. The first is to add an auction of options to
+the TSLF to allow dealers to bid for the option to have access to the TSLF over critical short
+periods such as over year-end. We will get more explanation of that. The second proposal is to
+extend the maturity of the Term Auction Facility from the current 28 days to 84 days. As you
+know, the Swiss National Bank and the European Central Bank have been conducting auctions
+pursuant to our TAF auctions. We have contacted them and told them that we are considering
+the extension in time. If we do that, they have both indicated that they would want to follow and
+do three-month auctions with us. To make that work out, we are going to propose a small
+increase in the ECB swap line—well, not small, but from $50 billion to $60 billion. I guess $10
+billion is large money anywhere. The purpose is that they can divide that by six and have a more
+even number for auctions.
+
+July 24, 2008
+
+4 of 50
+
+The reasons I thought that we should discuss this now instead of waiting for the meeting
+in a couple of weeks are, first, that there is considerable interest in what we are going to do with
+these various facilities and already some reporting about them, and I think it is better for us to get
+this out sooner rather than later. If we decide today to take these steps—in particular, if we
+decide to lengthen the TAF—for purposes of coordinating with ECB, they would have to get
+approval from their governors as well. The bottom line is that our announcement would be next
+Wednesday morning, so we would not be quite ready to announce for a few more days. In
+addition, because I do want everyone to have a chance to give their views and we have only a
+one-day meeting coming up, I thought it would be better to get this done before the FOMC
+meeting. Again, the issue at hand is whether to make these two additional modifications to our
+liquidity program.
+I am going to turn to New York and ask Bill Dudley to brief us on these proposals. He
+will be assisted by Debby Perelmuter and Sandy Krieger. After that, there will be time for Q&A
+with them; with Brian, who is here; with Scott Alvarez; or with anyone on the staff. Following
+that, we will have an opportunity for discussion. The votes are actually kind of complicated
+because the responsibilities for these programs are divided in various ways between the Board
+and the FOMC. But we will get to that, I guess, at the appropriate time. So let me now turn over
+the meeting to Bill Dudley. Bill.
+MR. DUDLEY. Thank you, Mr. Chairman. As outlined in the memo circulated
+earlier to the Committee from Brian and myself, the staff is proposing two
+innovations to our suite of liquidity facilities. First, we are proposing to add a
+$50 billion options program to the TSLF. There is a precedent for this. We auctioned
+options in advance of Y2K. This proposal calls for selling options to primary dealers
+in a series of auctions beginning several weeks before each quarter-end. The options
+would be for the right to borrow Treasuries from the SOMA portfolio in exchange for
+schedule 2 collateral for a short period of time (a week or so) over the quarter-end
+period. If the option is exercised, the dealer would pay a fixed rate for the borrowing
+(we have currently penciled in this rate at 25 basis points, annualized—the same as
+
+July 24, 2008
+
+the minimum bid rate on 28-day TSLF borrowing). The fine points of the program,
+such as the rate and the precise timing and tenor of the borrowing that the options
+would reference, would be determined after consultation with the primary dealer
+community. As you recall, in the rollout of the original TSLF program, we consulted
+with the dealer community after the program was announced. The dealer comments
+did result in changes in the program that we believe made it more effective, and the
+dealers certainly did appreciate the opportunity to have their views heard before the
+program was implemented. We anticipate that an options facility would be helpful in
+providing a means for dealers to purchase insurance that could be used to secure
+funding over stress periods such as quarter-end and year-end. Because the options
+would be auctioned well in advance of quarter-end, dealers should be able to better
+plan their funding needs over that period. The options program should help reassure
+dealers that they will be able to finance their less liquid collateral over these highstress balance sheet periods. Greater comfort on the part of the dealers is likely to
+reduce the risk of a margin spiral in which forced liquidation of illiquid collateral
+leads to lower prices, higher volatility, and higher haircuts, which, in turn, provoke
+further liquidation. Debby Perelmuter will discuss the TSLF options proposal in
+greater detail in a few minutes.
+Second, we are proposing to extend the maturity of Term Auction Facility loans
+to 84 days from 28 days. The size of the total program would remain unchanged at
+$150 billion. The auction cycle would remain biweekly, with the size of each auction
+cut proportionately to the rise in maturity—to $25 billion per auction in six biweekly
+cycles covering 12 weeks from the current program of $75 billion in two biweekly
+cycles covering four weeks. We also are proposing to change our
+overcollateralization rules. In the current program, we require that TAF bids must not
+exceed 50 percent of pledged collateral. But the overcollateralization can be
+withdrawn after the loans are made. Under the new rules, we would change this
+standard so that the sum of all outstanding term TAF and term PCF loans could not
+exceed 75 percent of available collateral, both initially and throughout the term of the
+loans. As the Chairman noted, the ECB and the SNB have indicated that they will
+modify their programs accordingly. The ECB is seeking to raise its swap line
+authority to $60 billion from $50 billion. They are seeking to do this because the
+current swap line of $50 billion is not easily divisible into a six biweekly auction
+cycle. We anticipate that they will decide to raise their biweekly auction size to either
+$9 billion or $10 billion—so the total swap draw is likely to rise to either $54 billion
+or $60 billion. The motivation for the maturity extension is provide greater support to
+term funding markets. For some time, banks have asked for longer-term maturity
+TAF loans. This is attractive to them for two reasons: (1) almost all of these loans
+will extend over quarter-ends—periods in which balance sheet stress is likely to be
+greatest—and (2) the longer maturity would also help banks extend the average
+maturity of their borrowings. This change will also put the maturity of TAF loans
+more on par with the ninety-day limit of the primary credit facility. Sandy Krieger
+will discuss our TAF maturity extension proposal in more detail shortly.
+
+5 of 50
+
+July 24, 2008
+
+So what will these two programs do? My own view is that these new proposals
+are evolutionary rather than revolutionary. They are unlikely to result in a dramatic
+improvement in term funding conditions. However, they are likely to be helpful at
+the margin. In particular, I think they will help reduce the risk of the type of margin
+spiral that could potentially turn a period of balance sheet stress into something
+systemic. In my view, this is a worthwhile goal. Better to take steps now to reduce
+the risks of bad outcomes than wait to respond only after the bad outcomes occur.
+Introduction of these program innovations also will demonstrate that the Federal
+Reserve is actively on the case, refining its liquidity suite in order to make its tools
+more effective.
+Will introduction of these changes be alarming to the market? I don’t think so.
+Because they would be announced simultaneously with the extension of the PDCF
+and the TSLF programs, the changes are likely to be perceived as an ongoing
+refinement of the existing programs rolled out as a package with the PDCF and TSLF
+extension rather than as a program that signals great concern about problems known
+to the Federal Reserve but not to market participants.
+Should we worry that the $50 billion TSLF options program further commits the
+Fed’s balance sheet, making it more difficult to respond to large, unanticipated PCF
+or PDCF borrowing? Although this is a legitimate issue, it should be emphasized that
+the Federal Reserve has other means of easing its balance sheet constraints, which the
+staff has been actively pursuing. Also, the regular TSLF program has been
+undersubscribed—currently only $113.5 billion of TSLF loans are outstanding. This
+will climb to $123.1 billion tomorrow, when today’s auction settles. This means that
+there is a bit more headroom than suggested by the $175 billion size of the TSLF
+auction program and the $200 billion that was authorized. Moreover, in the worstcase scenario of massive PCF or PDCF borrowing, I wonder whether the $50 billion
+claim on the Fed’s balance sheet represented by the options would indeed be
+significant at the margin. Debby Perelmuter will now explain how we anticipate that
+such a TSLF options program would work.
+MS. PERELMUTER. Thanks, Bill. We will propose auctioning the options in
+two $25 billion offerings. This will allow dealers to adjust their bidding behavior in
+response to the first auction results. The first TSLF options program (TOP) auction is
+currently anticipated during the week of September 1 for the option to lock in TSLF
+financing over the September quarter-end. We expect to hold the second auction two
+weeks later. These auctions will be in addition to our ongoing TSLF auction cycle.
+Thus, there will be two TSLF schedule 2 auctions totaling $125 billion and another
+two TSLF schedule 1 auctions totaling $50 billion that will also span quarter-end.
+The plan is to hold TOP auctions against schedule 2 collateral in weeks on either side
+of the two regular TSLF schedule 2 auctions during the months ahead of quarter-ends
+or year-ends. The first of these auctions would be for $25 billion. If that auction is
+undersubscribed, we intend to add the unused option authorization to the second
+auction two weeks later.
+
+6 of 50
+
+July 24, 2008
+
+Each auction will offer the option for dealers to borrow general collateral
+Treasury securities against pledges of TSLF schedule 2 collateral, which includes
+AAA-rated private-label residential and commercial MBS and ABS, agency CMOs,
+and the basket of collateral already eligible for our regular open market operations.
+Our initial recommendation is for the options to have a one-week duration spanning
+the month-end and a strike price of 25 basis points, annualized. The strike price
+represents the lending fee that the dealer is willing to pay to borrow general collateral
+Treasury securities against pledges of their choice of schedule 2 collateral. This fee
+concept is very familiar to the dealers participating in both the TSLF auction program
+and the Desk’s regular daily securities lending auction. The 25 basis point strike
+price for the TOP correlates to the minimum fee already in force that dealers can bid
+in the regular 28-day TSLF schedule 2 auctions.
+Dealers will bid for these options by specifying the quantity of TSLF options they
+demand and the price or premium they are willing to pay for the set maturity loan at
+the set lending fee. As with the TAF and the TSLF, a minimum bidding premium
+level will be set. We are recommending a minimum bid of 1 basis point with bidding
+increments of 0.1 basis point. Volume parameters will be similar to those of the
+TSLF—a $10 million minimum with a maximum of 20 percent of the auction size for
+any one dealer. We expect that auctions will be held in the afternoons with results
+posted very shortly after the auctions close. The premium that each dealer will pay
+will be determined by the competitive single-price auction process, in which the
+accepted dealer bids will be awarded at the same premium, which shall be the price at
+which the last bid was accepted. The options will not be transferable between
+dealers. Dealers who have received awards in the auction will have to notify the New
+York Fed at least one day before the exercise date if they wish to enter into the TSLF
+loan. Dealers may also let the options expire unexercised at no cost beyond the
+premium paid at auction. All haircuts, collateral eligibility, and settlement
+conventions will be the same for the TOP as they are for the TSLF. As Bill noted
+earlier, and consistent with how the program parameters were developed for the
+TSLF program, we expect to develop more precisely the terms and conditions of the
+TOP after consultation with the primary dealers. Should the Committee approve the
+proposal this afternoon, we expect these conversations to begin shortly after the
+announcement next week. Thank you. Please let me turn the floor over to Sandy
+Krieger to discuss the TAF maturity extension proposal.
+MS. KRIEGER. Thank you, Debby. Regarding the longer-term TAF, a transition
+from the current biweekly schedule of 28-day auctions, $75 billion each, to a
+schedule of biweekly 84-day auctions, $25 billion each, will require four additional
+biweekly auctions of 28-day credit for an eight-week period. We need to do this to
+keep the amount of TAF credit outstanding at $150 billion. We contemplate a
+schedule that permits us to auction the 84-day credit of $25 billion on the now-typical
+Monday “cycle,” announce these results Tuesday morning, and then auction 28-day
+credit Tuesday afternoon. The two auctions will settle Thursday of that week, the day
+other TAF credit matures.
+
+7 of 50
+
+July 24, 2008
+
+8 of 50
+
+We are also requesting that we enhance the collateral protection for the Reserve
+Banks against term loans. Specifically, we are seeking a collateral cushion on term
+loans. The cushion is meant to provide protection to Reserve Banks if there are
+unanticipated needs for overnight credit during the term of the loan as well as serve as
+a collateral buffer that provides for deterioration in the value of the collateral or the
+creditworthiness of the depository institution (DI). This would apply to both TAF
+loans and term primary credit loans. Currently, there is a requirement that a TAF
+auction bid, plus other term credit that will be concurrently outstanding, not exceed
+50 percent of available collateral. However, this requirement is only for the time
+when the bid is submitted. We imposed this as a modest measure of comfort that DIs
+would have adequate access to collateral to cover unanticipated needs for additional
+credit during the term of the TAF loan. This collateral cushion has not been an
+element of the term primary credit borrowing program, first introduced in August
+2007. Under the current collateral policy for the TAF bids, we observe that some DIs
+add collateral just before an auction and withdraw the excess amount after the
+auction. That is, they do not maintain the cushion during the actual term of the loan.
+Particularly for the longer-term TAF and also for the term primary credit loans,
+we feel that Reserve Banks should have access to additional collateral. As I noted
+above, this would provide a cushion for unanticipated needs for additional credit
+during the term of the loan and for deterioration in the value of the collateral or the
+creditworthiness of the DI. An alternative would be to alter the haircuts themselves,
+but that could have other negative market consequences. In fact, for that reason, the
+Federal Reserve stated publicly in August that it was not changing its haircuts amid
+the uncertain market conditions. Specifically, the requirement we are proposing is
+that a DI’s aggregate term borrowings not exceed 75 percent of available collateral.
+Most current holders of term credit have sufficient collateral to meet this requirement.
+We do not feel that this will restrict participation in any significant way. As is the
+case currently, the terms for TAF bidding and outstanding extensions of credit will
+require that Reserve Banks be collateralized to their satisfaction and that they take
+additional measures, including the right to ask for more collateral or to call a loan, if
+they feel insecure. Other terms of the auctions will remain as they are today:
+maximum bids and awards of 10 percent of the auction size, minimum bid size of $10
+million, maximum of two bid rates, minimum bid rate based on the OIS rate, et
+cetera. These seem to have been working well, and we see no need to request any
+changes. We would be happy to answer your questions. Thank you.
+CHAIRMAN BERNANKE. Thank you very much. Are there any questions for Bill or
+other staff members? President Evans.
+MR. EVANS. Thank you, Mr. Chairman. I have a question for Bill Dudley and Sandy
+Krieger. I am a bit confused about the discussion of the overcollateralization withdrawal. I
+guess I am not sure what the purpose is of the TAF collateral restriction of 50 percent only being
+
+July 24, 2008
+
+9 of 50
+
+for the day of the auction. I don’t recall a robust discussion of that particular detail, and
+frankly—maybe this is my fault—that wasn’t my interpretation. When we discussed this with
+our directors, who are quite concerned about the safeguards on these loans, we had indicated that
+there was a term cushion, which Sandy is now mentioning we need to impose. I guess my
+question is, Was this anticipated? Any discussion of that would be helpful.
+MS. KRIEGER. Well, as I said before, we imposed it to provide us with some comfort
+that DIs could stretch toward extra collateral, should they need it during the term of a loan. It
+came against the background of a term primary credit program that didn’t have any such
+requirements or expectations. So I think we were a little cautious about the measures that we
+were taking at that time. It is spelled out in the terms and conditions. I think the Reserve Banks
+have been comfortable administering it on auction day, and the DIs seem to understand it.
+Maybe they understand it too well because some of them have figured out that they can bring in
+collateral and withdraw it.
+MR. EVANS. Thanks, I appreciate that. I do wonder why we didn’t have more of a
+robust discussion about that at the time because it seems more than just a detail, given that it was
+part of the representations that at least some of us—or at least I—made to our directors. But
+thanks.
+CHAIRMAN BERNANKE. President Lacker.
+MR. LACKER. With the way that we currently operate the Term Securities Lending
+Facility now in place, is there any upper limit on the fee that some participant can bid?
+MR. DUDLEY. No.
+MR. LACKER. So they can wait and virtually guarantee themselves a vanishing
+probability of not getting their bid hit by just bidding an arbitrarily large amount, right?
+
+July 24, 2008
+
+10 of 50
+
+MR. DUDLEY. Correct. Although if a number of institutions did that, they would not
+know what the price would be for that loan.
+MR. LACKER. No. But this is what single-price auction theory is about, figuring out
+what the equilibrium bid function is. Presumably they make some inference and act on it, and
+presumably they are doing that calculation now in deciding how much to bid to guarantee them a
+certain probability. Right? So this auction would provide insurance, as I interpret it, against the
+TSLF fee being higher than they would otherwise think it would be or being unanticipatedly
+high—equivalently, the spread between agency MBS and Treasury GC (general collateral) repo
+rates being unanticipatedly high. Is that a good interpretation of what this option would provide
+in economic terms to the participants?
+MR. DUDLEY. If you won an option, you would lock in with certainty the ability to
+borrow at the TSLF for a fixed price—so you would be locking in your place in the queue, and
+you would also be locking in your price.
+MS. PERELMUTER. You will also be bidding at a premium, so it will cost you to lock
+that in.
+MR. LACKER. Right. So you’re paying for insurance.
+MR. DUDLEY. You are reducing your uncertainty.
+MR. LACKER. Right. It is reducing the upper tail. So what sort of evidence or reports
+have you had from the dealer community that the upper tail of the probability distribution of
+TSLF bids is causing financial strain for them?
+MR. DUDLEY. I think they would have trouble characterizing it that way, to be frank
+about it. We have certainly heard that there is a lot of uncertainty about what is going to happen
+going forward in terms of balance sheet stress. We certainly have heard that that stress tends to
+
+July 24, 2008
+
+11 of 50
+
+be greatest around quarter-ends and year-ends. I don’t think that we have heard the dealers
+characterize it in terms of tail risk. I don’t think that is how they would frame the question.
+MR. LACKER. Let me ask you about the margin spiral you talked about, that this could
+help prevent. I would be interested in hearing your comparison of this option proposal with
+simply expanding the size of the TSLF offer by an equivalent amount. In just my simple, basic
+sort of thinking through this, I can’t see any difference in the degree to which those two
+alternatives would prevent the kind of margin spiral you are talking about. Presumably you’d
+have a margin spiral under this option plan if some big demand for dumping securities occurs,
+once they tap out both the regular TSLF and draws on these options. That’s the extra securities
+that we are absorbing off the market. If the TSLF is the same amount, we’d provide the same
+amount of insurance against a margin spiral. Is there some reason to prefer this as a way of
+ensuring against margin spiral versus just expanding the TSLF amount?
+MR. DUDLEY. Well, I think one advantage of it is that you are buying an option today
+for an auction that is going to take place several weeks in the future. That allows you to plan a
+little better what you need to do to actually be able to finance yourself over year-end. If you win
+the option, you know you have locked in that financing. Then you may behave differently in
+terms of how you manage your portfolio and how you manage your willingness to extend credit
+to other counterparties. I would say that is the major difference.
+MS. PERELMUTER. The options also are for a shorter maturity, so you can lock in for
+the days surrounding the stress date rather than need to have it outstanding for 28 days. So this is
+another opportunity to manage your risk just around those dates.
+MR. LACKER. Has that risk been a particular problem for dealers?
+
+July 24, 2008
+
+12 of 50
+
+MR. DUDLEY. I think we have seen a couple of quarter-ends over the last year that
+have been problematic and more difficult. Certainly, the September quarter-end was difficult,
+and the year-end was difficult. March somewhat less so, but that was a little colored by the fact
+that the Bear Stearns resolution happened just before the March quarter-end. June was actually
+pretty manageable. But we have definitely seen more stress over those periods.
+MR. LACKER. Was it unpredictable? It seems pretty predictable at this point that we’re
+going to get stress over the quarter-ends. I mean, this is addressed at the uncertainty around that
+not at the stress per se.
+MR. DUDLEY. Well, I think the stress during those periods means that there is more
+risk that a small shock could actually build into something bigger because people are all in
+balance sheet reduction mode at the same time. That is why you care about those periods. You
+already know that they are likely to be more stressful, but the fact that they are more stressful
+means that a shock of a given magnitude could have more-damaging consequences. So you are
+really trying to lean against that.
+MR. LACKER. There also isn’t any maximum bid in the Term Auction Facility, right?
+MS. KRIEGER. Yes, there is—10 percent of the auction.
+MR. LACKER. So there is no maximum on the rate—
+MS. KRIEGER. Of bid—correct.
+MR. LACKER. Now, if I want funds from six to nine months from now, I can just wait
+and virtually guarantee that I am going to get those funds by planning to bid just exorbitant
+amounts for them, right?
+
+July 24, 2008
+
+13 of 50
+
+MR. DUDLEY. Right. But that is not tenable in the large. If a whole group of
+institutions had that same strategy, we could have a very interesting auction result. It would be
+profitable for us.
+MR. LACKER. Right. So?
+MR. DUDLEY. Well, I don’t think that is the result we are going for.
+MR. LACKER. We would flood the market with reserves. We wouldn’t let it get to that,
+would we? We would have other tools for addressing a huge spike in the demand for funds at
+that point. Presumably it wouldn’t go far above the primary credit facility rate. I am just
+probing here about the amount of insurance we are providing. This seems like a very specific
+piece of insurance that we are providing in both of these cases, and I am having trouble seeing
+the link between these and the overall financial strains you are characterizing or seeing in the
+market. That is what all of this is about. That is why I am asking this.
+CHAIRMAN BERNANKE. Okay. Other questions? President Hoenig.
+MR. HOENIG. I have a question that is somewhat different from that. When you
+brought this up, I thought that we were asking to extend this into next year but that the idea was
+to eventually back away from this. We are setting up this new procedure that suggests to me that
+it might end up needing to go longer since we are talking quarter-ends and so forth. I am not
+there, but I know there are other strains. Are the liquidity strains suggesting not only that we
+want to extend this into next year but also that there is a tightening, a worsening, of conditions
+that means we need to change the approach here and provide even more assurances to the
+market, so that we are committed to this? This seems to take us away from rather than toward
+backing out, and I really am a bit concerned about that.
+
+July 24, 2008
+
+14 of 50
+
+The second question I have on this is about going from 28 days to 84 days on the TAF.
+We in Kansas City don’t have a lot of this going on, but we have some; and we haven’t had a lot
+of concern about the fact that it’s 28 days and not a longer maturity. Are things happening in the
+markets such that we would want to do this to help settle things out, or is it merely an
+administrative change to ease our burden and perhaps theirs as well? I don’t have a lot of
+problems with 125 percent coverage ratios, but I am interested in why we are looking to change
+the maturity. So I have those two questions for you.
+MR. DUDLEY. Okay. To answer your first question—Does this commit us for
+longer?—I don’t really think so. I think the options could be granted only for periods over which
+the Federal Reserve determines that unusual and exigent conditions exist. So today if we extend
+that time table to January 30, 2009, then we are opening up the possibility of having options over
+the September quarter-end and year-end but no longer. In terms of the maturity, the banks have
+been pushing for this for a long time. If you ask people, “What is your single most popular
+recommendation that you would like the Fed to do in terms of its suite of liquidity tools?” this is
+the one that is always at the top of the list.
+Now, to your question, “Have things deteriorated?” I would say “yes and no.” They
+haven’t deteriorated in terms of term funding pressures by looking at the LIBOR–OIS spread
+being worse. But what has deteriorated is that the markets think these strains are going to last a
+lot longer—if you look at the one-year-to-two-year-forward LIBOR–OIS spread on a forward
+basis—and that deterioration has occurred over the last couple of months.
+MR. HOENIG. On your first answer, okay, you are suggesting that this doesn’t mean we
+are going to extend it further. But what we have now is not fully utilized, and yet we are
+
+July 24, 2008
+
+15 of 50
+
+extending it and adding to it. That it just seems contradictory to our ultimate goal bothers me a
+little. That is a comment, not a question.
+CHAIRMAN BERNANKE. Tom, let me say just a word about that. The “unusual and
+exigent” is a determination that the Board makes. I personally feel comfortable with that
+determination at this time, given a lot of indicators of stresses in the markets. In addition, I think
+that, in the absence of our facilities, the risks of systemic problems would be much higher. I
+think it is useful for us to give a time frame, to provide some sense of assurance to market
+participants that, if conditions remain stressed, there will be these backups. I would note, for
+example, with respect to your point about underutilization, that the PDCF is now at zero and has
+been at zero; but I do think that its presence has actually provided some assurance. Finally, I
+would also mention that—as you will see, if you have not already seen in our official resolution
+on this—if at any point going forward the Board determines that unusual and exigent
+circumstances do not prevail—and Scott is nodding—we would not be committed to going six
+months. At that point we would no longer have a basis for maintaining these programs. So we
+do have to make that determination, and at this point I would say it is a reasonable determination.
+MR. HOENIG. All right. Thank you.
+CHAIRMAN BERNANKE. Other questions? President Plosser.
+MR. PLOSSER. I want to go back to the collateral issue for a minute. I share some of
+the concerns about the options on the TSLF that President Lacker and President Hoenig were
+discussing. I assume we will come back and talk more about some of those things, but I do have
+a question about the collateral. My understanding in the discussion about the larger collateral on
+term lending is that it would also apply to the primary credit lending, which means that if
+somebody came into the primary credit facility and asked for primary credit of two or three days,
+
+July 24, 2008
+
+16 of 50
+
+they would have to have this 125 percent or this extra collateral. Is that the way we are
+interpreting this thing, and is that really what we want to be doing by raising the collateral on
+term loans at the primary credit facility? I am just confused about that and whether—particularly
+on things less than 30 days, the primary credit facility—we want to be applying the same
+standard to that lending as we are on the longer TAF stuff. Just a question.
+MR. DUDLEY. Sandy, do you want to take this?
+MS. KRIEGER. So, yes, what we have proposed is that the additional cushion be taken
+against all loans more than one business day—primary credit and TAF, not seasonal credit.
+Clearly one could make a decision about where that point should be, and unless you can do it in a
+trend line, which our systems don’t make operationally easy or comfortable for us, there will be a
+discrete point. An alternative would be to do it at some particular point in time, and there would
+be costs and benefits. On the one hand, it would make some more comfortable with the
+collateralization at very short terms. On the other hand, you also want to be comfortable with the
+incentives that we will create for DIs, if they are collateral constrained, to take loans of the short
+term that go just up to that point and continue to roll them. For example, let’s say that your point
+was one week. Banks that are not collateral constrained probably would take the longer-term
+loan. Banks that are collateral constrained, the ones that you probably want to follow most
+closely, are likely to take the loan for six or seven days and then roll it and roll it and roll it
+again.
+MR. DUDLEY. You could get a bit of an adverse selection problem.
+MR. PLOSSER. Yes. But if they really want a week-long loan, do we really want to be
+encouraging our depository institutions coming in to just roll it over one day after one day after
+one day after one day. It seems to me, that really changes the nature of the way most of our
+
+July 24, 2008
+
+17 of 50
+
+primary credit has been made. For us, in particular, the collateral that most banks use for
+primary credit is not the sort of securities that they can pull in and pull out very easily—a lot of it
+is loan collateral and securities of that type. If you really want more collateral on these longerterm loans, making it more than just one day, it seems to me, is too short. I am just wondering if
+it makes more sense, so that we don’t drastically change the nature of the primary credit window,
+to say it is longer than 30 days or some other time frame. I realize it is going to be a discrete
+point at which it turns over. But I just think it would be very awkward, and I don’t think it is
+really necessary for the very short term end.
+MR. DUDLEY. I think we would concede that point, that one could have a break point
+at 28 days or 30 days, where beyond 30 days you had this overcollateralization requirement, and
+less than 30 days—it could be zero—that is really for you to decide. But to us it is not really
+compelling one way over the other.
+CHAIRMAN BERNANKE. Bill, if our goal is not to take away something that the
+banks already have, wouldn’t it make sense to make the 28 days or more the loan that needs to be
+overcollateralized? Would that be the right way to think about it?
+MR. DUDLEY. I think we would be comfortable with that as an alternative. I mean, it
+does have the advantage of not taking something away that we have already given.
+CHAIRMAN BERNANKE. All right. President Plosser.
+MR. PLOSSER. That would make a little more sense. You know, anything in excess of
+30 days or somewhere in that range would make a little more sense to me anyway.
+MR. DUDLEY. We are picking 28 days because that is the length of the current TAF
+loan. If you are going to make a cut, that would seem to be a logical place to make that change.
+
+July 24, 2008
+
+18 of 50
+
+CHAIRMAN BERNANKE. President Evans, did you have a two-handed intervention on
+this?
+MR. EVANS. Yes, I did. Thank you. I guess my basic question is, Do we feel
+comfortable with the level of collateralization that we are imposing on these programs for the
+TAF? I thought that we were expecting double collateral, and I had thought it was for a longer
+period of time, but it was only on the one day. I still don’t understand why it would be important
+on one day and not longer than that. But is 25 percent the right number? I just don’t know how
+to think about it. If the people who are the experts at this could offer some discussion and the
+appropriate assurances on that, I could certainly feel more comfortable about some of these
+exotic proposals. My concern is really that we seem to be doing this very quickly. The rationale
+for the choices that we are making is not exactly clear, and if we had a little more clarity, that
+would be better.
+CHAIRMAN BERNANKE. Let me turn to President Pianalto, who has been very
+patient, and then, Bill, you can respond to both, as you wish. President Pianalto.
+MS. PIANALTO. Thank you. During the presentation, it was mentioned that many
+banks were asking for this longer-term TAF. I am not getting that request here in my District,
+but I wonder whether any thought was given to keeping the 28-day TAF and then adding the
+longer 84-day TAF. Is that even an option? The reason I raise this question is that I am
+concerned about the credit risk. We have had situations in which it has been difficult to assess
+whether an institution was going to stay in sound financial condition over a 28-day period.
+Obviously, it would be even more challenging over an 84-day period. So I just wondered if it 1s
+even an option to keep the 28-day TAF and add the 84-day TAF.
+
+July 24, 2008
+
+19 of 50
+
+MR. DUDLEY. Of course it is an option. I think the reason that we preferred moving
+completely to an 84-day was that we thought it was much clearer. In other words, the users
+would know what they were doing and wouldn’t be faced with a multitude of choices in terms of
+keeping straight what week this is and what auction they are bidding for today. So we felt at the
+end of the day, because we had repeatedly been asked for a longer maturity, that we would be
+diluting it if we split it 50-50 between 28 days and 84 days. We also thought it would be more
+confusing in terms of if 84 days is good, why are you moving only halfway?
+MS. KRIEGER. In terms of the size of the cushion, we did speak with SCRM
+(Subcommittee on Credit Risk Management) a bit about this, and, of course, there is a variety of
+views there; and across the System, as we look at the loans that are outstanding, there is a range
+of collateral that is used. A good portion of the collateral that is used is not priced securities; it is
+loans, many of which we do not have the details on, so it is very difficult to establish a good
+value. Then, even behind that in quality are nonpriced securities, and we have increasingly seen
+more of those pledged to us in these times. So we felt, because it is difficult for us to feel really
+comfortable with the values of some of these pledged instruments, that taking the cushion did
+seem appropriate. For what it is worth, of the more than $150 billion of loans that we have
+outstanding, they fall short of being collateralized by this extra margin by only about
+$200 million. So virtually all the value can be overcollateralized.
+Now, it is not quite so pleasing a picture if you look at it by the number of borrowers
+outstanding. Of the 140 or some borrowers outstanding, maybe 25 of them are short some
+margin of collateral, if you would impose the 25 percent overcollateralization. But, again, the
+values are quite small, even in percentage terms, for institutions. So as we try to balance, on the
+one hand, our comfort with some of the collateral we are taking and our ability to value it with,
+
+July 24, 2008
+
+20 of 50
+
+on the other, the longer term, we look to the preference of many in the reserve community who
+have dealt with institutions whose quality has deteriorated. We felt we might be doing best by
+the vast majority of Reserve Banks if we were to introduce the cushion.
+MR. DUDLEY. I also want to point out that for the banks that don’t have enough
+collateral today, that doesn’t mean that they don’t have collateral available. It is just that the
+collateral hasn’t been pledged at the window. So the bottom line is that we don’t think that the
+overcollateralization requirement is very constraining—to use economics terms, the shadow
+price of collateral is pretty close to zero as far as we can tell.
+CHAIRMAN BERNANKE. Thank you. Other questions? Well, if there are not any
+other questions, let me first say that I do want to thank the staff. These innovations did come
+from the staff members who are on the front lines. President Evans, we really have talked about
+these, and I know the staff has thought these through. I think that these are constructive ideas.
+The option idea essentially will allow for a better targeted use of our balance sheet to some short
+periods that have been particularly stressful, and I think it will give us overall more flexibility to
+use our balance sheet in the most effective way. So it seems like an innovative way to deal with
+a particular problem, which is this end-of-quarter issue.
+On the 84-day TAF, I know for sure that banks have been asking for a longer term. I
+have heard it directly myself and have heard a lot about this from the Desk. It is frequently
+pointed out by the banks that the ECB and the Bank of England have been making effective use
+of longer-term loans, and in their view that has made the liquidity pressures less severe in those
+jurisdictions. So I do think it is certainly worth considering the three-month TAF loan.
+Obviously, as Reserve Bank presidents, you have to administer these; and the first question that
+comes to your mind is, of course, the greater credit risk. In that respect, I think that taking the
+
+July 24, 2008
+
+21 of 50
+
+existing haircuts plus 33 percent should provide some comfort. Of course, you retain the right
+always to demand collateral to your satisfaction or to convert the loan to a primary or secondary
+or overnight loan or to call the loan. So you have always the same protections that you currently
+have. I suppose it would be, in some sense, a de facto tightening of standards, if you were
+looking at institutions that would be eligible on a three-month basis. At the same time, to go
+back to my earlier comment, we don’t have to make a final decision today, but it might be worth
+considering not putting the overcollateralization requirement on any loan less than, say, 14 or 28
+days on the grounds, as President Plosser pointed out, that we don’t want to be seen as taking
+away something or increasing the cost of funding at a time when we still want to provide these
+liquidity benefits. So I guess that one option I would raise for consideration is that, if we do the
+three-month maturity, we use the overcollateralization for loans greater than 28 days. This
+means that, as a loan maturity comes down—as it comes close to payoff—some collateral could
+be withdrawn if desired.
+I do think these are reasonable extensions. They seem to me to be quite consistent with
+our earlier practice. I take President Hoenig’s point that we are not in this business indefinitely.
+We need to be thinking about cutting back. But at the moment, conditions do not seem
+considerably better, and I don’t think that at this moment we really should be reducing our
+support to the market. Are there others who would like to comment on any aspect of these
+proposals—about collateral or about any of the other issues? President Plosser.
+MR. PLOSSER. Thank you, Mr. Chairman. There are just two other observations I want
+to share. They aren’t direct questions, just sort of my thoughts on this. In general, I am okay
+with the extension to the 84 days—I don’t think that is problematic. As I mentioned before in
+our meetings, I really would like to see some more clarification and standards applied to what the
+
+July 24, 2008
+
+22 of 50
+
+Board and the staff mean by “unusual and exigent circumstances,” how we define that term and
+how we know when it is time to take it off. I understand that there is stress in the marketplace. I
+am not disputing that. But I think as we go forward—and following up on President Hoenig’s
+point—it would be useful if we had a way of discussing more explicitly the criteria that we use to
+put this on or take it off. So at some point I would like to have some discussion about that.
+The other point I would make is that I am just not persuaded by the staff’s arguments
+about the options. The TSLF is undersubscribed. If we wanted to make loans available, we
+could offer more-frequent auctions. We aren’t tied to any particular two-week schedule. We
+could offer auctions near the end of the quarter. I am just not convinced that this is going to
+provide much to the marketplace. Even the staff suggested that it might be marginal. The more
+we tweak and change these things and try to provide things that we don’t know whether they are
+needed, I am not persuaded that they are adding anything. I think the 84 days runs over quarterend. There are auctions as much as one week or two weeks before quarter-end every quarter.
+There are funds available. So I am just not sure that this is necessary. Thank you.
+CHAIRMAN BERNANKE. Okay. Thank you. Anyone else? President Yellen.
+MS. YELLEN. Thank you, Mr. Chairman. I support extending the TSLF along with the
+PDCF, and I am also supportive of the proposal to auction options on TSLF draws. I think we
+do continue to have money market stress, particularly at quarter-end, and it strikes me as a welltargeted program that might have some success in addressing the strains.
+On the proposal to extend the term of the TAF loans to 84 days, I do have some qualms,
+and they have been heightened by our own recent experience with a failing bank and my sense
+that the most recent bank failure is not going to be our last. I definitely understand the
+motivation for extending the term of the loans, and I am not saying that I am, on balance,
+
+July 24, 2008
+
+23 of 50
+
+opposed to it. But I do think that the program entails credit risk for Reserve Banks and may
+actually create complications in facilitating least-cost resolution of troubled banks.
+My anxiety about this has been heightened by our own recent experience with IndyMac.
+If you will indulge me for a second, I will tell you the story of what happened there and why I
+am concerned. IndyMac was closed on July 11. On June 26, just two weeks earlier, the
+information provided to us by the OTS indicated that IndyMac was a CAMELS 2–rated
+institution. We monitored Call Report data that showed it to be well capitalized. On the
+morning of June 26, we approved a loan for $1 billion under primary credit. IndyMac didn’t
+participate in TAF auctions, but it was eligible to do so. If the new 84-day facility had been in
+operation, it would hypothetically have been eligible to be covered under that. It could have had
+an 84-day TAF loan.
+My staff consulted with me on the IndyMac request on that morning of June 26 because it
+represented a significant escalation in borrowing, and our own monitoring suggested that the
+institution had been deteriorating. We had informal hints of some concerns at the OTS. It was
+unknown to us, but in point of fact the OTS had already informed the institution that it had
+actually been downgraded to a 3. Even so, even if we had known that, it still would have been
+eligible for primary credit and participation in a TAF auction.
+Now, the memo we got points out that we can disqualify an institution from participation
+in a TAF auction on the grounds that we judge it to be in unsound financial condition or that we
+can on such a judgment move an institution to secondary credit. But we thought that would be a
+drastic action, and it probably would have been seen as arbitrary. It would have entailed a
+supervisory judgment that was in conflict with that of the institution’s supervisor. We didn’t
+think we had an adequate database to make such a judgment, and we couldn’t have done it
+
+July 24, 2008
+
+24 of 50
+
+without making a formal communication to the institution that we had made such a judgment,
+which we would have been concerned about. Now, with respect to collateral, we thought we
+were very much overcollateralized. The institution had pledged collateral with us amounting to
+around $4 billion. We applied standard haircuts and assigned a lendable value of $3.2 billion, so
+our credit risk appeared to be very well covered by the collateral, and we approved the loan.
+On that very afternoon of June 26, it became public that Senator Schumer had written a
+letter to the FDIC and the OTS expressing concern about the institution, and that very evening
+we learned that the OTS had downgraded the institution to a 5, and that, as of June 30, the OTS
+expected to declare it to be significantly undercapitalized. We also learned that the FDIC was
+planning to close the institution within a few weeks. We moved it to secondary credit. We took
+an additional 10 percent haircut on the collateral. That brought IndyMac’s borrowing capacity
+down to $2.8 billion. But we took the precaution of sending our most senior mortgage specialist
+from Banking Supervision and Regulation (BS&R) down to the bank to gather information to
+refine our assessment of the true market value of the collateral, based on that institution’s profile
+and more detail about the collateral than we had had from applying the standard haircuts. He
+concluded that the haircuts we were taking were drastically too low and advised us to reduce the
+lendable value of the collateral down to $1.1 billion. We reserved $100 million for non-Fedwire
+payment system exposure, leaving us with a $1 billion loan and $1 billion of now-assigned,
+lendable value of the collateral. So, in retrospect, it turns out that we actually did make a $1
+billion loan under primary credit to a troubled institution that was undercapitalized under
+FDICIA guidelines and on the verge of closure. And we did it based on collateral we should
+have valued at $1.1 billion rather than $3.2 billion.
+
+July 24, 2008
+
+25 of 50
+
+So we did have significant credit exposure, and I think we are lucky we lent only
+overnight and were paid the next day rather than having an 84-day loan. With the TAF, if we
+had an 84-day loan outstanding on June 26, we would have had no further capacity to assist in
+the bank’s final days in moving toward what we deemed an FDIC-led least-cost resolution. The
+bank had lost all access to brokered deposits and also to Federal Home Loan Bank loans after it
+was downgraded, and our inability to lend any further would almost surely have precipitated a
+liquidity crisis and a failure well before the FDIC finally closed that institution on July 11.
+So let me draw a few morals from this shaggy dog tale. First, troubled banks can be
+downgraded and fail very rapidly. They may be deemed eligible to borrow under primary credit
+and participate in TAF auctions when in reality they are near failure. Second, it is true we have
+discretion to judge whether or not to allow an institution to participate in auctions and can
+exclude an institution that we don’t consider in sound financial condition. But, in reality, we
+deal with hundreds and potentially thousands of banks at the discount window and can’t monitor
+and make independent judgments on the health of all those institutions on an ongoing basis. We
+do have to rely on primary supervisors for assessments. If we act on our own hunches, we are
+substituting our judgment for that of primary supervisors. If we decided we wanted to do so, we
+would be truly taxing the resources of our colleagues in BS&R beyond their capacity to deal with
+these institutions. Third, we may think that we are overcollateralized, but that judgment can be
+highly flawed in the case of a troubled institution. Finally, while we may, in principle, demand
+immediate repayment of any discount window loan, including a TAF term credit, in a failingbank situation such an action can cause the institution’s immediate failure, making an orderly
+least-cost resolution impossible. Now, I know that this applies, we hope, to a handful of
+institutions and not to most of them; but I don’t think that IndyMac is going to be the last failing
+
+July 24, 2008
+
+26 of 50
+
+bank. I do think that this would have worked very badly in that case, and so it does give me
+qualms about the proposal.
+CHAIRMAN BERNANKE. President Yellen, San Francisco did a really good job in a
+difficult situation. We were following that very carefully. Just a footnote, did the FDIC not give
+you some assurances as well—protections for lending—because they asked you explicitly to
+assist them in winding down the bank?
+MS. YELLEN. They initially told us that they would take up to the face value of the
+collateral, and we quickly determined that that is not consistent with Federal Reserve policy. In
+point of fact, it is not consistent with the written agreement that the Reserve Banks have with the
+FDIC, which actually states that the FDIC will compensate us for the market value of the
+collateral. So I think that the FDIC here faces a sequence of failures and wants our cooperation.
+They did compensate us—we had $500 million outstanding to IndyMac at the moment it failed,
+and we were immediately compensated. But our agreement with the FDIC is that they
+compensate us only up to the market value of the collateral, which we deemed to be close to
+$1 billion, rather than our haircutted value based on a standard haircut, which was over
+$3 billion.
+CHAIRMAN BERNANKE. My main point, though, is that if you had allowed this
+bank—and you probably had some suspicions about it—to participate in the three-month TAF,
+you would have had all the same protections: the ability to convert to overnight, to primary
+credit, or to secondary credit; to call the loan; or to ask for more collateral. Am I mistaken?
+Sandy? Anyone? Why would you have been unable to do the same?
+MS. YELLEN. Well, I guess we would have had that. Had they taken the loan out
+earlier, when they were still rated 2 or 3, I think it would have substituted for borrowings that
+
+July 24, 2008
+
+27 of 50
+
+they could have had at that time from the Federal Home Loan Bank. They might have had a
+motive to take out a long-term loan from us rather than to tap their Federal Home Loan Bank
+access. They would have pledged a huge amount of collateral to the Federal Home Loan Bank,
+which was not accessible to us, had we wanted to lend more because the Federal Home Loan
+Bank has blanket authority over a large class of collateral. So if we had, in fact, extended that
+loan, we could have called it in; but that would have precipitated a failure. And we wouldn’t
+have had the ability to augment the collateral. So our hands would have been tied when the
+FDIC came to us and said, “Please assist us in lending. This institution is experiencing deposit
+outruns. We want to get it through to a close that we think will be least-cost, and it is going to
+take us another week and a half.” There would have been no more collateral to be had. We
+would have been, then, up against the limit of what we could lend.
+CHAIRMAN BERNANKE. Okay. Governor Kroszner had a two-hander on this one.
+Governor Kroszner.
+MR. KROSZNER. I just want to underscore the points that President Yellen made
+because extending the term or even just having the term with the TAF really creates a bit more of
+a burden for us to think about not just primary versus secondary credit but effectively three
+modes. One is sort of a superprimary credit, where you can borrow at term and now term of 84
+days rather than 28 days. This issue came up not only in the San Francisco District but also, as
+Sandy Pianalto well knows, in the Cleveland District. Then there are the overnight primary
+credit and the secondary credit. We have to think about how we will apply this in a consistent
+way throughout the System. Also, although in principle we can pull back exactly as you
+described, as Janet argued, that can be very dangerous to do. Also, if we do that, sometimes it
+may have to be revealed publicly on a form 8-K. If there is a significant change in an
+
+July 24, 2008
+
+28 of 50
+
+institution’s liquidity situation and if an institution is in a difficult circumstance, the institution
+has often made reports publicly about how much liquidity it has. If there is a significant change
+in our willingness to provide institutions with credit, they may have to report that, and that could
+be a precipitating event, which puts us in a difficult situation.
+So I think we just need to think very carefully about the criteria that we will use for
+eligibility for long-term borrowing versus overnight borrowing and primary versus secondary
+borrowing and then not kid ourselves that we may have more options than we think to pull back
+because it may be very, very difficult to pull back. Obviously, we also have pressure from the
+FDIC and other regulators not to be the precipitating event.
+CHAIRMAN BERNANKE. President Lacker, you had a two-hander?
+MR. LACKER. Yes. I want to, first, just express appreciation to President Yellen for the
+full account of their experience. I think it is useful for us to share notes on experiences like that.
+We had an experience with the OTS, and we found that their rating plus 1 was the rating we
+usually came to. We had the luxury of having someone on our staff who had experience with
+Countrywide, and we essentially treated them like an institution that we supervised and insisted
+on the full panoply of information, such as reports and financial reporting, to be able to make our
+own independent assessment. Our guys did a great job. I have to commend them—they did a lot
+of work. But it was a strain on our staff. I do think, if lending is going to play such a large role
+for us going forward, that we should build up the capability of developing our own independent
+assessment of institutions whose primary regulator is not us.
+In this instance, I think it is outrageous that the OTS downgraded them and didn’t inform
+the San Francisco Fed. I hope, Mr. Chairman, that the unacceptability of that sort of behavior is
+communicated at the highest levels to the OTS. This instance demonstrates the principle that
+
+July 24, 2008
+
+29 of 50
+
+lending on which we incur no loss doesn’t necessarily equal lending that is appropriate. I think it
+is a good thing, President Yellen, that you folks insisted on comfort from the FDIC that they
+were pursuing a least-cost strategy. But it will not necessarily be the case that lending to allow
+the chartering institution to delay closure will be the least-cost resolution. I am curious,
+President Yellen, whether there were uninsured claimants that were able to withdraw funds in the
+interim during your lending.
+MS. YELLEN. There was about $1 billion of uninsured deposits out of roughly $30 billion
+of total liabilities, and some fled. I don’t know exactly what proportion fled. Maybe at the end
+there was something like $700 million of uninsured deposits, and we certainly worried about that in
+thinking about whether the FDIC’s approach was consistent with least-cost resolution. I guess we
+came to be convinced that, in the absence of our lending, there would have had to be a fire sale of
+assets and that great losses would have been taken in selling assets on that time frame to cover
+withdrawals. On balance we accepted the idea that the FDIC was going to close it within a twoweek time frame, and we’re reasonably satisfied that it was consistent with least-cost resolution.
+MR. LACKER. So you don’t think refusing to lend would have forced the FDIC to
+accelerate closure?
+MS. YELLEN. If we had not lent, they would have been unable to meet withdrawals, and I
+think that there would have had to be an earlier closure. It would have been a midweek closure.
+The firm probably would have had fire sales of the assets. The closure would probably have been
+very disorderly.
+CHAIRMAN BERNANKE. President Lacker—I’m sorry, Janet. Go ahead.
+MS. YELLEN. No, that’s fine.
+
+July 24, 2008
+
+30 of 50
+
+CHAIRMAN BERNANKE. I just wanted to assure President Lacker that we did, in fact,
+communicate our concerns to the OTS about this episode. President Stern.
+MR. STERN. Thank you, Mr. Chairman. I have just two brief comments. The first one is
+that I share the concerns that are highlighted by President Yellen’s story with regard to IndyMac.
+Second, with regard to the TOP, the TSLF options program, I’m not opposed to it, but I must say
+the case for it seems to me to be distinctly underwhelming. As a factual matter, Bill Dudley said,
+well, there were quarter-end and year-end pressures in September and December but March and
+June went better. But, of course, in September and December we did not have the PDCF and the
+TSLF facilities in place, which we now have in place. So I would have to say that it’s not clear to
+me what we’re expecting to get from this additional option. Thank you.
+CHAIRMAN BERNANKE. Anyone else? President Evans.
+MR. EVANS. Thank you, Mr. Chairman. I am concerned about the credit risk associated
+with the term lending here, and I suppose if everybody feels comfortable with it, then that would be
+all right. It does seem, though, that the value of these new programs, much as President Stern just
+mentioned, seems small. These are temporary facilities exercised under unusual and exigent
+circumstances. They are currently anticipated to go away. I would think that we should be having
+big value added from additions to these programs. I wonder a bit about how confident we are about
+what the market reaction to the introduction of these pretty complicated programs is going to be.
+Are they going to wonder about what we’re looking at versus what they’re looking at? These are
+supposed to be temporary; but the way we add more to it, it seems as if it’s going to be more
+difficult to take this away, at least in terms of the expectations of our borrowers and the markets.
+We have been doing this as we make comparisons to the ECB and the Bank of England, and they
+have been doing this for some time. It sort of suggests that this is something that we’re going to do
+
+July 24, 2008
+
+31 of 50
+
+for a longer period of time. I am not saying that that might not be the right decision ultimately
+under the right risk management, but it does seem to be prejudging that a little. Thank you.
+CHAIRMAN BERNANKE. I would just note that the TAF is not contingent on any
+unusual and exigent circumstances because that is just the regular discount window. President
+Rosengren.
+MR. ROSENGREN. I am supportive of the overall recommendations. I would say, along
+with President Evans, that I am a little worried about how the markets may react to these new
+additions and whether they may view it as the Federal Reserve viewing things as deteriorating rather
+than improving. We have to think a bit about what the market expectations may be with the
+announcement of these additions. I would just like to comment on President Yellen’s comments. I
+think they highlight that we probably need to spend a little more time thinking about the link
+between supervisory ratings and our running of the discount window as we do some of the other
+work streams we are doing. Both our own supervisory ratings and the ratings of the primary
+regulators in some cases seem to have lagged. That is particularly true for the OTS. There are a
+number of other OTS institutions that the market seems quite concerned about and where the ratings
+seem inconsistent with the market’s concerns. So it is not just looking backward but also looking
+forward. As we extend the term for things like the TAF, I think the concerns do get raised if the
+primary supervisor is not being very quick to make an evaluation of deteriorating circumstances. So
+as we do our work streams, I would just encourage us to spend a little time thinking about how the
+supervisory ratings and our operations of the discount window could be melded a bit better.
+CHAIRMAN BERNANKE. Okay. Thank you. Mr. Rosenblum.
+MR. ROSENBLUM. I want to thank President Yellen for the detailed discussion of the role
+of the Federal Reserve in supporting IndyMac in its final weeks. It reiterates some of the fears I
+
+July 24, 2008
+
+32 of 50
+
+have of what we may face going forward. Extending the term of the TAF to 84 days may
+compound the adverse selection process whereby those banks that anticipate difficulties may be
+those most likely to want to go for the 84-day period and bid up the rate that they are willing to pay
+because they would be anticipating some of the difficulties that we just heard recited.
+More than that, we in Dallas are worried about the reputation of the Federal Reserve if there
+is a series of such follow-up events to IndyMac and how it is going to look for you, Mr. Chairman,
+if you have to testify before the Congress, which has the benefit of 20/20 hindsight and will criticize
+us for making loans for which foresight is far from perfect: “How could you have made such a loan
+to a bank that everybody who reads the Wall Street Journal and the New York Times and looks at
+the Internet knows was in trouble, and how could you do it on such preferential terms?” Such
+questions damage the reputation of the Fed. In addition to the credit risk aspects, we have the
+problem of the Fed’s reputational risk, particularly in the halls of the Congress, during a particularly
+troubled time going forward.
+On balance, I think the TOP program does no harm. We in Dallas are willing to support it,
+but we still have some reservations. One of my concerns is that, in the document that was sent out
+yesterday for the FOMC vote on the TSLF options authorization, there is no mention in the first
+paragraph on page 3 about this being a special, short-term, end-of-month, end-of-quarter option. It
+is just left there in general terms that we are going to offer up to $50 billion in additional draws on
+the facility, and there seems to be a lack of clarification. One question I have is, Is the System going
+to put out a list of frequently asked questions or something of that nature to add clarity? Another
+concern that I have is Bill Dudley’s earlier statement that the Fed has other means of easing its
+balance sheet constraints should the new facilities tie up more funds or encumber more funds on our
+balance sheet. We didn’t really have any follow-up on that point. What are the plans to ease our
+
+July 24, 2008
+
+33 of 50
+
+balance sheet constraints should it become necessary, and does this conflict with the fed funds
+targets that the FOMC is trying to hit? We need some explicit discussion of that or at least to raise
+the questions as we go forward, perhaps at the next FOMC meeting. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. President Bullard.
+MR. BULLARD. Mr. Chairman, I am going to have to leave the call, and I just want to say
+before I go that I think a lot of good questions have been raised here, and I just wouldn’t rush into
+this. I think the 84-day term seems to be long in this environment of troubled banks; and frankly, it
+is not very clear that either of these proposals is really going to buy us a lot. I am also sensitive to
+the announcement effects, and I am not quite sure what the announcement effects would be. So I
+would prefer to think about it longer before we go ahead and approve this. Thanks.
+CHAIRMAN BERNANKE. President Lockhart.
+MR. LOCKHART. Thank you, Mr. Chairman. I apologize. I was a couple of minutes
+late—caught in traffic here in Miami actually—and I missed Bill Dudley’s briefing at the
+beginning. So I don’t really know all that he covered in terms of market stress. But my question
+really relates to an impression I have that a high proportion of the TAF usage is actually foreign
+banking organizations, where the primary regulatory would, in effect, be a foreign regulator.
+Listening to President Yellen’s discussion of coordination and communication among domestic
+regulators leaves me with the question of what the state of our communication with foreign
+regulators is, if they would be in possession of information that we might not have while we are
+exposed on this longer-term basis to a foreign banking organization.
+CHAIRMAN BERNANKE. President Lacker.
+MR. LACKER. Thank you, Mr. Chairman. I share President Stern’s intuition that the value
+of these at the margin, given what we already have in place, seems questionable. Even with some
+
+July 24, 2008
+
+34 of 50
+
+generosity to the theories of financial strain that seem to motivate the mechanisms we have in place,
+the additional contribution to alleviating stress seems just trivial, just incredibly minor, to me. I also
+very deeply share President Hoenig’s concern. There is an endless stream of improvements we
+could potentially make to our intermediation efforts here, our lending facilities. Continuing to
+invest in more and more improvements just sends the signal, it seems to me, that we’re settling in
+for the long haul and envision and expect to be offering these for quite some time. As you all know,
+I have deep reservations about all of these facilities. But I would think that the broad consensus of
+the Committee was that these are temporary, transitory facilities, and in that light I think we ought to
+be thinking of ways that we are going to wean the banking system off these. Adding features like
+this is just going to further entwine the institutions with us and develop further dependency on us
+and these facilities. I also think Mr. Dudley said that this was the number 1 desired improvement
+articulated by dealers. I think that cannot possibly be a standalone rationale for something like this.
+Market participants are bound to think of stuff that they would like us to do, and we can’t let that
+guide us. We have to have a sense that we are actually doing something of broader significance.
+Finally, I will say that I do strongly support the collateral policy change of making the
+overcollateralization apply every day that the credit is outstanding. I questioned the one-day-only
+part when we first brought it up with the TAF, and I think that would be a step in the right direction.
+Thank you.
+CHAIRMAN BERNANKE. There is a kind of embarrassing situation that this is, in fact, a
+Board decision. What I would like to do is ask President Geithner and President Plosser to make a
+couple of final comments, and then I would like to turn to Board members. Governor Kroszner, I
+am going to give you warning. In that you are the head of Supervisory and Regulatory Affairs, I
+would like to know what your view is. In particular, can you offer any kinds of steps, assurances, or
+
+July 24, 2008
+
+35 of 50
+
+anything that might persuade our colleagues particularly on the credit issues with respect to the
+three-month TAF? If not, we would like to know that. But let me first turn to President Geithner.
+President Geithner.
+VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. Let me make just a few
+quick points. There is no way you can state these things with perfect clarity and conviction, but my
+sense is that we are in a period in which the sets of basic pressures we’ve been living with now for
+12 months are intensifying again and that the scale of the balance-sheet pressures is in some ways
+greater now than it has ever been. That poses to us the same set of risks that we have been facing
+and debating but, in some sense, with greater consequence. I just want to underscore that, because I
+do not believe it is right to look at the constellation of things that we can observe and the use of our
+facilities and conclude that we are now at a point where we can start to say that we have materially
+reduced the scale of risks to the financial system and what those risks pose to the economy and our
+objectives. That is my judgment. I can’t prove that, but I think it’s important for you to hear that
+from me.
+Second, as Bill said and the Chairman said, I think these proposals together offer only
+modest benefits relative to the risks. They slightly change the mix of forms of assurance that we’re
+offering. It is very hard to know whether that balance would be more compelling on net than what
+we have today, but these alternatives would not be before you today if there had not been a fair
+amount of thought put into that basic judgment. Neither the Chairman nor Bill Dudley oversold or
+overclaimed what these would produce.
+I do not agree with the concern, although I understand it, that any refinements to our existing
+tools, themselves, increase the expected duration of our commitment to these exceptional things. In
+fact, I would take the opposite view. If we have things we could do that would materially reduce
+
+July 24, 2008
+
+36 of 50
+
+the risk that intensification of these dynamics would make our problems worse, we’re more likely to
+be able to exit earlier and more likely to get out of this without having to do other things that we
+think will be much more consequential and worse from a broad moral hazard and risk perspective.
+Now, I do not think that anybody could look at this mix of things—what we have done to date or
+what we propose to do—without deep reservations. The basic business we are in entails risk; and if
+we are not prepared to take any risk, then we are going to be limiting our ability to mitigate
+materially the range of basic things that we exist to help mitigate. I agree with you about the
+reservations, and I worry about all the things you guys raised and don’t feel that comfortable about
+them, but I think it is worth recognizing again that there is risk in everything we are doing.
+I am very, very worried about the concerns that Janet raised and those echoed by your
+colleagues. I do not believe at this point that we have a viable framework of interaction with other
+primary supervisors that leaves us in a comfortable position with our existing 28-day facilities. If
+we are not prepared individually to deny access to 28-day loans for institutions at the margin, to
+scale back access, to scale back the maturity of those things, or to call those loans, then we have a
+big problem, and we have to figure out how to fix that problem. If we fix the 28-day problem, we
+will fix the 84-day problem, although at the margin it does add a bit to that stuff, but that can be
+mitigated with other things. But if we don’t fix it for 28 days to our basic mutual comfort, we have
+a real problem.
+I was going to make one process suggestion, Mr. Chairman, because we cannot resolve
+those things today. I think that Tom Hoenig, as chair of the Committee on Regulations and Bank
+Supervision; Governor Kroszner; and I—I will nominate myself since I’m chairman of the Credit
+and Risk Management Committee—should get on the phone together and enter into a conversation
+and see if we can come up with a better set of choices and principles for how we individually deal
+
+July 24, 2008
+
+37 of 50
+
+with a question that is going to get much worse for us, which is marginal institutions slipping
+toward the point of nonviability, where ratings lag and so ratings just have no value in making these
+judgments.
+I also agree with and want to echo the point that Jim Bullard made before he left, which is
+that we do need to talk more about our balance-sheet-sterilization, reserve-management kinds of
+options because none of us should be fully comfortable that we now have an adequate set of
+contingency planning measures in the context of potentially huge increases in demand at open
+facilities. But the Chairman, of course, recognizes this better than anybody else, and it is very
+important for us to walk everyone through the range of choices and their limits. I just want to end
+by saying, Mr. Chairman, that I think we have to defer to you on this. It’s worth reflecting on
+whether we think we have the balance right in this context, but this is going to be a matter of
+judgment, and it is going to be hard to give anyone a high degree of reassurance that we know
+exactly how this will be received and whether, as I said at the beginning, we are right in suggesting
+that the benefits are modest but significant relative to the risks. The basic choice we face, of course,
+is whether it’s better to take advantage of those benefits now or to withhold them knowing that we
+may face a point down the road when things get materially worse. We may face worse choices then
+that would raise even deeper reservations for all of us.
+CHAIRMAN BERNANKE. President Plosser, did you want to add something?
+MR. PLOSSER. I’ll pass, except for just a brief comment. I agree with what President
+Lacker was saying about the options. If we are going to create new specialized facilities, the hurdle
+for the problem we think we will be solving ought to be a little higher than just, well, we think it
+might help a little. That’s all. Thank you.
+CHAIRMAN BERNANKE. Okay. Governor Kohn.
+
+July 24, 2008
+
+38 of 50
+
+MR. KOHN. Thank you, Mr. Chairman. I think this has been a really good discussion that
+has raised a lot of interesting points. I agree with President Geithner that these are adjustments
+around the edges that were intended to make the facilities a little more useful in potential periods of
+stress. I, myself, was favorably disposed toward the options for the reasons you said, Mr.
+Chairman, of focusing our balance sheet. If we’re a little worried about our balance sheet, let’s
+focus on putting it to work where the stress points in the system are likely to be, which is quarterend and year-end. I didn’t see it as promising a further extension. We would be voting on one
+through the end of January—that’s what it says, and that’s what it would be.
+On the TAF extension, I do think that the financial system and the depository system,
+regional banks in particular, are coming under increasing pressure. I think we ought to keep the
+maximum flexibility to deal with these liquidity pressures. I would hesitate to go to just 84 days if I
+thought that meant there was going to be a material tightening of the standards that the Reserve
+Banks use to grant these loans because of nervousness about the shifting of a bank’s rating over the
+84 days. So I would ask Bill to think again about whether we could run 28-day and 84-day auctions
+at the same time. I don’t think it’s that confusing, to tell the truth. We run schedule 1 and schedule
+2 auctions for the dealers, so I think we ought to give that a little thought so that we’re not forcing
+the Reserve Banks to make even more difficult judgments about long-term viability than they do
+now.
+So on balance, I’m favorably disposed, but I think we need to take on board the discussion
+we’ve heard here today and think carefully about whether we have these proposals adjusted in the
+right way.
+CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+
+July 24, 2008
+
+39 of 50
+
+MR. KROSZNER. Thank you very much. I am supportive of these initiatives; and with
+respect to the options, I do think it is very important for us to be thinking about the perceptions of
+how we are using our balance sheet. Whether or not the reality is there about how much we can
+expand and deal with, there are a lot of questions and concerns. I think a better focus does make
+sense. Options were used successfully with respect to Y2K, so there is a precedent for them.
+They’re not as unusual as some of the other ones, or at least not as new as some of the others. Just
+being careful about the way we will articulate how we are using our balance sheet and trying to
+respond practically to questions about the balance sheet stresses make sense.
+On the extension of the TAF, we have had some very important and valuable discussions. I
+had ongoing discussions with President Yellen and certainly President Pianalto, both facing very
+difficult decisions that highlight some of the issues with the longer-term funding. As I said, one
+thing that I think will be necessary for us going forward, particularly in extending the TAF, is to
+think about whether this is adding something. I do support the extension, although I agree with
+Governor Kohn that it makes sense to think about both the 28-day and the 84-day terms. Private
+market participants deal with a lot of complexities—one-month, three-month, and six-month
+LIBOR, and I think they may be able to deal with this. I think it may add something to have both
+the 28-day and 84-day terms; but there may be operational issues, and I defer to the Desk on that.
+I think it raises questions about consistency in thinking about how to deal with now really a
+third level of comfort that we would need to have in providing credit to institutions. It’s not just
+secondary versus primary but also primary overnight versus primary term. To that end, I think the
+proposal that President Rosengren mentioned is important—that we really do need to be thinking
+about the relationship between these liquidity facilities and our supervisory judgments. To that end
+I have already asked Brian Madigan and Roger Cole to canvass the heads of supervision and
+
+July 24, 2008
+
+40 of 50
+
+regulation to get a feeling for, and to get a list of institutions, where at least at this stage there may
+be some differences in our view as an umbrella supervisor from the view of the primary regulator as
+to the challenges that the institutions are facing. Then either I will or we will have a process by
+which we will ask each regulator, institution by institution, why there may be differences in
+assessments and try to understand them. We will also put those regulators on notice that we may be
+taking a different view and that we, as the lender of last resort, can go in and do our own
+assessments. We take into account what they provide us, but we are not in any way obligated to
+follow their particular ratings in making our decisions. If we feel that an institution has more
+difficulty, we do not have to provide credit to that institution.
+Similarly, I have talked with some of the presidents about being proactive in thinking about
+collateral rather than at the last minute, as was described with respect to IndyMac, having to think
+about what the value is of the collateral that is provided. We should be doing that proactively, both
+because we need to know that from our lending point of view and because we can provide that
+information to the institutions so that they can better manage their liquidity, decide where they wish
+to pledge their collateral, and understand how they are going to go forward. Also, the other
+regulators will know more in advance what type of lending may be available.
+I do think that we can manage this and that there is potentially some value to extending the
+term of the TAF. But it raises a number of challenges. Working with President Geithner and
+President Hoenig on some of these issues, in some sense I have already taken some actions on what
+President Rosengren has suggested, and I am very happy to hear any other actions that we may need
+to be taking. I think that we need to be taking those independently of the particular issues here. We
+can deal with these issues because, of course, it will be up to the individual Reserve Banks to judge
+
+July 24, 2008
+
+41 of 50
+
+whether they want to make the term lending available. If there is concern about that, the Reserve
+Bank will ultimately make that judgment if it does not wish to provide that credit. Thank you.
+CHAIRMAN BERNANKE. Thank you. Governor Warsh.
+MR. WARSH. Thank you, Mr. Chairman. A couple of things briefly. First, Mr. Chairman,
+the most important decision that needs to be made—and, again, I defer like others to your
+judgment—is on the extension of the facilities, given market expectations about what you and
+others have said about them in recent weeks. While many very serious, legitimate issues have been
+raised about the nature of our supervisory framework and about our comfort with the collateral
+we’ve received, I would suggest that we won’t be able to wait until we’ve gotten comfort around
+those questions before you decide that we should take a vote either today or by notation vote on the
+broad facilities that we’ve already put in place. So I would suggest that maybe we’d want to
+separate that from the broader discussion.
+As for the most optimal mix of liquidity facilities, I’m convinced that what we have is
+imperfect. It has had some beneficial effect, but it can be improved upon. Exactly how we judge
+those improvements—the standards by which we come to a determination, which will necessarily
+be imperfect in these markets—is worth further consideration; and I would not object to separating
+that question from the extension question that you raised at the outset. Thank you.
+CHAIRMAN BERNANKE. Thank you. Is there anyone who hasn’t spoken who would
+like to speak? Governor Mishkin.
+MR. MISHKIN. Yes. Thank you, Mr. Chairman. I agree with the basic point that it’s very
+important to recognize that we do not want a lot of these facilities to be permanent and that at some
+point we will need to remove them. I do worry about the issue of creating the kind of moral hazard
+from an idiosyncratic viewpoint, and that’s very different. There are two aspects to moral hazard.
+
+July 24, 2008
+
+42 of 50
+
+One is moral hazard that is created by providing a backstop when there’s a systemic problem. But
+you expand this tremendously if you have a backstop for an idiosyncratic episode or for
+idiosyncratic episodes for individual institutions. So we have to think very seriously about the
+temporary nature of many of these measures.
+On the other hand, I just don’t see the stress dissipating. I’m getting ready to go back to
+academia, and it’s going to be a much quieter life for me. I really am extremely nervous about the
+current situation. We’ve been in this now for a year; but boy, this is deviating from most financial
+disruptions or crisis episodes in terms of the length and the fact that it really hasn’t gotten better.
+We keep on having shoes dropping. So although there’s an issue that we’re going to need to get out
+of many of these facilities, the reality is that we’re in this, and I’m not anticipating that this is going
+to go away quickly. I hope that it will. I just don’t understand the argument that actually thinking
+of more ways to be on top of this and being creative about it will indicate that we want to do
+something permanent. I just don’t see that.
+I am also a bit puzzled by the objection to these options. I think that they worked quite well
+during the Y2K episode. I think they are more targeted. I don’t think they are a major deal. On the
+other hand, I just don’t see where the problems are. I do recognize that there is a lot of work that we
+have to do to basically make sure that we’re managing credit risks better, particularly with an
+extension of the maturity of the TAF loans, but I do not think that this is a situation in which we can
+just sit back and get everything perfect before we put in these facilities.
+So there are a lot of issues here. Maybe just because I’m having a bit more trouble sleeping
+at night, I am supportive of going in this direction. I think that we have to keep on pushing, and I
+don’t think that this in any way encumbers us or hinders us from removing these when we need to
+
+July 24, 2008
+
+43 of 50
+
+do so. I hope that happens soon, but I think the reality is that we’re still in very difficult times.
+Thank you.
+CHAIRMAN BERNANKE. Thanks. I may not be the only one who thinks that maybe we
+should come to some kind of conclusion here. So let me suggest a way to go forward. First of all,
+as Governor Warsh mentioned, I think we were in agreement at the last meeting that we would
+extend the TSLF and the PDCF beyond September. The TSLF extension requires approval both by
+the Board and by the FOMC. So let me make a list here. The first thing I’d like to do—and I hope
+this is okay with everyone—would be to have Scott read those two resolutions. I would then like to
+ask the Board to extend the PDCF. Again, I believe we have discussed these and are okay with
+them.
+With respect to the extension of the TAF terms, my sense is that this would be a productive
+thing to do from the perspective of markets. I agree with President Geithner that the markets are
+still quite stressed and that this would be helpful. It has the additional sort of multiplier effect that,
+if we extend to three months, the ECB will auction $60 billion to three months as well, to give some
+additional impetus in Europe. That said, I do not feel comfortable doing this unless we have at least
+a reasonable sense that the presidents are okay with it. So after we finish the first three votes, I’ll
+take a straw vote of the presidents and ask you to answer the following question: Given the efforts,
+to which President Geithner and Governor Kroszner alluded, to address the credit issues that we
+already face in our 28-day program, do you feel comfortable in doing the 84 days? If you do not,
+then my suggestion would be just not to go forward with it.
+Finally, the TSLF options program is an FOMC vote. I would propose that we take a vote
+on it and see how it comes out. Okay? Any comments, questions, or concerns? If not, Scott, could
+you start us off with the TSLF extension and take us through what we have to do?
+
+July 24, 2008
+
+44 of 50
+
+MR. ALVAREZ. The TSLF authorization needs to be voted on by both the FOMC and the
+Board. Shall we begin with the FOMC?
+CHAIRMAN BERNANKE. Sure.
+MR. ALVAREZ. I think you have all received the resolution. It is the second resolution on
+the third page. “The FOMC extends until January 30, 2009, its authorizations for the Federal
+Reserve Bank of New York to engage in transactions with primary dealers through the Term
+Securities Lending Facility, subject to the same collateral, interest rate, and other conditions
+previously established by the Committee.”
+CHAIRMAN BERNANKE. This is an FOMC vote. Debbie, if you would take the roll,
+please.
+MS. DANKER.
+Chairman Bernanke
+Vice Chairman Geithner
+Governor Kohn
+Governor Kroszner
+President Lockhart
+Governor Mishkin
+President Pianalto
+President Plosser
+President Stern
+Governor Warsh
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+Thank you.
+CHAIRMAN BERNANKE. You got President Lockhart. Okay, good. Thank you. Now
+the Board has also to make a determination. Scott.
+MR. ALVAREZ. Yes. The Board also votes on the TSLF. This is on the second page, the
+third resolution. “The Board finds that conditions in the credit markets in which primary dealers
+obtain funding continue to be fragile and subject to unusual strain and uncertainties. This fragility
+continues to threaten the satisfactory functioning of broader financial markets and thus poses
+
+July 24, 2008
+
+45 of 50
+
+significant risks to the economy. In view of these unusual and exigent circumstances, the Board
+authorizes the Federal Reserve Bank of New York to continue to make credit available to primary
+dealers through the Term Securities Lending Facility, subject to the same collateral, interest rate,
+and other conditions previously established, until January 30, 2009, unless the Board finds that the
+unusual and exigent circumstances no longer prevail. The Reserve Bank may extend credit where it
+has evidence that reasonable credit accommodations are not available to a borrower from other
+banking institutions.”
+CHAIRMAN BERNANKE. All right. Unless there is an objection, since we had a
+unanimous vote on the first one, I am going to assume, if no objection, that we will pass that
+resolution. Okay. Let’s turn to the Board’s determination on the PDCF.
+MR. ALVAREZ. The second resolution on the second page: “The Board finds that
+conditions in the credit markets in which primary dealers obtain funding continue to be fragile and
+subject to unusual strain and uncertainties. This fragility continues to threaten the satisfactory
+functioning of broader financial markets and thus poses significant risks to the economy. In view of
+these unusual and exigent circumstances, the Board authorizes the Federal Reserve Bank of New
+York to continue to make credit available to primary dealers through the Primary Dealer Credit
+Facility, subject to the same collateral, interest rate, and other conditions previously established,
+until January 30, 2009, unless the Board finds that the unusual and exigent circumstances no longer
+prevail. The Reserve Bank may extend credit where it has evidence that reasonable credit
+accommodations are not available to a borrower from other banking institutions.”
+CHAIRMAN BERNANKE. All right. Why don’t you call the roll on this one, Debbie.
+MS. DANKER. This is a Board resolution. So—
+Chairman Bernanke
+Vice Chairman Kohn
+
+Yes
+Yes
+
+July 24, 2008
+
+46 of 50
+
+Governor Kroszner
+Governor Warsh
+Governor Mishkin
+
+Yes
+Yes
+Yes
+
+CHAIRMAN BERNANKE. Okay. Thank you. Now, I’d like to poll the presidents on the
+following question. Assuming that we do take the measures that were described by Governor
+Kroszner and President Geithner to work with President Hoenig on improving our collateral and
+surveillance procedures, are you more comfortable with the extension in terms of the ability to
+manage credit risk? I might add, if you are a negative, would your view be changed if we broke this
+into a 28-day and an 84-day so that you would have the option of directing a bank to the 28-day if
+that were your decision? Let me ask people just to get a quick response. President Rosengren.
+MR. ROSENGREN. I support this recommendation.
+MR. HOENIG. Mr. Chairman, this is President Hoenig. May I ask just one clarifying
+question?
+CHAIRMAN BERNANKE. Certainly.
+MR. HOENIG. It doesn’t affect how I come out on this, but if I understand the
+conversations, if we made an 84-day loan and if during the period we found the institution’s
+condition deteriorating, we could in the Reserve Bank’s judgment change that to a primary credit
+loan, call that loan if we felt it necessary, have conversations with the primary supervisor, and deal
+with that loan whether it was 84 days or 28 days. That is my understanding. Is that correct?
+CHAIRMAN BERNANKE. That is correct.
+MR. HOENIG. Thank you.
+CHAIRMAN BERNANKE. President Rosengren, did you say you support the proposal?
+MR. ROSENGREN. I support the 84-day extension.
+CHAIRMAN BERNANKE. Thank you. President Geithner.
+
+July 24, 2008
+
+47 of 50
+
+VICE CHAIRMAN GEITHNER. I am comfortable supporting the 84-day extension, and I
+would be supportive of splitting it. But I’d like to think a little more about both operational issues
+and how that would work. In principle, since I would be comfortable with 84, I would be
+comfortable with two tranches or two windows.
+CHAIRMAN BERNANKE. Okay. President Plosser.
+MR. PLOSSER. Yes. I’m comfortable with 84, but I also have some sympathy for the
+view of having two tranches, and 28 and 84 would be fine with me as well.
+CHAIRMAN BERNANKE. Thank you. President Pianalto.
+MS. PIANALTO. My preference is to have the two options, the 28-day and the 84-day. As
+I expressed earlier, I am concerned that, even with improving the collateral and surveillance aspects,
+the 84-day still presents some challenges. So if it is operationally feasible, I would prefer having the
+two options of 28 and 84 days.
+CHAIRMAN BERNANKE. Thank you. President Lacker.
+MR. LACKER. Yes. I don’t think we should do the 84. If we have to, I’d rather have the
+28-day option. I have a procedural question. The original Term Auction Facility authorizations
+required action by all the Reserve Bank boards of directors. Would this modification also require
+their consent?
+MR. ALVAREZ. The only action by the Reserve Bank board of directors on the original
+TAF was to set the formula for the rate. That has been set, and no further action would be required
+for this modification to the TAF.
+CHAIRMAN BERNANKE. President Lockhart.
+MR. LOCKHART. I’m comfortable with the 84, Mr. Chairman. Thank you.
+CHAIRMAN BERNANKE. President Bullard has left. President Evans.
+
+July 24, 2008
+
+48 of 50
+
+MR. EVANS. I would prefer not to be involved in term funding generally without greater
+study than we have done so far. But I am confident, with the additional measures that you’re
+talking about and the conversations, that we would end up being able to do it appropriately. I would
+prefer the 28-day and 84-day separation if that’s operationally possible, but I’m not sure if any
+potential adverse signals would somehow be conveyed that way. Frankly, I just don’t understand it
+well enough, and this is being done very quickly. Thank you.
+CHAIRMAN BERNANKE. President Stern.
+MR. STERN. Yes, I’m comfortable with going to 84 days. If it’s workable, I think there
+would be merit in both 28 and 84.
+CHAIRMAN BERNANKE. President Hoenig.
+MR. HOENIG. I’m comfortable with 84. I’d be interested in thinking about the 28-day as
+well, but I’m comfortable with 84 as long as we have the conditions that I talked about. Thank you.
+CHAIRMAN BERNANKE. President Yellen.
+MS. YELLEN. Yes. Well, while I expressed some qualms, I’m comfortable with the
+proposal and can support it. I think I prefer having the two options of 28 and 84, but I’m
+comfortable with the proposal.
+CHAIRMAN BERNANKE. Bill, are you having any issues with the feasibility of splitting
+it?
+MR. DUDLEY. Well, the big problem would be how we would make the transition,
+because I think we cannot do two auctions simultaneously on 84 days and 28 days and it’s not clear
+how one would actually transition then to steady state. We would have to spend some time working
+on that to see if it is possible to make this happen without having a lot of reserve-management issues
+
+July 24, 2008
+
+49 of 50
+
+because we really don’t want the outstanding amounts to go up or down violently as we’re
+transitioning. So we’re just going to have to see if that’s feasible or not.
+VICE CHAIRMAN GEITHNER. Just to underscore, Mr. Chairman, what I said, I think
+President Evans is right—I would not be prepared to make a recommendation today on 28 alongside
+84. I think it just needs a little more time, not a lot more time, but we have to think through it to
+make sure we can do it. We have to come back to you and explain how we think we would manage
+through those issues, if we think they’re manageable. One thing we might do is use the SCRM
+process that exists to expose them in a little more depth to whatever our thinking collectively here is
+on the operational issues and the signal issues, and we can probably do something quickly on that
+tomorrow. But I think we need to reflect a bit and come back to you.
+CHAIRMAN BERNANKE. So let’s do this. Let’s have Bill and his team look at the
+feasibility of a split auction. Let’s have any discussions we might have about how we might
+improve our monitoring of the credit risks and of the institutions. We will then have the staff
+communicate with everyone in the FOMC. Then depending on the reaction, we’ll have notation
+votes. Will that be a reasonable way to go?
+All right. We will not take any further votes on this issue, but we will have the staff contact
+you and discuss with you both the issue of 28 versus 84 and the issue, going forward, of how to
+improve our surveillance. There will have to be notation votes if we decide to go forward. The
+extension of the TAF would be a Board vote, but we also would need the FOMC to approve an
+increase in the swap line so that the ECB could follow us. All right. So we’re leaving those
+notation votes, and you will all be contacted by the staff. I appreciate your feedback on that. The
+last item on the agenda is the options program for the TSLF. Scott Alvarez advises me that we can
+
+July 24, 2008
+
+50 of 50
+
+take a straw vote. I’m okay with a regular vote. Let’s go ahead and take a vote. This is a vote by
+the FOMC. Could you read the resolution, Scott?
+MR. ALVAREZ. Sure. This is the first resolution on the third page. “In addition to the
+current authorizations granted to the Federal Reserve Bank of New York to engage in term
+securities lending transactions, the Federal Open Market Committee authorizes the Federal Reserve
+Bank of New York to offer options on up to $50 billion in additional draws on the facility, subject to
+the other terms and conditions previously established for the facility.”
+MS. DANKER.
+Chairman Bernanke
+Vice Chairman Geithner
+Governor Kohn
+Governor Kroszner
+President Lockhart
+Governor Mishkin
+President Pianalto
+President Plosser
+President Stern
+Governor Warsh
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+
+CHAIRMAN BERNANKE. Thank you. We had a very long meeting but a very
+productive discussion. I thank you for that. We will be in touch with you about both of the issues
+relating to the TAF. Thank you very much. Without other issues, the meeting is adjourned.
+END OF MEETING
+
+

@@ -1,0 +1,2950 @@
+Meeting of the Federal Open Market Committee 
+
+October 2, 2001 
+
+A meeting of the Federal Open Market Committee was held in the offices of the Board of
+Governors of the Federal Reserve System in Washington, D.C., on Tuesday, October 2, 2001,
+at 9:00 a.m.
+Present:
+Mr. Greenspan, Chairman
+Mr. McDonough, Vice Chairman
+Mr. Ferguson
+Mr. Gramlich
+Mr. Hoenig
+Mr. Kelley
+Mr. Meyer
+Ms. Minehan
+Mr. Moskow
+Mr. Poole
+Messrs. Jordan, McTeer, Santomero, and Stern, Alternate Members of
+the Federal Open Market Committee
+Messrs. Broaddus, Guynn, and Parry, Presidents of the Federal Reserve
+Banks of Richmond, Atlanta, and San Francisco respectively
+Mr. Kohn, Secretary and Economist
+Mr. Bernard, Deputy Secretary
+Ms. Fox, Assistant Secretary
+Mr. Mattingly, General Counsel
+Ms. Johnson, Economist
+Mr. Reinhart, Economist
+Mr. Stockton, Economist
+Ms. Cumming, Messrs. Fuhrer, Hakkio, Howard, Lindsey, Rasche,
+Slifman, and Wilcox, Associate Economists
+Mr. Kos, Manager, System Open Market Account
+Ms. Smith, Assistant to the Board, Office of Board Members, Board of
+Governors
+Messrs. Ettin and Madigan, Deputy Directors, Divisions of Research and
+Statistics and Monetary Affairs respectively, Board of Governors
+
+2
+
+
+Mr. Simpson, Senior Adviser, Division of Research and Statistics, Board
+of Governors
+Mr. Connors, Associate Director, Division of International Finance,
+Board of Governors
+Messrs. Oliner and Struckmeyer, Associate Directors, Division of
+Research and Statistics, Board of Governors
+Mr. Whitesell, Assistant Director, Division of Monetary Affairs, Board
+of Governors
+Mr. Kumasaka, Assistant Economist, Division of Monetary Affairs,
+Board of Governors
+Ms. Low, Open Market Secretariat Assistant, Office of Board Members,
+Board of Governors
+Messrs. Eisenbeis and Goodfriend, Ms. Mester, Messrs. Rolnick,
+Rosenblum, and Sniderman, Senior Vice Presidents, Federal
+Reserve Banks of Atlanta, Richmond, Philadelphia, Minneapolis,
+Dallas, and Cleveland respectively
+Messrs. Evans, Hilton, and Judd, Vice Presidents, Federal Reserve
+Banks of Chicago, New York, and San Francisco respectively
+
+Transcript of Federal Open Market Committee Meeting of 
+
+October 2, 2001 
+
+
+CHAIRMAN GREENSPAN. Good morning, everyone. Would somebody like
+to move approval of the minutes of August 21st?
+VICE CHAIRMAN MCDONOUGH. So move, Mr. Chairman
+CHAIRMAN GREENSPAN. Without objection, they are approved. Dino.
+MR. KOS. Thank you, Mr. Chairman. I’ll be referring to the 
+
+charts with the salmon cover that were distributed to you.1 I will 
+
+break up my remarks into two parts. First, I will talk about general 
+
+market developments, especially since September 11th, and then I’ll 
+
+say a little about our operations in the aftermath of the attacks. 
+
+The first chart shows short-term deposit rates for the United 
+
+States, the euro area, and Japan. U.S. short-term rates continued to 
+
+decline during the intermeeting period. Both cash and forward rates 
+
+had been declining even before September 11th, and the fall in those 
+
+rates accelerated in the days following. Cash rates declined after the 
+
+Committee’s September 17th reduction in the target fed funds rate, 
+
+though the 9-month forward rate barely moved, apparently reflecting 
+
+the lingering expectation among some market participants that rates 
+
+will be reversing course some time next year. 
+
+As shown in the middle panel, euro-area rates followed a 
+
+similar pattern of heading downward gradually even before 
+
+September 11th. And on September 17th the ECB reduced rates by 50 
+
+basis points several hours after the FOMC’s policy announcement. 
+
+The Bank of Canada, the Swiss National Bank, and several other 
+
+central banks cut their rates as well. 
+
+As you can see in the bottom panel, Japanese rates continued to 
+
+scrape along near zero. Late on September 17th our time, early on the 
+
+18th in Tokyo, the Bank of Japan (BOJ) announced another so-called 
+
+easing of policy when it stated that its current account balances would 
+
+be targeted at above 6 trillion yen as opposed to the 6 trillion target it 
+
+had indicated previously. In the days that followed, that balance grew 
+
+and by the last days of the quarter it rose to more than 12 trillion yen. 
+
+By today, it had eased a bit to 10.3 trillion yen, still significantly 
+
+above the earlier 6 trillion target. Interestingly, forward rates actually 
+
+1
+
+Copies of the charts are reproduced in the Appendix.
+
+10/2/01
+
+2
+
+ticked up a bit and the Japanese government bond (JGB) yield curve
+was little changed after the announcement, suggesting to some that
+the BOJ’s tweaks in the past few months had ceased to have an
+impact on rates beyond the very short end of the coupon curve.
+The top panel on page 2 graphs the 2-year, 10-year, and 30-year
+Treasury yields along with the target fed funds rate since August 1st.
+Two-year rates declined, beneficiaries of policy easing, a weak equity
+market, and general risk aversion. The curve steepened to 255 basis
+points from about 165 basis points at the time of the last meeting.
+The 10-year yield declined 32 basis points, while the 30-year fell a
+more modest 6 basis points. Some market participants explained the
+restrained move in 30-year yields as reflecting nascent inflationary
+risks, while others attributed the price action to the canceled
+September buybacks and the generally revised fiscal stance that
+would lead to far higher Treasury supplies than had been anticipated
+previously.
+The steepening trend observed in the U. S. Treasury yield curve
+has also been seen in yields abroad, as reflected in the middle panel.
+The 2- to 10-year Bund spread moved almost in lockstep with
+movements in our curve. And even the Japanese 2- to 10-year spread
+steepened ever so slightly, primarily due to a shift in the 10-year JGB
+yield.
+In the bottom panel we observe that in some segments of the
+bond markets the reaction has varied. Spreads in the investment
+grade sector--not seen here--have largely been stable. And in the case
+of agencies and swaps, the spreads have actually declined slightly.
+But spreads on riskier paper have widened. The EMBI+ spread and
+the Merrill Lynch high-yield spread both widened after the 11th.
+These high-yield spreads hit levels last seen on January 2nd, the day
+before the FOMC’s first easing move in the cycle. Trading turnover
+in emerging markets and on high-yield paper decreased after the
+attacks. And liquidity conditions deteriorated and have not yet
+recovered to normal levels.
+The three graphs on the next page depict the percentage change
+in various equity indices for the third quarter. The U.S. indices are
+shown in the top panel, major foreign indices in the middle panel, and
+a representative sample of emerging market equity indices in the
+bottom panel. Most indices declined between 15 and 30 percent and
+nearly all had fallen substantially even before September 11th,
+adjusting to downwardly revised growth and profit forecasts. Stocks
+of less established companies fared worse than more seasoned
+companies. In the United States the percentage decline in the
+
+10/2/01
+
+3
+
+NASDAQ was almost double the fall of the Dow and the S&P.
+Internationally, emerging markets indices on balance fell somewhat
+more than markets in more developed countries.
+Turning to page 4 and the major currencies in foreign exchange
+markets, the dollar actually was little changed as measured by most
+trade-weighted indices, but showed considerable variation in bilateral
+rates. In general, risk aversion was reflected in the appreciation of the
+Swiss franc and the yen, in part because of perceptions about their
+value as safe havens, and probably more importantly as yen- and
+Swiss franc-funded carry trades were unwound. On the other hand,
+currencies of countries with large commodity sectors, such as the
+Australian dollar, the Canadian dollar, and the New Zealand dollar,
+depreciated to near their all-time lows, as did the currencies of
+countries such as Brazil, which have large external financing
+requirements. While the downgrade in U.S. growth has probably
+reduced expected risk-adjusted returns on dollar assets, the
+contemporaneous downgrade of overseas prospects may have offset
+those adverse effects on the dollar.
+Turning to the middle panel, the yen had been appreciating
+against the dollar since early August. With the retrenchment of risk
+appetites, yen-funded carry trades were unwound and Japanese
+investors were reportedly repatriating funds before their quarter-end.
+With the sustained upward pressure on the yen, the Japanese
+monetary authorities intervened on September 17th and continued to
+intervene in large amounts through this past Friday, the end of the
+Japanese fiscal half-year. In all, the Japanese monetary authorities
+purchased $26.7 billion and 600 million euros, which the ECB
+acquired as agent of behalf of the Bank of Japan. The aggregate
+dollar purchases included $200 million which the Desk acquired as
+agent for the Japanese on September 27th. Within the foreign
+exchange market, a major topic of discussion among traders is
+whether the Ministry of Finance’s intervention was intended as a
+bridge to get Japanese financial institutions through the fiscal halfyear-end on September 30th or whether the intervention will persist.
+If the latter, that would be taken as a signal of a renewed attempt to
+jump-start the export sector.
+As the bottom panel shows, all of the euro’s recent depreciation
+occurred in early August. Since mid-August, the euro has traded in a
+narrow range. The currency is perceived as neither a safe haven nor
+an asset associated with an economic area that has higher growth
+prospects than the United States. Therefore, asset returns are
+expected to be no better and no worse than what will be available in
+the United States.
+
+10/2/01
+
+4
+
+
+Turning to the next page, the terrorist attacks triggered an
+increase in both observed and implied volatility in most markets, and
+these graphs show the volatility of a sample of major asset price
+relationships. The top panel depicts implied volatility on one-month
+euro-dollar and dollar-yen options. Both rose sharply on the 11th and
+hit highs of about 14-1/2 percent on September 17th, the day that the
+Committee and other central banks eased policy, but declined in
+subsequent days. These volatility levels, though sharply higher than
+the volatility levels of 10 percent or so in early July, are modest by
+historical standards. In 1998 the volatility of dollar-yen options
+reached a high of nearly 28 percent.
+The middle panel graphs the implied volatility of the December
+Eurodollar contract and the bottom panel graphs the volatility of the
+S&P 100, also known as the VIX. Both volatility levels roughly
+doubled from their levels in late August and both reached highs that
+exceeded slightly the highs observed during the 1998 crisis. In the
+case of the December Eurodollar contract, the implied volatility
+exceeded the 1998 high by quite a bit. While the VIX index has
+declined somewhat from its recent highs, its implied volatility and
+that of the Eurodollar contract both remained at elevated levels.
+Turning to the next page, the top panel depicts total Federal
+Reserve balances day by day since the last FOMC meeting. With the
+disruptions caused by the attacks, the combination of discount
+window loans, open market operations, plus autonomous factors
+sharply increased balances to as high as $121 billion on September
+13th. Despite the apparent flushness of markets, even allowing for
+higher demand for excess reserves, this was deceiving.
+The inset in the top panel shows balances, both borrowed and
+nonborrowed, for the entire banking system for the five days starting
+on September 11th. The green bar in the inset shows the end-of-day
+balances
+, which was having problems with
+its clearing and settlement system. On September 12th, the entire
+banking system held about $63 billion of reserves before borrowing.
+before
+discount window borrowing and overdrafts. Distribution of reserves
+continued to be a problem until the afternoon of the 14th when
+began to make progress in clearing its backlog of
+transactions. By early the following week, we began to work down
+balances as they started to be distributed more efficiently.
+
+10/2/01
+
+5
+
+The bottom panel depicts the fed funds rate in the intermeeting
+period. The green line is the target fed funds rate. The red dots mark
+the effective fed funds rate on each day, and the vertical line shows
+the high-low range for each day. With four of the five major funds
+brokers incapacitated by the attacks, banks largely traded directly
+with each other rather than through brokers and they did so at the
+target of 3-1/2 percent in something of a “gentlemen’s agreement.”
+This pattern persisted until late Thursday, September 13th, when the
+weight of reserves in the system first began to show through and the
+funds rate traded below its target. This pattern of low rates,
+especially in later trading, continued in the period after the FOMC’s
+intermeeting easing action on September 17th, particularly in light of
+the Committee’s statement noting that the funds rate might
+occasionally trade below its target. By the 19th the Desk began to
+manage its operations with an eye toward restoring a sense of
+normalcy in the money market, which had begun to take rates below 2
+percent and even 1 percent for granted. Thus we began to nudge the
+market back toward the target. In doing so the Desk continued to
+balance that objective against the desire to respond to the financing
+needs of dealers, but by that time dealers were not experiencing much
+trouble getting their funding done through their normal sources.
+On page 7, the top panel shows three key autonomous factors
+that affected reserves during the period. The grounding of air traffic
+created an immediate spike in float to about $47 billion on September
+13th. The ECB’s three swap drawings added almost $20 billion at
+their peak. Those two factors added more than $60 billion of reserves
+on that day. Meanwhile, a near doubling of the repo pool drained
+reserves. On balance, these factors added reserves during the first
+few days of the crisis and thus reduced what might have been even
+more traffic at the discount window on several days. By the week of
+September 17th float declined and the foreign exchange swaps
+matured but the repo pool remained elevated, in part because of the
+large number of fails in the securities markets, and that was leaving
+central banks with extra cash at the end of the day. There was also an
+apparent desire for higher levels of liquidity, and in the case of
+Japan’s Ministry of Finance the need to invest large amounts of
+intervention proceeds.
+The middle panel depicts the mix of overnight and term
+repurchase agreements used to manage reserves. We had no
+operations on September 11th. At first we relied on overnight RPs to
+add liquidity and allowed several long-term RPs to mature without
+replacement. When markets started working better, we increased the
+level of long-term RPs to help meet underlying needs.
+
+10/2/01
+
+6
+
+The bottom panel shows for short-term RPs the level of
+accepted propositions in red and the level of rejected propositions in
+blue. Normally, dealers submit a large number of propositions of
+which we accept a relatively small amount. For four business days,
+from the 12th through the 17th, our operations were driven by the
+demand for financing rather than by reserve levels associated with a
+given funds rate. To better meet these demands, we operated later in
+the day than normal, after dealers had an opportunity to assess their
+financing needs. Then for a couple of days, on September 18th and
+19th, we accepted virtually all dealer propositions on our overnight
+RPs. This was done not so much directly to meet their demands but
+to provide the level of reserves that was needed given that
+autonomous factors, especially the repo pool, were draining reserves.
+After we arranged several long-term RPs that settled on the 20th, the
+volume of our short-term RPs declined and the volume of accepted
+propositions was just a fraction of total propositions.
+Turning to the last page, I want to give you a quick update on
+our securities lending operations during the intermeeting period. On a
+normal day, the Desk lends out a handful of securities from SOMA-normally totaling less than $2 billion and frequently less than $500
+million. With the disruptions caused by the attacks, not only to the
+Bank of New York but to several major inter-dealer brokers and some
+large dealers themselves, the number of fails rose dramatically. With
+the flow of securities from usual sources disrupted or scaled back,
+demand for SOMA securities rose despite our rather high pricing
+structure. We lent out about $10 billion on September 11th,
+representing 70 different issues, and smaller though still high amounts
+in the days following. Volumes rose again last week in the run-up to
+the quarter-end and remained high yesterday. Fails began to rise last
+week for the 2-, 5-, and 10-year on-the-run securities for reasons that
+are not fully clear. The dollar volume of our lending increased
+beyond $10 billion, although the number of issues was less than on
+the 11th, again because the number of fails was concentrated in the
+small numbers of on-the-run issues.
+I want to make one final observation. On September 19th, the
+very small volume of lending did not imply tranquility on that day.
+With the funds rate trading soft, the rate for general collateral fell
+below 1 percent in the repo market. Since the Committee’s
+authorization permits us to lend securities at a minimum of 1 percent,
+the formula implied a negative financing rate. Hence it was cheaper
+for dealers to fail and pay the near zero fails rate than to borrow from
+the Desk, pay our higher price, and complete settlement. In
+reviewing the securities lending facility in coming months, one aspect
+that we plan to study is the pricing structure. In a low interest rate
+
+10/2/01
+
+7
+
+environment, the general collateral rate could be susceptible to
+occasional declines below 1 percent, thus making it difficult for our
+securities lending program to meet its objectives.
+Mr. Chairman, there were no foreign exchange operations 
+
+during the period. I will need a vote to ratify the domestic operations 
+
+and I’d be happy to take any questions. 
+
+CHAIRMAN GREENSPAN. First, let me say that despite the tensions you
+were under, you make it sound very simple. And I applaud both what you did and
+making it simple. When will you get data on lending volume for October 1st?
+MR. KOS. Securities lending volume?
+CHAIRMAN GREENSPAN. Yes.
+MR. KOS. We did a bit over $10 billion yesterday.
+CHAIRMAN GREENSPAN. In other words, the volume was essentially
+unchanged from September 28th?
+MR. KOS. That’s right. Apparently the volume of fails is still at a very high
+level.
+CHAIRMAN GREENSPAN. But you still don’t know fully why that is
+occurring?
+MR. KOS. There are almost as many explanations as there are market
+participants. It is an issue that the market is struggling with, though. But they’re still-CHAIRMAN GREENSPAN. As a working hypothesis, assume they’re all
+correct! [Laughter] Further questions for Dino?
+MR. POOLE. I’d like to move the ratification of the operations. But I would
+also suggest that the Committee add to that a sense of gratitude to those at the Desk for
+the way they handled such a very, very complicated and difficult situation. And, of
+
+10/2/01
+
+8
+
+course, the Desk itself was working in difficult circumstances with the relocation of its
+offices and all the upset that involved. So I think it was a fantastic performance and I
+believe the Committee should reflect that view in its vote to ratify the Desk operations.
+CHAIRMAN GREENSPAN. I’m sure your suggestion will meet with no
+objection from your FOMC colleagues. Further questions? Yes, President Jordan.
+MR. JORDAN. Thank you, Mr. Chairman. I also thought that the Desk
+performed extraordinarily. No matter what kinds of contingency scenarios one might
+have envisioned, this was way beyond what anyone would have imagined. So the Desk’s
+performance really was remarkable.
+I was studying Charts 6, 7, and 8, especially in light of the FOMC’s statement
+that the funds rate might trade below its target for a while, which you mentioned, Dino.
+It is clearly evident on Chart 6 that for four trading days you did let that happen. But I
+can interpret the chart as saying that after about four days you pretty much returned to
+operating in the way you normally do on a daily basis, letting the funds rate be both a
+floor and a ceiling. Part of my question is: Is that a fair characterization? Also, I’d like
+to ask you to say a little more about the way you conduct daily operations in terms of
+factors supplying and absorbing reserves. What led you to the conclusion that it would
+not continue to be appropriate to allow the funds rate to trade below its target? The
+reason I raise that is because in periods of heightened anxiety, liquidity preference, risk
+aversion, or other characterizations of these reactions we can’t really observe, it would be
+very hard to know where an equilibrium is. The question really is: How comfortable
+were you in starting to view the target funds rate as a floor in that environment?
+
+10/2/01
+
+9
+
+MR. KOS. In answering, let me try to package those questions together. I
+
+don’t think we viewed the target funds rate as a floor. What we were trying to do was
+return to some sense of normalcy in the functioning of the market. The low rate itself
+was creating problems. There were problems for investors. For example, money market
+funds had trouble investing money; there were complaints from investors who could not
+get banks to take their money. These and other problems were being created by the very
+low funds rate and those issues had to be considered. What we also tried to do was to
+leave the market with enough liquidity, but there was a sense that if the rate remained too
+low for too long, some of these unintended adverse affects would continue.
+If you look at the bottom of page 7, you can see that for several days beyond
+September 17th we were basically accepting all the propositions that the dealers were
+giving us. We were trying to respond to the financing demands from the dealers. And
+even in the subsequent period, once we got past the 19th and 20th or so, there were days
+when we tried to respond to the financing needs of the dealers even though it wasn’t
+necessary for reserve purposes. One of the ways we did that was by having the Treasury
+increase its balance. That way we could respond by providing the dealers with more
+financing than might have been dictated by the numbers. So my message is that we
+really did not view the funds target as a floor. A lot of the trading was below the target
+rate but there were days, especially in the mornings, when the rate was firm. That often
+reflected efforts by European banks in particular to get their financing done early in the
+day. So we got a pattern with the rate firm in early-day activity and lower in reduced
+trading at the end of the day.
+I don’t know if I answered your questions.
+
+10/2/01
+
+10
+
+MR. JORDAN. Well, that was helpful. The reason I’m raising the issue is that
+
+intuitively I think one thing that should not be allowed to happen is for the stock of
+central bank liquidity to decline inadvertently because of operational procedures. So I
+was judgmentally struggling with the data in the Board’s H4.1 release for the week
+ending last Wednesday versus the week ending September 5th, the week before the crisis.
+I don’t know what the seasonal factors were doing during that period--I can guess, though
+I don’t know for sure--but to see the monetary base actually lower for the week ended last
+Wednesday than it was the week ended September 5th alarmed me a bit. I questioned
+whether that is something I would want to see happen. If heightened anxiety among
+other factors caused the natural equilibrium level to be very low--though I don’t know
+where that level is--I don’t think we would want to see our operating procedures result in
+the contraction of central bank liquidity.
+MR. REINHART. Actually, I think a large part of the reason central bank
+liquidity contracted comes through in Dino’s inset at the top of page 6, namely that
+intermediation wasn’t functioning when four out of the five federal funds brokers were
+out of service. As the fed funds market became operational and those with insufficient
+positions could get their reserves from those with excess reserves, there wasn’t a need for
+us to blow up our balance sheet to replace the unavailable intermediation. So I
+interpreted the reduction in nonborrowed reserves and the decline in the Desk’s open
+market operations as evidence of a return of the federal funds market to more normal
+functioning.
+MR. KOS. Yes, I think that’s an important point. A large part of that market
+was in effect bottled up.
+
+10/2/01
+
+11
+
+MR. JORDAN. Yes, and I can understand liquidity coming down from the
+
+elevated levels immediately after the attacks. But I was comparing the recent figures
+with those in the week before the attacks, the week ending September 5th. That week
+may have been atypical because it included the Labor Day weekend; I can’t readily make
+a judgment on that. But I was looking at this in terms of wanting to be comfortable with
+our position going forward. We don’t know what’s going to happen or what the next
+terrorist event is going to be, but we can expect heightened anxieties, a preference for
+liquidity, and risk aversion. Those are all psychological factors that we really can’t
+quantify. And we wouldn’t want those things to cause us inadvertently to produce less
+central bank liquidity than we think is appropriate. Intuitively I think the demand for
+central bank liquidity has had to go up, so I am concerned to see this contraction in
+supply.
+MR. HILTON. The other issue we were facing early in the week after the 17th
+was that, as a symptom that the financing markets were operating much more efficiently,
+the liquidity we had provided previously was beginning to have a very telling effect on
+financing rates and the funds rate. So when we were coming into the market in the
+morning, on some of those operations we were receiving propositions of below 1 percent.
+We continued to accept them for a while, but there was no sense of balance in the
+financing markets by the 18th or 19th--no sense that there was any upside risk to rates.
+And given the liquidity we had put in previously, market participants were really testing
+how low rates could go. There is no natural floor above zero. We did consciously reduce
+the amount we were supplying at the margin so that at least at the end of the day market
+participants would see that there was some risk of rates going up. We saw a little
+
+10/2/01
+
+12
+
+evidence of that risk later in the week when in late trading rates reached as high as 6 or 7
+percent. Since we restored that balance to market expectations, though, we have been
+supplying somewhat higher levels of central bank balances.
+MR. JORDAN. Thank you.
+MR. REINHART. I’d like to add just one other point. In establishing a
+reference point, President Jordan, you might want to go back one or two weeks from
+September 5th. Reserves are very erratic on a week-to-week basis and it looks as if from
+a weekly standpoint your base point is a little low relative to the previous two or three
+weeks.
+CHAIRMAN GREENSPAN. Vice Chair.
+VICE CHAIRMAN MCDONOUGH. If I could make a comment, Mr.
+Chairman? President Jordan’s concern, as I understand it, is that there not be some sort
+of central bank orthodoxy that says that the funds rate target has to be put back in place at
+a time when it would be inappropriate. Dino in both his presentation and in his answer to
+one of the questions indicated that he was being guided by the desire for a return to
+normalcy. That was our mantra at the Federal Reserve Bank of New York. We were
+dealing with a financial community in which there was an advanced degree of trauma on
+the part of people at trading desks and those managing firms. And there was a very
+strong conviction in the community that the Federal Reserve System and the New York
+Reserve Bank as its agent were going to do whatever was necessary to make the system
+function. Part of getting through a battle fatigue period is that it is necessary to return life
+to normal. So the Desk was under instructions that when it could conduct operations in
+the way it normally does, it should do so, because that gives a signal to the financial
+
+10/2/01
+
+13
+
+community that life is okay again. And traumatized people need that signal. In my view
+it’s a very important message that the Fed must continue to deliver because the trauma
+period is not over. Some of the firms are still operating out of temporary facilities and
+will do so for months. Some have suffered enormous human losses. In the case of
+Cantor Fitzgerald, two-thirds of the people in the firm lost their lives on September 11th.
+So this is not a situation where everybody will soon start to feel tranquil and okay; that
+won’t happen for quite a long period of time. The more the Federal Reserve can say
+things are all right, we’re functioning as we traditionally do, the better. That’s a very
+important message to give.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. Just to switch the subject a bit, Dino, you passed over the
+changes in the yield curve rather quickly. I’m interested in your perception of what the
+market is thinking about the shape of the yield curve these days and whether the outer
+end of the curve is a supply issue totally or if it is conveying other information.
+MR. KOS. That’s a good question and one that doesn’t have an easy answer.
+In my own view, the shift is not so much an indication that people view inflationary risks
+as imminent or that they have very strong expectations of future inflation. I think it
+reflects more a concern about the fiscal side, given the talk of stimulus coming out of
+Congress, the cancellation of the Treasury’s buyback program, and the prospect for lower
+federal revenues. In the New York Times or one of the major papers yesterday there was
+an article saying that perhaps we’ll have a fiscal deficit. So the fiscal outlook has really
+changed. Now, the short end of the curve will tend to follow policy, or at least it has so
+far. But the long end is where the Treasury has been especially active with the buyback
+
+10/2/01
+
+14
+
+program and that’s where we might see concerns or a shift in expectations about the
+fiscal side.
+CHAIRMAN GREENSPAN. But if it’s wholly a matter of supply, can’t you
+normalize that judgment against corporate issues? The yield spreads went up and it’s
+very tough to make a judgment, when we see movements like that, as to whether it’s a
+relative supply of Treasury securities vis-à-vis other securities or an aggregate supply
+effect. There’s no way, I gather, that we can separate it out. I took a look at the TIPS
+data and they don’t help either. The question sort of sits out there as a relatively
+important one because if we’re looking at a supply phenomenon, the shift we’ve seen in
+the yield curve is what one would expect. There has to be some supply phenomenon
+involved. But whether, as President Minehan implies, an inflation premium is building
+up in the market is in my view an important issue for us to get a sense of.
+MS. MINEHAN. Any thoughts on how to do that?
+MR. KOS. I’ll work on it! [Laughter]
+CHAIRMAN GREENSPAN. Any further questions? I believe President
+Poole moved to ratify the transactions. Is there a second?
+VICE CHAIRMAN MCDONOUGH. Second.
+CHAIRMAN GREENSPAN. Without objection, they are approved. Thank
+you very much. Let’s move on. We now go to the most important part of the meeting-­
+the most informative, illuminating, and provocative, right?
+MR. STOCKTON. Well, that fits in perfectly with my introductory remarks.
+CHAIRMAN GREENSPAN. I wasn’t calling on you; I was calling on
+somebody else! [Laughter]
+
+10/2/01
+
+15
+
+
+MR. STOCKTON. If I were to scale the length of my remarks
+this morning to be in proportion to my knowledge about the current
+state of the economy, then I think it would be fair to say that I have
+already spoken too long. The terrible events of September 11 have
+altered the political and economic landscape along so many dimensions
+that interpreting the data and putting together this forecast presented us
+with unusually daunting challenges. In particular, we were required to
+take strong stands on questions of psychology and politics-­
+considerations that are always present in constructing the forecast, but
+rarely with the prominence that they have achieved in the current
+circumstances. For that reason, I thought I could be helpful by laying
+out as clearly as possible how we handled some of these issues in
+addition to describing how we have reacted to the broader
+macroeconomic forces operating on the economy.
+Our efforts were organized around four principal questions: How
+was information about economic developments prior to September 11
+changing our view about the baseline forecast? How large were the
+economic disruptions directly associated with the attacks? To what
+extent and for how long would consumer and business confidence be
+damaged in the aftermath of these events? And, importantly, how were
+changes in the stock market, interest rates, and fiscal policy shaping the
+outlook for output and prices over the next two years?
+With regard to the first question, the sharp drop in aggregate hours
+worked in August and the ongoing steep declines in manufacturing
+output suggested to us that real GDP was, at best, eking out a meager
+gain in the third quarter prior to the attacks. Moreover, the composition
+of activity was remarkably similar to that which we have observed since
+the spring: moderate advances in consumption and government spending
+offset by continued declines in equipment outlays and a further runoff of
+inventories. Based on developments prior to September 11, I suspect
+that we would have been coming back to the Committee this time with a
+forecast of essentially no change in real GDP, on net, in the second half
+of the year and a slow acceleration of activity next year.
+That assessment forms the backdrop against which we had to
+evaluate the economic consequences of the terrorist attacks. In collecting
+information about the disruption of production and sales that occurred
+immediately following the attacks, we relied heavily on our business
+contacts as well as the extraordinary efforts made by research
+departments at the Reserve Banks to gather intelligence on activity in
+their Districts. Taken together, the evidence suggested that while the
+disruptions were pervasive and profound for business in New York,
+elsewhere the largest problems were concentrated in a few major sectors.
+Air travel was virtually shut down for several days, and many sporting
+
+10/2/01
+
+16
+
+and entertainment events were cancelled or postponed. Auto production
+was disrupted by parts supply problems associated with the interruption
+of air cargo flights and by a backup of trucks on the Canadian and
+Mexican borders. Retailing also appears to have been seriously
+disrupted, though it is important to bear in mind that much of any
+shortfall in sales likely resulted in a buildup of retail inventories rather
+than an immediate curtailment of production.
+Some of these effects likely were alleviated later in September,
+and others could well be reversed in the next couple of months. Our
+very rough stab at the magnitude of these effects suggests that direct
+disruptions are likely to have reduced growth in third-quarter GDP by
+about 1/2 percentage point at an annual rate, with those effects largely
+expected to be reversed this quarter.
+As we enter the fourth quarter, the bigger question surrounds the
+extent to which recent events will weigh on consumer and business
+confidence. Readings on auto sales provided by the vehicle makers,
+news reports, and common sense suggest to us that consumers are likely
+to pull back on spending. With little to go on, we have assumed that
+consumer sentiment will drop considerably below levels implied by
+current macroeconomic circumstances--not quite so large over the next
+year as occurred in the aftermath of the Iraqi invasion of Kuwait, but
+still a significant drop by historical standards. Last Friday’s report on
+consumer confidence from the Michigan survey points to a decline in
+sentiment in the final week of the month that is roughly consistent with
+our expected pattern.
+We also examined how large shocks to sentiment play out over
+time and how they are correlated with other components of spending,
+and we adjusted our forecast accordingly. Going forward, we have the
+effects of this shock reducing the growth of real GDP by about 1-1/4
+percentage points at an annual rate in the fourth quarter and by about
+3/4 percentage point, on average, in 2002. Because there simply has
+been no other episode that closely matches the present one, it is very
+difficult for us to gauge the reasonableness of our assumption. Given
+that uncertainty, we considered a deeper shock to sentiment--one that
+roughly equals in size that which occurred after the invasion of Kuwait.
+A shock of that magnitude produces something resembling a more
+typical recession. But to be perfectly frank, there is no compelling
+reason to think that the shock couldn’t be twice the size of the one
+associated with the invasion of Kuwait, or for that matter, something
+considerably smaller than we have assumed. Moreover, we can’t
+predict how political, military, or terrorist actions could unfold in
+coming months or their potential influence on confidence and economic
+behavior. Obviously, we had to make some big assumptions on skimpy
+
+10/2/01
+
+17
+
+evidence, and those assumptions have had important implications for
+the forecast.
+Not all of the developments that have occurred since the last
+meeting are immune to more conventional economic analysis. With all
+of the understandable focus on the recent tragic events, one could be
+forgiven for overlooking some significant shifts that have occurred in
+monetary and fiscal policy. In our forecast, the federal funds rate is 125
+basis points lower over the next year than was incorporated in our
+August projection. Taken by itself, a change in short-term rates of that
+dimension could be expected to generate considerable impetus to
+aggregate demand down the road. But, of course, this change cannot be
+taken by itself. The sharp drop in the stock market and the widening of
+risk spreads in the bond market to date have substantially blunted the
+stimulus from lower short-term rates. Indeed, as you know from
+reading the Bluebook, some estimates of the equilibrium funds rate
+have fallen almost as much as the actual funds rate. We still view the
+funds rate as having fallen below its equilibrium, and thus see the
+current setting of policy as capable of restoring a period of above-trend
+growth over time. But the near-term shock implies that the adjustment
+will take longer and start with a greater shortfall of activity from
+potential than we had previously projected.
+I should hasten to add that it is important not to view these
+changes in financial developments in isolation. No doubt, some of the
+firmness in long-term rates in recent weeks reflects an expectation of a
+substantially more expansionary fiscal policy, which is poised to add
+more impetus to activity over the next year than we projected in
+August. We have incorporated in this forecast about $52 billion of
+policy initiatives for fiscal 2002 and $76 billion of initiatives in fiscal
+2003, relative to a current services baseline. The figure for fiscal 2002
+is roughly $30 billion more than in our August forecast. In addition to
+the emergency supplemental and airline assistance packages already
+passed by Congress, we have assumed nearly $20 billion more in
+spending on education and FEMA, an extension of unemployment
+insurance benefits that costs about $10 billion, and a fiscal stimulus
+package that ramps up to about $22 billion by fiscal 2003. To put the
+size of the total package in a cyclical context, the fiscal stimulus
+delivered over the next eight quarters is only exceeded, and just a bit,
+by the combination of tax cuts and increases in defense spending that
+occurred early in the Reagan administration.
+Still, on our assumptions, the unified budget surplus is $70 billion
+in fiscal 2002 and nearly $40 billion in fiscal 2003. With money left on
+the table and an emerging bipartisan consensus for greater stimulus, we
+believe that the balance of risks to our fiscal assumptions is on the
+
+10/2/01
+
+18
+
+upside. For that reason, we included in the Greenbook a simulation
+having enough additional stimulus to virtually eliminate the unified
+surplus over the next two years. Such actions would likely produce a
+faster turnaround in the growth of activity and trim the rise in the
+unemployment rate; an adverse reaction of the bond market would
+damp, but not eliminate, those effects.
+While we view fiscal policy as an upside risk to our forecast,
+there also are some very prominent downside risks that are likely to be
+especially acute in the next couple of quarters. An event such as
+occurred on September 11 could act as a clear focal point that causes
+already skittish consumers and businesses to pull back simultaneously
+on spending plans. Those actions and their feedback on the economy
+would raise significantly the probability of a sharp reduction in
+aggregate activity. I would also note that even if we do not see
+immediate signs that such a contraction is under way, that risk will not
+have receded completely. Iraq invaded Kuwait in early August, but the
+steep cutbacks in aggregate output did not really commence until
+October.
+If I had to net the various risks to real activity in this forecast, I
+would focus more on the downside risks in the near term and the upside
+risks farther out. The near-term forces of contraction could be
+substantial, but so too could be the medium-term stimulus from
+monetary and fiscal policy.
+Let me conclude with a few words about inflation. In an
+environment of increasing slack in labor and product markets and
+declining energy prices, we expect measures of both total and core
+consumer price inflation to decline over the next two years. It might
+appear surprising that the disinflation in this forecast is as modest as it
+is, given the degree of slack expected to emerge in coming months. But
+in our view, there are a few reasons for being cautious in marking down
+the outlook for prices. We have built in a sharp deceleration in wages;
+our forecast of the increase in ECI wages drops from about 4 percent
+this year to 2-3/4 percent in 2003. However, because there are few
+signs of any slowing of health insurance costs, the deceleration in
+overall benefit costs is likely to be noticeably less than that of wages.
+Although benefit costs may well be offset by reduced wage gains in the
+long run, the frequency with which business people complain about
+health insurance costs suggests that this shifting is not likely to be
+immediate or painless.
+The effects of the slowing in compensation costs also show
+through to a lesser extent on prices because of the slower pace of
+structural productivity growth that we are expecting over the next
+
+10/2/01
+
+19
+
+couple of years. Moreover, with business margins having been eroded
+in recent years, there is less scope for firms to absorb cost pressures in
+margins. All in all, these considerations lead us to expect less
+disinflation over the next two years than might be inferred from our
+forecast of resource utilization alone.
+Karen Johnson will now continue our presentation.
+MS. JOHNSON. In trying to come to grips with the implications
+of recent events for the forecast, we were confident that we knew in
+which direction to revise foreign growth as a result of information
+learned since the August Greenbook: down. But it was much less clear
+to us how to assess the magnitude of that revision for individual foreign
+countries and for foreign growth on average.
+Our downward revision to the forecast for foreign growth has
+three components: (1) incorporation of the news about economic
+activity in the second quarter and some indicators for July and August
+that have become available since the August forecast was completed;
+(2) assessment of the implications for foreign economies of the new
+outlook for the United States; and (3) consideration of the extent to
+which the events of September 11, through asset prices, confidence
+factors, and key global prices and industries, will influence real output
+growth abroad in addition to the direct impact transmitted by U.S.
+demand for imports from the rest of the world. The difficulties we
+confronted stemmed from our lack of information about real economic
+activity in the days since September 11 and the inherent uncertainty of
+prospective effects in the rest of the world as foreign consumers and
+business firms react to events that, at least so far, have occurred within
+the United States.
+As we reported in the Greenbook, the economic data that had
+become available in recent weeks suggested a more depressed global
+economy than we had expected. This was particularly the case for the
+emerging Asian economies. There, the news was most negative for
+those whose exports of high-tech products were linked to investment
+spending in the United States and in other industrial countries.
+However, there were disappointing data for other countries, including
+such industrial countries as Canada and Japan. Incorporation of this
+information accounts for a significant share of our downward revision
+to foreign growth.
+As has been evident in the global slowdown to date, a
+substantially weaker outlook for U.S. real GDP has clear implications,
+in the same direction, for real output growth abroad. Those effects are
+largest for our principal trading partners, such as Canada and Mexico.
+
+10/2/01
+
+20
+
+However, for other regions of the globe, such as Europe, the
+consequences of second and third round effects through multilateral
+trading relationships are far from negligible. Should we be further
+surprised by developments in the U.S. economy, either positively or
+negatively, there would be a significant reinforcement of that surprise
+as output in foreign economies responded to the changed demand from
+the United States.
+My third category of factors includes the host of reactions within
+the foreign countries and in global markets to the events of September
+11. We have seen net declines in stock markets abroad as large as 18
+percent. Our research and that of others suggest that the effect on
+consumption of such changes in wealth will not be as large abroad as in
+the United States, but the reaction will be significant. Similarly, we
+expect that confidence of consumers and businesses will be impaired by
+varying degrees across the rest of the world. We have a few bits of
+partial information from surveys that included responses after
+September 11 that confirm substantial drops in confidence. The latest
+Japanese Tankan survey, released on Monday, fell more than expected
+to its lowest level since June 1999 for the overall index. At this point,
+we can only guess how widespread the reaction of confidence abroad
+will be, how long it will persist, and how much it will contribute to
+lessening domestic demand in foreign countries.
+We also have incorporated into this forecast available information
+from global markets. With respect to oil prices, the spot price of WTI
+has moved down, on balance, more than 15 percent since September 10,
+and futures prices call for it to move down slightly further. Market
+participants seem to be anticipating that reduced global demand for oil
+will be met by only limited supply cuts by OPEC. The recent
+international meeting of oil producers ended with no agreed reductions
+in production quotas despite the fact that spot prices were below the
+target range for OPEC’s basket.
+The global market for high-tech products in general, and
+semiconductors in particular, is an important element behind our
+projections for the emerging Asian economies. Weakness in this sector
+underlies the significantly greater-than-expected declines in output that
+were recorded in the second quarter in Malaysia, Singapore, and
+Taiwan. We have little hard information about inventories or
+production beyond August. Our projection that output in the region
+will recover next year depends upon some improvement in this sector.
+We asked ourselves in which foreign countries scope might exist
+for additional policy response to the further downward pressure on
+demand. Among the industrial countries, monetary policy has been
+
+10/2/01
+
+21
+
+broadly eased during the first half of this year, and eight major foreign
+central banks cut rates further following your action on September 17.
+Our forecast assumes that additional easing moves will be taken in
+Europe and Canada by year-end. Some emerging market central banks
+had been easing as well, as the global economy slowed and demand
+weakened within their economies. However, we expect that external
+financing pressures will likely intensify, in particular for Latin
+American countries with external deficits, making it less likely that
+monetary easing will be enacted there.
+Within Europe and in Canada, fiscal policy should be somewhat
+supportive of growth in 2002 as tax revenues fall and deficits widen; we
+do not expect significant discretionary easing measures. In Japan,
+however, the long-standing problems within that economy and the
+agenda of the Koizumi government to implement fiscal reform are
+expected to result in moderate fiscal contraction during next year. Most
+emerging market economies have little scope to increase expenditures
+or cut taxes. One important exception is China, where continued
+government spending is expected to support growth during the second
+half of this year and next year. Other East Asian developing countries
+announced some fiscal stimulus measures earlier this year.
+The downside risks to this forecast are distressingly clear. The hit
+to confidence from the terrorist attacks, coming at a time when output
+abroad was already decelerating, could set off a mutually reinforcing
+cycle of production and employment cuts, downward earnings
+revisions, lower asset prices, and additional drops in confidence. Our
+expectation of a rebound next year is based primarily on the projected
+turnaround in the United States, recognition that monetary stimulus has
+been implemented in the major countries, and our judgment that
+inventory adjustments abroad should be nearing completion by then.
+There is no evidence as yet on which to base resolution of the timing
+and pace of recovery.
+That said, we may be too close to the events of September 11 to
+judge how countries more distant from those events will respond. We
+were aggressive in our reaction to the economic data and world news
+since the August Greenbook. It is possible that the effects of the attacks
+on growth abroad will be even more muted in comparison to that in the
+United States than we have projected. The possibility of such an
+outcome constitutes upside risk to our forecast.
+CHAIRMAN GREENSPAN. President Moskow.
+
+10/2/01
+
+22
+
+MR. MOSKOW. I wanted to ask you, David, about the psychology question,
+
+to use your term. One of the keys to the forecast obviously is consumer sentiment and
+consumer spending. I realize it’s very hard to judge, but I would have thought that
+consumer sentiment now would be as bad if not worse than in the 1990-91 period
+following the Iraqi invasion of Kuwait. Then we had a fear of terrorism on our soil; now
+obviously it’s a reality. Of course, you’ve dealt with a collapse in consumer and business
+sentiment in one of the alternative Greenbook scenarios, but I wondered why you didn’t
+use that as the baseline. Do you have any other comments on how to compare these two
+periods in terms of consumer sentiment?
+MR. STOCKTON. I hope I made clear that I didn’t think the probabilities of
+our assumptions were significantly higher than the probabilities of a lot of others that
+could be made. Obviously, we thought long and hard about exactly how much of a
+sentiment effect to build in. I think the reason we ended up going with something less
+than what occurred after the Iraqi invasion of Kuwait was that that shock was also
+accompanied by a very distinct economic shock through much, much higher oil prices.
+And if one thinks back to that time, there were certainly enormous fears about how long
+and deep a military commitment we might be making in the Middle East. It’s easy in
+retrospect to look back and recall that the military action went very well and was over so
+quickly. It’s a little hard to put oneself back in the perspective at the time, when the
+initial thinking was that a lot of ground troops might be needed and that it might involve
+a very bloody and protracted military effort before the United States could disengage. So
+we decided not to put in as much sentiment effect at this point and to react to the
+evidence as it flows in, making adjustments up or down to what we have built into the
+
+10/2/01
+
+23
+
+forecast. Obviously another characteristic that is different between this event and the
+Iraqi invasion episode is that there was a very distinct end to the latter. And we had a
+very sharp recovery in sentiment once it became quite clear in February that the military
+engagement was going to be a relatively short and victorious effort. We have the shock
+fading out more slowly this time. Even though it’s not as deep, it fades out more slowly
+than what occurred after the Iraqi invasion of Kuwait. The pattern we have in our
+forecast is more typical of large negative shocks to sentiment. These shocks rarely have,
+as the Kuwait period did, such a clear ending and such a sharp recovery. So, as I said
+yesterday at the Board meeting, the forecast involves a very thin veneer of science
+applied to a whole lot of judgment. All I can say is that you as policymakers and we as
+forecasters are just going to have to roll with the information as it comes in and make
+appropriate adjustments from there.
+MR. MOSKOW. Thank you.
+CHAIRMAN GREENSPAN. President Jordan.
+MR. JORDAN. Karen, I want to ask you to say a little more about Japan. You
+mentioned that after the Committee’s action on September 17th eight central banks eased
+policy. Well, that list wouldn’t include Japan because in their case there was nothing to
+announce in terms of a rate cut. For at least some six months now they have been talking
+about quantitative easing and whether they have made that real or not certainly is
+questionable. Then you mentioned that fiscal policy in Japan could be contractionary. I
+might conclude that a contractionary Japanese fiscal policy would be stimulative because
+they’ve had 10 years of pushing on the fiscal strings with no effect, unless one thinks the
+economy would have been worse without that. One can look at the results of what has
+
+10/2/01
+
+24
+
+been done over the last decade on the fiscal side and say that the Japanese people are all
+Ricardian. The more the government borrows and spends, the more its people don’t
+spend; they save, and the government’s effort comes to nothing. But as Dino mentioned,
+last week the government did more than double the amount of current account balances
+from 6 trillion to 12 trillion yen. So I would think the important question for Japan is:
+Are they going to unwind it or are they going to continue on what seems to be
+quantitatively a very stimulative monetary policy?
+MS. JOHNSON. Well, to be honest I did include them in the eight because
+they cut what they call the overnight discount rate, which is a kind of Lombard rate.
+Technically it’s an official lending rate of the Bank of Japan and they reduced it, so I said
+okay, they are one of my eight. And I think they intended, both from the timing of the
+announcement and the way they expressed it, to indicate that they were going to do what
+they could along with their brother central banks to weather the storm of this particular
+financial crisis. They wanted to be supportive, in the sense of aiding short-term liquidity
+and market functioning and so forth in the immediate aftermath of the attacks.
+I think this period is somewhat of a crossroads for them. I interpret the
+intervention that they did and their decision to let the reserves stay in the system as an
+opening. Perhaps they are thinking of deliberately using transactions in the exchange
+markets--a concept they had resisted for some time--as opposed to operations in the
+domestic money markets as a way of getting more liquidity out there. The combination
+of circumstances created an appropriate meeting of the minds between the Ministry of
+Finance and the Bank of Japan with regard to undertaking these transactions. They
+responded in the way we’ve all urged them to respond. I took that to be a fairly positive
+
+10/2/01
+
+25
+
+sign. It remains to be seen what they will do going forward, because at least today, for
+example, the yen has softened and has not moved up from its low. It’s possible that a lot
+of the pressure on the yen has had to do with the end of their fiscal half-year on
+September 30th. When that is taken out of the picture, I think it remains a completely
+open question as to whether the Bank of Japan will revert to its previous practice and say,
+“Well, that approach was fine then but it’s not appropriate right now.” I am very
+pessimistic that this is a truly long-lasting change in their approach, but I think what they
+did in the weeks since September 11th was in the right direction and they could surprise
+us. They could be more aggressive than they’ve given signs of so far.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. I had a question about Japan as well. When I look at the tables
+in Part I of the Greenbook it seems stunning--I don’t know if that’s the right word--to see
+with the addition of the forecast for 2003 what will be five years of deflation for Japan
+and a pickup in economic growth that is quite modest. And, of course, we’ve seen those
+projected pickups disappear in the past. This certainly says something, I think, about the
+effectiveness of their policy, not just in 2001 but over the next two-plus years. It surely
+has some major economic implications but possibly political implications as well. I
+wonder if you’d comment on that.
+MS. JOHNSON. Prior to September 11th, I think the people in the
+International Division who closely watch Japan were trying to talk themselves into being
+slightly more optimistic about Japan than we had been for a while, and we’ve been rather
+pessimistic all along. We were trying to see some energy in the Koizumi reform,
+although what the government has done since the upper house election in July
+
+10/2/01
+
+26
+
+disappointed us because instead of running with the reform and building on it they
+seemed to be backing off and hemming and hawing. But there were some shreds of signs
+of things possibly not getting worse at least. It’s hard to say whether September 11th will
+really change that for them. There are no direct implications for Japan except for the loss
+in export potential from the rest of the world and certainly from the United States. I think
+they’re so bound up in their own problems that I don’t have a sense--or they weren’t able
+to tell us is a better way to put it--of whether the Tankan survey was heavily influenced
+by the attacks or not. A significant portion of the survey responses were received by the
+agency after September 11th, but they made no effort and really had no way to tell how
+many had been filled out after September 11th. I think we are at risk of that economy
+remaining moribund--sitting there more or less doing nothing for quite some time--and
+largely for political reasons. Now, whether that would spark a real political overturn in
+Japan I am certainly not the person to say. Obviously, in most other countries it would
+have happened long ago. So it just defies my ability to judge. Personally, I had thought
+Koizumi might make a difference but I think circumstances are conspiring against that at
+the present time.
+MR. PARRY. Thank you.
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. Dave, I was intrigued by the changes in your estimates of
+structural productivity--1.9 percent in 2001, slowing to 1.5 percent in 2002, and picking
+up to 1.8 percent in 2003. I know there are close relationships between productivity,
+capital deepening, and business fixed investment and so forth. We’ve been looking
+backward, but suppose we look forward and make the assumption that the impetus to be
+
+10/2/01
+
+27
+
+more and more productive and more focused on the cost side is still very much present in
+U.S. industries. If we assume that this is not as much a function of capital deepening but
+increasingly a function of industrial reorganization or a sheer desire to do things better
+and cheaper all the time, what would a slightly higher and more stable level of
+productivity growth do to your projections? I know you have that feedback effect into
+demand. I’m interested in how that might look in the 2002-2003 time frame.
+MR. STOCKTON. Basically, if we were to increase the multifactor
+productivity portion, which is the portion that would provide all the impetus that you
+were talking about, we would get stronger growth in activity brought about probably by a
+stronger stock market than we have in the baseline forecast. That stronger growth would
+probably be accompanied by very little additional inflation. In essence we’d see an
+unwinding or a backing off of exactly the kinds of revisions that we think have occurred
+over the past year, as productivity came in weaker than we and others had anticipated, the
+stock market weakened, and demand softened significantly. As I think you’ve noted on a
+number of occasions, one sometimes needs to look through the snapshots of structural
+productivity that we have in this forecast. Indeed, even with this 1 percent growth in
+multifactor productivity, we would expect, moving beyond this period of cyclical
+weakness in investment spending, to see some reacceleration of underlying productivity.
+But that occurs beyond the horizon that we currently are forecasting. Of course, we’ve
+made big mistakes in both directions in recent years, so it certainly could be the case that
+things will turn out even better in the near term. Businesses may be moving more
+aggressively on the cost-cutting side and may in essence get us back closer to the
+production possibilities frontier than we have assumed here. And that would produce a
+
+10/2/01
+
+28
+
+stronger economy. But because of less cost pressures, it probably would be accompanied
+by less upward pressure on inflation as well.
+MS. MINEHAN. And slightly lower unemployment?
+MR. STOCKTON. Yes, working it the way that we have told the story and the
+way the model sees it, we would get stronger near-term demand effects than supply
+effects and that would produce somewhat lower unemployment.
+CHAIRMAN GREENSPAN. Further questions? If not, who would like to
+start the Committee discussion? President Moskow.
+MR. MOSKOW. Thank you, Mr. Chairman. The tragic events of September
+11th have had a profound impact on the Seventh District’s people, businesses, and
+economy. The response in terms of the giving of time, money, and blood has been
+inspiring.
+As for our District economy, overall activity was sluggish before the terrorist
+attacks. Our weak manufacturing sector appeared to be nearing the bottom of its
+adjustment but contacts indicated that consumer spending had softened. The District
+economy has clearly deteriorated since the attacks. We’ve seen some improvement from
+the near standstill conditions experienced around September 11th, but overall activity is
+still significantly lower than it was in August and early September. The impact on travel
+and tourism has been particularly dramatic. Downturns are evident not only in airline
+travel but across a large number of related industries such as hotels, restaurants, car rental
+agencies, taxi cabs, and airport concessions. Contacts at Boeing told me that many
+airlines now expect double-digit declines in passenger traffic during the calendar year
+compared with a 2 percent decline in 1991 following the Iraqi invasion of Kuwait. As a
+
+10/2/01
+
+29
+
+result, Boeing expects aircraft production cuts to be roughly four times as large as the
+cuts in the early 1990s.
+Tighter security procedures are evident everywhere, not just at airports. They
+are affecting business activity and likely will continue to do so for some time. For
+example, we heard of 12- to 18-hour delays at the U.S./Canadian entry points, which
+effectively reduced cross border trucking capacity by a third in the week following the
+attacks. If such delays continue, obviously they would have a significant impact on many
+of our businesses, particularly the automobile industry. But as of late last week, waiting
+times were reported to be very close to normal. That was one of the few good pieces of
+news I’ve heard recently.
+Consumer spending has definitely slowed. The sharp 50 to 70 percent sales
+declines retailers experienced on the 11th have narrowed significantly on average. But
+some retailers continue to report double-digit declines. Controlling inventories is a major
+concern and order cancellations are occurring more frequently, especially for apparel.
+Expectations for the upcoming holiday sales season have been lowered even further and
+are described as poor.
+Sales of autos and light trucks have also slowed considerably and the weakness
+in car rentals is adversely affecting fleet sales. Automakers have responded by offering
+interest-free financing. Reports indicate that traffic in auto showrooms has been
+improving only slowly since September 11th and that automakers will need to cut
+production schedules substantially. One contact indicated a need to eliminate three to
+four weeks of production.
+
+10/2/01
+
+30
+
+More generally, reports from our directors and other contacts from a broad
+
+range of industries have been decidedly gloomy. Many cite anxiety and wait-and-see
+attitudes as restraining factors. Most are planning for the worst and hoping for the better.
+As a result, firms are becoming even more cautious about capital spending, and many
+have taken or are seriously considering taking additional steps to reduce costs and trim
+their workforces.
+Turning to the national outlook, at our August meeting it seemed possible that
+the economy could avoid a recession. Consumer spending seemed to be holding up
+relatively well in the face of the investment-led slowdown. But a major concern was that
+a further drop in consumer confidence would set off a second wave of economic slowing.
+In view of the layoff announcements and the stock market declines following the terrorist
+attacks, it seems certain now that consumer spending will decelerate further. Increasing
+unemployment will likely diminish confidence further. Reductions in household wealth
+will also be a restraining factor.
+The outlook for business investment continues to be poor. Reductions in
+business confidence and declining corporate profits will be a drag on new capital
+investment decisions. This may lead businesses to believe they have an even larger
+capital overhang than they had previously perceived. The rest of the world will not be a
+stimulus for U.S. growth at this point, as we’ve discussed. Instead, our domestic slowing
+will continue to be a drag on the global economy. One positive note is the lack of
+inflationary pressures in today’s economy.
+Following the events of September 11th, the environment for formulating
+monetary policy is much more complex. There is a series of new unknowns on which we
+
+10/2/01
+
+31
+
+must make judgments, including the impact on consumer confidence and spending,
+adverse disruptions to the physical and financial operations of businesses, prospective
+fiscal stimulus, and the reaction of the financial markets. In addition, military action by
+the United States and any further terrorist attacks will undoubtedly have significant
+impacts on the economy. It will take several months just to begin assessing these
+challenges. In the meantime, I believe there continues to be a substantial downside risk
+that the current economic slowdown will unravel further.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. Mr. Chairman, economic activity in the Twelfth District was
+weak even before the terrorist attacks. Employment contracted in July and then was
+nearly flat in August. On net it fell about 1 percent at an annual rate in the two months.
+The main source of weakness was the high-tech sector. High-tech equipment
+manufacturers have been shedding jobs all year and the pace of decline accelerated
+substantially in July and August, with cuts at double-digit rates reported in California,
+Arizona, and Oregon. High-tech service providers also have been cutting jobs, including
+the loss of over 5 percent of employment in that sector in the State of Washington during
+July and August alone.
+The slowdown was also evident in other sectors such as construction. Vacancy
+rates for office space have risen substantially in most metro areas, and home sales and
+price appreciation have come down as well. The slowdown in construction activity so far
+this year is most evident in the San Francisco Bay area, where the number of permits for
+new homes is running 13 percent below last year’s numbers. Consumer spending and
+confidence in the District, which had been holding up well in the spring and early
+
+10/2/01
+
+32
+
+summer, showed signs of weakening in early September. Of course, these weaknesses
+have been exacerbated in the aftermath of the attacks.
+The immediate economic effects of the attacks included substantial reductions
+in consumer spending and some disruptions in business activity. Since then retail sales
+among large discount stores have recovered, though sales at department stores have
+remained depressed. As a result, for some apparel manufacturers clothing orders for
+spring reportedly are running well below pre-attack expectations. By contrast,
+construction activity in recent weeks has not been affected to any appreciable degree.
+However, the postponement or cancellation of some projects means that the pipeline is
+not filling up as fast as before.
+The largest negative effects of the attacks have been on air travel and tourism,
+as was indicated by President Moskow. Due to the resulting bleak outlook, Boeing--and I
+think our numbers about Boeing are similar to those presented by President Moskow-immediately cut its estimated deliveries of commercial aircraft next year by 20 percent,
+with substantial additional cuts expected in 2003. In Seattle as many as 20,000 jobs
+could be lost at Boeing by the end of next year. District contacts have reported that
+airline bookings have been running 50 percent or more below normal. And in cities like
+San Francisco, where 85 percent of the hotel demand is derived from arrivals by air, hotel
+occupancies are very low. As a result, substantial layoffs are under way or planned by
+airports, airlines, and firms in other segments of the travel industry. Although this has
+been felt nationwide, the impact will be especially hard on some Twelfth District states
+that have unusually large tourism and travel sectors, notably Nevada and Hawaii, whose
+tourism sectors had already begun to struggle prior to the attacks.
+
+10/2/01
+
+33
+
+Let me turn to the national picture. I certainly won’t take exception to the
+
+widely held view that the terrorist attacks probably ended any chance of avoiding
+recession. In this regard, a member of our staff has taken a careful look at the monthly
+indicators and methods used by the NBER to date recessions. He concludes that if, as
+seems likely, activity falls enough in coming months for the NBER to declare a recession,
+the business cycle peak could well be backdated to the first half of this year and perhaps
+as early as March. This date would represent a compromise among the unusually diverse
+peaks in the various data series that the NBER relies upon.
+In any event, our forecast for the second half of this year is similar to that of
+the Greenbook. It shows a small decline in real GDP in the third quarter and a drop of
+1/2 to 1 percent in the fourth quarter. Assuming a funds rate of 2-1/2 percent, the most
+likely scenario for next year seems to be a gradual pickup in growth, especially in
+response to the easing of monetary policy as well as recent and expected fiscal actions.
+However, while growth should be more acceptable, it will likely remain well below the
+potential rate for some time. The exceptionally large risks surrounding the outlook are
+skewed to the weak side, especially in view of the potential hit to confidence that would
+go along with likely military action and possible additional terrorism. Another risk is the
+deepening stagnation of economies around the globe.
+We have revised down our inflation forecast by about 1/2 percent since the
+August meeting, obviously in response to the greater expected slack in labor and product
+markets and a lower path for oil prices, but also due to negative speed effects. Our best
+estimate is for inflation of about 1-1/2 percent in the core PCE price index in 2002.
+Given the economic outlook as well as its downside risks, there is a strong argument for
+
+10/2/01
+
+34
+
+implementing the additional cut in the funds rate that underlies our forecast and that in
+the Greenbook. Thank you.
+CHAIRMAN GREENSPAN. President McTeer.
+MR. MCTEER. One of the minor casualties of September 11th was our
+educated and informed views and knowledge regarding the state of the economy. That
+knowledge, such as it was, is now obsolete and there’s very little with which to replace it.
+I agree that our economy will probably be okay in the long run once we get past this
+unsettlement. And I’m fairly confident that the consequences in the very short term will
+be seriously negative. The economy was already teetering on the brink of recession and
+this event has surely pushed it over that brink. What I don’t know is how deep and how
+long the recession will be--that is, the outlook for the medium term. No one can know
+that now because it hasn’t been determined yet. The length and depth of the recession
+will depend more on how everyone reacts to what happened on September 11th than on
+the event itself. It’s hard to imagine that the great uncertainty on all fronts won’t cause
+consumers and businesses alike to withdraw from new commitments and to hunker down.
+We deal here in spending and income as measured by GDP and its
+components, but we should not forget that we are now poorer in ways beyond any
+estimates of GDP measures. We will be poorer at each level of GDP than we were before
+September 11th. To buy a level of security at or even below what we were already used
+to or thought we had will require more of our scarce resources to be devoted to security.
+More policemen, firemen, airport security, border security, and air marshals will be
+needed. They will generate measured income or GDP, but their opportunity costs will be
+large.
+
+10/2/01
+
+35
+
+We will also be poorer as a result of longer lines and longer waits at airports,
+
+sporting events, concerts, and simply getting in and out of public buildings. We will miss
+out on a lot of good immigrants who won’t get into our country as we try to screen out
+the undesirable ones. We will probably have to reintroduce some redundancies and
+inefficiencies that had been wrung out of the economy. As Ed Yardeni put it, “just-in­
+time inventories may become just-in-case inventories.” Backup and relocation sites that
+will sit idle most of the time will become more important, even essential. Much of this
+will contribute to GDP but will represent a downgrading of living standards. Poorer will
+be the workers who will have to postpone retirement because their 401ks have tanked and
+the potential students who will have to enter the labor force rather than college. I don’t
+know how to add all these factors, along with the decline in the stock market, into an
+estimate of the size of the negative wealth effect. But I believe they will be important
+factors.
+As to the specific impact on the Eleventh District, I don’t know much beyond
+the obvious. Most sectors and regions have weakened. American, Continental, and
+Southwest Airlines are headquartered in Texas, so we will feel the decline in air travel
+and related industries more than most areas. Our exports, especially to Mexico and Asia,
+are off. The decline in energy prices will remove a local positive, thank goodness.
+Natural gas is back down to $2.50 per million BTUs, half of last year’s price. We
+probably do have some firms that will benefit from beefed up defense spending, but we
+should not forget that that will represent a diversion of spending and not necessarily new
+spending. I’m told that Texas has about 500 manufacturing firms involved in the
+manufacture of instruments relating to research, detection, navigation, guidance,
+
+10/2/01
+
+36
+
+aeronautical and nautical systems, as well as measuring and controlling systems. We also
+have a significant regional presence of high-tech defense companies, such as Northrop
+Grumman, Raytheon, Lockheed Martin, and Bell Textron. The stock prices of the first
+three have risen since the market reopened. Bell Textron’s has not. It is still suffering
+from setbacks to the Osprey--the airplane that is supposed to land and take off like a
+helicopter and not require airports or flat terrain. If they could just get that plane to work,
+I know some places with bad terrain where they might be able to use it!
+As for the national economy and the policy question, I had been thinking that
+this year’s reduction in the funds rate from 6-1/2 to 3 percent plus all the extra liquidity
+that has been provided would probably be enough. But the psychology of the financial
+markets and their fragility might require a tad more easing. I’m somewhat surprised,
+however, by the near unanimity in the markets that we will reduce the funds rate by
+another 50 basis points today. The markets seem insatiable as well as fragile! I tend to
+think something less would be sufficient, but it is an awkward time to disappoint the
+markets in an effort to reclaim the Committee’s authority over monetary policy. A fed
+funds rate of 3 percent was the low point of the nominal rate during the ’90-’91 recession.
+But as the staff points out, the lower inflation rate today makes the current fed funds rate
+about a percentage point higher in real terms. Aside from the potential consequences of
+disappointing the market, I believe the amount of weight that we give to that distinction
+between the nominal and the real rate is probably the key to today’s policy decision.
+CHAIRMAN GREENSPAN. President Poole.
+MR. POOLE. Thank you, Mr. Chairman. Let me talk first about conditions as
+described to me by my various contacts. Because of the obvious importance of consumer
+
+10/2/01
+
+37
+
+confidence, I’ve had four conversations with my contact at Wal-Mart since September
+11th --on the 14th, 17th, 19th, and again yesterday. His overall assessment is that sales are
+holding up pretty well. On the Tuesday of the terrorist attacks, of course, sales at WalMart were down sharply, but for the week as a whole they were just slightly below plan.
+As I talked with my source several more times, that was the basic message--that sales
+were fairly close to what had been anticipated before the day of the attacks. Some
+changes in buying patterns have emerged that he doesn’t know completely how to
+explain. Wal-Mart tracks the number of sales tickets and the average amount spent per
+sales ticket on a same-store basis to analyze data at comparable stores. He is seeing more
+of a split between the volume of traffic and that of tickets than usual; that is, there’s a
+greater increase in the number of tickets and less growth in the amount spent per ticket.
+But as of yesterday, the total amount spent was coming in just slightly below what WalMart had anticipated before September 11th.
+My contact also said that the company has done a little research with some
+focus groups regarding Christmas spending plans. Of the consumer groups they’ve
+talked with, the percentage of respondents who say they’re going to spend less for
+Christmas is about the same as the typical response in their focus groups at this time of
+year. The percentage saying that they will be spending more, however, is down
+significantly. The proportion planning to spend about the same is therefore up
+significantly. He said--and I pressed him somewhat on this--that he felt it was much too
+early to make any judgment about the longer-run outlook. People are still very much in
+shock in terms of adjusting to the event. In his view, drawing any conclusions is almost
+certainly premature at this point.
+
+10/2/01
+
+38
+
+My contacts in the air cargo business, at both UPS and FedEx, say that their
+
+companies are maintaining their normal schedules. They have not cut back at all as yet.
+Volume is running somewhat below where it had been, but not dramatically so overall.
+However, the express business has been hard hit. The ground business and what they call
+the freight business--which is less than truckload quantities--is running about flat over
+last year.
+emphasized that the outlook for domestic passenger airlines
+is truly dire. He said that as a consequence of the very stiff labor contracts that were
+settled in stages over last year and this year before September, labor costs have increased
+very significantly.
+
+would be the first of the airlines to fail. From
+
+looking at the financial reports, that airline already has negative net worth for the
+shareholders on its books. And, of course, they’re all in junk bond status.
+At current
+traffic levels all of them are literally within a few weeks of running out of cash and
+having to close down. So, the situation is very dire for the passenger airlines. And, of
+course, we heard this morning that Swiss Air has declared bankruptcy.
+I also made a new contact with a person at a trucking firm called J.B. Hunt,
+which is headquartered in Arkansas and is one of the largest trucking companies in the
+United States. Hunt’s business is very much at normal levels, with volume generally
+what they had expected. But the company is greatly concerned about the future,
+particularly the early part of next year. For the most part, buying plans for the fall are
+already completed, so the inventories are moving to the stores. But there’s a very large
+amount of uncertainty about what will happen early next year.
+
+10/2/01
+
+39
+
+Let me divide my comments on the total economy into two parts. First, I think
+
+it’s fair to say that very little is known at the professional level about the sentiment
+question. I think back to my readings of the journal literature over a long period of
+studying macroeconomics and I don’t remember ever seeing articles about consumer
+sentiment except in conjunction with the sentiment surveys. There’s practically no
+analysis of sentiment at a professional level. I think we can say, though, that we have
+some basis for understanding the economic aspects of the current situation. It seems to
+me important to focus on the fact that some major fundamental strengths were in place at
+the time of the attacks. We had an environment of low inflation and very low expected
+inflation. Oil prices had been moving lower and, of course, have come down further
+since the attacks and that is an element of strength. We go into this situation with strong
+bank capital, unlike the situation in 1990-91 when bank capital was weak. Banks can
+make loans. And, of course, low short-term rates increase the margin for banks to
+compensate for the greater risk in this environment. We have a federal budget surplus,
+which means that the budget is not as big an issue as it might have been a dozen years
+ago in terms of the nature of a federal response. We had a very large amount of monetary
+stimulus already in place as of September 11th. Our economy operates with very flexible
+markets. We have a resilient people. We have a very strong set of fundamentals. The
+issue, I think, is how long it’s going to take for businesses and consumers to get over it,
+so to speak, and to adjust to this circumstance. And we have very, very little by way of
+knowing the answer to that.
+From looking at the effects on the stock market of past shock events--and I
+went back and examined as many as I could think of--the longest period of recovery from
+
+10/2/01
+
+40
+
+a shock was after the stock market crash in 1987. It took quite a while for the market to
+get back to where it had been. After the invasion of Kuwait, the market was depressed
+until Desert Storm and that event tended to resolve that issue. In the current situation, we
+are likely to see more shocks to come. Almost certainly there are going to be some
+terrorist events abroad. Let’s pray that no more come to our own land. But more shocks
+lie ahead that will possibly upset confidence.
+I’m going to delay talking about our policy situation, but I think the issue there
+is that we need to focus much, much more than we usually do on the confidence issue.
+We need to focus on what we can do to help support confidence and stability rather than
+just on the setting of the federal funds rate itself.
+CHAIRMAN GREENSPAN. President Stern.
+MR. STERN. Thank you, Mr. Chairman. Let me start with a quick rundown
+of what’s going on in the District economy. Much of this was in the written report we
+submitted earlier, although I do have some updates. Production was largely unaffected
+by the events of September 11th, and that is still the case today. On the other hand,
+consumer spending in the first few days following the attacks was essentially stopped in
+its tracks. But reports from large retailers in the District suggest that sales bounced back
+quite quickly. Now, I’m not talking about big-ticket items. This is exclusive of autos
+and homes and so forth. But activity at malls--at discount stores and even department
+stores--came back rather quickly to normal levels. I guess it’s also fair to say that
+restaurants in the District have been surprisingly busy, at least in the last couple of weeks.
+Housing activity, which had been sound, remains sound. But as I reported at the last
+meeting, sales at the high end of the market certainly seemed to be slowing, and that
+
+10/2/01
+
+41
+
+continues to be the case. My sense is that there is growing caution in that area and I
+would be surprised if next year’s housing activity in the District came anywhere close to
+the pace of the last two or three years.
+For the most part, nonresidential construction activity has continued unabated.
+There was, of course, a major expansion of the airport under way and that project has
+slowed if not been put on hold. I don’t think that situation will go on for too long unless
+people are prepared just to let the project rust as it sits there. There have been a lot of
+cancellations of prospective conventions. September and October are very big
+convention months in Minneapolis, so that matters a good deal. The hotels are running
+with low occupancy rates and other travel-related businesses are similarly affected. The
+airports that I’ve been in at least have been very quiet, although Northwest Airlines has
+reported some improvement in future bookings. I’m not sure exactly what to make of
+that, but the airline people seem somewhat surprised about what’s coming down the pike.
+Obviously, the business community is of the opinion in general that aggressive
+action both on the fiscal side and on the monetary policy side is appropriate here. I don’t
+have to go very far out the door to hear somebody in the business community offer that
+opinion. One other development is that in the wake of all this, we lost one medium-sized
+brokerage firm that was involved in an ill-advised securities lending transaction.
+As far as the national economy is concerned, in thinking about the outlook and
+in listening to the staff discussion, the key word here is obviously uncertainty. I happen
+to think that the near-term outlook is for more weakness than projected in the Greenbook,
+but I wouldn’t put too much stock in any forecast. As many people have already said,
+we’re in an environment that we really don’t know a lot about. Normally, when
+
+10/2/01
+
+42
+
+uncertainty goes up, that implies to me the need for policy caution so as to avoid
+significant errors. But in the current situation we can be fairly certain--or at least I am of
+the opinion--that the downside risks have magnified and that the inflation risks have
+diminished. In any event though, I’m not sure that economic policy is going to be key to
+the relatively near-term future. I think what we need is tranquility at home and success
+abroad.
+CHAIRMAN GREENSPAN. President Hoenig.
+MR. HOENIG. Mr. Chairman, the economy in the Tenth District, like that for
+the nation, remains sluggish. Some people might say it was mixed at best prior to the
+events of September 11th. Of course since then, as we’ve heard around this table, the
+anxiety and uncertainty that was already in the economy took an even greater hit and
+caused the outlook to worsen noticeably, as reflected in the Greenbook as well as in our
+staff and the Blue Chip forecasts.
+Let me give you some data on the District. These developments are consistent
+with the national news because many of the reports are from firms operating nationally.
+First of all, the manufacturing survey we conducted in July was quite negative. Our
+dispersion index was minus 28. When we took a look at the August survey, we became
+somewhat hopeful because that negative had become much smaller, moving to minus 7.
+But in September--and part of the survey was clearly done after September 11th --that
+index went back to minus 16. So we saw a big switch in sentiment in terms of the
+prospects looking forward.
+On the transportation side, I would make a couple of points. As for the
+airlines, our experience is the same as others have talked about. Boeing, which has
+
+10/2/01
+
+43
+
+operations in Wichita, has announced significant layoffs. But as a side comment, Cessna,
+which also operates there, has a backlog on orders for corporate aircraft. And that
+backlog is growing, apparently reflecting increased demand for fractional ownership as
+the desire to find alternative air transportation is starting to take hold.
+Let me talk for just a minute about the trucking industry. Bill Poole mentioned
+a firm in that sector. In Kansas City we also have a large nationally operating trucking
+company that does a lot of shipping for manufacturing firms. We recently had a
+conversation with their people, and they said the firm’s business is down markedly. It
+was down noticeably prior to September 11th and since then it has only gotten worse, as
+their customers have pulled back. Their comment to me was that they are now operating
+at 1985 levels of business. So, they have had very significant reductions in volume and
+have just announced sizable layoffs. They have about 10,000 drivers and have laid off a
+significant number of them as well as staff in their corporate operations.
+Looking at the railroad industry, we have a major railroad operating northsouth from Kansas City and then into Mexico. Their volumes in and out of Mexico have
+dropped noticeably and their order books have dropped as well. Previous to September
+11th they had initiated layoffs, and there are no signs of rehiring at this point.
+As for the retail sector, like others we’ve talked to many retailers. They have
+reported a fairly persistent return to the pre-September 11th pattern in terms of sales. But
+the experience is very mixed as they look to the Christmas season. Some are saying
+they’ve pulled back dramatically. One, as was reported in the national press, followed
+through completely in their Christmas orders as their sales were up 25 percent. So we’ve
+heard very mixed reports on the retail side.
+
+10/2/01
+
+44
+
+Energy, which for us is a two-edged sword, is also a mix. Because prices are
+
+down that’s good in the general sense. But it also means that we’ve seen a real drop-off
+in activity in our region; it’s down about 10 percent by our estimate.
+Generally, activity in our region is slower. The change in psychology is
+noticeable, in terms of the effects.
+Looking to the national situation and policy, I would say that we also see the
+economy recovering eventually. But given the psychology and the uncertainty,
+forecasting the timeline for the recovery is exceedingly difficult. I wouldn’t pretend to
+have a better forecast than anyone else in this room; mine would be no better than Dave
+Stockton’s, for sure.
+Another factor mentioned here that I think is an important consideration is
+fiscal policy. We don’t know how that’s going to evolve. Trying to pull all this together,
+I would be supportive of an easing--pick the amount. I think an easing step would
+recognize that at least for the next several months the downside risks are probably going
+to weigh very heavily on our economy. Our experience in other instances, as people have
+pointed out, is that we tend to underestimate the downside. In my view that is a real
+possibility in this case as well. So I would be more inclined to err on the side of easing.
+We can reverse the easing should fiscal policy be overly stimulative or should the
+economy turn up, and I believe the market would understand that. I think we are in a
+good position in that regard. So overall a case for easing policy can be well supported, if
+that should be deemed necessary here. Thank you.
+CHAIRMAN GREENSPAN. President Minehan.
+
+10/2/01
+
+45
+
+MS. MINEHAN. Thank you, Mr. Chairman. All of the available data on New
+
+England suggest that the regional economy slowed, possibly at an increasing rate, in the
+period since our last Open Market Committee meeting. Employment declined between
+July and August; each of the states in our District registered a higher unemployment rate.
+The value of manufactured exports declined, especially computers and electronics, and
+consumer and business confidence fell substantially. But these data almost entirely
+predate the tragic events of September 11th.
+What feel we have for developments in the region since that time therefore
+relies more on anecdotal sources than science. I certainly understand Dave Stockton’s
+comment about the desire to speak less when there is little science on one’s side, but I
+feel compelled to explore the anecdotal reports that we have heard. At our Bank we had
+the benefit of hearing from those who attended two regularly scheduled advisory
+committee meetings--our small business and our academic advisory councils--and two
+regularly scheduled bankers’ forums, all of which took place after September 11th. In
+addition, both before and after the tragedy, I spoke personally to several of the Bank’s
+directors outside of regular meetings and to the CEOs of several large manufacturing and
+financial services companies. And, of course, we had the additional post-September 11th
+calls to Beige Book contacts. Several themes emerged from these interactions.
+First, economic activity across a wide sample of firms and industries was
+slowing even in advance of September 11th, though not all the news was bad. The strong
+dollar and slowing demand had contributed to problems at many regional manufacturers,
+including one large worldwide manufacturer of consumer products. The U.S. forest
+product industry was reported by one contact to be on the verge of collapse, despite the
+
+10/2/01
+
+46
+
+strong housing market, largely because of increased foreign competition related to the
+strong dollar and excess capacity put in place in the early to mid-1990s. The head of a
+regional software industry council reported on the demise of hundreds of firms in the
+wake of the drying up of demand, especially for Internet-related software. But she also
+reported that new start-ups were being formed as well, in fields such as wireless
+communication and teleconferencing. Similarly, regional businesses in the field of
+security saw the potential for some benefit in the near term, and a few had already seen a
+pickup in demand. Many contacts reported a very welcome softening in labor markets
+and the ability to attract technical staff easily for the first time in recent years. Housing
+markets reportedly had slowed, particularly at the high end, but the slowing reflected
+reductions from very high levels of activity earlier.
+Second, the impact of the tragedy of September 11th was significant both
+culturally and economically but at least some aspects of the economic jolt will be short
+lived. A highly rated large manufacturer of airplane engines and consumer and industrial
+building products commented that access to commercial paper markets had been difficult
+during the week of the tragedy but that markets had more or less returned to normal, at
+least for very short maturity paper. Small manufacturers and suppliers of retail goods had
+experienced an immediate drop-off in demand. And bankers noted that traffic in
+branches came to a halt in the days following the tragedy. By the following weekend,
+however, shoppers had returned to malls. One specialty food and flower vendor, whose
+business had been disrupted by a lack of airplane shipments of imported goods, reported
+that sales for Rosh Hashanah broke all previous records. Families crowded his stores,
+
+10/2/01
+
+47
+
+apparently in a desire both to be together and to enjoy the simple process of getting ready
+for the holiday.
+There were, of course, important exceptions to this impression of short-term
+disruption. The airline engine manufacturer I mentioned noted that each engine is sold
+three times--once as a new product and twice in the form of parts in the after-market.
+With airline traffic down and likely to stay depressed, this executive thought that new
+orders would be curtailed sharply and that the number of parked aircraft would swell to
+perhaps twice the current number, which was already at the level of the last recession.
+He also expressed some concerns about the amount of supplier credit his firm had
+extended to airlines.
+Another hard hit area is likely to be the New England tourism industry. The
+economic slowdown had already eaten into the “leaf peeping” season, but the dramatic
+decline in airline traffic, particularly from foreign countries, had brought the flow of large
+buses of tourists to a halt. Reportedly there has been an increase in Eastern seaboard
+tourists looking to relax a car drive away rather than an airplane flight away. But tourism
+in the region and particularly in Boston remains low. The fall tourist inflow is a mainstay
+to the region and its demise may involve more than short-run disruption.
+Finally, all contacts saw prospects for the immediate future as more than
+unusually uncertain. Members of the academic advisory group noted the difficulty of
+finding a historical comparison on which to base forecasts and they debated both the
+possible size and impact of fiscal stimulus. Some felt that the potential for spending on
+homeland defense and on new military weapons, such as destroyers and planes, could be
+considerable. A few also saw the potential for an inflationary impact from a supply
+
+10/2/01
+
+48
+
+shock related to moving substantial resources to fighting terrorism, if demand for more
+usual consumer products did not abate considerably. Most, however, did not see inflation
+as a current worry and focused more on the likelihood of negative rates of economic
+growth for two to three quarters.
+In sum, shock, increased uncertainty, and turmoil, however short-lived, have
+been piled onto a regional economy that had been holding on to growth by its fingernails.
+It’s not a pretty picture.
+Turning to the national scene, the picture doesn’t get much better. Whether
+one looks at the Greenbook or the forecasts of DRI, the Blue Chip, or our Bank, the
+outlook is the same--two or three quarters of mildly negative growth, a rebound over
+2002 to rates of growth at about potential in 2003, and sharply rising unemployment.
+Even without the tragic events of September 11th, the prospects for this year and next
+would have been less positive today than they appeared in August. This was clear from
+the summer’s industrial production data and employment and confidence indicators.
+But sadly, the events of September 11th happened and the slowing economy
+received a serious negative shock. The obvious questions are how serious and how
+negative, but the answers are more than normally uncertain. We have very little data as
+yet to go on and not much in the way of history to guide us. The Greenbook expects the
+dip into negative territory to be relatively short and mild in nature, with consumption
+never actually turning negative. That’s fairly unusual if in fact this is to be the first
+recession of the new millennium. I’m forced to wonder whether we are not engaged in a
+form of wishful thinking--the same process that has pushed the recovery out further in
+time in our forecast at every successive meeting this year. Corporate profits,
+
+10/2/01
+
+49
+
+employment, asset markets, consumer spending, business investment, and confidence all
+present elements of increasing downside risk. Moreover, the confluence of weakness
+both here and abroad, while not unprecedented, is not comforting either. Thus, there are
+real risks that the baseline forecast has more than the normal amount of downside
+potential.
+Offsetting this, of course, is the likelihood of additional fiscal stimulus. Again,
+questions abound. How much stimulus will be enacted, when will it affect the economy,
+and how will it be seen by financial markets? The Greenbook provides a reasoned
+estimate of the amount of such stimulus. But even the amount included in that forecast
+seems small relative to the rhetoric coming out of Washington. In that regard, I wish I
+understood better what the shape of the yield curve might be telling us about the risks
+over the medium term.
+The other potential offset is the degree of monetary ease. We’ve reduced the
+federal funds target by 350 basis points since January. That’s a much faster pace than in
+the early 1990s when it took a couple of years to implement about that same amount of
+change. Moreover, 75 basis points of that easing was done over the last few weeks and
+arguably has not worked its way into the economy. But with the decline in the stock
+market and the widening of risk spreads, financial conditions are not as accommodative
+as our degree of policy easing might imply. Earlier this year the consumer was the
+mainstay of the economy, bolstered by lower interest rates, and it was reasonable to be
+concerned about overdoing such low rates over the near term. Now, both consumption
+and investment face the headwinds of further diminished confidence, growing
+
+10/2/01
+
+50
+
+uncertainty, and falling demand. Fiscal stimulus, if properly fashioned and temporary,
+can help. But at least in the near term, monetary policy should do more as well.
+CHAIRMAN GREENSPAN. President Guynn.
+MR. GUYNN. Thank you, Mr. Chairman. The Atlanta District’s economy
+continued to weaken during the third quarter even prior to September 11th. And like
+elsewhere, activity has weakened further in most sectors since that time. Auto sales are
+off and commercial real estate markets continue to soften. The most noticeable effects of
+the attacks are being felt in Florida, which had been our region’s growth leader. As
+widely reported and as almost everyone has commented already this morning, uncertainty
+and perceived travel risk have hit tourism and the hospitality sector particularly hard.
+Tourism spending in Florida is reportedly down by about one-third, or $20 million a day.
+Disney World in Orlando has shortened its operating hours, eliminated overtime, and
+reduced vending activities. Several large South Florida hotels have cut staffing by as
+much as 30 percent. And the excess cruise ship capacity I mentioned in my reports
+earlier this year is now sinking parts of that industry. Reflecting the decline in travel, our
+largest airlines, Delta and AirTran, have engaged in different mixes of very aggressive
+cost-cutting measures including job cuts, lower management bonuses, and reduced
+retirement contributions. And in some instances pilots have taken voluntary pay cuts.
+Employment cuts will especially affect Georgia, which may actually see some
+decline in jobs in the fourth quarter for the first time since the 1990-91 recession.
+Reflecting the job situation, requests for consumer credit counseling in Georgia were at
+record levels in August. One of our Atlanta directors who runs a very large statewide
+consumer credit counseling organization reported that appointments for counseling were
+
+10/2/01
+
+51
+
+up 5 percent in September from the month before and jumped another 15 percent after
+September 11th. There’s also little change in the trajectory of the District’s
+manufacturing sector, which continues to contract. Investment plans reportedly are still
+very much on hold until the signs of a pickup in new orders become apparent.
+District auto producers reported that unit sales are around 15 to 20 percent
+below plan following September 11th, even with the introduction of new incentive
+programs and new models. Tennessee-based Nissan is revising down its sales and
+production projections for the remainder of the year and has eliminated all overtime for
+the foreseeable future. Auto parts delivery problems experienced by plants in our area
+immediately after the attacks have now been resolved.
+State governments now face another round of budget difficulties because of
+declines in sales and income tax revenues. Reflecting the slowdown, bankers report
+slowing loan demand across all business lines, some tightening of credit standards, and
+some deterioration of credit quality. Finally, I’d note the unusual report from several
+sources that major corporations who had made previous charitable financial commitments
+have begun seeking ways to gracefully shift their gifts to next year or to pare them back
+significantly.
+On the bright side, retail sales and residential real estate markets are our best
+performing sectors. While commercial markets continue to soften, single-family real
+estate remains reasonably strong. Few significant imbalances in either residential or
+commercial markets are appearing. Many companies are cutting hours for temporary
+help. Wage pressures are reported to be significant only for health-care workers.
+
+10/2/01
+
+52
+
+Likewise, substantial prices increases are generally limited to the health-care sector and
+to liability insurance premiums, which have risen sharply of late.
+On the national front, as almost everyone has said, uncertainty is now the
+dominant consideration whether one focuses on financial markets or the real sector. It’s
+now clear that significant slowing was evident in the third quarter even before September
+11th. All things considered, I am a bit more optimistic than some that the shocks from the
+terrorist attacks will be relatively less pervasive and less long-lasting, aside from the
+obvious effects on areas such as travel and tourism. Having said that, uncertainty has
+clearly increased and markets are expecting a further drop in our target funds rate at this
+meeting. A further temporary drop in rates seems appropriate--but I emphasize the word
+“temporary”--as a short-term effort to provide liquidity and attempt to reduce uncertainty.
+Unlike the economic situation preceding the Gulf War, we’ve already dropped
+rates eight times and significant stimulus is in the pipeline. Arguably the real funds rate
+is now very low and will be approaching zero according to some measures, if we make
+another large reduction today. I don’t see a clear argument for pursuing such a low real
+rate policy at this time as an intermediate policy path, given the current best guesses
+about the likely course of the economy, except to temper further short-term uncertainty.
+Nevertheless, this does not seem a good time to add to uncertainty by not relaxing rates
+further as the markets expect.
+My concern about the policy path is heightened by the belief that more fiscal
+stimulus than already enacted seems quite likely and will take hold about the time many
+forecasts indicate that the economy will begin to grow again. Current perceptions in
+some quarters seem to be that the White House, Congress, and even the Fed will do
+
+10/2/01
+
+53
+
+almost anything to try to avoid a recession or a prolonged slowdown. Quite candidly,
+this worries me more than a modest recession itself. For these reasons, should we move
+again at this time--and I believe we should--we need to look for ways to explain that it’s a
+temporary response that will likely be reversed when uncertainty declines and markets
+are more normal. Absent such an explanation, I’m concerned that the policy path will put
+the economy at significant longer-term inflation risk, with all the costs and difficulties
+that we understand will be associated with that. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Santomero.
+MR. SANTOMERO. Thank you, Mr. Chairman. Prior to the attacks, the
+Third District economy had been flat. Employment continued to decline in the first two
+months of the third quarter. The manufacturing sector also continued to decline, albeit at
+a slower pace than earlier in the year. Retail sales remained flat. One sign of a rebound
+in activity was an upturn in the pace of residential construction from a weak first quarter.
+Our calls to business contacts since the September 11th attacks indicate that firms in all
+industries in the region have revised downward their forecasts of sales and revenues in
+light of continuing uncertainty about possible military action and a retrenchment in
+spending by consumers and businesses.
+Retailers have noted a resumption of consumer spending since the initial days
+after the attacks but they say that store traffic and sales have not returned to the levels
+experienced prior to September 11th. Contacts among general merchandise retailers
+expect sales to rise only slowly in the weeks immediately ahead. Managers of local
+stores of national chains indicate that corporate marketing plans for the fall have been put
+on hold, at least temporarily, though fall and winter merchandise stocking levels have
+
+10/2/01
+
+54
+
+already been set and are subject to only minor adjustment. But some retailers who need
+to place orders now for spring merchandise are contemplating reductions from their
+earlier plans.
+Auto sales in the District had been slowing in the weeks before September 11th,
+and in the days after the attacks they fell to levels 20 to 40 percent below same-day sales
+last year. Auto dealers tell us that they will be reducing their orders to manufacturers for
+at least the next month or two. Obviously, the travel and tourism industries have been
+hard hit by recent events. In Philadelphia all the conventions scheduled for September
+after the attacks were canceled. The conventions scheduled for October have not yet
+been cancelled but attendance will be lower than normal since some companies have
+disallowed air travel for at least 30 days.
+In terms of employment, while many firms in the region are anticipating
+slower sales only a few are considering layoffs, and most of these were contemplating
+layoffs before September 11th. Much more than the usual level of uncertainty surrounds
+the forecast for the regional economy. What is clear is that recent events have pushed the
+projected rebound further into the future than previously thought.
+Our view of the national economy is somewhat the same. The incoming data
+suggest that prior to September 11th the economy had remained soft. The terrorist attacks
+on the United States have probably pushed the economy into recession. These
+unprecedented attacks have raised the specter of further shocks, such as U.S. military
+action and more terrorist strikes. While we’ve seen some rebound in consumer spending
+from the depressed levels in the days just after the attacks, there has not been a total
+recovery. Uncertainty about the future will cause consumers to delay some purchases
+
+10/2/01
+
+55
+
+and to cancel others. While real estate and other assets certainly have cushioned the
+negative effects on household net worth, the significant fall in equity prices could result
+in a substantial decline in household spending. Uncertainty and a drop in consumer
+spending will cause businesses to delay capital outlays.
+The economic situation abroad has also deteriorated since our last meeting, as
+we heard in the staff briefing. Data suggest that these economies were weaker prior to
+the attacks than we had anticipated. And though not on their soil, the terrorist attacks are
+a negative shock to economies outside the United States. Thus, this country cannot look
+to strong economies abroad to buoy our own economy.
+Our near-term outlook is similar to that of the Greenbook. We agree that the
+attacks will have a significant negative impact in the short run. However, I believe there
+could be some upside risks associated with the Greenbook’s forecast for 2002. The
+effects of the terrorist attacks on consumer and business confidence may fade more
+quickly than assumed. Expansionary fiscal policy in combination with easier monetary
+policy may have a stronger impact than assumed. Indeed, a Philadelphia staff analysis
+suggests that forecasters tend to under-predict the response of output growth to
+expansionary monetary policy. Thus, it is possible that the economic recovery could
+begin earlier in 2002 and end up stronger than projected in the Greenbook. This would
+imply that the Committee would have to be ready to raise interest rates sooner than
+assumed in the baseline forecast. That said, I find it difficult to argue with the basic
+outlines of the Board’s staff forecast. Philadelphia staff analysis indicates that while
+forecasters significantly revised their forecasts downward in the aftermath of past crises,
+forecast errors were little different during crisis periods than in other periods. So, as
+
+10/2/01
+
+56
+
+much as I would like to, I am unable to say that the Greenbook forecast surely errs on the
+downside. Thank you.
+CHAIRMAN GREENSPAN. Let’s take a break at this stage. Coffee is next
+door. Let’s return in fifteen minutes, please. Thank you.
+[Coffee break]
+CHAIRMAN GREENSPAN. President Broaddus, will you continue for us?
+MR. BROADDUS. Thank you, Mr. Chairman. Economic activity in our
+District seems to have advanced at a modest pace in August but it weakened sharply in
+September. Some of the anecdotal and survey information we’ve received indicates that
+activity would have slowed in September even in the absence of the attacks. Of course,
+we did have the attacks and they’ve had the same extremely negative impact on our
+region as they’ve had elsewhere in the country, as we’ve heard around the table this
+morning. Part of the drop in activity in our region might be temporary, if the terrorist
+threat can be reasonably well contained.
+As several others have noted about their Districts, we too experienced a big
+drop in retail sales initially but in general they’ve come back to earlier levels since then.
+The exception is automobile sales, which have rebounded some but not to the levels we
+were seeing before the attacks occurred. In the manufacturing sector, early on there were
+some supply disruptions and some disruptions in shipments to customers, but at least for
+the time being those seem to have subsided. In our region as elsewhere the big hit, and
+probably the more permanent hit, is to the travel and tourist industries. Tourist activity
+here in Washington is usually very substantial at this time of the year and it is at a much
+lower level now than normally.
+
+10/2/01
+
+57
+With respect to the airlines,
+the airline headquartered in our District, just on the other side of the
+
+Potomac river. It was an airline in trouble--its condition was very shaky--even before the
+crisis. The company has announced 11,000 layoffs and a lot of those will be in our
+District. I think a good number of them will be right here in the Washington area. Also,
+beyond the layoffs, the US Airways hub in Charlotte has for a long time been a
+foundation for the growth and strength we’ve seen in that city over the last 15 years or so.
+So there is concern about that area.
+With respect to the national economy, I think the data indicated pretty clearly
+that economic activity might be weakening even before the attacks. We had a run-up in
+the unemployment rate and, of course, manufacturing was still contracting despite the
+somewhat optimistic purchasing managers’ report we got a month ago. With wages and
+home values rising, consumer spending was still holding up reasonably well going into
+the crisis. But the sharp increase in unemployment and evidence that housing demand
+and home prices might be beginning to soften have contributed to the deterioration in
+consumer confidence that I think was evident even before the terrorists struck.
+Against this background, the September 11th attacks, of course, have added to
+the anxiety and uncertainty that households, business firms, and investors were to some
+extent already experiencing before the attacks occurred. Those concerns showed up
+initially in asset markets. The negative impact on asset markets appears at least for the
+moment to be reasonably well contained under the circumstances, but obviously the level
+of anxiety in those markets is still very high. With a recession increasingly likely,
+consumers feel exposed to the risk of losing their jobs as well as to other risks and,
+
+10/2/01
+
+58
+
+therefore, are likely to spend less and save more out of current income in order to build
+their precautionary balances. And businesses, whose investment returns are now subject
+to a greater degree of risk than before the attacks, will probably cut back on their
+investment plans even further than they already have, at least for a time.
+Barring any further attacks and resulting increase in anxiety, some of these
+effects may prove temporary. As households get their precautionary balances and asset
+positions back up to the higher level they may now desire, presumably they will again
+begin to spend a more normal fraction of their current income. And when business firms
+get to the point where they think they have sufficient liquidity to deal with the
+contingencies they’re concerned about, presumably they will begin to redirect a greater
+portion of their earnings to investment.
+Even so, it seems clear to me that the downside risk in the near-term outlook is
+significantly greater than the upside risk, at least for the time being. I don’t really see
+much upside risk in this situation, and I think we need to recognize that a significant
+cumulative contraction can’t be ruled out even in the absence of further terrorist activity.
+In light of this risk, I think it’s worth noting that the Greenbook is projecting a
+relatively mild and brief recession ending in the first quarter of next year. In my view it’s
+a plausible point forecast. One reason it’s plausible is that economic policy and other
+public policies at the moment are well positioned to cushion the downturn that we
+currently anticipate. Tax cuts are in place; rebates have been paid out; and there’s a good
+likelihood that military spending will increase. We’re likely to see more public spending
+on security here at home. Perhaps most importantly though, thanks to our actions over
+the last decade or more, the Fed generally as an institution--and Fed monetary policy
+
+10/2/01
+
+59
+
+specifically--probably has as much credibility for low inflation as it has ever had. And
+inflation expectations have been declining so far this year. This to me is the big
+difference between the situation we face today and the one we faced in the early 1990s.
+Consequently, I think we can probably move interest rates still lower without triggering
+an inflation scare in bond markets. The question Cathy Minehan raised about what the
+bond markets are telling us with regard to inflation expectations is a very relevant one.
+But there are obviously other potential plausible explanations for what has been
+happening in bond markets.
+The Greenbook projection assumes another 1/2 point cut in the funds rate
+before the end of this year. Frankly, I think there’s a strong case to go ahead and make
+that move this morning. Having said that, I must say that I believe Jack Guynn made a
+very good point. We have been easing aggressively. I have favored this and I’m
+comfortable with it. And I would be comfortable with more easing this morning
+precisely because of our enhanced credibility. But once a recovery gets under way--and
+sooner or later that’s going to happen--I think we’re going to need to reverse course and
+move in the other direction just as aggressively as we’ve eased. That will be necessary in
+order to maintain our credibility, and in many ways I think that’s the most important
+thing we have going for us in this situation. Thank you, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Jordan.
+MR. JORDAN. Thank you, Mr. Chairman. Let me begin with autos. Last
+week on an Executive Committee conference call one of our directors, a banker, reported
+on a conversation with one of his customers, an auto dealer. The dealer told the banker
+that over the prior weekend, September 22-23, only four customers even came into the
+
+10/2/01
+
+60
+
+showroom and he had no sales at all. We, of course, were interested in following up on
+that, so people on our staff called auto dealers around the District yesterday to get
+information on their traffic and sales this past weekend. Comparing notes on what they
+heard, the staff’s general consensus was that auto dealers were happily surprised not only
+by how much traffic they had but by how strong sales were for the weekend.
+Nevertheless, when asked how sales were likely to come out for the month overall, the
+typical response was that sales were down about 20 to 25 percent versus a year ago.
+However, and this is a point I’m going to come back to in a moment, it is very hard to
+discern a trend in anything at this stage and will be until the passage of a little more time.
+Another of our directors runs a company that makes pastries both for retail use
+and for what they call institutional use--that is, sales to restaurants and airlines. Last
+week she said that all six of her airline customers had called and cancelled all orders for
+onboard service for the foreseeable future. Two of the company’s other lines are
+corporate gift giving, which usually involves gifts to employees or suppliers, and
+individual gift giving by retail customers. They have had strong sales in individual gifts
+of pastries but a 50 percent drop in orders from corporations. So one can’t draw
+conclusions about any overall trend from that.
+We’ve been staying in weekly contact with representatives of Federated
+Department Stores. As you know, of course, Federated reported very sharp declines in
+sales immediately after September 11th. This last weekend, for the four-day selling
+period Thursday through Sunday, sales were back on plan except in New York City.
+Again, one cannot discern any trend from that because for the month overall sales will be
+down very considerably. Our contacts were very encouraged, however--we talked to
+
+10/2/01
+
+61
+
+them yesterday--by the volume of traffic and sales over the weekend. Nevertheless, they
+now expect the fourth quarter to be weaker than previously anticipated. There’s not
+much they can do about that. They are currently ordering for next year and they’re going
+to order less for the spring than they previously thought they would.
+Yesterday I received the raw data and a preliminary summary of the September
+survey of the National Federation of Independent Businesses. You know how they do
+that survey; through the course of the month they get responses to a lot of different
+questions and then they try to distill the information and summarize it. Those data, too,
+show the difficulty of drawing any conclusions about the trend. Almost half of the
+responses they received were dated prior to September 11th and a little over half were
+dated after September 11th. Based on the survey responses dated prior to the 11th, the
+analysts would have drawn the conclusion, given the firmness in the July and August
+data, that September would have marked the third month in a row of an improving trend.
+They would have been tempted to interpret that as indicating that activity had seen its low
+point. The data dropped off dramatically, of course, in the post-September 11th reports.
+If one tried to average together the two sub-samples the results would be nonsense.
+Neither period is going to characterize the month. And that’s where we are stuck. We
+can’t conclude anything about the August to September data per se. We really have to
+view this situation as a break in the series and try to find a new base, a new place to start
+and maybe see a trend forming. But that’s going to take a little more time for any dataset.
+Turning to the national economy, I have no idea what the national income
+accounts numbers are going to add up to for the foreseeable future, either from the
+product side or from the income side, let alone how they will break down for various
+
+10/2/01
+
+62
+
+sectors and regions and so on. But I don’t think that’s really the biggest challenge we
+have. A number of people have mentioned in one way or another that uncertainty is an
+issue. Not long ago I thought most of the uncertainties we had to worry about involved
+developments that might occur outside the United States--perhaps involving Argentina or
+Japan or the launch of the euro or something else. Those concerns have not gone away
+entirely but obviously uncertainties within our country have suddenly jumped to the top
+of the list of things we’re uncertain about. It may well be that we will escape some
+potential problems in the international arena. Maybe Argentine will not default and spark
+a crisis. Maybe Japan has turned a policy corner; maybe the mark-to-market of equity
+portfolios of their banks starting yesterday will not cause serious problems in their
+banking industry. Maybe the launch of the euro will go well. Nevertheless, it seems to
+me that we’re going to face a protracted period of waxing and waning of anxieties, with
+good justification. I would not attach the term “irrational” to the anxiety. I think it is
+probably very rational. But it’s difficult if not impossible to quantify, and certainly we
+can’t observe it.
+The Committee’s press statement of September 17th said that we recognized
+that the actual federal funds rate might be below its target rate on occasion in these
+unusual circumstances. I was very pleased about the inclusion of that wording and I
+thought it might continue to be needed in our statements for some time. We’ve had
+decisionmaking periods in our history when the greatest uncertainties were about
+inflation and inflation psychology. And in those periods we found that it was especially
+difficult to draw any conclusion from movements in nominal magnitudes, so instead we
+resorted to paying more attention to--if not targeting outright--quantitative magnitudes.
+
+10/2/01
+
+63
+
+For exactly the opposite reasons relating to the difficulty of observing inflation
+psychology, I think in this period of heightened anxiety we have to think along the same
+lines. If we don’t go all the way to quantity targeting I’d at least like to think about a
+proviso clause as to what we’re willing to see happen to nominal interest rates, especially
+the overnight interbank rate.
+I don’t expect that at this meeting we’re going to change the statement that
+accompanies our announcement. But the statement that the risks are weighted mainly
+toward conditions that may generate economic weakness has become in effect a proviso
+clause. It says that if we get more weak data, the FOMC may cut the overnight interbank
+rate some more. If the stated funds rate target is not producing an expansion in central
+bank liquidity, the monetary base, I would prefer to think in terms of our being willing to
+let the rate drift lower. The one thing that we certainly would not want to see, as I was
+suggesting earlier in questioning Dino, is a contraction in the monetary base. In fact, not
+only should growth in the base not be negative, it should be adequate to assure that we
+accommodate the demand we believe exists for base money. Thank you.
+CHAIRMAN GREENSPAN. Vice Chair.
+VICE CHAIRMAN MCDONOUGH. Thank you, Mr. Chairman. Dave
+Stockton got us off to a wonderful start in admitting just how uncertain we are. Now we
+are at least as uncertain but with an unbelievable amount of specificity about it!
+What do we know about the Second District? It was weak going into the
+tragedy and it is weaker now. One of the results of that is going to be a stress on the
+fiscal situation of New York City. Even so, our analysis to date says that the City’s fiscal
+
+10/2/01
+
+64
+
+situation will hold up; that will have some effect on the fiscal situation of New York State
+as well.
+We think the Greenbook forecast is as good a forecast as one could make. And
+we agree with the authors that the downside risk is very considerable, especially in
+coming quarters, and that we don’t know what the longer term is going to look like. The
+likelihood is that the economy will snap back, as suggested in the forecast.
+As regards monetary policy, I believe that we are being rewarded for the high
+degree of confidence in the Fed and the greater transparency we have achieved in recent
+years by the market forecasting what I at least think we clearly should do at this meeting.
+I believe we would be very ill-advised to test our credibility by saying this is what we’re
+doing at this meeting but we’re so certain about the future that we want to put everyone
+on notice that we may tighten monetary policy sometime soon. We don’t know enough
+to say that. And nobody expects us to say it. If we say things that test our credibility in
+order to show our central banker virtues, I think we will lessen our central banker virtues
+and certainly lessen our credibility. Thank you.
+CHAIRMAN GREENSPAN. Governor Ferguson.
+MR. FERGUSON. Thank you, Mr. Chairman. As others have said, in the
+short run we are facing potentially the start of a crisis of confidence both among
+businesses and households, which is likely to interact with the pre-existing weak
+macroeconomic environment to lead to a slide in economic activity. Both the length and
+the depth of that slide are uncertain but they could conceivably be longer and deeper than
+in the baseline forecast. Therefore, our challenge today is to take actions to attempt to
+avoid one of the more pessimistic consumer confidence scenarios.
+
+10/2/01
+
+65
+
+Even before September 11th indicators of household behavior were somewhat
+
+troubling. Housing activity and particularly single-family starts, which had been a source
+of strength, had softened a bit. Consumer confidence was also sliding even before the
+attacks occurred, and that slide of confidence has certainly continued following
+September 11th. Last week’s initial claims for unemployment insurance jumped,
+indicating further stress for households. With more layoff announcements, especially in
+the airline sector, and the likely multiplier effects for related industries, there is ample
+reason to believe that last week’s increase in initial claims is likely to be the precursor to
+further increases in unemployment. Against this set of incoming data, the Greenbook’s
+baseline forecast of unemployment reaching close to 6 percent does not seem out of the
+realm of possibility at all. In the context of such a rise in unemployment, it is unlikely
+that even the few retailers that saw a return to planned performance last week can be
+complacent that conditions in the household sector will support a return to a reasonable
+pace of growth.
+Similarly, indicators on the business sector were also mixed and negative even
+before September 11th. Declines in business fixed investment, particularly in the hightech categories, continued unabated. Informal contacts and surveys of banks and other
+businesses suggest that the uncertainty about the consumer response to the attacks is
+feeding through to uncertainty among businesses as well. Many banks report a sharp
+drop-off in demand for business loans after September 11th, suggesting that small
+businesses in particular are less willing to risk capital on expanding investment spending
+during this period of uncertainty.
+
+10/2/01
+
+66
+
+While the auto industry is struggling to create demand by providing strong
+
+incentives, in a survey that straddled the September 11th date, the NAPM reported that
+manufacturing activity fell again in September, marking the fourteenth month of a factory
+slump.
+The conditions leading to a downward trajectory in the real sector have been
+reinforced in financial markets. Over $1 trillion of equity wealth has been lost since
+September 11th, which will almost certainly lead to a greater retrenchment by consumers.
+While equity indices have declined 10 to 20 percent over this intermeeting period, fixed
+income markets have not become more accommodative. As for the question Cathy
+Minehan raised, I think that at least in the government sector the bond market is driven
+by concerns about the budget outlook, since the TIPS market doesn’t seem to indicate
+any increase in inflation concerns. In the below-investment-grade corporate bond sector,
+concerns about risks seem to be the predominant factor leading long-term rates to remain
+stubbornly high. Additionally, while large banks claim that they have not tightened terms
+and standards on business loans since the attacks, they do admit to watching closely for
+signs of deterioration. Bankers clearly understand that default risk has increased, and
+they will certainly act to protect their income and capital positions as much as possible.
+Unfortunately, the international sector is unlikely to add any strength to the
+near-term outlook. Equity markets in almost all industrial economies have been hit by
+the same reevaluation of business prospects that has affected our equity markets.
+Similarly, safe haven flows from the dollar, the euro, and the pound sterling into the
+Swiss franc indicate that market participants may be rethinking the short-term prospects
+for a number of economies.
+
+10/2/01
+
+67
+
+The most positive development from the international sector is that oil prices
+
+seem unlikely to spike higher, which is helpful on the inflation front but indicates that the
+supply and demand dynamics in that market are consistent with a future of slowing
+growth globally.
+Against this background, I believe that policy must respond. A number of
+speakers have raised questions about the level of the real interest rate. It’s important to
+note that since 1960 there have been six periods of slowdown. During five of those
+periods, the real interest rate touched zero and during two of those periods it was
+decidedly negative. So if we allow the real fed funds rate to drop to zero or close to it
+through the decisions that we make today, that will not in any sense be unprecedented.
+The markets are certainly expecting a response today. And I think to disappoint them
+risks setting off a global reaction that might be difficult to control. We are, as others
+have said, benefited by the fact that both inflation and inflation expectations are well
+contained. It is right to point out that in the longer run we may confront a potential
+interaction between a stimulative monetary policy and a stimulative fiscal policy as our
+monetary policy stimulus and more stimulus from the fiscal side are both called upon to
+counter the risk of further slowing in the economy. But even recognizing the challenge
+that might emerge from unpredictable long-term policy interactions, I believe that we
+need to set a priority today on the immediate macroeconomic challenge and the real
+downside risks confronting us in the near term. Thank you.
+CHAIRMAN GREENSPAN. Governor Kelley.
+MR. KELLEY. Thank you, Mr. Chairman. First of all, my congratulations to
+the Greenbook staff for a fine job under impossible conditions. However, as the authors
+
+10/2/01
+
+68
+
+themselves are at pains to point out, this and all other forecasts today can have only a
+limited credibility. This is evidenced by the quite appropriately wide spectrum of the
+alternative scenarios, several of which are virtually as plausible as the baseline forecast
+itself. Yet policy must be made. How are we to meet that necessity?
+I felt earlier and feel today that monetary policy made its most important
+contribution to reversing this cycle over the first half of the year, and I’m proud of what
+was done by this Committee. Given what is already in the pipeline, together with the
+possibility of somewhat lower rates, policy seems very supportive. Changes from here
+on will likely play a relatively minor role compared to developments in fiscal policy,
+consumer confidence, and the progress of the war on terrorism. Monetary policy was, in
+my opinion, a key positive force earlier, but the focus today may be to ensure that it does
+not become a negative factor in the economic equation. How could that happen?
+In the short run, this may be one of those very strange times when appearance
+could be the most important reality. The Fed is on the recovery team, of course. But we
+must be seen to be on that team by the man on the street, both on Main Street and Wall
+Street. To be so perceived will be a positive force for recovery, whereas to be seen
+otherwise could be a major negative. As our nation struggles to recover from a major
+trauma, surprising the markets could be an additional trauma we just do not need right
+now. This condition will hopefully change soon and the day will likely come when a
+policy surprise will be appropriate, but not today. Fortunately, Mr. Chairman, inflation is
+most likely going to trend downward over the forecast period, giving the Committee
+some further room to maneuver and time to reverse course in an orderly manner.
+
+10/2/01
+
+69
+
+I believe the Committee will soon be facing two successive sets of challenges
+
+and the sooner the better in each case. The first will be when and how to terminate this
+easing cycle when the economy stabilizes. We obviously are not to that point yet. I hope
+the end of our easing process will be followed shortly by the second challenge,
+determining how and when it will be necessary to begin to damp the enormous amount of
+stimulation that has been and will be pumped into this economy first by monetary policy
+and soon by fiscal policy. I believe the Committee may be entitled to take some
+satisfaction in the role policy has played in recent years, but the future will probably
+prove to be at least equally as challenging as the past. What is needed today, however,
+seems pretty straightforward. Thank you.
+CHAIRMAN GREENSPAN. Governor Meyer.
+MR. MEYER. Thank you, Mr. Chairman. I found the alternative simulations
+provided by the staff in the latest Greenbook to be especially useful. Given the
+exceptional degree of uncertainty that we now face, the alternative scenarios help us to
+better appreciate the range of outcomes. But in addition, they allowed me to easily craft
+my own forecast by adding the alternative scenarios directly to the baseline subject to my
+personal assessment of the probabilities associated with each. When I began this exercise
+I thought that it would allow me to present to you an interesting, even compelling,
+alternative to the Greenbook forecast. To my surprise--and I must say disappointment--I
+found that when I completed this exercise, the alternative scenarios turned out to be
+remarkably offsetting. That left me, no doubt, with the same uncertainty as the staff had,
+and equally likely to be wrong, but with a forecast that turned out to be remarkably
+similar to the baseline. While we face enormous uncertainty as I indicated, I think this
+
+10/2/01
+
+70
+
+sort of experience adds a little to the credibility of the baseline. I did wonder a bit if the
+staff might have been playing some games by offering us a series of alternatives that they
+knew were entirely offsetting just to reinforce the baseline. But David Stockton assured
+me that this was an accident of good fortune rather than a strategy!
+I find that it’s useful in my own thinking to separate the forecast horizon into
+two sub-periods. The near term covers the next two or three quarters and the remainder
+is the period through 2003. It seems to me that there are two key drivers of the near-term
+forecast. The first is the momentum in the economy prior to September 11th. The second
+is the effect of the events of September 11th through disruptions to key industries and via
+consumer and business sentiment. With respect to the momentum, some saw the data
+immediately preceding September 11th as very encouraging and signaling that the
+economy was poised for a rebound. Others interpreted the very same data as indicating
+that the economy had at most stabilized at a growth rate not much different from zero,
+and they were still revising down their forecasts.
+I think there was ample scope in the data to support both of these differing
+interpretations, but I was in the latter camp. And the more pessimistic interpretation
+suggested that additional easing would have been justified in the absence of the events of
+September 11th. In part for that reason, my point of departure for the forecast was the
+alternative simulation with easier money policy.
+But the events of September 11th clearly called for a downward revision to the
+near-term forecast--at least to the estimate of the third quarter and the forecast for the
+fourth quarter and likely into early 2002. Because a downward impetus to a considerable
+degree reflects an assessment of the psychological effects of the events of September
+
+10/2/01
+
+71
+
+11th, the uncertainty about the forecast is an order of magnitude above normal. But my
+judgment is that over this time frame the risks are more likely asymmetric toward still
+weaker growth. So I give some considerable weight, 50 to 75 percent, to the alternative
+simulation of a collapse in consumer and business confidence. Having said that, the
+downside risk seems to be most acute in the fourth quarter because I’m also going to give
+very high weight to the alternative simulation of major fiscal stimulus. And by the first
+quarter, that also begins to weigh in importantly.
+There is little that monetary policy can do through traditional channels to spur
+demand over this time frame. However, there might be and probably would be some
+salutary effect by bolstering confidence in the future. What we do and what we say
+should be designed to contribute to this end, and I think Governor Kelley made that point
+extremely well.
+A second consideration concerns the implications for monetary policy of the
+evolution of overall financial conditions. Once again, we’re confronted by a shock that
+has had direct effects both on financial conditions, specifically on equity prices, and on
+aggregate demand above and beyond the effect on equity prices. Monetary policy has to
+move aggressively enough to counter at least the adverse effects on overall financial
+conditions before it can hope to make a net contribution to offsetting the direct effect on
+aggregate demand.
+Over the remainder of the forecast horizon it seems to me that the fiscal
+assumptions begin to dominate the forecast, complemented by the details of the internal
+dynamics of recovery as consumer sentiment and hopefully equity prices rebound. In
+addition, the latter development should be reinforced by the delayed contributions of the
+
+10/2/01
+
+72
+
+forces we expected to support recovery before the events of September 11th, including a
+rebound in high-tech investment after a sharp and prolonged retrenchment and a return to
+inventory accumulation after liquidation runs its course.
+Now, beyond the nearer-term period it seems to me that the risks turn to the
+upside, at least after mid-2002 and especially into 2003. My reading is that the fiscal
+stimulus will be an order of magnitude above that in the Greenbook baseline, something
+closer to the major fiscal stimulus simulation. Over this time frame, therefore, perhaps
+the key question is what monetary policy is a good fit with the assumed fiscal stimulus.
+There is a potential that an earlier and more aggressive reversal of recent and prospective
+monetary easing will ultimately be called for than may be contemplated at this point.
+Still, there’s ample scope for additional monetary policy easing over the near term. In
+part this reflects the fact that, given the prospects of a rise in the unemployment rate to
+the 6 percent range, we should now be targeting a period of above trend growth. So,
+whereas before we might have thought that we needed stimulus to get economic growth
+back to trend as quickly as possible, now if we ended up with something that was less
+than a percentage point above trend I think we’d be disappointed. We could probably
+tolerate something even stronger than that for awhile. Nevertheless, as a number have
+already suggested, monetary policy will face the challenge at some point during the
+second period and beyond of a timely return toward neutrality.
+I think the other issue relating to the strategy of monetary policy relates to the
+timing of any cumulative decline in the funds rate. Most of the bad macroeconomic news
+in particular relates to higher unemployment that lies ahead and likely will extend at least
+through the middle of next year. In evaluating what we do today, we should pay some
+
+10/2/01
+
+73
+
+attention to how much more of a cumulative decline might be justified given the forecast
+we now hold. And then we need to consider how we should spread the change out over
+time so that we don’t end up doing more than we would prefer to do. In addition, we
+might worry a bit about how we should signal markets about our future intentions so that
+we don’t face market pressure again to move further than would be prudent. I must say,
+however, that I don’t think that is really a story of today, but a story of what we do at
+subsequent meetings. Thank you.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. Thank you, Mr. Chairman. We’ve often spoken about the
+value of confidence in economic relationships. Confidence is a variable that is a direct
+term in no economic equation but is a key factor in almost all of them--consumption,
+investment, employment, stock markets, risk discounts, foreign trading, capital flows, and
+on down the list. The macroeconomic implications of a serious loss of confidence could
+be enormous. So what is the evidence? It has only been three weeks since the attacks
+and already there is a great deal of evidence that confidence is eroding. If you hadn’t
+called a break, I was going to go through this list really quickly. I will still go through it
+quickly but a little less so now. [Laughter] One piece of evidence is travel demand,
+which is definitely down. Another is consumer confidence and Dave Stockton talked
+about that. Layoffs have risen. We see evidence in financial variables--the stock market,
+risk spreads on lesser-rated bonds, early signs of implied credit market volatility. There’s
+some evidence that even housing demand and auto sales may be down in the period since
+September 11th.
+
+10/2/01
+
+74
+
+There are two indicators on which I’m not quite sure about the timing. One,
+
+which Karen Johnson spoke about already, is the foreign sector. It’s a little hard to tell
+what occurred before and after September 11th, but it’s clear that the news there isn’t
+good. Another is commodity prices, which have dropped sharply. I’ve often spoken
+about those before as a precursor of inflation. The staff has been persuading me that they
+may be an even better precursor of output demand, but whatever the case they are down
+sharply.
+A last issue is the forecasts of others. The NABE took a survey of their
+forecasters since the event. Eighteen out of 21 of them had a significantly more
+pessimistic outlook. I’m not sure that they know any more than our forecasters, but all
+forecasters seem to be moving in one direction.
+This all sets up what I see as a difficult policy problem. The attacks could be a
+major demand shock or a minor one, for a long period or a short period. Just how do we
+respond? On the fiscal side I think there are at least two things that fiscal policy should
+do. There should be expenditures for military and other security measures and
+compensation for the direct victims. Whether fiscal policy ought to do anything beyond
+that, I find a difficult question. But if more stimulus is required, I’d like to see it
+provided in a way that doesn’t dissipate the long-term budget surplus, national saving,
+and the low long-term interest rates that have been a hallmark of the recent period.
+On the monetary side, I also see the need for action. Monetary policy can be
+changed quickly. It can be used flexibly and it can be reversed just as quickly should
+circumstances change. As a number of you have said, this latter property is very
+important right now, given the massive uncertainty. The combination of short-term fiscal
+
+10/2/01
+
+75
+
+easing and monetary easing I think is our best hope for keeping the economy as strong as
+possible in both the short run and the long run. Thanks.
+CHAIRMAN GREENSPAN. Thank you. Let’s move on to Don Kohn.
+MR. KOHN. Thank you, Mr. Chairman. As noted in the
+
+Committee’s announcement of two weeks ago, the terrorist attacks 
+
+subjected an already weak economy to a further downward shock. 
+
+Just before September 11th aggregate demand apparently was still 
+
+being impeded by an ongoing downdraft in investment, as firms 
+
+corrected a previous over-expansion of capital equipment, and the 
+
+resulting decline in employment and equity prices threatened to sap 
+
+consumer spending. As noted in the Greenbook, firm evidence that 
+
+the downdraft was beginning to abate had not emerged and the 
+
+economic forecast probably would again have been marked down and 
+
+the anticipated strengthening pushed further into the future. The 
+
+attacks themselves disrupted business transactions for a time and 
+
+apparently have heightened concerns about the future, likely 
+
+restraining spending even more and further delaying the resumption 
+
+of solid growth. 
+
+A significant easing of financial conditions would seem to be 
+
+called for to counter the effects of the unexpected weakness in 
+
+demand from these various sources. While such an easing might have 
+
+little effect on the near-term performance of the economy, it would 
+
+appropriately give added impetus to an eventual return to full 
+
+resource utilization. When the economy ultimately strengthens, it 
+
+seems inevitable that it will resume growth from a base of an
+
+appreciably lower level of resource utilization than today or than you 
+
+might have expected at your August meeting. 
+
+Yet financial conditions have not eased appreciably since late 
+
+August. The pullback of investors in the face of perceptions of higher 
+
+risk and weaker spending prospects apparently has offset the effects 
+
+of the 50 basis points of easing you put in place two weeks ago and 
+
+the further federal funds rate reductions now built into financial 
+
+market prices. Broad measures of equity prices have fallen 10 to 20 
+
+percent since the August FOMC meeting and risk spreads have 
+
+widened for all but the highest-rated businesses. Indeed, bond rates 
+
+for many businesses are unchanged or even up considerably. In 
+
+addition, the average value of the dollar on foreign exchange markets 
+
+has appreciated slightly. 
+
+With markets strongly anticipating a further decrease in your 
+
+federal funds rate target at this meeting, holding policy unchanged 
+
+
+10/2/01
+
+76
+
+likely would tighten financial conditions substantially. Thus, the
+question facing you today would seem to be not whether to ease
+further, but by how much. Market observers believe that your debate
+will be between 25 and 50 basis point reductions in the funds rate.
+The choice between these two would seem to depend not only on the
+most likely outcome for the economy under the two alternatives, but
+the risks around that modal outcome and the costs of missing to one
+side or the other.
+The choice of a 25 basis point easing would be justified by
+concern that a larger action at this time could lead to policy becoming
+so accommodative over coming months that the rebound in demand
+beginning next year would be sharp enough to add to inflation
+pressures before a policy reversal could contain them effectively. A
+major uncertainty in the outlook is the stance of fiscal policy. Unless
+signs surface very quickly that near-term economic distress is abating,
+a process of political compromise by inclusion could well produce a
+substantially more expansive policy than is built into the staff
+forecast. When the resulting stimulus will hit the economy depends,
+of course, on the nature of the programs that are enacted. As next
+year goes on, however, aggregate demand could well be boosted by
+the effects of expansionary fiscal and monetary policies just as the
+internal dynamics of strengthening private demand take hold
+following the working down of inventory and investment goods
+overhangs.
+Private demand also may be subject to upside as well as to the
+numerous downside risks. One possibility is that a good part of the
+cutback in spending in the last few weeks will turn out to be
+transitory. As the nature of the countermeasures against terrorism
+becomes clearer and more focused, as some successes are registered
+and security in the air and elsewhere is improved, uncertainty will
+narrow and some of the initial fears and perceptions of risk will
+decrease, fostering a return toward less distorted economic
+interactions and decisions. The rise in equity prices and decline in
+risk premiums over the last week may already have reflected some
+movement in this direction. Should activity rebound fairly strongly
+next year, upward pressures on wages and prices are likely to emerge
+at considerably lower levels of resource utilization than in the second
+half of the 1990s. The slower growth of structural productivity that
+seems to be in train would tend to boost unit labor costs at a time
+when profit margins have already been squeezed. Slimmer margins
+provide considerable inducement for businesses to pass labor costs
+through into prices and are likely to mute the competitive forces that
+make such a pass-through difficult, especially if, at the same time,
+
+10/2/01
+
+77
+
+higher real interest rates induced by expansive fiscal policy militate
+against cost-saving capital deepening.
+Although markets would be somewhat disappointed by a 25 basis
+point reduction in the federal funds rate target, the backup in other
+interest rates and the decline in equity prices likely would be limited
+by a sense that the FOMC was simply waiting for more definitive
+evidence of the dimensions of the response of demand to the attacks
+and was prepared to ease further, even within the intermeeting period,
+should the emerging information warrant. The total amount of
+additional ease built into the structure of market interest rates---now
+between 75 and 100 basis points--probably would be trimmed only a
+little. You may see these expectations as a reasonable assessment of
+the amount of ease needed to promote a satisfactory strengthening of
+the economy in 2002 and 2003. You may also see the resulting
+expectations as representing a highly likely policy outcome as well
+after a 25 basis point reduction at this meeting, given the possibility
+of further Committee actions as employment and production decline
+over the next several months.
+But given the shocks to the economy and the absence of any
+apparent easing in financial conditions noted at the beginning of my
+discussion, the Committee may prefer a more aggressive policy action
+and want to lower the federal funds rate by 50 basis points at this
+meeting. The potential for inflation pressures to mount as the
+economy rebounds must be weighed against the likelihood of a
+prolonged period of weakness that opens up a sizable output gap.
+Indeed, the baseline forecast in the Greenbook describes the latter
+outcome. While that forecast assumes 50 basis points of easing over
+the fourth quarter, its assessment of likely demand and resource
+pressures would seem to suggest that an immediate reduction in the
+federal funds rate of 50 basis points would run minimal risk of higher
+inflation emerging before countervailing policy action had a chance
+to be felt. And, as shown in an alternative Greenbook simulation,
+stronger fiscal stimulus does not materially deflect the economy from
+the disinflationary track of the baseline projection.
+If the headwinds facing the economy for a time are on the order of
+magnitude of those embodied in the staff forecast, a federal funds rate
+that is 50 basis points lower would not be all that accommodative. In
+real terms, such a rate would still be positive by many measures and
+above its level in previous periods of economic weakness--for example
+the early 1990s. With limited net financial stimulus in the pipeline
+even under this easier alternative, recovery importantly depends on the
+resiliency of the private economy as excesses are worked down and
+underlying investment incentives remain in place, with an extra push
+
+10/2/01
+
+78
+
+from fiscal policy. Easier monetary policy itself can’t address the
+underlying uncertainties and overhangs weighing on demand, but it
+can help to buoy asset prices and lower the cost of credit at least a little
+relative to a smaller easing move.
+Moreover, in an uncertain environment, the larger action avoids
+the potential for especially adverse effects on confidence and risktaking were the Committee seen to be less aggressive than
+anticipated. For this and other reasons, you may judge the probability
+that insufficiently accommodative policy would accentuate a process
+of progressive economic weakening that would be difficult to reverse
+as appreciably larger in the current circumstances than the probability
+that too stimulative a policy would intensify inflation pressures.
+Saving policy “ammunition” for later could create a situation in
+which much more easing is required before long to counter
+cumulating weakness. Of course, anticipatory and aggressive policy
+can lead to overshooting, but, by heading off worsening situations, it
+also is likely to require smaller total action than does policy that
+moves more gradually.
+Market participants are likely to build in only a little, if any,
+more easing going forward should you lower the funds rate by 50
+basis points at this meeting, given the high odds they have already put
+on this action. And their expectations of such a sizable move at this
+meeting have not led them to anticipate a number of further such
+declines in the future. The yield curve incorporates an additional 25
+to 50 basis points of rate reductions by early next year followed by a
+subsequent rise in rates. Financial market participants evidently
+believe that you can ease aggressively and then stop and reverse in a
+timely fashion. Judging from the decline in TIPS spreads in recent
+weeks, the stickiness of long-term rates has been a response to more
+expansive fiscal policy rather than a reflection of rising inflation
+expectations as the path of the funds rate has been marked down.
+Although a cut in the federal funds rate target at this meeting
+would bring the cumulative change in this rate to 100 or 125 basis
+points since late August, you may well see the risks to your objectives
+in the foreseeable future as still tilted toward economic weakness.
+Economic activity is almost certain to be quite soft in the near term,
+and the Committee would probably want evidence on the likely extent
+of the cutback in private demand and the impetus from fiscal policy
+before it could judge that this weakness was likely to be balanced by
+a strong rebound a few quarters hence.
+
+CHAIRMAN GREENSPAN. Questions for Don? President Parry.
+
+10/2/01
+
+79
+
+MR. PARRY. Don, I’d like to ask you and Dave a question about the chart
+
+and table in the Bluebook on Chart 4 following page 10. We’ve talked a bit about the
+equilibrium real rate as a way to measure the current stance of policy. If one believes that
+the equilibrium real rate is within the range of the shaded areas, the range has gotten so
+large that it leads one to believe, based on the Treasury inflation-indexed securities, that
+our policy is incredibly expansive. On the other hand, if one looks at some of the lower
+estimates, particularly the one based on historical data and the staff forecast, it appears as
+if we’re providing an anemic amount of stimulus. I was thinking that perhaps you have
+some feelings or views about what rate within this historically wide range it might be
+reasonable for us to focus on.
+MR. KOHN. I think the range is particularly wide because the staff forecast is
+dragging down the lower end of that range. The calculated equilibrium rates that tended
+to bring the range down are the ones that include the staff estimates of the restraining
+effects of both the pre-September 11th and post-September 11th shocks to demand. If you
+think the staff forecast is a reasonable estimate of where the economy will go--or at least
+a reasonable mode of that estimate--then something toward the lower end of that range
+probably is where you would think the rate is. Also, having the third-quarter inflationindexed security at a 3.8 percent real rate doesn’t reflect the most recent declines in that
+rate. That rate has declined some over the third quarter and I don’t know what the
+forward rate derived from that would look like if we did it today. My guess is that it
+would be at least a number of tenths lower than shown in this chart. The TIPS rate
+reflects people’s expectations about fiscal policy. That’s a rate derived from going out on
+the yield curve, so it embodies the effects of the more expansionary fiscal policy as that
+
+10/2/01
+
+80
+
+policy kicks in later next year and in future years. The elevated level is a reflection of
+that steep upward slope of the yield curve, partly supply induced and partly I think
+macroeconomically induced in the sense of the effects of fiscal policy over coming
+quarters. But probably somewhere out later next year and in following years the
+calculation would have interest rates being pushed up as a reflection of the expected
+turnaround in monetary policy.
+MR. PARRY. So you think the degree of monetary ease is, pick one: huge,
+moderate, or meager?
+MR. KOHN. I think right now it’s moderate and I--well, I won’t give a policy
+recommendation! [Laughter]
+CHAIRMAN GREENSPAN. May I make a suggestion? Why don’t you have
+Dave Stockton talk to you about this. He’s got it down pat.
+MR. STOCKTON. It’s a little easier for me to answer this question because in
+some sense I would look at the line on Chart 4 labeled “FRB/US model, based on
+historical data and the staff forecast” as something that would approximate our best guess
+as to what the equilibrium rate is. Therefore, I’d have to say monetary policy provides a
+small to moderate amount of stimulus. I would hate to depress you further about this
+analysis, however, by pointing out that each one of these estimates has a significant
+confidence interval! The bottom edge of that shaded area is not the full confidence range
+that one could have.
+CHAIRMAN GREENSPAN. I knew you wouldn’t disappoint me! [Laughter]
+MR. STOCKTON. I’m going to stop right there.
+MR. PARRY. Thank you.
+
+10/2/01
+
+81
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. Actually, I was going to ask about what you just
+
+discussed, so I withdraw the question in the interest of moving things along.
+CHAIRMAN GREENSPAN. Governor Meyer.
+MR. MEYER. I wanted to follow up on that discussion of the equilibrium real
+rate because I think many of us have come to believe that information on this--if we had
+confidence in it--is very valuable to our setting of policy. I applaud the research that the
+staff has been doing on this subject; I think it already has provided a lot of insights and
+has been very useful. I have to say, however, that I have a high degree of skepticism
+about the amount of short-term variation in the staff measure of the equilibrium real rate.
+I think that at this point our methodology hasn’t really allowed us to separate out very
+effectively cyclical from longer-term influences. So I think the issue needs some more
+thought. For one, the path of the equilibrium real rate has so much sensitivity to nearterm data that I think any estimate that is not based upon a forecast that goes out at least
+five years for example--and returns to some sense of normality--has to be discounted
+considerably. But I think that’s work for the future.
+CHAIRMAN GREENSPAN. Anybody else? In keeping with the way Dave
+Stockton started off this discussion, I’ll continue. I think the wide range of uncertainties
+regarding what has happened and what is about to happen has been fully explored here
+and I believe very effectively so. We learn a lot about the uncertainties that we face just
+by listening to those who are involved in evaluating recent developments--for example,
+what the individual presidents have said about what is going on in their Districts. And I
+think the degree of humility that the rest of us have expressed about our understanding is
+
+10/2/01
+
+82
+
+a measure of the fact that we are indeed dealing with a situation that is extraordinarily
+uncertain.
+The one area that has not been mentioned, which I believe requires a bit of
+discussion, is the very dramatic decline that we have had in equity asset prices. We are
+talking about losses in the last week or so of more than a trillion dollars in the value of
+stock market holdings. What we know about this sort of phenomenon is that it has a
+really significant impact. While it may be difficult to make a judgment as to the
+magnitude of that impact, we do have to have some sense of what the appropriate value
+of stocks ought to be or what equity premiums ought to be in the context of what we
+perceive to be the long-term equilibrium real federal funds rate. The work that has been
+done around here suggests, adjusted with all due humility, that the equity market is still
+slightly above where it ought to be. That is not an important issue in and of itself, but
+what is important is history. History suggests that markets do not go from over-valuation
+to normal valuation and stay there. It suggests that markets almost invariably over-adjust
+in the opposite direction. That in turn suggests to me that the notion that somehow we
+are beyond any further deflation from the asset side is at least open to serious question. I
+don’t pretend to say that the adjustment process needs to occur very quickly. Indeed, one
+scenario could involve a very large adjustment in equity prices, a couple of years of
+hiatus, and then another adjustment. Clearly, that is not a noncredible scenario. We have
+seen it in the past.
+All I want to indicate here is that the risks clearly are on the downside. And
+without getting into more discussion on the issue, I would merely say that what we ought
+to do--as I think most of the people around this table already have suggested--is to ease
+
+10/2/01
+
+83
+
+by 50 basis points and retain the statement indicating that the risks are tilted toward
+economic weakness. The pluses and the minuses have been fully explored, and I think
+that would be the appropriate policy at this point. Vice Chair.
+VICE CHAIRMAN MCDONOUGH. I fully support your recommendation,
+Mr. Chairman.
+CHAIRMAN GREENSPAN. Governor Ferguson.
+MR. FERGUSON. I also support your recommendation.
+CHAIRMAN GREENSPAN. Governor Meyer.
+MR. MEYER. I support your recommendation.
+CHAIRMAN GREENSPAN. President Hoenig.
+MR. HOENIG. I support your recommendation. I would make just a couple
+of quick comments that relate to the chart we were talking about a minute ago. One way
+I looked at that was to ask the question: Going forward, which mistake do we most want
+to avoid? Given the fragility and the psychology of the market, I think we most want to
+avoid not appearing to be willing to take this action. So what you propose is exactly what
+I want. Second, I would like to say ditto to what the Vice Chairman said earlier. I
+expect--and maybe hope--that we will have to reverse this easing move. But I think the
+market is already thinking about that. We don’t need to say it. And it is probably better
+if our statement is shorter rather than longer. Thank you.
+CHAIRMAN GREENSPAN. President Parry.
+MR. PARRY. I support your recommendation.
+CHAIRMAN GREENSPAN. Governor Gramlich.
+MR. GRAMLICH. I support it.
+
+10/2/01
+
+84
+CHAIRMAN GREENSPAN. President Minehan.
+MS. MINEHAN. I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Jordan.
+MR. JORDAN. I support the 50 basis point reduction in the target rate today.
+
+But for the period between now and the next meeting, I think the statement that was
+included in our announcement of the 17th is probably going to be needed again. As the
+President said, the terrorists decided when and how this started. The United States and its
+allies will decide when and how it ends. We don’t know when that’s going to be. If
+there is another occasion of greatly heightened anxiety, I would hope that the Desk would
+again be willing to let the funds rate trade as low as necessary to provide adequate
+liquidity.
+VICE CHAIRMAN MCDONOUGH. The market will assume that.
+CHAIRMAN GREENSPAN. Yes, I agree with the Vice Chair. Indeed, one of
+the things we haven’t discussed relates to the implications of another episode. My
+impression is that in such an event we will do what we’ve done in the past. We would
+issue an FOMC statement at that time indicating in effect what you’re suggesting. I
+prefer not to put that into the statement today. I think it complicates it and probably isn’t
+necessary. President Santomero.
+MR. SANTOMERO. I support your recommendation.
+CHAIRMAN GREENSPAN. President Stern.
+MR. STERN. I support your recommendation.
+CHAIRMAN GREENSPAN. President Poole.
+
+10/2/01
+
+85
+
+MR. POOLE. Mr. Chairman, I support your recommendation, but I would like
+
+to add a comment. We’ve talked a lot about business and consumer confidence, and I
+think the state of confidence is not independent of our own visibility. Let me emphasize
+that point by assuming something contrary to fact because I think it will make the point
+clear. Suppose all of us who are commonly out on the road from time to time giving
+speeches and talking to the press were to withdraw from that activity? I think that would
+send a very bad message to the markets. It would say that we’re terrified to fly and that
+we’re terrified to talk because we might say something that would upset the markets. I
+think it’s important that we be visible. We should work to resume a sense of normality.
+And the message that we all agree on around the table is the one that we should be stating
+publicly: The economy has excellent long-run prospects; our economy and society have
+strong fundamentals to deal with the short-run uncertainties, but there is no way to
+forecast what that short run is going to look like and, therefore, we’re not going to offer
+such a forecast. For us to hunker down and disappear because we’re afraid of saying
+something that might be wrong or misinterpreted is only going to tend to erode public
+confidence.
+CHAIRMAN GREENSPAN. No, I think hunkering down was the appropriate
+thing to do right after the shock.
+MR. POOLE. Right, but we’re now three weeks beyond that shock.
+CHAIRMAN GREENSPAN. Yes, I agree with you. There’s certainly no
+need for us to change our normal practices. I do think our degree of uncertainty is higher,
+but that’s the nature of the game.
+
+10/2/01
+
+86
+
+MR. POOLE. Well, I just wanted to make that point clear because I feel very
+
+strongly that we must not disappear.
+CHAIRMAN GREENSPAN. No, I agree with that.
+MS. MINEHAN. Mr. Chairman, could I add a comment to that?
+CHAIRMAN GREENSPAN. Yes.
+MS. MINEHAN. It isn’t always necessary to be speaking to the press in order
+to be seen as visible within the District. I’ve done more outreach than usual since
+September 11th to any number of groups without appearing in the press one time. And I
+feel comfortable, though I know the range of uncertainty is wide, that because of that
+activity I have some feel of what is going on--much more so than if I had made a dozen
+speeches. That’s because these interactions give us more information and they involve
+less effort and worry than speaking to the press, with all the preparation that goes into
+that. So I think it’s something that we all ought to think about carefully as we balance
+how to spend our time.
+CHAIRMAN GREENSPAN. President Moskow. 
+
+MR. MOSKOW. I agree with your recommendation, Mr. Chairman. I don’t 
+
+think today is the time to take a risk of adversely affecting business confidence.
+CHAIRMAN GREENSPAN. President Guynn.
+MR. GUYNN. Mr. Chairman, I support your recommendation.
+CHAIRMAN GREENSPAN. Governor Kelley.
+MR. KELLEY. I support your recommendation, Mr. Chairman.
+CHAIRMAN GREENSPAN. President Broaddus.
+MR. BROADDUS. I support your recommendation.
+
+10/2/01
+
+87
+CHAIRMAN GREENSPAN. And finally, President McTeer. 
+
+MR. MCTEER. I support your recommendation. 
+
+CHAIRMAN GREENSPAN. Thank you. Would you proceed to read the 
+
+
+appropriate text?
+MR. BERNARD. You’ll find the wording on page 13 of Bluebook: “The
+Federal Open Market Committee seeks monetary and financial conditions that will foster
+price stability and promote sustainable growth in output. To further its long-run
+objectives, the Committee in the immediate future seeks conditions in reserve markets
+consistent with reducing the federal funds rate to an average of around 2-1/2 percent.”
+For the balance of risks statement in the press statement: “Against the background of its
+long-run goals of price stability and sustainable economic growth, and of the information
+currently available, the Committee believes that the risks continue to be weighted mainly
+toward conditions that may generate economic weakness in the foreseeable future.”
+CHAIRMAN GREENSPAN. Call the roll. 
+
+MR. BERNARD. 
+
+Chairman Greenspan
+Vice Chairman McDonough
+Governor Ferguson
+Governor Gramlich
+President Hoenig
+Governor Kelley
+Governor Meyer
+President Minehan
+President Moskow
+President Poole
+
+Yes
+Yes 
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAIRMAN GREENSPAN. I’d like to call a recess and request that the
+Board of Governors meet next door to discuss an appropriate action on the discount rate
+requests of the Reserve Banks.
+
+10/2/01
+
+88
+[Meeting recessed]
+CHAIRMAN GREENSPAN. As you can see in the draft press statement
+
+we’ve distributed, we’ve adopted the Hoenig principle on these types of press releases on
+the grounds that the more we try to say, the more complex the issue gets and the less
+clear our actual message. I think that has worked well and we thank you.
+MR. HOENIG. Oh, you’re very welcome! [Laughter]
+CHAIRMAN GREENSPAN. In any event, this wording is very close to the
+previous statement made after our last meeting. I assume you’ve all had a chance to look
+at it. Does anybody have any strong objections to letting it go as it is? If not, I thank you
+all very much.
+Our next meeting is scheduled for November 6th. This meeting is adjourned
+but we will have Don Winn as our guest at lunch to give us a review of the legislative
+agenda.
+END OF MEETING
+
+

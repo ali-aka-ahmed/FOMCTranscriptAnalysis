@@ -1,0 +1,1433 @@
+December 6, 2007
+
+1 of 51
+
+Conference Call of the Federal Open Market Committee on
+December 6, 2007
+A joint conference call of the Federal Open Market Committee and Board of Governors
+of the Federal Reserve System was held on Thursday, December 6, 2007, at 3:45 p.m. Those
+present were the following:
+Mr. Bernanke, Chairman
+Mr. Geithner, Vice Chairman
+Mr. Evans
+Mr. Hoenig
+Mr. Kohn
+Mr. Kroszner
+Mr. Mishkin
+Mr. Poole
+Mr. Rosengren
+Mr. Warsh
+Ms. Cumming, Mr. Fisher, Ms. Pianalto, and Messrs. Plosser and Stern, Alternate
+Members of the Federal Open Market Committee
+Messrs. Lacker and Lockhart, and Ms. Yellen, Presidents of the Federal Reserve Banks
+of Richmond, Atlanta, and San Francisco, respectively
+Mr. Madigan, Secretary and Economist
+Ms. Danker, Deputy Secretary
+Ms. Smith, Assistant Secretary
+Mr. Skidmore, Assistant Secretary
+Mr. Alvarez, General Counsel
+Mr. Baxter, Deputy General Counsel
+Mr. Sheets, Economist
+Mr. Stockton, Economist
+Messrs. Clouse, Connors, Fuhrer, Rasche, Sellon, Slifman, Sullivan, and Wilcox,
+Associate Economists
+Mr. Dudley, Manager, System Open Market Account
+Ms. Johnson, Secretary, Office of the Secretary, Board of Governors
+Mr. Cole, Director, Division of Supervision and Regulation, Board of Governor
+Mr. Frierson, Deputy Secretary, Office of the Secretary, Board of Governors.
+Ms. Bailey, Deputy Director, Division of Banking Supervision and Regulation, Board of
+Governors
+
+December 6, 2007
+
+2 of 51
+
+Mr. Marquardt, Deputy Director, Division of Reserve Bank Operations and Payment
+Systems, Board of Governors
+Mr. Parkinson, Deputy Director, Division of Research and Statistics, Board of Governors
+Mr. English, Senior Associate Director, Division of Monetary Affairs, Board of
+Governors
+Mr. Leahy, Deputy Associate Director, Division of International Finance, Board of
+Governors
+Ms. Edwards, Associate Director, Division of Monetary Affairs, Board of Governors
+Mr. Blanchard, Assistant to the Board, Office of Board Members, Board of Governors
+Mr. G. Evans, Assistant Director, Division of Reserve Bank Operations and Payment
+Systems, Board of Governors
+Messrs. Carpenter and Perli, Assistant Directors, Division of Monetary Affairs, Board of
+Governors
+Mr. Meyer, Visiting Reserve Bank Officer, Division of Monetary Affairs, Board of
+Governors
+Ms. Allison, Senior Counsel, Legal Division, Board of Governors
+Messrs. Kumasaka and Luecke, Senior Financial Analysts, Division of Monetary Affairs,
+Board of Governors
+Ms. Beattie, Assistant to the Secretary, Office of the Secretary, Board of Governors
+Mr. Sniderman, Executive Vice President, Federal Reserve Bank of Cleveland
+Mr. Hankins, Mses. Krieger and Mester, Messrs. Weinberg and Williams, Senior Vice
+Presidents, Federal Reserve Banks of Dallas, New York, Philadelphia, Richmond, and
+San Francisco, respectively
+Mr. Silva, Chief of Staff and Senior Vice President, Federal Reserve Bank of New York
+Mr. Hilton, Vice President, Federal Reserve Bank of New York
+Ms. McConnell, Assistant Vice President, Federal Reserve Bank of New York
+Mr. Weber, Senior Research Officer, Federal Reserve Bank of Minneapolis
+
+December 6, 2007
+
+3 of 51
+
+Transcript of the Federal Open Market Committee Conference Call of
+December 6, 2007
+CHAIRMAN BERNANKE. Thank you, everyone, for meeting on short notice. I hope
+the weather is fine where you are. This is a joint FOMC–Board meeting, so let me ask a Board
+member to move to close the meeting.
+MR. KOHN. I move that we close the meeting.
+CHAIRMAN BERNANKE. Okay. Without objection. Our topic today is possible
+measures to try to improve or address the liquidity situation in certain funding markets, and I am
+going to turn the program over to Brian Madigan.
+MR. MADIGAN. Thank you, Mr. Chairman. Bill Dudley will begin our
+presentation with a briefing on recent developments in bank funding markets and then
+take your questions on market developments. Next, I will discuss in general terms a
+range of discount window options that policymakers might consider. Nathan Sheets
+will continue with comments on a proposal for swap facilities with foreign central
+banks. Sandy Krieger will then provide more detail on the staff proposal for a term
+auction facility (TAF); that proposal was discussed in a memo that you received.
+Spence Hilton will then discuss plans for the timing of auctions and settlement and
+reserve management considerations should policymakers decide to proceed with the
+TAF and foreign exchange swap. Let me turn the discussion over to Bill Dudley at
+this point.
+MR. DUDLEY. 1 Thank you, Brian. I will be referring to the chart packet that you
+should have in front of you. The first chart is the spread between term funding rates and
+overnight index swap (OIS) rates. Term funding pressures have intensified over the past few
+weeks. As shown in exhibit 1, the spreads between one-month LIBOR and the one-month
+OIS rate and the three-month LIBOR and the three-month OIS rate have climbed above the
+peaks in early September.
+MS. DANKER. I am sorry to interrupt. Could we ask people to be sure to use their
+mute buttons, because we are getting a lot of static from moving papers and so forth. Thank you.
+MR. DUDLEY. The sharp spike in one-month LIBOR at the end of November
+seen in the exhibit represents the embedded cost of year-end funding. The pressures
+in Europe and the United Kingdom have also intensified. As can be seen in exhibits 2
+and 3, the upward pressure in term funding markets is also evident in the euro and
+sterling markets. The term funding spreads in the euro area are a bit narrower than
+1
+
+Materials used by Mr. Dudley are appended to this transcript (appendix 1).
+
+December 6, 2007
+
+those in the United States and the United Kingdom. This may reflect, in part, the
+term funding operations of the European Central Bank. The ECB monetary policy
+framework permits the ECB to provide a large amount of term funds to many
+different depository institutions that are secured by a broad range of collateral. In
+addition, little stigma appears to be associated with the use of the ECB’s standing
+facility, in contrast to the United Kingdom and the United States, where stigma plays
+a much more important role in limiting borrowing from such facilities.
+The upward pressure in term funding markets and the uncertainty about forward
+LIBOR rates have caused impairment of the foreign exchange swap market—a
+market used by many European banks to obtain dollar funding. In this market, bidasked spreads have widened, transaction sizes have dropped, and some dealers have
+stopped making markets. As noted earlier, some of the upward pressure on term
+funding markets represents balance sheet adjustments for the year-end. Currently, the
+cost of the two-day year-end turn is about 11 percent. As shown in exhibit 4, the
+year-end premium has moved irregularly higher over the past six weeks to more than
+600 basis points. As can be seen in exhibit 5, this is much greater than what typically
+has occurred in other years. However, it is much less than what was evident in 1999,
+when Y2K put significant upward pressure on implied forward rates over the yearend turn.
+Although term funding pressures have been partly influenced by the year-end, it is
+important to recognize that these pressures are expected to persist as we move into
+next year. Exhibit 6 illustrates the spread implied by market expectations going
+forward. As can be seen, although the spread is expected to drop about 40 basis
+points in January, the expected spread remains wider than in November and much
+wider than the very narrow margin that was evident before the August market
+turmoil. Some have wondered whether one-month and three-month LIBOR rates
+exaggerate the degree of funding pressures. After all, LIBOR rates are “offered”
+rates, and they represent the cost of funds at 11:00 a.m. in London. Perhaps they do
+not reflect the true marginal costs of funding for banks that are perceived to be
+healthy. There is something to this argument. The spread between one-month
+LIBOR relative to one-month OIS rates is high relative to the spreads on other
+sources of bank funding, such as certificate of deposits, term federal funds, and AArated commercial paper. These other spreads are shown in exhibit 7. But these other
+spreads are also considerably higher than normal and have been moving up recently.
+This demonstrates that term funding pressures cannot just be dismissed as being
+narrowly based on the dollar needs of European banks. Moreover, upward pressure
+on term rates is evident more broadly. For example, as shown in exhibit 8, thirty-day
+asset-backed commercial paper rates and the spread to OIS rates have been moving
+up recently and are also very elevated.
+So what is driving the upward pressure that is evident in term funding markets?
+As I see it, there are three factors: (1) the year-end, (2) balance sheet pressures, and
+(3) worries about counterparty risk. I have already discussed the year-end effect. I
+think it is very difficult to differentiate between balance sheet concerns and
+
+4 of 51
+
+December 6, 2007
+
+5 of 51
+
+counterparty risk. Balance sheet concerns might be characterized as, Do I want to
+lend at term? Counterparty risk might be characterized as, Do I want to lend at term
+to you? I have no doubt that balance sheet pressures are important. Bank balance
+sheets are under pressure from two sides. On one side, capital is being eroded by
+mark-to-market losses and higher loan-loss provisions, and there is the risk that more
+such losses are ahead. On the other side, bank balance sheets are growing as banks
+are limited in their capacity to securitize nonconforming mortgages or to sell off
+leveraged loan commitments and as assets that formerly had been off balance sheet,
+such as those in financial conduits and SIVs (structured investment vehicles), have
+come back on board. The balance sheet pressure is most evident in the shift in the
+composition of bank assets. Exhibit 9 shows the year-over-year growth rate in the
+balance sheets of U.S. commercial banks for commercial and industrial loans and for
+other securities—that is, securities other than Treasuries and agencies. On a yearover-year basis, commercial and industrial loans outstanding are now growing at an
+annual rate of nearly 20 percent, and other securities holdings are rising at an annual
+rate of more than 30 percent. To make room for these assets and to restrain the pace
+of aggregate balance sheet growth, banks have cut their holdings of Treasuries and
+agencies. As shown in exhibit 10, these securities holdings have declined at an
+annual rate of nearly 10 percent over the past year. Thank you. I would be happy to
+take any questions.
+CHAIRMAN BERNANKE. Thank you, Bill. If you have questions for Bill, please raise
+your hand. Okay. I don’t see any questions. So, Brian, why don’t we go on to the next stage.
+MR. MADIGAN. Given the circumstances that Bill discussed, policymakers
+might wish to explore possible policy measures that might help address the strains in
+bank funding markets. A range of options that involve the discount window could be
+considered. These options might include (1) a temporary reduction in the spread
+between the primary credit rate and the target federal funds rate; (2) the adoption of a
+term credit program, under which term credit could be extended, potentially at a
+lower rate than the primary credit rate, at a borrower’s initiative; and (3) the adoption
+of a term auction facility (TAF) at which term discount window funds would be
+auctioned at the System’s initiative. All these options share the potential advantage
+that their announcement would provide a highly visible signal of the Federal
+Reserve’s willingness to provide adequate liquidity to promote market functioning.
+At the same time, it is clear that what ails financial markets now is not simply a
+shortage of liquidity. There are more fundamental problems of credit losses, credit
+risk, and balance sheet capacity that these options cannot address. But easing banks’
+concerns about access to liquidity could be helpful in the current circumstances. I
+will now briefly summarize the advantages and disadvantages of each of these
+options. Of course, various combinations of these options are also possible, at least in
+principle; but the marginal effectiveness of exercising multiple options is not clear,
+and rolling out more than one initiative might run the risk of suggesting a greater
+degree of concern on the part of the Federal Reserve than is actually the case.
+
+December 6, 2007
+
+The first option is a reduction in the primary credit rate that would temporarily
+narrow the spread of that rate over the target federal funds rate, say to 15 or 25 basis
+points. This approach has several possible advantages. First, from one perspective it
+has the lowest operational risk, as it does not involve the creation of new discount
+window facilities; and by the same token, it does not require a lightning campaign to
+educate banks on the characteristics of a new facility. Second, this approach is
+simpler for the general public to understand. Third, this approach would be relatively
+easy to coordinate with parallel foreign central bank actions to reduce the spreads on
+their own lending facilities—assuming that they were inclined to do so. A reduction
+in the primary credit spread has some disadvantages. These disadvantages relate
+primarily to the difficulty in predicting the reaction of banks to the change. First, it is
+quite possible that the stigma of borrowing at the window would persist or even
+intensify. If so, a reduction in the primary credit spread would likely be ineffective in
+stemming money market pressures. Conversely, it is also possible that banks will
+respond nonlinearly to the reduction in the spread and demand quite large amounts of
+primary credit. Given the unpredictability of the banks’ demand for discount window
+funding, the Desk could experience significant difficulties in reserve management
+under the approach of reducing the primary credit spread.
+Another option would be to establish a term credit facility, under which banks
+could come to the window at their own volition for fixed-term discount window
+loans, say of twenty-eight-day maturities. This option was not covered in the
+memorandums that you recently received. These loans could well be priced
+differently from primary credit, partly to help sharpen the distinction from primary
+credit. This option shares some of the potential drawbacks with the first option that I
+discussed. In particular, it is difficult to predict how banks would react. In order to
+help guard against the effects of abrupt and large increases in discount window
+borrowing that would complicate reserve management, the Federal Reserve could
+require the borrower to provide advance notice of, say, two days before drawing
+funds. Even with this notice, however, such a program might risk triggering very
+large demands for discount window credit whose absolute size could pose reserve
+management difficulties and balance sheet issues for the Federal Reserve. Reducing
+this risk might require applying limits on individual banks’ borrowing through some
+form of rationing. Determining such limits and explaining them to the banks and the
+public would complicate the design, exposition, and implementation of this program.
+The third option that might be considered is a term auction facility. This program
+would be generally similar to the auction credit facility discussed by policymakers in
+September. The TAF has several advantages relative to the other two options. First,
+it would allow the Federal Reserve to retain close control over the supply of reserves
+because we would determine the auction amounts—at least assuming that the
+minimum bid rate is not binding. Second, the facility arguably has a better chance of
+avoiding stigma, partly because the auction format implies that no institution is being
+forced to borrow. Third, each auction would reveal information about the strength of
+the demand for funds. Finally, a TAF could also have potential longer-run benefits
+for managing reserves and conducting monetary policy both in routine circumstances
+
+6 of 51
+
+December 6, 2007
+
+and in circumstances of financial stress. A temporary TAF could provide valuable
+experience to the Federal Reserve about these possible longer-run benefits. The TAF
+has some potential disadvantages as well. Among these are some degree of
+operational risk, questions about whether the contemplated sizes of the facility would
+be sufficient to be effective in addressing market pressures, and the fact that no
+individual institution will have assurance that it will win funds at the auction. Nathan
+will now continue our presentation.
+MR. SHEETS. In conjunction with the establishment of the TAF, the staff
+proposes that the FOMC authorize a temporary reciprocal currency arrangement with
+the European Central Bank. This facility, which the ECB has requested, would
+provide it with greater scope to issue dollar credit to euro-area banks. The proposal is
+for a liquidity swap arrangement that would allow the ECB access to a cumulative
+total of $20 billion outstanding, in tranches of up to $10 billion each, at any time over
+the life of the arrangement. The swap facility would expire after six months unless
+renewed. The purchase of U.S. dollars with foreign currency would be based on the
+prevailing spot exchange rate, and the ECB would pay interest on the foreign
+currency held by the Federal Reserve. There is some possibility that the Swiss
+National Bank may request a similar, albeit smaller, swap facility. This temporary
+arrangement with the ECB is proposed to allow dollar funding problems now faced
+by European banks, particularly at terms longer than overnight, to be addressed more
+directly by their home central bank. Improved conditions in European dollar trading
+would guard against the spillover of volatility in such trading to New York trading
+and could help reduce term funding pressures in U.S. markets. In addition, these
+measures may help address the difficulties in the foreign exchange swap market,
+which Bill has discussed. Establishment of this liquidity swap line, along with the
+TAF, could have positive confidence effects. Moreover, given the strong financial
+position of the ECB, the swap line would involve virtually no credit risk to the
+Federal Reserve. By providing dollars to the ECB to use in its efforts to address term
+dollar funding problems in Europe, we would assist credit markets without ourselves
+providing funding to banks overseas. Sandy Krieger will now continue our
+presentation.
+MS. KRIEGER. Thank you, Nathan. I am going to review the terms of the
+auction. They were on page 17, in table 1, of the memo we circulated before the
+meeting. In particular, I will note some changes from the terms that we discussed in
+September. First, the TAF is proposed as a single-price auction. As previously
+proposed, in this single-price auction, all winners will pay the same fixed rate. The
+auction literature often touts single-price auctions as a format that encourages
+aggressive bidding by eliminating the so-called winner’s curse—that is, the
+possibility that the winner ends up paying more than would be necessary to win at the
+auction. This also should be welcomed by smaller institutions that may have less
+actual or perceived knowledge of market conditions. In practice, single- and
+multiple-price auctions each have their benefits. The single-price auction is
+operationally simpler, which is important given the limited time we have to prepare
+and execute an auction process. The term is approximately twenty-eight days, with
+
+7 of 51
+
+December 6, 2007
+
+some variation to facilitate auction scheduling. Spence Hilton will follow me in
+talking about this in the context of auctions that would take place around the
+upcoming holidays.
+The auction cycle is built around providing plenty of time for depository
+institutions to think about what to bid, for the Reserve Banks to take in bids, and for
+the auction agent to process bids and communicate results back to Reserve Banks for
+review. There is also a day for bidders to digest the results. So, the typical schedule
+is as follows: announce the auction details on Friday; hold the auction on Monday (or
+Tuesday, if Monday is a holiday); determine the winning bids on Tuesday and
+communicate these back to the Reserve Banks; announce the auction results to the
+public on Wednesday and Reserve Banks contact winning bidders in their Districts on
+Wednesday; and book winning bids as loans on Thursday.
+The minimum bid size that we propose is $10 million. In response to comments
+from this group in September, this was reduced from $50 million to be more
+accommodating of the desired bid sizes of smaller institutions. The maximum bid
+size is a total of 10 percent of the announced auction amount. The maximum bid size
+and the maximum award are the same for operational simplicity, and the maximum
+award was lowered to 10 percent in response to the preferences expressed by this
+group in September (from 20 percent previously). The maximum TAF is available to
+any single depository institution with adequate collateral. As I just said, any single
+depository institution can be awarded only 10 percent of the announced auction size.
+This will mean that, to cover an auction, as least ten depository institutions will
+receive funds. Also, bids will be constrained so that an institution’s term funding will
+not exceed 50 percent of its pledged collateral value. So, on the auction date, when
+the institution submits a bid, its outstanding TAF advances and any other term loans
+with maturity dates that extend beyond settlement date plus its TAF bids should not
+exceed 50 percent of the value of the institution’s margined collateral. This is to
+ensure that adequate collateral value is available to secure primary credit borrowing
+that may be necessary to cover unexpected funding needs. In the previous term sheet,
+the threshold was 80 percent. If the institution happens to have an overnight loan on
+the books on the day of the auction, the Reserve Bank typically would add back in the
+value of the pledged collateral in determining the margined collateral value unless it
+has reason to question whether this loan will be repaid on a timely basis.
+Eligible depository institutions are those eligible for primary credit—so those
+determined by the Reserve Bank to be in generally sound financial condition. These
+depository institutions also must have borrowing agreements and collateral in place.
+Reserve Banks have the flexibility to exclude particular institutions on a case-by-case
+basis in the event that the Reserve Bank has supervisory concerns that it feels are not
+adequately reflected in the eligibility criteria for primary credit. There is no
+prepayment, but each Reserve Bank has the discretion to terminate a loan as part of
+its risk-management procedures—that is, if it feels insecure. A minimum bid rate is
+established to set a floor for the auction stop-out rates. We are recommending that
+the overnight index swap rate—a measure of the expected average overnight fed
+
+8 of 51
+
+December 6, 2007
+
+funds rate over the coming month—be the minimum acceptable rate. This rate is
+made available on Bloomberg. The total amount auctioned is set in the context of the
+complete framework for managing reserve supply. The Chairman is responsible for
+setting the auction amount, upon recommendation of the SOMA Manager.
+A number of you had asked that we include an opportunity for noncompetitive
+bids to be submitted. While for the purposes of the first two auctions we wish to
+restrict bidding to competitive bidders, we hope to be able to accept noncompetitive
+tenders in subsequent auctions. Noncompetitive tenders would have a separate
+bidding window that preceded the window for competitive bidding. The amount
+could be up to $1 million. Bidders who submitted noncompetitive tenders would not
+be eligible to submit competitive tenders. Noncompetitive bids would be awarded at
+the stop-out rate for competitive bidding (that is, at the single price determined in the
+auction). Noncompetitive bids would be add-ons to the announced auction amount,
+to keep the other calculations straightforward for competitive bidders. The amount is
+not expected to be significant enough to be problematic for reserve management.
+Foreign branches of a single corporate entity would be treated as a single bidder.
+The bids of each branch would be submitted to the local Reserve Bank in accordance
+with the single-bidder guidelines, with the understanding that bids by multiple
+branches of the same FBO (foreign banking organization) would be aggregated by the
+auction agent and then again constrained to meet single-bidder guidelines. Thus only
+two rates may be submitted across the branches, and the amounts cannot exceed the
+10 percent threshold. If the bids must be reduced to comply, they will be reduced
+proportionally across the relevant bidders. Similarly, the awards will flow back to the
+branches (through the local Reserve Banks) in proportion to the application of the
+auction results to the submitted bids.
+As noted in the paper we circulated last week, we did some preliminary analysis
+on the use of an automated front end to receive bids from depository institutions. We
+concluded at that time that automation was not cost effective or practical in view of
+the uncertainty around whether a TAF would be implemented and, if implemented,
+whether it would be used on a continued basis. It is sufficient to say that we
+recognize that this is an important enhancement if the TAF is to be used regularly.
+The Federal Reserve statistical release H.4.1 will record term auction funds as a
+line separate from “other loans to depository institutions,” the latter being the
+category under which primary, secondary, and seasonal credit is recorded. Thank
+you. I will turn now to Spence.
+MR. HILTON. As Sandy described, one way to structure a temporary term
+auction facility would be to hold regular auctions of twenty-eight-day term loans, for
+a period of approximately six months. If one auction were held every two weeks,
+then there would be two overlapping sets of loans outstanding at any one time.
+Auctions sizes would be shaped by demand and market conditions and by experience
+gained from preceding auctions. For the initial auctions, it’s difficult to gauge what
+
+9 of 51
+
+December 6, 2007
+
+10 of 51
+
+the appetite might be, as the whole program and the auction process itself would be
+somewhat novel. But initial auction sizes of up to $20 billion seem both realistic and
+large enough for one to expect them to have some real and immediate effect on
+markets.
+Being able to hold the first two auctions before the year-end would have an added
+benefit of relieving some of the pressure that has been building ahead of the year turn.
+The upcoming holiday calendar would definitely pose a challenge for scheduling, but
+it is doable. We propose that a first auction settle on December 20—a Thursday—
+with the auction itself held earlier that week, on Monday, December 17. The formal
+announcement of the auction would take place sometime before then. These would
+be twenty-eight-day term loans that would mature on January 17. A second auction
+would settle just one week later—on Thursday, December 27. Because of the
+Christmas holiday, which falls earlier that week, the auction itself would be held on
+December 20, the Thursday of the previous week. These would be thirty-five-day
+term loans that would mature on January 31. When the term loans arranged through
+these first two auctions matured, they could be replaced with new auctions of twentyeight-day term loans. This would then put the auctions on a biweekly schedule,
+which could then hold going forward.
+We are in a favorable position to accommodate even a very large buildup in
+outstanding term loans over the next month or so. To offset these loans on our
+balance sheet, we would run off some of the currently rather high level of RPs
+outstanding, and we would redeem a portion of our maturing bill holdings each week
+for a number of weeks. These activities could be supplemented with outright sales of
+bills and reverse RPs if needed.
+Reserve management through the transition period, including the upcoming yearend, is not without its potential challenges. Demand for TAF loans could prove to be
+unexpectedly light, in which case we would be left having to build up further our
+already high level of RPs outstanding through the year-end. By the same token,
+demand could be stronger than expected, while at the same time reserve supply from
+other sources might jump—say, from heavy use of the primary credit facility. If so,
+the advance notice we would have about TAF auction sizes due to the gap between
+the auction date and when they settle would buy us some time with which to organize
+a response. Brian will now conclude our presentation.
+MR. MADIGAN. Thanks, Spence. The staff recognizes that weighing the
+advantages and disadvantages of the various options is difficult. Choice of any of
+these options—or none—might be reasonable in the circumstances. Still, we believe
+that, for the reasons we have discussed, the adoption of a temporary TAF and the
+establishment of a swap line with the ECB at this time are warranted. As Bill
+discussed, conditions in term money markets have been deteriorating, and those
+strains are focused particularly on year-end. It seems likely that the proposed
+measures could be helpful in providing assurance to banks that funding will be
+available over year-end and could reduce the odds of gradual further deterioration or
+
+December 6, 2007
+
+11 of 51
+
+a sudden worsening of money market conditions. Should the Board and the FOMC
+approve these proposals, the Federal Reserve could announce them Wednesday
+morning in coordination with the foreign central banks that may be taking related
+actions. The coordinated announcements would help maximize the benefit of these
+measures. That concludes our prepared remarks.
+CHAIRMAN BERNANKE. Thank you very much. Are there questions for the staff?
+Okay. If there are no questions, I would like to make a couple of comments, just giving you my
+impression of this work, and then I would like to ask for a go-round and have people comment
+on the proposals. There are really two proposals: There is a TAF, term auction facility, and then
+there is a swap. Obviously, they are complementary as well.
+Brian was correct when he said that this is not primarily a liquidity issue we have; it is a
+credit and valuation issue. But we have all been following the markets, of course, and I do
+believe that liquidity is playing a role in the pressures that we are currently seeing. In particular,
+the normal providers of liquidity—such as banks, as Bill Dudley pointed out, but also money
+market mutual funds (we see what is happening to the Florida state fund), other relatively
+unsophisticated funds, or funds that are driven by retail investors—have withdrawn significantly
+from these markets. The result is that getting funding, particularly term funding, has become
+quite difficult.
+This has, I think, important costs. The fact that it is very hard to get funding more than
+overnight creates a lot of uncertainty and risk around the funding process. We are seeing
+elevated rates like LIBOR, which in turn is a reference rate that affects other contracts. Perhaps
+most important, if funding rates remain elevated, the risk of fire sales increases with knock-on
+effects in the rest of the system. Of course, as always, in proposing liquidity measures there are
+the usual moral hazard issues and so on. In my view, at this point, the imperative of trying to
+
+December 6, 2007
+
+12 of 51
+
+help markets function more normally and, therefore, support normal economic functioning is the
+stronger.
+As the staff described, we looked at a number of options for addressing this problem.
+One set of options relates to somehow expanding or extending the discount window—lowering
+the primary credit rate, for example. The fundamental issue there is that it is very hard to know
+how far to lower the rate. If you don’t lower it far enough, you don’t get any borrowers. If you
+lower it too much, you may get too many in the sense that a large amount of unplanned or
+unexpected borrowing creates significant problems for the Desk’s management of the federal
+funds rate. So to hope to achieve a significant scale, we need some method that will help us plan
+and give us some warning, some advance knowledge, of how much credit is likely to be
+extended. One possibility, incidentally, would be to use the discount window but to require
+advance notice or put other restrictions on the amount borrowed. We thought about that, but in
+the end, once the discount window is hedged about by all kinds of restrictions, it is not obvious
+that it is better than just going ahead and auctioning credit.
+So I do think, after much discussion with staff and colleagues, that the term auction
+facility is probably our best hope to try to improve, at least on the margin, the liquidity situation.
+By construction, it will lead to a predictable amount of lending. We know what the limit will be
+as we set up an auction, and we can take the view that, if in fact we are undersubscribed, that we
+will plan to use regular term repo operations to make up the difference. And so, again, we will
+have good knowledge of how much to account for. The question of the stigma is basically
+unknowable, but the fact that the reservation price will be low suggests that some banks may be
+able to justify coming to this auction facility as an economic measure and perhaps will reduce the
+stigma, although I certainly can’t guarantee that. We would announce this as a temporary
+
+December 6, 2007
+
+13 of 51
+
+measure. However, I would point out that other central banks do have facilities that are similar
+to this one. It may be, depending how well this works, that we may wish to make it a more
+normal part of our tool kit. If we were to do that, we would go out for comment and get the
+public’s reaction, but this does have the advantage that we can either keep it or take it back; or if
+it is particularly successful and demand is high, we can also scale it up because, again, if we can
+forecast the borrowing, we can account for that in our monetary policy implementation.
+Let me say a couple of words about the international aspect of this. With all of the work
+that we did—and I should say that the Reserve Banks were extremely helpful in the feedback and
+in doing some practice runs and analysis—I think we made the proposal a lot better from the last
+time we talked about it. But we have been talking about it strictly in terms of a domestic
+operation. You may recall that the last time we discussed this possibility we were considering a
+joint operation with the ECB and perhaps also with the Swiss National Bank. There is a problem
+with dollar funding in Europe. There is a shortage of dollars there early in the day, which often
+leads the funds rate to open high. It creates problems for our monetary policy implementation.
+It creates problems in other markets, like the foreign exchange swap market. We have believed
+for some time that it would be helpful if the ECB would enter a swap agreement with us to use
+the dollars to address some of those needs. They were unwilling to do that except in the context
+of some kind of broader operation, and they were willing, therefore, to do this joint operation
+that we described at the earlier meeting. For both technical and optical reasons, we are not
+proposing to include any other central banks in this auction. This would be a U.S.-only
+operation. However, as we went around and we informed other central banks about what we
+were planning, the ECB, which met today, came back to us and said that, even though they
+wouldn’t be part of the auction, they would be interested in a swap arrangement that would give
+
+December 6, 2007
+
+14 of 51
+
+them dollars as part of this overall effort to try to improve liquidity in dollar term funding
+markets.
+I think this is a positive step. Again, it would not create any significant operational
+problems for us. I think it would have greater impact in the marketplace, and so I would support
+that as well. We may also hear from the Swiss National Bank. We may have the Bank of
+England announce separately some sterling operations, which would be unrelated; but by
+announcing at the same time, we would be essentially conveying to the market that the major
+central banks are in communication and that we are working together to try to address some of
+these problems. This may not work. I don’t want to oversell it. We may not get a full bid. The
+amount may be too small to affect the markets. But I do think it is worth trying. I think it will
+send a good signal, and particularly I think the international cooperation aspect of this would be
+well received. But I don’t know for sure. If we do it, we are just going to have to give it a try
+and see what happens.
+Have you been taking names, Ms. Danker? Let’s start with President Hoenig.
+MR. HOENIG. Thank you, Mr. Chairman. I appreciate this proposal. I have just a
+couple of questions. They are really related to perhaps the announcement and to the idea of
+“temporary” but perhaps longer term than that, and to encouraging, if you will, the market or the
+banks to in fact use this out of the chute. The more the emphasis is on temporary, the more you
+continue to carry the stigma issue forward; and the more it is presented as a program that we are
+initiating that we might extend as our normal operation, the more it would mitigate the issue of
+stigma. I don’t know if you have or maybe someone on the staff has thought about this, and I
+would like your reaction to the issue of how we present this to get it as successful as possible out
+of the chute.
+
+December 6, 2007
+
+15 of 51
+
+CHAIRMAN BERNANKE. That is a good point and a good issue. The opposite
+concern is that, if we announce it as being permanent and it is not successful or there is no bid, it
+would obviously give us a problem as well. We have tried to split the difference and say that this
+may be permanent depending on need, on market conditions, and on response. If we do that, it
+would give us the opportunity to get feedback. I would note also that, if we do this, we will be
+doing it under essentially an emergency provision that allows us to change Regulation A without
+public comment. So that, generally speaking, would point to a temporary facility. But, again,
+we would be clear that we would be willing to make this permanent if the conditions suggest it
+and if the demand is there.
+MR. HOENIG. May I have one follow-up question to that? When it is announced, what
+is my flexibility in answering banks’ questions as to the minimum size of future bids? Right
+now it is at $10 million. You suggested, or the memo suggested, that it could go as low as $1
+million. I will get that question fairly quickly after this is announced. I don’t want to raise
+expectations, nor do I want to ignore questions. I don’t know if there is a balance on that, or
+maybe we say just, “We’ll wait and see.” I guess that may be the better answer? I see Brian
+responding.
+MR. MADIGAN. President Hoenig, that would be my inclination. I think we will have
+to just get some experience and see how this works before we can commit ourselves as to how
+the program might evolve.
+MR. HOENIG. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Poole.
+MR. POOLE. Thank you. I have four questions that may illustrate that I really don’t
+understand this at all. First, if we put $20 billion in through the term auction, aren’t we going to
+
+December 6, 2007
+
+16 of 51
+
+have to take $20 billion out some other way to keep the fed funds rate at the target? That is one
+question. Second, if you look at the bank balance sheets, they have a very large level of
+negotiable CDs outstanding, presumably of many different maturities. Clearly, it could span
+across the year. Is there any constraint on banks selling more large negotiable CDs? Is this just
+a matter of providing a cheaper source of credit to them than what they would have available in
+the market? Third, with respect to the ECB, doesn’t the ECB have very large dollar reserve
+holdings? What does the swap give them that they don’t already have on deposit at the Federal
+Reserve Bank of New York or in their holdings of Treasuries? Then, fourth, early on there was a
+discussion of the balance sheet constraints. Some banks obviously need more capital. Some
+banks have been raising more capital. Would the term auction facility deal with that problem at
+all? I don’t think it would. It doesn’t seem to me that it would do the job there. It doesn’t
+substitute for bank capital. So those are my four questions.
+CHAIRMAN BERNANKE. Could I ask staff, should we go around first and then ask
+questions? Would that be better? Would that be okay, President Poole, if we just do our goround and then come back?
+MR. POOLE. Sure, any way. It’s okay.
+CHAIRMAN BERNANKE. Okay. We will keep a record of questions and answer them
+all. Let’s see, who is next? President Stern.
+MR. STERN. I was actually about to offer up a question as well, but if you want to defer
+those, that’s fine.
+CHAIRMAN BERNANKE. Well, ask the question, and we will just try to answer them
+collectively.
+
+December 6, 2007
+
+17 of 51
+
+MR. STERN. Well, it wasn’t clear to me from what you said whether the ECB wanted
+the swap line only if we subsequently went ahead with the TAF or whether or not we went ahead
+with the TAF. I am just not sure.
+CHAIRMAN BERNANKE. Only if we use the TAF.
+MR. STERN. Okay. So it’s a package deal.
+CHAIRMAN BERNANKE. That’s right.
+MR. STERN. Thank you.
+CHAIRMAN BERNANKE. President Lockhart.
+MR. LOCKHART. Well, I will comment in support of both the TAF and the swap
+facility. I think the circumstances warrant action. You have laid out the risks, the uncertainties,
+and as you called it, Chairman Bernanke, the unknowables. I think they are there but not
+extreme. I think this will help at a technical level and potentially at a symbolic level. This has
+value in addressing the confidence equation. In the run-up to the FOMC, I commonly speak to a
+number of people in the financial community, and I think this will help. So to me this is a
+pragmatic response to the market situation, which, as you characterize it, we don’t know if it will
+work, but we will see if it works. I also applaud the ability to get something done in the case of
+two auctions before year-end. I think that is very helpful. So I am interested in the answers to
+the questions that have been posed and other questions that will come, but for go-round
+purposes, I am supportive of both.
+CHAIRMAN BERNANKE. You know, I’m thinking that maybe we should try to
+respond to President Poole. Would that be okay?
+MR. MADIGAN. Certainly. Spence or Bill may want to respond to the first question
+with regard to the $20 billion in President Poole’s example. Let me just respond to some of the
+
+December 6, 2007
+
+18 of 51
+
+other questions that President Poole raised. He noted that banks have a lot of CDs outstanding
+and asked whether they couldn’t just raise additional funds in the wholesale market. I think the
+basic issue is that their cost of funding in the wholesale market is high and rising and that those
+markets are becoming increasingly thin, almost day by day. So there are questions as to whether
+or not they might actually experience funding difficulties over the next days, weeks, or months.
+I’m not sure I fully got President Poole’s question, but I think we all agree that this facility
+doesn’t address directly the capital issue or the credit loss issue. It simply will help provide
+additional term funding to banks and help banks be more assured of their ability to access funds.
+Let me ask either Nathan or Bill next to address the question of the ECB’s reserves.
+MR. SHEETS. As to the question regarding the ECB’s reserves—indeed, the euro
+system has roughly $200 billion of reserves, so it is substantial. This concern was raised in a
+memo from Karen Johnson and Bill Dudley to the FOMC in September. Our response and our
+sense about this, however, are that pursuing some sort of a cooperative arrangement with the
+ECB would provide us with more advance information about what the ECB is planning to do and
+would help facilitate monetary control. So we see some advantages arising from cooperation and
+coordination as opposed to their injecting the reserves just on their own.
+CHAIRMAN BERNANKE. Spence or someone, would you like to address the first
+question, which is, Won’t we have to take out the same amount through some other means?
+MR. DUDLEY. Yes, I am happy to address that, Mr. Chairman. Absolutely. If we put
+$20 billion in this way, we have to take $20 billion out. But this would change the composition
+of the banking system’s balance sheet, and that’s how it is going to have its potential effect. We
+cannot change the amount of reserves in the system if we want to keep the federal funds rate
+
+December 6, 2007
+
+19 of 51
+
+anchored at the target. But we can change the composition of our balance sheet—and of the
+banking system’s balance sheet by extension—and that may have some beneficial effect.
+CHAIRMAN BERNANKE. Okay. President Fisher.
+MR. FISHER. Thank you, Mr. Chairman. I have a couple of questions, but first I want
+to preface them with thanking the staff, you, and others who have improved this proposal. I was
+a skeptic the last time around and was worried about certain issues and appreciate very much
+being heard. Like President Lockhart, I am in favor of both the swap and the proposal for the
+TAF. I do have some questions about the TAF, but I would like to preface them with just a
+statement to put my questions in perspective.
+As you know, in my District we went through a period of enormous turmoil—bank
+failures. You haven’t seen the person, Bob Hankins, seated on my left—I guess your right—
+before. He is a battle-scarred veteran. He is one of the few people who had to sit down and
+close and call a loan to two of the major banks in our system. The reason I mention it is that we
+have had a tremendous period of tranquility over the past fifteen or so years, and one reason I am
+in favor of this facility is that we are presented with very different circumstances currently. The
+markets are different, the pressures on us are different, and I believe the threats to the system that
+are posed by the mistakes that have been made are significant, and we need to figure out new
+tools to utilize. The improvement in this tool from when it was first crafted and the architecture
+that was suggested is significant, and I want to applaud and support the effort.
+I think a couple of things are very important against the background of what I just told
+you. This is really a question for the staff. Having just gone through as we did with Sandy the
+auction parameters—on the prepayment row there, it says, “Each Reserve Bank might be
+provided discretion.” Given our experience, I would say that the words have to be “will be
+
+December 6, 2007
+
+20 of 51
+
+provided discretion.” To me, that is critical. We have been through it before here, and I think
+the banks have to have the option to make a loan callable.
+On the minimum-bid rate, I am a little worried about using the OIS, and I wonder if we
+would consider using the T-bill or something simpler. The reason is that we have to go through
+a huge educative effort if we use the OIS. I understand that at a recent meeting of the SCRM
+(Subcommittee on Credit and Risk Management) nobody within our own SCRM knew what the
+OIS was or they at least had to stretch to think about what it was. If we don’t know what it is—
+and this is a sophisticated group of people—how do we explain it to the banks, to our own staff,
+et cetera? I just wonder if we couldn’t use something other than OIS or if there is a compelling
+logic to using the OIS.
+I want to come back to Tom Hoenig’s point on the noncompetitive tenders. As you
+know, I am very sensitive to that issue. I think we are subject to public criticism unless we get
+down to the smaller banks. I would imagine that we will hear a lot during any comment period
+after we initiate this project, and we have to be ready with an answer there. I want to make sure
+that we do take care of the smaller banks.
+I would like to mention one other issue, and that is with regard to eligible depositories.
+This is a new facility. We are getting into the business of term lending. We are doing so under
+unusual circumstances. I wonder whether we shouldn’t have some constraints, at least as this
+institution evolves. Even if we are calling it temporary, I would be in favor of making it as
+permanent as possible, once we get the kinks ironed out, by limiting those that can come to us at
+the beginning and then broadening it out. I am not talking about big banks versus little banks.
+But I am wondering if we shouldn’t limit this thing just to those with CAMELS ratings of 1 or 2
+rather than all comers. I think that might take some of the stigma out of the system, by the way.
+
+December 6, 2007
+
+21 of 51
+
+So those are really the points that I wish to make at this juncture. I support the initiative.
+I would like to get answers to those questions. I guess I am satisfied by the answer that was
+given to Bill Poole’s question on the need for this in addition to current ECB capacity. Thank
+you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Just a comment on the OIS—it is kind of the
+natural benchmark against which usually one-month money is measured. I assume that bidders
+bidding for billions of dollars might be able to figure out what it means. But, in particular, the
+one-month T-bill rate has been very erratic because of ebbs and flows of demand for T-bills, and
+its liquidity demand has fluctuated. There might be other options—and I think we are open to
+doing that or modifying on the fly—but I think the T-bill rate at this time would be not such a
+great choice. I agree with you—let me just say that we have to recognize the political realities of
+small banks. If we need to expand the accessibility, I think that is something we should seriously
+consider. We haven’t considered restricting beyond the primary credit window, but in terms of
+the CAMELS ratings, it is something to think about.
+MR. FISHER. And on the callable issue?
+CHAIRMAN BERNANKE. Can I get some help on that?
+MR. MADIGAN. Sandy, do you want to respond to that?
+MS. KRIEGER. Under OC-10, a loan is callable, so we didn’t think anything in addition
+needed to be said. So, yes, Reserve Banks have the opportunity to call a loan if they feel
+insecure already, and these will be governed by OC-10. We want that term to be more explicit.
+“Might” was not the best choice of words there.
+MR. FISHER. Thank you very much. On the OIS thing, again, I would just ask you to
+consider if there is not another metric we might use.
+
+December 6, 2007
+
+22 of 51
+
+MR. DUDLEY. If I could just interject on the OIS—the OIS is really the expected
+federal funds rate. So I think that, if we explain it in those words rather than as the overnight
+index swap rate, it will seem a little less mysterious to people.
+MS. KRIEGER. Finally, just on the ratings, the seasonal program and the temporary
+term primary credit program use as their criteria CAMELS 1, 2, and 3. So we need a really
+strong rationale to distinguish ourselves. We would also, then, need to find a comparable
+benchmark when you go to FBOs (Foreign Banking Organizations), where we have SOSA
+(Strength of Support Assessment) 1 and 2 and ROCA (Risk management, Operational controls,
+Compliance, and Assessment quality) ratings. So it could be a bit complicated to administer a
+comparable system, given how harsh the ratings are and how they don’t really allow for that kind
+of intricacy. But, again, Reserve Banks do reserve the right not to make loans to institutions that
+they don’t believe are sound or where they feel that the supervisory ratings are not accurate
+reflections. We hope that would provide sufficient comfort to a Reserve Bank speaking with its
+depository institutions.
+CHAIRMAN BERNANKE. Thank you. President Rosengren.
+MR. ROSENGREN. I agree that liquidity is a serious problem and getting worse. I think
+in the charts that were sent around the jump in the one-month LIBOR, when it moved across the
+end-of-the-year settlement, was an example of how serious the liquidity problems are viewed at
+the end of the year. A multipronged approach to addressing this issue probably does make a lot
+of sense. I would personally be in favor of reducing the primary rate relative to the fed funds
+rate. I, too, am skeptical that, as long as there is a penalty rate, it will avoid the stigma issue, but
+it might actually help cap how large the spread gets at the end of the year. I strongly support the
+
+December 6, 2007
+
+23 of 51
+
+TAF. I strongly support the swap lines. The only question I do have for the staff is whether they
+have any observations on how the Europeans avoid the stigma issue. Thank you.
+CHAIRMAN BERNANKE. Anybody want to try?
+MR. MADIGAN. Bill, do you want to take that one?
+MR. DUDLEY. Yes. I just wrote a memo about stigma for the BIS. I guess I should
+take it. Our understanding is that one reason that the ECB standing facility doesn’t have a stigma
+is history. It doesn’t have the history that we had when the discount rate was below the target
+federal funds rate, and so the discount rate was essentially administered, and you were not
+supposed to use the discount rate on a frequent basis. Their standing facility doesn’t have any
+such history, and therefore they seem to have avoided stigma. I think what that tells you, in part,
+is that stigma is very stable. If you start with stigma, you are probably going to have persistent
+stigma. And if you don’t start with stigma, you may be able to avoid stigma altogether.
+CHAIRMAN BERNANKE. Governor Kohn.
+MR. KOHN. Thank you, Mr. Chairman. Having listened to other central bankers talk
+about this a couple weeks ago, I think other central banks, including the Bank of England, are
+experiencing the same stigma problem. The issue is having both what we would call a primary
+and a secondary discount window. If a bank comes in to the primary discount window, other
+people might suspect that it is really in for the secondary window—that it is really in for
+emergency credit. So having both of those side by side has created problems for other central
+banks as well, even if it hasn’t for the euro area.
+CHAIRMAN BERNANKE. President Poole, did you want to speak again?
+MR. POOLE. Yes, if I may. I would like someone to explain what is wrong with the
+following argument. It is the sort of argument I would use if I were teaching an undergraduate
+
+December 6, 2007
+
+24 of 51
+
+money and banking course. Let’s suppose—I use $20 billion as the example, but pick any
+number you want—$20 billion goes through the TAF. Domestically chartered commercial
+banks in the United States have about $1 trillion of large CDs outstanding. So let’s suppose that
+the banks have $20 billion less of large CDs. It doesn’t change anything at the margin in terms
+of banks’ funding costs. If they need to raise any additional funds, this is a lump sum that we put
+out in this way. There’s a reason we are doing it that way, presumably—a determined amount.
+But at the margin it doesn’t do anything to change banks’ funding costs. It produces a one-shot
+reduction in their costs because they have $20 billion of cheaper funds as opposed to large CDs
+in the wholesale market. But it also has another effect, if the funding costs are related to credit
+quality concerns over banks, because we would take a substantial chunk of good collateral and
+leave a smaller amount of assets for other creditors of banks. So I really don’t understand how
+this should be expected to change funding costs for banks at the margin.
+CHAIRMAN BERNANKE. One way to think about it is that you have money market
+mutual funds that were willing to provide funding for, say, mortgage-backed securities. They are
+now unwilling to provide funding for those types of assets at essentially any price or at least for
+any reasonable price. The Fed would, therefore, be funding the mortgage-backed securities and
+providing the bank with Treasury securities in exchange, which could be funded from the money
+market mutual fund because that’s the only thing they’re willing to lend against. Again, the
+presumption is that some assets are more liquid and easily fundable than others. We are
+changing our balance sheet to hold heavily collateralized but nevertheless more-illiquid assets
+and replacing them in the banks’ balance sheets with Treasury securities.
+MR. POOLE. But you’re not speaking to my point about what it does to bank funding at
+the margin.
+
+December 6, 2007
+
+25 of 51
+
+CHAIRMAN BERNANKE. Well, this may not be big enough if that’s the question, and
+we may be able to scale it up somewhat. That’s one of the advantages of this—that we can scale
+it up potentially quite a bit. But it’s meant to offset to some extent the withdrawal of supply
+from normal liquidity providers. It may not be big enough. It’s possible. Let me go to President
+Stern.
+MR. STERN. Thank you, Mr. Chairman. Well, I have serious misgivings about this
+proposal and wouldn’t proceed with it at this time. There are several reasons for that. I won’t go
+through all of them. Let me just mention a few.
+MS. DANKER. Excuse me. Could everyone make sure that they’re muted, please?
+Thank you.
+MR. STERN. Thank you, Debbie. I couldn’t even hear myself there for a minute. The
+first has to do with the diagnosis of the problem. I don’t pretend to have great insight into that,
+but my sense is that this is more of a capital, balance sheet, credit loss problem than a liquidity
+problem per se, and we haven’t even talked about the capital position of some of the major
+institutions, which presumably we are concerned with here. So I guess I would say at a
+minimum that might be helpful. Second, I’m uncomfortable with reacting to the wide spreads
+we’re observing in the marketplace. It wasn’t very many months ago that we were observing
+very narrow quality spreads, for example, and we did some muttering about that, but we certainly
+chose not to try to have an effect. I guess I’m inherently cautious and conservative about that.
+The final point I would make—and the reason for my concern—is that I presume our worry here
+is really that what we’re observing in the financial markets is going to back up. Maybe it’s
+already backing up and affecting real activity one way or the other. We have a meeting next
+
+December 6, 2007
+
+26 of 51
+
+week, when we can discuss those matters and decide how best to address that, and that seems to
+me to be ultimately the overriding issue. Thank you.
+CHAIRMAN BERNANKE. Thank you. President Pianalto
+MS. PIANALTO. Thank you, Mr. Chairman. I, first of all, want to start off with
+commending the staff for addressing many of the issues that were raised the last time we talked
+about this proposal. However, I still have two remaining concerns regarding adopting this
+facility at this time. The first concern has to do with the timing of the facility. In the staff’s
+memo and then in Brian’s comments, there was a concern about the limited fashion in which this
+facility can be used before year-end. This could imply that the facility may be inadequate to
+address some of these current pressures and those to come in the next few weeks. I also have
+some apprehension about our ability to educate the banks in a timely fashion about this facility.
+That’s my first concern, the timing: Is this going to be enough quickly enough? My second
+concern, and it relates to all three proposals, has to do with the stigma. We’ve talked about that
+extensively here today—whether this facility is going to help deal with the stigma effect.
+I have been leaning toward supporting a proposal that would narrow the spread between
+the primary credit rate and the fed funds rate. One reason that I was leaning toward it is that, in
+recent days, several of the bankers in my District with whom I talked made that suggestion,
+saying that it would go a long way in their eyes to alleviate some of their funding pressures. But
+they didn’t have the option of commenting on this term auction facility. I didn’t present it as an
+alternative. I don’t know whether, if they had been presented with this alternative, they would
+have preferred it. The bottom line is that I was leaning toward supporting the narrowing of the
+spread between the primary credit rate and the fed funds rate; however, I do believe that we need
+to take some action to alleviate some of the funding pressures that we’re seeing in financial
+
+December 6, 2007
+
+27 of 51
+
+markets. So I support moving ahead with the TAF and the swap agreement with the ECB.
+Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Would someone from New York like to
+comment on the question of educating the banks in the time frame?
+MS. KRIEGER. Well, we’re preparing some Qs and As, which we would put on the
+Board’s website, and contemplating an open conference call, which we would tape and make
+available to institutions that couldn’t participate; and of course, the Reserve Banks would be
+answering questions for the banks in their Districts. We can imagine that we can get the word
+out to banks in the time that we have for this.
+CHAIRMAN BERNANKE. President Fisher, two-handed.
+MR. FISHER. Do we know how many banks are eligible, what the number is? We talk
+about education. I’m just curious. What’s the universe?
+MS. KRIEGER. I don’t have that number at my fingertips.
+MR. DUDLEY. Presumably it’s around 1,000.
+MS. KRIEGER. It’s a large number of institutions. Right now, they need the borrowing
+documents, and then, of course, if they already have collateral in place, they’re eligible.
+Institutions that don’t have collateral in place presumably could bring it in a short period if they
+have some of the more easily pledgeable types of collateral. So I think the universe is pretty big.
+But that said, I think that the Reserve Banks know their institutions and would be able to
+communicate with the institutions that are interested.
+CHAIRMAN BERNANKE. Are there any other presidents who would like to speak?
+President Lacker.
+
+December 6, 2007
+
+28 of 51
+
+MR. LACKER. I have strong reservations about this term auction facility. I oppose
+proceeding at this time. I expressed many of my concerns in a letter that I circulated yesterday.
+The gist of it is that I questioned the need for this. I don’t think our willingness to keep the
+overnight fed funds rate low and near the target, especially over year-end, is in question. If it
+were in question, I think something more like what we did about the millennium change would
+be appropriate. It’s not obvious that there’s an apparent inefficiency in markets. Banks are
+paying a lot for insurance against term funding costs to them going up, and a lot of banks are
+forgoing large spreads in order to marshal their resources. It seems as though they have
+potentially very legitimate reasons to do so. Now LIBOR is 50 basis points over the discount
+rate, so it’s not obvious that the rate we charge for discount window lending is a significant
+factor and is germane here. The Europeans and the British markets have the same problem, and
+they have very different ways of injecting reserves that suggest that maybe this isn’t something
+that our discount window really needs to address. I pointed out in my letter that the Federal
+Home Loan Banks are a very significant source of liquidity to banks, and some of the largest
+banks are some of the largest borrowers at the Federal Home Loan Banks. They’ve increased
+their lending tremendously. The lending is on virtually the same terms as the lending we
+propose here. So it’s not obvious to me that banks have any inability to obtain term funding
+from a government-subsidized entity. I don’t think this lending is going to alleviate balance
+sheet pressure, and I think balance sheet pressure is at the heart of what’s going on here.
+More broadly, this sets an unfortunate precedent, I think. It is targeting credit to a narrow
+segment of the market—it will be subsidized credit to the riskiest borrowers, who are obviously
+going to be willing to pay the most for this. It harkens back to Operation Twist in the early
+1960s, which I don’t think was a well-thought-out policy initiative. I understand that the urge to
+
+December 6, 2007
+
+29 of 51
+
+act is strong at times like this, but I think we might need to recognize that the financial system is
+coping with genuinely serious and difficult issues, and this might be the normal way a financial
+system copes with very serious difficulties such as they are coping with now. So while we’d like
+to see financial systems exhibit the behavior they exhibit in normal times, I’m not sure the
+fundamentals are normal right now, and I’m not sure this isn’t the way financial markets
+normally ought to be expected to behave at a time like this. So I oppose this facility at this time.
+CHAIRMAN BERNANKE. Okay. Thank you. President Plosser. President Plosser, do
+you have your mike on?
+MR. PLOSSER. I do now. Too many buttons. I have a couple of questions and a couple
+of comments that I’d like to put on the table and see if I can get to a greater comfort level here. I
+certainly have no problem with the swap arrangement. I think that’s pretty straightforward. I
+actually was kind of in the same camp as President Pianalto in thinking that one of the
+straightforward ways to deal with some of this was to go ahead and lower the penalty rate at the
+discount window. I still think that’s probably a good idea. I’m not sure we’ll entirely eliminate
+stigma, but price can do remarkable things to stigma at times. So I think that’s an appropriate
+tool we have.
+I do have two reservations. My first is a question about the TAF. I’m not quite clear
+why we can’t do what we have done in the past and solve some of this year-end phenomenon
+with just term repurchase agreements through open market operations. We did some of that in
+the past. If I look at chart 6 that Bill Dudley circulated, it certainly seems to me that the biggest
+single hunk of this problem is a year-end phenomenon, if you look at the futures markets. So I
+don’t know why we don’t do what we can through open market operations and have some more
+
+December 6, 2007
+
+30 of 51
+
+term RPs to help deal with this, much as we did in Y2K or in other periods in the past. So I’d
+like some distinction there.
+Both of those tools, whether it be reducing the penalty rate or using open market
+operations of a term nature, are tools that we already have at our disposal, and we can use them
+in different ways as we see fit. I don’t have a problem with the term facility in principle. I am
+more troubled, I think, than the staff is about the reaction of the markets to our putting this out
+there. I think it will be seen as an emergency step—a panic, if you will—on the part of central
+banks to do something about something. I’m not sure it will be interpreted entirely positively. It
+may even be interpreted as our flailing about trying to do something about a particular year-end
+problem. It would be particularly troubling, it seems to me, since the timing of this is that, if the
+biggest hunk of this problem is year-end, we have time to do only one auction between now and
+year-end as I heard it described, and if that doesn’t work—I think, Mr. Chairman, you said this—
+we could go into the RP market and do more if we had to make up more. So I have some doubts
+about how this will be interpreted—whether it will be interpreted as our being smart and crafty
+or as our being panicky and flying off the handle in a panic mode. I’m not sure why we can’t use
+term RPs to solve some of this problem over year-end. I would be happier, I think, cutting the
+discount rate and then going ahead and maybe putting the TAF out for public comment now. So
+we could put this facility on a more permanent basis and have it on the shelf—put it out for
+public comment, let the markets know that we are considering it, go through the whole process,
+and then institute it later if we choose to do so without doing it in such a panicky problemsolving mode. Those are my observations. Thank you.
+CHAIRMAN BERNANKE. As we described it, we would actually have two auctions
+before year-end. As far as the market reaction, you’re correct—it is hard to anticipate. But there
+
+December 6, 2007
+
+31 of 51
+
+has been a lot of media and other speculation that we’re going to do something. In fact, this
+specific idea has been mentioned in a number of cases. So it’s not quite clear whether doing
+something or not doing something is the riskier in terms of what markets are expecting, and I
+don’t really have anything else to add to that. I believe the intention would be to fill the gap with
+term RPs if there’s not demand for this. But there is, of course, a difference in terms of, again,
+the balance sheet of whether—you can think of it this way—we’re using central bank money to
+fund Treasury securities or using central bank money to fund less-liquid assets. The presumption
+here is that funding less-liquid assets on the margin—and again, all the points that have been
+made are well taken—is more helpful. But we would, in any case, use term RPs to fill any gap
+that was remaining. President Plosser, did you want to continue?
+MR. PLOSSER. No. I guess the answer I hear is that this really is not about a term. It’s
+about the Fed taking on different assets and different types of collateral.
+CHAIRMAN BERNANKE. It is about both. The other issue is with the spread between
+the discount rate and the funds rate—again, I agree with you. That is simpler, more
+straightforward, and easier to understand. The problem is that we don’t know what spread
+balances the two risks—one risk being no takers or no interest because the stigma is too great
+and the other risk being so many takers that we are unable to offset the effects of the borrowing
+in our management of the funds rate. So there was a lot of discussion, but operationally it seems
+that there’s an advantage to knowing in advance how much the limit of lending might be. I
+guess I’d like to say that, beyond all these valid and interesting points, there seems to be an
+interest from our international partners in working with us with the swap, with activities in other
+countries, and this TAF seems to be the thing that makes them eager to participate. They were
+
+December 6, 2007
+
+32 of 51
+
+not interested, explicitly, in participating if we were involving only a discount rate cut or any
+other action. So it has at least that benefit. President Evans.
+MR. EVANS. Thank you, Mr. Chairman. I can support both the temporary term auction
+facility and the swap lines. I think that the Board and the Open Market Desk have done a
+number of things already to try to make it more attractive either to borrow at the window or to
+provide additional liquidity, which can help us with these issues in the markets at the end of the
+year. I agree with the view that these additional instruments are useful and should help with that
+normal functioning. As I understand it, of course, Bill Dudley will still be charged with hitting
+our federal funds rate target, and our monetary policy targets will be in place; and as I see it, the
+more we do everything that we can to address the year-end problems with these additional
+instruments, the more we can have the Federal Open Market Committee focus more squarely on
+the macro dual mandate objectives as we look at the economy for maximum employment and
+price stability. So I can support this. Thanks.
+CHAIRMAN BERNANKE. Thank you. President Yellen.
+MS. YELLEN. Thank you, Mr. Chairman. I support the swap arrangement, and I can
+also support the TAF. In thinking about the TAF, I tried to weight the potential costs and
+benefits of the program. It hasn’t been an easy task given the uncertainty about what’s
+responsible for the run-up in term funding spreads. So I thought about potential costs. I
+certainly don’t see them as particularly large. It is true that it may not have the desired effects,
+and one could argue that the Fed’s reputation would be tarnished by a failure to succeed, but I
+didn’t find this compelling. On the contrary, it seems to me that taking an innovative and
+proactive approach does a much better job of enhancing our reputation. The greater threat is not
+being willing to cope with what clearly is a very difficult and disturbed situation in money
+
+December 6, 2007
+
+33 of 51
+
+markets. I congratulate the staff. I think this does represent innovative thinking. On the cost
+side also, the TAF would subsidize probably low-quality borrowers, but I think that’s a side
+effect that any intervention that’s aimed at improving liquidity will have, and that’s an
+acceptable price to pay.
+On the benefit side, though, I guess I’m concerned that the benefits won’t be particularly
+large. I agree with the comments that have been made. I don’t quite see how the TAF solves the
+stigma problem. I think there will be stigma as long as the equilibrium rate ends up being a
+penalty rate, and I think that’s likely to deter bidding. So I guess I don’t really see that this is
+very advantageous—the TAF relative to changing the spread of the discount rate and the funds
+rate—but I do see the merit in the arguments that you’ve made about the predictability of the
+quantity of discount window lending and the desirability of international cooperation.
+I would say that to my mind the principal risk in introducing the TAF is that it may be
+seen by the Committee as a substitute for standard monetary policy action since I see it as
+essentially a kind of sterilized intervention that may have some but not a huge effect. I’m also
+concerned that it won’t change the cost of funding at the margin, as President Poole argued. I
+don’t expect the TAF to have large effects on financial conditions, and so it’s not going to affect
+my own views very much on what the appropriate policy measures are to take when we meet
+next week.
+CHAIRMAN BERNANKE. Just for the record, we would announce this on Wednesday
+morning, after the FOMC meeting. So the market would already know whatever action we have
+taken on Tuesday. Thank you. Vice Chairman, did you want to comment?
+VICE CHAIRMAN GEITHNER. Thank you, Mr. Chairman. Let me just make a few
+quick points. I think what’s happening in markets now is very serious and really potentially very
+
+December 6, 2007
+
+34 of 51
+
+dangerous. Its fundamental cause, as many of you have said, is this interaction between macro
+uncertainty and fear about the likely bout ahead for housing and the U.S. economy and the
+attendant losses for financial institutions. That set of concerns is inducing a lot of behavior by
+institutions in financial markets that is manifest in the really acute pressures outlined in Bill’s
+charts. I think monetary policy is going to have to bear most of the burden for both responding
+to the risks to the economy presented by this dynamic and arresting some of the behavioral
+dynamic that we see manifest in markets today. But it is important that we try to see whether we
+can help mitigate some of the liquidity problems that are here. I think it is worth the attempt.
+What we’re really trying to do is to figure out a way to change the composition of our balance
+sheet in terms of both the range of collateral we take and the amount we do at term, in a way to
+be more responsive and more effective in mitigating these kinds of pressures.
+We do have two examples in the experience of other central banks about the capacity to
+use that greater flexibility and its impact on, for example, term premiums in the interbank
+market. Although what President Lacker said is right—that the spreads in the euro unsecured
+interbank market at term are also quite elevated—they are now 25 to 30 basis points below ours,
+and you have to think about the FHLB borrowing, too, in the context of how our markets work.
+But if you look at Australia, too, and what they’ve done in the past three months, you have
+another example of a central bank that has changed the composition of its balance sheet quite
+significantly and, in effect, broadened the range of collateral and of counterparties it deals with.
+They have had a more substantial effect in mitigating these kinds of pressures in their markets.
+Now, they don’t prove the proposition about how much impact we could have in this context. In
+some sense, I think the only effect it might have is just to buy some protection, some insurance,
+against the risk that this deteriorates much further from present conditions, complicates further
+
+December 6, 2007
+
+35 of 51
+
+the way monetary policy will work going forward, and undermines further the effectiveness of
+other monetary policy actions we take.
+It’s really important to recognize that, although much of what you’re seeing in markets is
+just a normalization of risk premiums to what is likely to be more appropriate given the increased
+macro uncertainty, I think it really is extreme. The financial system—because of the shortening
+maturity, because of the great uncertainty banks face in what they’re going to have to fund in
+terms of contingent commitments they made, because of the much more limited ability they have
+to finance or to liquefy parts of their balance sheets—is operating with a thinner margin. There’s
+more uncertainty for all financial market participants now about how they might deal with some
+adverse shock to funding, and that means we are all living with a greater risk that this would
+deteriorate much more sharply and force us to do much more dramatic actions to arrest the
+potential damage.
+I think that many of us felt that the simpler, neater, more conservative, traditional, and
+easier-to-explain option would be to narrow the spread further between the primary discount rate
+and the fed funds rate. But as the Chairman said—I think correctly—that is actually the less
+conservative option in many ways because it’s possible that with a modest or substantial
+reduction we would face an avalanche of demand for borrowing from that change. The effect on
+confidence of that revealed demand for liquidity could itself be damaging to confidence, apart
+from the complications it would present to the Desk in managing. So as the Chairman said,
+unless you ration significantly what people could take at the discount window in that option, you
+have, in fact, what I think is the less conservative option and an option that makes it much harder
+for us to manage the potential negative concerns that come with this.
+
+December 6, 2007
+
+36 of 51
+
+Is it possible that the markets would work through this fine on their own without our
+having to live with excessive risks? It certainly is possible, but I would not minimize the extent
+of the pressures revealed in these risk premiums today, the implications they pose for the
+functioning of the financial system, and the potential damage they might do to our capacity to
+use monetary policy to affect the fundamental risks driving this behavior. So I, of course,
+support both of these options. I think it’s appropriate that we not have too high expectations
+about what effects they might have. The effects may not be visible for some time. They may, in
+fact, at best provide only a bit of comfort that we might not see further erosion from current
+levels. But I think still there’s value in the insurance they might provide against the risk of
+substantial further deterioration.
+CHAIRMAN BERNANKE. Thank you. Governor Kohn.
+MR. KOHN. Thank you, Mr. Chairman. I also support the implementation of the TAF
+and the swap. I agree that it might not work or the effect might be very small around the margin.
+It doesn’t address the capital issue, as President Stern and others have pointed out. The size
+might not be large enough to have a major effect. Ordinarily, changing our balance sheet
+composition really shouldn’t affect very much. Someone mentioned Operation Twist, and there
+is, I think, an element of moral hazard in lending against illiquid collateral without a premium on
+it. Ordinarily I would think we ought to charge extra for liquefying illiquid collateral, but I don’t
+think these are ordinary times. I agree with Vice Chairman Geithner that we’re seeing a lot of
+fear and caution out there. Institutions are protecting themselves against tail risk and against a
+true Knightian uncertainty that they can’t price and don’t know how to protect themselves
+against. This is macroeconomic; this is microeconomic; where are the losses? In that context,
+they are being very, very cautious and very, very conservative. In such a context of a disruption
+
+December 6, 2007
+
+37 of 51
+
+to the normal functioning of the markets, I do think that changing the composition of our balance
+sheet and liquefying these illiquid assets has a chance of having some success in addressing these
+issues. I see it as by no means a substitute for monetary policy—that is, for changing the federal
+funds rate—but rather as a complement. I like the idea of addressing the liquidity issue directly
+rather than, say, cutting the federal funds rate even more than we otherwise would. I think
+keeping the federal funds rate part of monetary policy focused on the medium-term macro
+outlook is the way to go, and if this helps a little bit around the edges, if it addresses the liquidity
+issue, then I think it will help us keep monetary policy focused where it should be.
+The current discount window isn’t working. Bagehot said lend freely at a penalty rate.
+But Bagehot didn’t think about the fact that the banks wouldn’t want to borrow. It’s hard to lend
+freely if no one wants to borrow in a crisis. Also, the stigma has impaired the operations of our
+normal discount window, and I do think this facility has a chance of having less stigma attached
+to it. It will be harder to identify institutions. Part of the problem with the discount window is
+that institutions bid heavily in markets and then they drop out when they go to the discount
+window. But this isn’t about that. This is about submitting bids on what was a Tuesday—or a
+Monday, whatever day it was—for payment on Thursday. So you can’t mistake this for an
+emergency source of funds. This is more an economic decision that banks will make, and I think
+it will be perceived as that. It won’t be visible in the market. It will be part of a larger pool and
+a different bidding operation, so I think there’s at least a chance that there will be a lot less
+stigma attached to this.
+Like the Chairman, I like the fact that this is part of or could be part of an international
+effort. I think that helps to reduce, but not eliminate, the possibility that this would be seen as
+emergency actions that were taken because we’re concerned about one or two major financial
+
+December 6, 2007
+
+38 of 51
+
+institutions. When a lot of central banks are doing the same thing, I think it would be seen as a
+problem across lots of different markets and not centered in the U.S. market. So I think that
+helps to reduce the downside risk of the reaction of markets that we are somehow panicking. I
+think going together with everyone else helps to damp that down. So I agree—it isn’t obvious
+that this will work. I think that it has a chance of helping a little around the edges and, under the
+circumstances, we ought to give it a try. Thank you, Mr. Chairman.
+CHAIRMAN BERNANKE. Thank you. Governor Warsh.
+MR. WARSH. Thank you, Mr. Chairman. Let me just highlight a few points. First, on
+the diagnosis of exactly what’s going on in the financial markets, I do think that the deterioration
+of the financial markets since we last met has been quite remarkable and quite profound. That
+doesn’t mean that it couldn’t work itself out, but this is a turn that is likely to have some impact
+on the real economy. There is risk that, if we were to let the current dysfunctional markets
+persist through year-end, we could be having a meeting like this videoconference. I think it puts
+us in a materially worse position, which gives me a presumption that we need to think
+proactively, as the staff has done here going on four months, to try to come up with some
+medicine to cure what ails the patient.
+I don’t think that this is predominantly a year-end phenomenon regarding the term
+funding markets. We have a bit of a natural experiment on that by looking at a period a few
+months ago—called a quarter-end—that wasn’t much different from a year-end, at least among
+U.S. financial institutions. Again, at least among U.S. financial institutions in terms of
+disclosure, in terms of balance sheets, in terms of scrutiny, this isn’t an altogether different
+analysis regarding window dressing and cleaning up balance sheets. I buy the argument that in
+Europe the year-end funding pressures could be more significant because of the differences in
+
+December 6, 2007
+
+39 of 51
+
+disclosure and scrutiny around those two periods. So the idea that somehow we could hold back
+on this again and think these problems will largely solve themselves is not a great bet.
+In terms of the blurry line between our liquidity-provisioning roles and our creditprovisioning roles, I’ll admit that it is a hard distinction to maintain. When I look at financial
+institutions, particularly large ones, in the post-Gramm-Leach-Bliley era, when they have
+increasingly converged whether they be commercial banks or investment banks, and I think
+about those that are in the best shape in terms of capital, credit, and reputation, I’m not
+comforted, because they are having very much the same sorts of liquidity pressures. I won’t say
+that this is a liquidity problem and not a credit problem, but as I look at institutions with very
+different credit postures, these liquidity issues, these term funding issues, seem to be nonetheless
+apparent.
+In terms of the policy response we’re contemplating today, I obviously support both
+initiatives and think it’s pretty important that we see if we should be, in fact, bypassing some of
+these large institutions to try to get liquidity in the hands of a larger universe of depository
+institutions and replace less-liquid assets, as the Chairman mentioned, with more-liquid assets.
+As I think about this alternative versus the discount window, I must tell you that I am not at all
+convinced that the discount window stigma could be removed—for reasons of history, which Bill
+Dudley mentioned, and for reasons that the state of these financial institutions now versus when
+we last practiced our discount window operations are materially different. I think the overall
+environment on stigma and solvency and questions about the financial wherewithal of some
+large commercial banks are now more apparent in the markets, making them less likely to want
+to go to the window, even if the spread were narrowed considerably, even to 15 or to 10 basis
+
+December 6, 2007
+
+40 of 51
+
+points. So I don’t think that’s a very attractive option among the others that have been
+mentioned.
+Let me highlight two more points. One thing that gives me some sense that a TAF might
+work is the auction dynamic. Auctions work across securities markets. They work in selling
+companies. They work in selling broad corporate debt issuance, and the dynamic of auctions and
+the competitive dynamic therein strike me as likely to be quite useful. I would expect there to be
+considerable bids if all goes well operationally, maybe 5 basis points above what we’ve said is
+the reserve price, and so the hope is that this will be, in fact, a crowded auction. As the Vice
+Chairman said, I don’t think that there are any guarantees. We have plenty of things to worry
+about. My own view is that this is not a rapid response from us in times of particular crisis. An
+idea like this has been bubbling among all of us on this videoconference call for many months in
+different versions, and I think if there were a time to use it, it’s precisely where we are. On the
+question of the swap, I think it does add. It adds something to the momentum in these markets,
+to the idea of concerted action, which is both art and science as we see that these markets have
+been more prone to sentiment than to data in recent months. So with all of that, Mr. Chairman, I
+support the move.
+CHAIRMAN BERNANKE. Thank you. Governor Kroszner.
+MR. KROSZNER. Thank you very much. I, too, support the swap and the TAF.
+Earlier, my position would have been closer to Eric Rosengren’s as I had also supported a
+discount rate cut; but I’ve changed my mind on that for a number of reasons. Many market
+participants have told me that, well, if it’s only just a little bit narrower, given market conditions,
+they would be willing to use it. But I think what we have now seen, as President Lacker and
+others have mentioned, is that these spreads have widened quite significantly, and so it doesn’t
+
+December 6, 2007
+
+41 of 51
+
+seem that cutting 25 basis points is going to avoid the stigma. People would start to come to the
+window now if it were only a 25 basis point opportunity cost. It has become much higher than
+that, and so I think that’s not going to really work. If we cut it to zero, then I think the
+operational concerns, the lack of predictability, and the difficulties that we would create for the
+New York Desk just make that option not effective. So that’s why I think the TAF is beneficial
+and does have some chance to overcome some of the stigma issues.
+Actually, I think very much along the lines of and very much agree with what the Vice
+Chairman and Bill Dudley said. First, I do think that history does matter a bit here. So because
+it is a new facility without the same baggage of the discount window, it has a chance, by no
+means a certainty but a chance, to overcome that stigma. As the Vice Chairman emphasized,
+greater anonymity is another thing; many market participants have told me that this is a problem
+with the current discount window. I think there would be greater anonymity here, and so a
+combination of its being a new facility and having less finger-pointing going on would make it
+more possible to overcome the stigma. Also, distinct from this and perhaps even more
+important, it’s really a way to expand our tool set. One thing with which many of us have been
+frustrated is that we have realized that the lender-of-last-resort function has been not functioning
+as well as it could—not just because of stigma but also because of things that are going on in the
+market that are beyond the traditional depository institutions and beyond the traditional securities
+that we typically deal with—and those blunt instruments of discount lending or even term RPs
+are not the most effective tools to get at that. This may be a more effective way to get at that—in
+some sense a more elegant, more refined tool to get at some of the particular liquidity problems
+that we’re seeing.
+
+December 6, 2007
+
+42 of 51
+
+But of course, there are some potential costs. The point that President Stern raised about
+liquidity versus capital really weighed very heavily on me when I was first thinking about this.
+But as I’ve seen the way the markets have developed; and as I have worked very closely with the
+supervision and regulation staff, my concerns are that it’s exactly these liquidity problems that
+will turn into capital insolvency problems. It is precisely because of the strong price pressures
+that we’re seeing that marks are having to be taken, and that’s constraining balance sheets. Also
+real fire sales may occur that might be avoided or at least made a bit more orderly with
+something like the TAF.
+Second, there’s the moral hazard problem that a number of people have mentioned about
+providing funds to the weakest institutions, but that in some sense is what the discount window
+has always done. It lends freely at a penalty rate. Well, who’s going to choose it at a penalty
+rate? Not the institutions that are strong and can go elsewhere. So I’m not quite sure that this
+really has any worse problems of that kind relative to our regular discount window operations. I
+think the term structure change can be helpful in these kinds of market situations. I agree that
+the historical example of Operation Twist suggests that it may not be that effective. These are
+unusual circumstances, and there’s some potential that, in these circumstances of very low
+liquidity in certain markets, it could have some beneficial effect.
+Finally, one of the costs that I was concerned about was a reputational hit. What if we
+hold an auction and no one shows up? Well, I think what the Chairman spoke about—that we
+could simply do term repos if we don’t get many takers at the auction—helps get rid of some of
+that reputational risk. Then if it doesn’t work, we can just sort of move this aside. Also, I think
+it helps to protect a little against, well, we’re doing something now because it’s sort of hairraisingly scary out there and so we have to do something new. It says that it’s part of what we
+
+December 6, 2007
+
+43 of 51
+
+can do with term funding but it’s also something a bit different that gets at some of the particular
+liquidity issues that we have today. So looking at the costs and benefits, I think it’s definitely
+worthwhile to go with the TAF, particularly in the context of improving international
+cooperation. Thanks.
+CHAIRMAN BERNANKE. Thank you. Governor Mishkin.
+MR. MISHKIN. Thank you, Mr. Chairman. I support both measures. The way I think
+about this is that the TAF, particularly, has the advantage of getting funds to the institutions that
+need it most. So it’s not so much that Operation Twist is the issue that’s relevant. The issue here
+is that distribution—where funds go—really does matter. That’s why I think that the discount
+facilities have a special role to play and, in fact, give us more flexibility. The TAF is a finer tool
+to get funds to different parts of the financial sector where they may do the most good.
+Therefore it gives us more options in focusing our overall market operations on monetary policy,
+which is exactly what they should be focused on.
+Clearly there is an issue that we create some moral hazard in terms of liquidity
+management, but I think that the danger here is not that large. I consider the moral hazard
+problem that might be created from people not worrying quite so much about liquidity
+management to be much less severe than the moral hazard in terms of credit risk. Second, a lot
+of the issue of moral hazard occurs when it is idiosyncratic—one institution is doing something,
+and they’re going to get away with it. Well, here clearly we are trying to deal with a systemic
+liquidity problem not with an idiosyncratic liquidity problem. Furthermore, there are protections
+here in terms of the credit risk—we are going to be lending only to institutions that qualify. The
+Reserve Banks, if they’re uncomfortable with having this facility go to a particular institution,
+can pull the plug. I think that’s extremely important. That’s exactly the key issue of the role that
+
+December 6, 2007
+
+44 of 51
+
+we have—we lend, but we know to whom we lend. So the Reserve Banks have an extremely
+important role to play in this regard.
+Obviously, we’re not sure that this is going to work. But in the circumstances, which are
+complicated and difficult, being creative and trying different things—ones that we think have
+very low downside risk but might have some positive benefits—is exactly what we need to do.
+In this context we are flying a little in difficult waters—I mixed the metaphor somehow on that
+one. [Laughter] But the key point is that this does have the backing in terms of thinking about
+how lender-of-last-resort operations can work well. This is not out of line with that. It is, I
+think, a more creative way of solving certain problems, and in my view, it’s definitely something
+that we should try. Thank you very much.
+CHAIRMAN BERNANKE. Thank you. President Poole, did you have another
+comment?
+MR. POOLE. I would like to say that the bottom line for me is that I do not support the
+TAF, and I believe that it is unlikely to be effective for reasons I’ve already mentioned. Just
+suppose it goes in and solves the stigma problem; every dollar we put in will be taken out by the
+Desk. People who know how the system works will understand that that will happen. Second,
+the problem that the banks face is in the hundreds of billions of dollars. We’re talking about tens
+of billions of dollars. It’s going to be inframarginal. We ought not to expect it to show up in the
+funding costs at the margin. Therefore, once we do it and it doesn’t lead to obvious results,
+people will say, “Well, what’s next?” They may also say, “Why is the Fed doing something that
+ought a priori not to be expected to work?” That’s my take on the situation. If it works through
+some sort of improved confidence, I think it will be because of the expectation that we will do
+something else, which presumably will be a further reduction in the federal funds rate. Showing
+
+December 6, 2007
+
+45 of 51
+
+that we’re involved and so forth, that’s the way it might work, but I don’t think the substance of
+it should lead anybody to believe that it will be effective. Thank you.
+CHAIRMAN BERNANKE. Okay. Thank you very much. Well, again, thank you for
+meeting at this irregular time, and thank you for the interesting and useful comments. The
+governance here is that the TAF is established by Regulation A, which is a decision by the
+Board. So I think we might want to review what the language of the regulation is, and if the
+Board is amenable, we will put that to a notation vote tomorrow. The swap, though, is an FOMC
+decision. I promised President Trichet that I would get back to him with information about this.
+If everyone is okay with it, I would like to go ahead and have an FOMC vote on the swap with
+the European Central Bank. If a small one comes from the Swiss National Bank, we could deal
+with that next Tuesday. Debbie, can you read the swap language?
+MS. DANKER. Yes. The resolution for the FOMC would be as follows: “The Federal
+Open Market Committee directs the Federal Reserve Bank of New York to establish and
+maintain a reciprocal currency arrangement (“swap” arrangement) for the System Open Market
+Account with the European Central Bank in an amount not to exceed $20 billion. Within that
+aggregate limit, draws of up to $10 billion are hereby authorized. The swap arrangement shall be
+for a period of up to 180 days, unless extended by the FOMC.”
+Chairman Bernanke
+Vice Chairman Geithner
+President Evans
+President Hoenig
+Governor Kohn
+Governor Kroszner
+Governor Mishkin
+President Poole
+President Rosengren
+Governor Warsh
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+
+December 6, 2007
+
+46 of 51
+
+CHAIRMAN BERNANKE. Okay. Thank you very much. We will see you on Tuesday
+in Washington. Thank you. The meeting is adjourned.
+
+END OF MEETING
+
+
