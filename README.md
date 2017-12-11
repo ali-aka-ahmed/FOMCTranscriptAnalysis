@@ -1,4 +1,6 @@
 # FOMCTranscriptAnalysis
+**Warning**: Cloning this repo will take about 10 minutes. There is 660MB/230 documents/18,800 pages of data under the feddata folder. Hang tight!
+
 Textual analysis of FOMC Transcripts. My research examines the relationship between words said during FOMC meetings, and changes in Federal Funds Rate. You can walk through my data cleaning, processing, and analysis process here. The final paper is linked in the README.
 
 The relevant data is in the feddata/ folder, organized by year. Each year contains three versions of ever transcript organized in the following way:
